@@ -1,0 +1,35 @@
+Descriptive vs Inquisitive vs Predictive Analytics
+
+Descriptive Analytics
+
+Use data aggregation and data mining techniques to provide insight into the past and answer: “What has happened?”
+
+Techniques
+
+Data modeling
+
+Trend Reporting
+
+Regression Analysis
+
+Correlations
+
+Inquisitive Analytics
+
+Why did something happen at a certain moment in the past? To study data to validate/reject business hypotheses. This includes
+
+Analytical drill-downs into data
+
+Statistical analysis
+
+Factor analysis
+
+Predictive Analytics
+
+Use statistical models and forecast techniques to understand the future and answer: “What could happen?”
+
+Data modeling
+
+Forecasting
+
+Predictive Modeling

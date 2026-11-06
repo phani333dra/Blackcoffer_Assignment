@@ -1,0 +1,71 @@
+Driving Insights from the Largest Community for Investors and Traders
+
+Client Background
+
+Client: A leading research institution worldwide
+
+Industry Type: Academia
+
+Services: Research & Development, Higher Study, Academia
+
+Organization Size: 10,000+
+
+Customers: World Wide
+
+Challenges for Largest Community for Investors and Traders
+
+The client had access to the largest social network for investors and traders. But was struggling with the insights, actionable analysis, and data-driven solutions. Being huge data, huge streaming, and so real-time in nature, it was very difficult to process and build a pipeline for the analysis and interpretations.
+
+The client wanted an automated solution with a data pipeline to enable access to the investors and traders database, with a system in place to allow analysts, and programmers to extract data, analyze, process, transform and build visualizations with insights and interpretations.
+
+It was difficult to handle such huge data. The data was in multi-terabytes, in different formats, unstructured, and complex to hand and process in the cloud. Since the major portion of the data was available in texts, loops, discussions, discussions within discussions, with investors, and trader’s name, it had become a nightmare to transform them into analytics-ready.
+
+It had become a challenge to solve this big data problem with an ETL (extraction, transformation, and load) approach. This was because the designed system was able to extract data and load data, but the difficulties were in the transformation of the dataset. The accessed data was huge and it was difficult to mine into it through generic programming practices.
+
+Solution for Largest Community for Investors and Traders
+
+The client partnered with Blackcoffer in association with investors and traders networking data provider to develop a system in place to extract the data from the server, load the data into the server, transform the data at the server, and process it into the analytics-ready format by transforming the unstructured data to structured data.
+
+Blackcoffer performed extensive research and analyzed the data available datasets to be processed and streamed into the analytics-ready database. The transformation part pushed into the cloud server since it was reliable and the server was capable enough to handle the computing power required.
+
+Blackcoffer developed a system in place that is smart enough to enable the ELT (extract, load, transform) in place of ETL (extract, transform, load). The designed system had a pipeline to extract data from the investors, and traders networking data server. Then the system was in place to load the data into the client-server. After it, the system was enabled to perform the data transformation by meeting all business rules and how the transformed data supposed to be. The transformation steps also involved data transformation from unstructured data to structured data.
+
+With Blackcoffer solution and system in place, the analyst and programmers were able to access, mine, analyze and visualize the data from the analytics-ready database. The analytics-ready database was well maintained at different labels of the investors and trader’s networking information. Especially their discussions, discussion topics, discussion loops, target discussions, and much more. Investors and traders world
+
+Business Impact
+
+The client was able to achieve their business goals and strategy through the designed ELT system in place with the following business impacts and driving forces:
+
+Easy access to stock discussions, prices, and market sentiment with millions of investors and traders
+
+Access and visualization of what actual investors and traders are saying in real-time about the stocks, crypto, futures, and forex you care about for free.
+
+Ideas between investors, traders, and entrepreneurs data consolidated into one system.
+
+Easy access to real-time financial communications platform for the financial and investing community.
+
+Easy to find out what is happening right now in the markets and stocks you care about and is re-imagining financial media for the next generation of investors.
+
+Access to 3 Million+ registered members
+
+Access to 5 Million+ monthly messages
+
+Access to 3 Million+ monthly audience
+
+Easy access to multi-terabyte data Investors and traders world
+
+Technology Stack
+
+Python
+
+Google Cloud Platform
+
+API
+
+ETL
+
+ELT
+
+Google BigQuery
+
+Google Big Data Storage

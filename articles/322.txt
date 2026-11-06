@@ -1,0 +1,47 @@
+Big Data Platform and Data Lake Tool
+
+Client Background
+
+Client: A leading research lab in the USA
+
+Industry Type: Research, Retail
+
+Services: Decision support to businesses, retail owners, micro-businesses, retail businesses, and merchants
+
+Organization Size: 1000+
+
+Challenges for Big Data Platform and Data Lake Tool
+
+The client had over multi terabytes of data that was difficult to manage, process, migrate, and analysis. The existing system and the server were slow and difficult to handle such large and complex datasets. It was difficult to perform the basic analysis and the advanced analytics was far away to handle in the existing and legacy-based storage and tools. The client needed a scalable, real-time, and fast big data solution that can handle such a huge dataset with multiple concurrent uses.
+
+Solution
+
+Blackcoffer studied the complexity of the existing dataset and designed a big data tool at the google compute engine to help with the multiple uses at the same time. The data tool was designed to handle multi-tera-byte date set with large in volumes and complexity. The tool was real-time that has solved several data access, query, and analysis-related problems.
+
+Blackcoffer extracted data from the existing multiple sources, loaded it into the google cloud platforms, then the data was transformed and made analytics-ready.
+
+Blackcoffer set up the big query tool to manage and analyze the big and complex data in real time with no wait time. The designed platform was made available to multiple users at the same time.
+
+Business Impact of Big Data Platform and Data Lake Tool
+
+Blackcoffer had delivered the following business impacts:
+
+The data tool was efficient enough to meet the client needs
+
+The data tool is 100% up-time
+
+The data tool has helped 1000+ users internally so far
+
+The data tool has is capable to handle, process, manage and analyze multi-tera-bytes data
+
+The data tool has been saving over 70% of the time of each individual users than they used to spend in the old legacy based tools
+
+Technology Stack
+
+Python
+
+Big Query
+
+GCE
+
+Google compute storage

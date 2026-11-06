@@ -1,0 +1,457 @@
+Complete List of Film & Television AI Tools & AI Software
+
+1. AI Scriptwriting & Pre-Production
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI generates scripts, dialogue, and story ideas.
+
+https://chatgpt.com
+
+Claude
+
+AI assists with screenplay writing and editing.
+
+https://claude.ai
+
+Google Gemini
+
+AI supports script development and research.
+
+https://gemini.google.com
+
+Sudowrite
+
+AI creative writing tool for scripts and storytelling.
+
+https://www.sudowrite.com
+
+NolanAI
+
+AI-powered screenplay writing software.
+
+https://www.nolanai.app
+
+Final Draft AI
+
+AI-assisted professional screenwriting.
+
+https://www.finaldraft.com
+
+2. AI Video Generation & Editing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Runway
+
+AI-powered video generation and editing.
+
+https://runwayml.com
+
+Pika
+
+AI creates videos from text prompts.
+
+https://pika.art
+
+Synthesia
+
+AI produces presenter-led videos with avatars.
+
+https://www.synthesia.io
+
+InVideo AI
+
+AI converts scripts into professional videos.
+
+https://invideo.io
+
+VEED AI
+
+AI-powered online video editing suite.
+
+https://www.veed.io
+
+Adobe Premiere Pro (Firefly AI)
+
+AI-assisted professional video editing.
+
+https://www.adobe.com
+
+3. AI Visual Effects (VFX) & CGI
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Wonder Studio
+
+AI automatically animates CGI characters.
+
+https://wonderdynamics.com
+
+Autodesk Maya AI
+
+AI-assisted 3D animation and VFX creation.
+
+https://www.autodesk.com
+
+Blender AI Add-ons
+
+AI enhances 3D animation workflows.
+
+https://www.blender.org
+
+DeepMotion
+
+AI motion capture and character animation.
+
+https://www.deepmotion.com
+
+Rokoko Vision
+
+AI markerless motion capture solution.
+
+https://www.rokoko.com
+
+Cascadeur
+
+AI-powered character animation software.
+
+https://cascadeur.com
+
+4. AI Image Generation & Storyboarding
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Midjourney
+
+AI creates cinematic concept art.
+
+https://www.midjourney.com
+
+Adobe Firefly
+
+AI generates production visuals and artwork.
+
+https://firefly.adobe.com
+
+DALL·E
+
+AI creates images from text prompts.
+
+https://chatgpt.com
+
+Stable Diffusion
+
+Open-source AI image generation model.
+
+https://stability.ai
+
+Leonardo AI
+
+AI generates storyboards and production designs.
+
+https://leonardo.ai
+
+Canva Magic Studio
+
+AI designs posters and promotional materials.
+
+https://www.canva.com
+
+5. AI Voice, Dubbing & Audio Production
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ElevenLabs
+
+AI voice generation and multilingual dubbing.
+
+https://elevenlabs.io
+
+Murf AI
+
+AI voiceovers for films and documentaries.
+
+https://murf.ai
+
+Resemble AI
+
+AI creates custom synthetic voices.
+
+https://www.resemble.ai
+
+Speechify Studio
+
+AI narration and voice production.
+
+https://speechify.com
+
+Descript
+
+AI audio editing and voice cloning.
+
+https://www.descript.com
+
+Adobe Podcast AI
+
+AI enhances dialogue and audio quality.
+
+https://podcast.adobe.com
+
+6. AI Music Composition & Sound Design
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Suno AI
+
+AI creates original film music.
+
+https://suno.com
+
+Udio
+
+AI generates cinematic songs and soundtracks.
+
+https://www.udio.com
+
+AIVA
+
+AI composes orchestral film scores.
+
+https://www.aiva.ai
+
+Mubert
+
+AI generates royalty-free background music.
+
+https://mubert.com
+
+Soundraw
+
+AI creates customizable production music.
+
+https://soundraw.io
+
+Boomy
+
+AI generates original music tracks.
+
+https://boomy.com
+
+7. AI Post-Production & Editing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+DaVinci Resolve Neural Engine
+
+AI-powered color grading and editing.
+
+https://www.blackmagicdesign.com
+
+Adobe After Effects AI
+
+AI enhances visual effects and motion graphics.
+
+https://www.adobe.com
+
+Topaz Video AI
+
+AI upscales and restores video quality.
+
+https://www.topazlabs.com
+
+Pixop
+
+AI cloud-based video enhancement.
+
+https://www.pixop.com
+
+Wisecut
+
+AI automatically edits long videos.
+
+https://www.wisecut.video
+
+Kapwing AI
+
+AI video editing and subtitle generation.
+
+https://www.kapwing.com
+
+8. AI Content Management & Distribution
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Adobe Experience Manager Assets
+
+AI-powered digital asset management.
+
+https://business.adobe.com
+
+Bynder
+
+AI organizes media production assets.
+
+https://www.bynder.com
+
+Cloudinary AI
+
+AI optimizes video and image delivery.
+
+https://cloudinary.com
+
+Frame.io
+
+AI-assisted collaborative video review.
+
+https://frame.io
+
+Vimeo AI
+
+AI-powered video hosting and editing.
+
+https://vimeo.com
+
+MediaValet
+
+AI digital media asset management.
+
+https://www.mediavalet.com
+
+9. AI Audience Analytics & Marketing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered audience analytics dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven viewer analytics.
+
+https://www.tableau.com
+
+Google Analytics 4
+
+AI analyzes audience behavior and engagement.
+
+https://analytics.google.com
+
+Hootsuite OwlyWriter AI
+
+AI creates social media campaigns.
+
+https://www.hootsuite.com
+
+Buffer AI Assistant
+
+AI generates promotional content.
+
+https://buffer.com
+
+Sprout Social AI
+
+AI manages audience engagement.
+
+https://sproutsocial.com
+
+10. AI Machine Learning & Creative Development
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source AI framework for media applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning framework for film AI projects.
+
+https://pytorch.org
+
+Hugging Face
+
+AI models for NLP, vision, and multimedia.
+
+https://huggingface.co
+
+LangChain
+
+Framework for AI-powered creative applications.
+
+https://www.langchain.com
+
+LlamaIndex
+
+Framework for Retrieval-Augmented Generation (RAG).
+
+https://www.llamaindex.ai
+
+MLflow
+
+AI model lifecycle management.
+
+https://mlflow.org
+
+Weights & Biases
+
+AI experiment tracking and collaboration.
+
+https://wandb.ai
+
+Dataiku
+
+Enterprise AI platform for media production analytics.
+
+https://www.dataiku.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,37 @@
+Do Ethnic differences possibly influence the risk of Multiple Sclerosis development in the Young?
+
+Multiple sclerosis (MS) is a potentially disabling disease of the brain and spinal cord (central nervous system).
+
+In MS , the immune system attacks the protective sheath (myelin) that covers nerve fibers and causes communication problems between your brain and the rest of your body. Eventually, the disease can cause the nerves themselves to deteriorate or become permanently damaged.
+
+Signs and symptoms of MS vary widely and depend on the amount of nerve damage and which nerves are affected. Some people with severe MS may lose the ability to walk independently or at all, while others may experience long periods of remission without any new symptoms.
+
+Objective:
+
+Does ethnicity play a role in the incidence and prevalence of MS if vascular risk factors are similar?
+
+Hypothesis:
+
+Even if vascular risk factors are similar, ethnicity alone does influence the incidence of MS.
+
+Design and Procedure:
+
+Data were collected between 1990-2017 from databases (NIH, Truven, etc.).
+
+Caucasian and non-Caucasian (African-Americans, Hispanics) individuals who were diagnosed with MS and were between the ages of 15-45 were included in this analysis.
+
+Patients who had MS also had to have the following vascular risk factors, Hypertension, Hypercholesterolemia, Diabetes, BMI > 30, Heart disease and Smoking.
+
+Incidence rates between the two cohorts were calculated using Poisson regression.
+
+Data were also collected to reflect any influence of gender.
+
+Findings:
+
+Result:
+
+Multiple sclerosis (MS) is thought to be a predominantly autoimmune disease. Several studies have reported increased cardiovascular morbidity in MS patients and that vascular comorbidity at any time during the disease course could increase the risk of progressive disability. It has been established that African-Americans have a higher risk of MS across but
+
+What remains unclear is if ethnicity is the sole risk factor that drives MS risk in the young.
+
+No study has sought to understand the role of ethnicity in the genesis of MS if the effect of vascular risk factors is nullified.

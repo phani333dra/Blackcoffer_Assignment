@@ -1,0 +1,517 @@
+Complete List of Pharmaceuticals & Biotechnology AI Tools & AI Software
+
+1. AI Drug Discovery & Molecular Design
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Insilico Medicine
+
+AI accelerates drug discovery and target identification.
+
+https://insilico.com
+
+BenevolentAI
+
+AI discovers novel drug candidates.
+
+https://www.benevolent.com
+
+Schrödinger
+
+AI-powered molecular modeling and drug design.
+
+https://www.schrodinger.com
+
+Atomwise
+
+AI predicts drug-target interactions.
+
+https://www.atomwise.com
+
+Exscientia
+
+AI designs precision medicines.
+
+https://www.exscientia.ai
+
+Recursion
+
+AI-powered drug discovery using biological data.
+
+https://www.recursion.com
+
+Generate:Biomedicines
+
+AI creates novel therapeutic proteins.
+
+https://generatebiomedicines.com
+
+XtalPi
+
+AI platform for molecular discovery and development.
+
+https://www.xtalpi.com
+
+2. AI Protein Engineering & Biotechnology
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+DeepMind AlphaFold
+
+AI predicts protein structures with high accuracy.
+
+https://deepmind.google/technologies/alphafold
+
+ESMFold
+
+AI predicts protein structures from amino acid sequences.
+
+https://ai.meta.com
+
+Profluent
+
+AI designs novel proteins and antibodies.
+
+https://www.profluent.bio
+
+Cradle
+
+AI optimizes protein engineering and enzyme design.
+
+https://www.cradle.bio
+
+Basecamp Research
+
+AI discovers biological data for biotechnology.
+
+https://www.basecamp-research.com
+
+Absci AI
+
+AI accelerates biologics and antibody discovery.
+
+https://www.absci.com
+
+3. AI Clinical Trials & Research
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IQVIA Connected Intelligence
+
+AI optimizes clinical trial design and execution.
+
+https://www.iqvia.com
+
+Medidata AI
+
+AI improves clinical trial management.
+
+https://www.medidata.com
+
+Saama AI
+
+AI automates clinical trial analytics.
+
+https://www.saama.com
+
+TriNetX
+
+AI-powered clinical research platform.
+
+https://www.trinetx.com
+
+Deep 6 AI
+
+AI matches patients to clinical trials.
+
+https://deep6.ai
+
+Tempus
+
+AI platform for precision medicine research.
+
+https://www.tempus.com
+
+4. AI Laboratory Management & Research
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Benchling
+
+AI-powered laboratory information management.
+
+https://www.benchling.com
+
+Dotmatics
+
+AI supports scientific research workflows.
+
+https://www.dotmatics.com
+
+Labguru
+
+AI-enabled electronic lab notebook.
+
+https://www.labguru.com
+
+SciNote
+
+AI-powered laboratory management software.
+
+https://www.scinote.net
+
+LabVantage
+
+AI-based laboratory information management system (LIMS).
+
+https://www.labvantage.com
+
+STARLIMS
+
+AI-enabled laboratory data management.
+
+https://www.starlims.com
+
+5. AI Pharmaceutical Manufacturing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter
+
+AI-powered pharmaceutical manufacturing execution system.
+
+https://www.siemens.com/opcenter
+
+ABB Ability
+
+AI automates pharmaceutical production.
+
+https://new.abb.com/ability
+
+Emerson DeltaV
+
+AI manages pharmaceutical batch processing.
+
+https://www.emerson.com
+
+Honeywell Forge
+
+AI improves pharmaceutical manufacturing efficiency.
+
+https://www.honeywell.com
+
+Rockwell FactoryTalk
+
+AI automates production monitoring.
+
+https://www.rockwellautomation.com
+
+Schneider Electric EcoStruxure
+
+AI optimizes pharmaceutical manufacturing operations.
+
+https://www.se.com
+
+6. AI Quality Control & Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cognex VisionPro
+
+AI-powered pharmaceutical quality inspection.
+
+https://www.cognex.com
+
+LandingLens
+
+AI visual inspection for pharmaceutical manufacturing.
+
+https://landing.ai
+
+MVTec HALCON
+
+AI image processing for defect detection.
+
+https://www.mvtec.com
+
+Sparta TrackWise Digital
+
+AI-powered pharmaceutical quality management.
+
+https://www.spartasystems.com
+
+MasterControl
+
+AI automates quality and compliance processes.
+
+https://www.mastercontrol.com
+
+Veeva QualityOne
+
+AI supports pharmaceutical quality management.
+
+https://www.veeva.com
+
+7. AI Predictive Maintenance & Asset Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts equipment maintenance needs.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance platform.
+
+https://senseye.io
+
+Aspen Mtell
+
+AI forecasts pharmaceutical equipment failures.
+
+https://www.aspentech.com
+
+AVEVA Predictive Analytics
+
+AI monitors production equipment performance.
+
+https://www.aveva.com
+
+GE Vernova APM
+
+AI optimizes pharmaceutical asset management.
+
+https://www.gevernova.com
+
+SparkCognition
+
+AI detects industrial equipment anomalies.
+
+https://sparkcognition.com
+
+8. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered pharmaceutical dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven pharmaceutical analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered biotech data analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven pharmaceutical insights.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive pharmaceutical analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for pharmaceutical data analysis.
+
+https://www.knime.com
+
+SAS Viya
+
+AI-powered life sciences analytics.
+
+https://www.sas.com
+
+Alteryx AI Platform
+
+AI automates pharmaceutical analytics workflows.
+
+https://www.alteryx.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for pharmaceutical research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for scientific reports and regulatory writing.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for biotechnology research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports and presentations.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered pharmaceutical research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing scientific documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review for biomedical research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains pharmaceutical research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers relevant scientific publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for pharmaceutical AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for biotechnology applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for biomedical analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for pharmaceutical forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for life sciences.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for pharmaceutical model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for biotechnology analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for pharmaceutical datasets.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for life sciences.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for pharmaceutical AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,553 @@
+Complete List of Internet of Things (IoT) Engineering AI Tools & AI Software
+
+1. AI IoT Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+AWS IoT Core
+
+AI-enabled cloud platform for connecting and managing IoT devices.
+
+https://aws.amazon.com/iot-core
+
+Microsoft Azure IoT
+
+AI-powered IoT platform for device management and analytics.
+
+https://azure.microsoft.com/products/iot
+
+Google Cloud IoT
+
+AI platform for IoT data processing and intelligent automation.
+
+https://cloud.google.com/solutions/iot
+
+IBM Watson IoT Platform
+
+AI-powered IoT platform for industrial monitoring and analytics.
+
+https://www.ibm.com/products/maximo/iot
+
+Oracle IoT Cloud
+
+AI-driven IoT application development and device management.
+
+https://www.oracle.com/internet-of-things
+
+Siemens Insights Hub
+
+AI-powered industrial IoT platform for smart manufacturing.
+
+https://siemens.com/insights-hub
+
+Bosch IoT Suite
+
+AI platform for IoT connectivity and digital transformation.
+
+https://bosch-iot-suite.com
+
+Cisco IoT Operations Dashboard
+
+AI-powered monitoring and management of IoT deployments.
+
+https://www.cisco.com
+
+PTC ThingWorx
+
+AI-enabled Industrial IoT application development platform.
+
+https://www.ptc.com/en/products/thingworx
+
+Hitachi Lumada
+
+AI-powered IoT platform for industrial data analytics.
+
+https://www.hitachivantara.com
+
+2. AI Edge Computing Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Jetson AI
+
+Edge AI platform for robotics, vision, and IoT applications.
+
+https://developer.nvidia.com/embedded-computing
+
+NVIDIA Metropolis
+
+AI framework for smart cameras and edge analytics.
+
+https://developer.nvidia.com/metropolis
+
+Azure IoT Edge
+
+Deploys AI models directly on edge devices.
+
+https://azure.microsoft.com/products/iot-edge
+
+AWS IoT Greengrass
+
+Runs AI inference and IoT applications on edge devices.
+
+https://aws.amazon.com/greengrass
+
+Google Coral AI
+
+Edge TPU platform for fast AI inference on IoT devices.
+
+https://coral.ai
+
+Edge Impulse
+
+AI platform for developing TinyML and edge AI applications.
+
+https://edgeimpulse.com
+
+Intel OpenVINO
+
+Optimizes AI models for edge computing devices.
+
+https://www.intel.com/openvino
+
+Qualcomm AI Hub
+
+AI platform for deploying models on edge devices.
+
+https://aihub.qualcomm.com
+
+3. AI Computer Vision for IoT
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Roboflow
+
+AI platform for training computer vision models for IoT.
+
+https://roboflow.com
+
+Ultralytics YOLO
+
+Real-time object detection for smart IoT applications.
+
+https://ultralytics.com
+
+OpenCV AI
+
+Open-source computer vision library with AI capabilities.
+
+https://opencv.org
+
+MVTec HALCON
+
+Industrial AI vision software for IoT automation.
+
+https://www.mvtec.com
+
+Cognex VisionPro
+
+AI-powered industrial machine vision platform.
+
+https://www.cognex.com
+
+LandingLens
+
+No-code AI vision platform for industrial IoT.
+
+https://landing.ai
+
+Google Vision AI
+
+Cloud-based AI image recognition service.
+
+https://cloud.google.com/vision
+
+Azure AI Vision
+
+AI image analysis for IoT applications.
+
+https://azure.microsoft.com/products/ai-services/ai-vision
+
+4. AI Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Senseye
+
+AI predicts equipment failures before breakdowns.
+
+https://senseye.io
+
+IBM Maximo Application Suite
+
+AI-powered predictive maintenance platform.
+
+https://www.ibm.com/products/maximo
+
+AVEVA Predictive Analytics
+
+AI detects equipment anomalies in IoT environments.
+
+https://www.aveva.com
+
+GE Digital APM
+
+AI software for industrial asset performance management.
+
+https://www.gevernova.com/software
+
+Aspen Mtell
+
+Machine learning platform for predictive maintenance.
+
+https://www.aspentech.com
+
+ABB Ability
+
+AI platform for industrial equipment monitoring.
+
+https://global.abb/ability
+
+Uptake
+
+AI-powered predictive maintenance for connected assets.
+
+https://www.uptake.com
+
+SparkCognition
+
+AI platform for asset reliability and maintenance.
+
+https://sparkcognition.com
+
+5. AI Digital Twin Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Omniverse
+
+AI-powered digital twin platform for industrial IoT.
+
+https://www.nvidia.com/omniverse
+
+Azure Digital Twins
+
+Creates AI-enabled digital twins of physical environments.
+
+https://azure.microsoft.com/products/digital-twins
+
+AWS IoT TwinMaker
+
+Builds digital twins using IoT data and AI.
+
+https://aws.amazon.com/iot-twinmaker
+
+Siemens Digital Twin
+
+AI platform for simulating connected industrial systems.
+
+https://www.siemens.com
+
+Bentley iTwin
+
+Digital twin platform for infrastructure and IoT.
+
+https://www.bentley.com/software/itwin
+
+Dassault 3DEXPERIENCE
+
+AI-enabled digital twin platform for engineering.
+
+https://www.3ds.com
+
+6. AI Industrial Automation & Robotics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABB Robotics AI
+
+AI-powered industrial robots for smart factories.
+
+https://new.abb.com/products/robotics
+
+FANUC FIELD AI
+
+AI platform for industrial robot intelligence.
+
+https://www.fanucamerica.com
+
+KUKA iiQKA AI
+
+AI-enabled robotic automation platform.
+
+https://www.kuka.com
+
+Universal Robots AI
+
+Collaborative robots with AI-powered automation.
+
+https://www.universal-robots.com
+
+Omron Robotics
+
+AI solutions for industrial automation and IoT.
+
+https://automation.omron.com
+
+Yaskawa Motoman
+
+AI-enabled robotic systems for manufacturing.
+
+https://www.motoman.com
+
+7. AI IoT Analytics & Monitoring
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Databricks AI
+
+AI platform for analyzing IoT big data.
+
+https://www.databricks.com
+
+Snowflake Cortex AI
+
+AI-powered analytics for IoT datasets.
+
+https://www.snowflake.com
+
+Palantir Foundry
+
+AI platform for industrial IoT data integration.
+
+https://www.palantir.com/platforms/foundry
+
+Splunk AI
+
+AI-driven monitoring and analytics for connected systems.
+
+https://www.splunk.com
+
+Elastic AI
+
+AI-powered observability and IoT analytics platform.
+
+https://www.elastic.co
+
+Grafana AI
+
+AI-assisted monitoring dashboards for IoT infrastructure.
+
+https://grafana.com
+
+8. AI TinyML & Embedded AI
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow Lite
+
+Runs AI models efficiently on IoT and embedded devices.
+
+https://www.tensorflow.org/lite
+
+TinyML Foundation
+
+AI resources and ecosystem for embedded machine learning.
+
+https://tinyml.org
+
+Edge Impulse
+
+Develops TinyML applications for microcontrollers.
+
+https://edgeimpulse.com
+
+STM32Cube.AI
+
+Converts AI models for STM32 microcontrollers.
+
+https://www.st.com
+
+Arduino AI
+
+AI tools for Arduino-based IoT projects.
+
+https://www.arduino.cc
+
+MicroAI
+
+AI platform for ultra-low-power embedded devices.
+
+https://micro.ai
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for IoT research, coding, and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and IoT development.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for IoT engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for coding, reports, and IoT solutions.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered search engine for IoT research.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing IoT research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for engineering research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding scientific publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering IoT research papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Development Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for IoT AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for IoT and embedded AI.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for IoT analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for IoT solutions.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for predictive IoT analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+Visual AI workflow platform for IoT data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered analytics platform for IoT datasets.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for IoT model development.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+Cloud AI platform for building IoT AI models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for training and deploying IoT AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

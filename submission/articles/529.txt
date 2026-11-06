@@ -1,0 +1,51 @@
+Deploy MERN to google app engine, google cloud platform
+
+Client Background
+
+Client: A social network tech firm worldwide
+
+Industry Type: IT
+
+Services: B2C
+
+Organization Size: 100+
+
+Project Description
+
+The objective of this project is to Deploy MERN, react applications to google app engine, google cloud platform, to domain or test url:
+
+Design and Development
+
+Front-end development,
+
+Back-end development
+
+Web services
+
+Deployment
+
+Full Stack Development Deliverables
+
+API Database Architecture Database Design Web Design Web Application Website Development API Integration Database Development eCommerce Website UX/UI
+
+Full Stack Development Skills
+
+Google Analytics React Node.js Express Spring Data MongoDB
+
+Full Stack Development Languages
+
+JavaScript HTML5
+
+Databases
+
+MongoDB Neo4j
+
+Web Servers
+
+Apache HTTP Server
+
+Business Size Experience
+
+Small (10-99 employees)
+
+Project Snapshot

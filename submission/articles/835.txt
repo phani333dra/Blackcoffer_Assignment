@@ -1,0 +1,47 @@
+Pharmaceutical Data Power BI Report
+
+Project Description for pharmaceutical data power bi report
+
+The client wanted to process the pharmaceutical data and need a BI report in Power BI for their management decisions.
+
+Designed and developed the following BI Reports :
+
+Store overview
+
+Profit Log report
+
+Prescriber and Pharmacy report
+
+Drug details, and depth details by pharmacy
+
+Forecast report
+
+Influencers of net profit
+
+Influencers of total
+
+Patients and drugs report
+
+Developed data pipeline to load data from the data source to the POWER BI so that the reports can be automatically updated and graphs populated whenever there is a change in the data at the data center.
+
+Data Visualization Deliverables
+
+Presentation
+
+Map
+
+Dashboard
+
+API Integration
+
+Data Visualization Tools
+
+Microsoft Power BI
+
+Data Visualization Languages
+
+Python
+
+Project Website
+
+https://app.powerbi.com/groups/me/reports/d5aab9e4-60db-435b-a380-d6ee394690b3/ReportSection2d4e87e01aa50470b734

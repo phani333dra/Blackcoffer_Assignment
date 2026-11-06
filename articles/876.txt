@@ -1,0 +1,99 @@
+Resume Matching & Skill Ranking for a Leading IT Firm in the USA
+
+Client Background
+
+Client: A leading IT firm in the USA
+
+Industry Type: IT
+
+Services: It Services
+
+Organization Size: 100+
+
+Objective For Resume Matching & Skill Ranking
+
+The objective of the project is to create a system that will score resumes against jobs based on the skills, resume and job title, and location.
+
+Project Description
+
+In this project, we have created a python script that will extract the resumes and jobs from the specified database and then scores each resume against each job based on the skills, title, and location of both resumes and jobs, and then these scores are updated into the database. First, we have calculated scores of skills, title, and location separately in the range of 0-100 and the calculated overall score combining those three scores in the range of 0-10 based on some predefined conditions and we have given the highest priority to the title then skills and at last location.
+
+Our Solution for Resume Matching & Skill Ranking
+
+For Skills Score:
+
+For calculating the skill score, we preprocessed the resume details and job descriptions and extracted skills from both. After extracting skills we have calculated the percentage of skills matched in the resume with the job and then extracted the best skills in the resume to find the skill in which the resume is proficient and find the similarity with job title and calculated similarity score. Calculated skill score by averaging both percentage of skills matched and proficient skill similarity score.
+
+For Title Score:
+
+For calculating the title score we have used the word2vec model. First, we have trained a word2vec model on the whole corpus of resumes and jobs. Using this trained model calculated the similarity score between the job title and resume title and multiplied it by 100 to get the title score in the range of 0-100.
+
+For Location Score:
+
+Find the latitude and longitude of locations both in and used these to calculate the distance between job location and resume location. Scaling the distance between the range 0-100 after grouping them based on the country after that to calculate the location score subtracted the scaled distance so that lower the distance between locations higher the location score. Location score will be assigned as -1 If job location and resume location are in different countries.
+
+Overall Score:
+
+We have calculated the overall score using skill, title, and location score in the range of 0-10 according to the following formula:
+
+For skill:
+
+If skill_score is less than 25 then final_skill_score = 0
+
+If skill_score is between 25 and 50 then final_skill_score = 1
+
+If skill_score is between 50 and 75 then final_skill_score = 2
+
+If skill_score is greater than 75 then final_skill_score = 3
+
+For title:
+
+If title_score is less than 50 then final_title_score = 0
+
+If title_score is between 50 and 75 then final_title_score = 1
+
+If title_score is greater than 75 then final_title_score = 2
+
+For location:
+
+If location_score is less than 50 then final_ location_score = 0
+
+If location_score is between 50 and 75 then final_ location_score = 3
+
+If location_score is greater than 75 then final_ location_score = 4
+
+Overall Score = final_skill_score + final_title_score + final_ location_score
+
+Project Deliverables for Resume Matching & Skill Ranking
+
+Python Script: Created a python tool that extracts the new resumes and jobs from the database and calculates the scores and populates these scores into the database.
+
+word2vec trained model: it is used to calculate the similarity between the title of resume and job.
+
+Tools Used
+
+NumPy
+
+pandas
+
+by MySQL
+
+scikit-learn
+
+NLTK
+
+BeautifulSoup
+
+genism
+
+geopy
+
+joblib
+
+Language
+
+Python 3.6
+
+Model Used
+
+Word2vec

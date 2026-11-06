@@ -1,0 +1,535 @@
+Complete List of Electronics & Semiconductors AI Tools & AI Software
+
+1. AI Electronic Design Automation (EDA)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Synopsys.ai
+
+AI-powered chip design optimization and EDA automation.
+
+https://www.synopsys.com
+
+Cadence Cerebrus
+
+AI automates digital chip implementation and optimization.
+
+https://www.cadence.com
+
+Siemens EDA
+
+AI-assisted PCB, IC, and semiconductor design platform.
+
+https://eda.sw.siemens.com
+
+Ansys RedHawk-SC AI
+
+AI-powered chip power integrity and reliability analysis.
+
+https://www.ansys.com
+
+Keysight PathWave
+
+AI software for electronic design and circuit simulation.
+
+https://www.keysight.com
+
+Altium Designer
+
+AI-assisted PCB design and layout software.
+
+https://www.altium.com
+
+Autodesk Fusion Electronics
+
+AI-powered PCB and electronics design platform.
+
+https://www.autodesk.com/products/fusion-360
+
+Zuken CR-8000
+
+AI-enhanced PCB and electronic system design software.
+
+https://www.zuken.com
+
+EasyEDA AI
+
+Cloud-based PCB design with AI-assisted workflows.
+
+https://easyeda.com
+
+KiCad AI Plugins
+
+AI-assisted open-source PCB design tools.
+
+https://www.kicad.org
+
+2. AI Chip Design & Verification
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Synopsys DSO.ai
+
+AI optimizes semiconductor chip performance and power.
+
+https://www.synopsys.com
+
+Cadence Verisium AI
+
+AI accelerates chip verification and debugging.
+
+https://www.cadence.com
+
+Siemens Solido AI
+
+AI improves chip variation analysis and optimization.
+
+https://eda.sw.siemens.com
+
+Synopsys VSO.ai
+
+AI-powered verification optimization platform.
+
+https://www.synopsys.com
+
+Cadence JedAI Platform
+
+AI automates semiconductor design workflows.
+
+https://www.cadence.com
+
+3. AI Semiconductor Manufacturing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Applied Materials AIx
+
+AI optimizes semiconductor fabrication processes.
+
+https://www.appliedmaterials.com
+
+KLA AI Inspection
+
+AI detects wafer defects and improves yield.
+
+https://www.kla.com
+
+Lam Research Semiverse
+
+AI-powered semiconductor process optimization.
+
+https://www.lamresearch.com
+
+ASML HMI AI
+
+AI enhances lithography and wafer inspection.
+
+https://www.asml.com
+
+Tokyo Electron AI Solutions
+
+AI supports semiconductor manufacturing automation.
+
+https://www.tel.com
+
+Advantest ACS Real-Time Data Infrastructure
+
+AI analyzes semiconductor test data.
+
+https://www.advantest.com
+
+Onto Innovation AI
+
+AI platform for process control and yield improvement.
+
+https://www.ontoinnovation.com
+
+4. AI PCB Design & Circuit Simulation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Altium Designer
+
+AI-assisted PCB layout and routing software.
+
+https://www.altium.com
+
+Cadence Allegro X
+
+AI-powered PCB design and signal integrity analysis.
+
+https://www.cadence.com
+
+Autodesk Fusion Electronics
+
+AI software for PCB schematic and layout design.
+
+https://www.autodesk.com
+
+LTspice
+
+AI-assisted analog circuit simulation platform.
+
+https://www.analog.com
+
+NI Multisim
+
+AI-powered circuit design and simulation software.
+
+https://www.ni.com
+
+Proteus Design Suite
+
+AI-supported PCB design and embedded simulation.
+
+https://www.labcenter.com
+
+OrCAD X
+
+AI-enhanced PCB design environment.
+
+https://www.cadence.com
+
+5. AI Computer Vision & Quality Inspection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cognex VisionPro
+
+AI-powered electronics inspection and defect detection.
+
+https://www.cognex.com
+
+LandingLens
+
+AI visual inspection platform for PCB manufacturing.
+
+https://landing.ai
+
+MVTec HALCON
+
+AI machine vision software for semiconductor inspection.
+
+https://www.mvtec.com
+
+Keyence Vision Systems
+
+AI inspection system for electronics manufacturing.
+
+https://www.keyence.com
+
+Instrumental AI
+
+AI-powered electronics quality inspection platform.
+
+https://instrumental.com
+
+Roboflow
+
+AI platform for training electronics vision models.
+
+https://roboflow.com
+
+OpenCV
+
+Computer vision library for electronics AI applications.
+
+https://opencv.org
+
+Ultralytics YOLO
+
+AI object detection for electronics inspection.
+
+https://ultralytics.com
+
+6. AI Smart Manufacturing & Industrial Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter
+
+AI-powered manufacturing execution system (MES).
+
+https://www.siemens.com/opcenter
+
+ABB Ability
+
+AI platform for electronics manufacturing automation.
+
+https://global.abb
+
+Honeywell Forge
+
+AI software for smart factory optimization.
+
+https://www.honeywell.com
+
+Rockwell FactoryTalk
+
+AI production monitoring and analytics platform.
+
+https://www.rockwellautomation.com
+
+SAP Digital Manufacturing
+
+AI-powered factory management software.
+
+https://www.sap.com
+
+AVEVA Insight
+
+AI-driven manufacturing performance analytics.
+
+https://www.aveva.com
+
+C3 AI Manufacturing
+
+AI platform for production optimization.
+
+https://c3.ai
+
+7. AI Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts equipment failures and maintenance needs.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance software.
+
+https://senseye.io
+
+Aspen Mtell
+
+AI platform for predictive equipment maintenance.
+
+https://www.aspentech.com
+
+SparkCognition
+
+AI predicts manufacturing equipment failures.
+
+https://sparkcognition.com
+
+Falkonry
+
+AI software for anomaly detection in industrial assets.
+
+https://falkonry.com
+
+Uptake
+
+AI-powered equipment health monitoring platform.
+
+https://www.uptake.com
+
+8. AI Robotics & Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABB RobotStudio
+
+AI-powered robotic programming and simulation software.
+
+https://new.abb.com/products/robotics/robotstudio
+
+FANUC FIELD System
+
+AI platform for electronics manufacturing robots.
+
+https://www.fanucamerica.com
+
+Universal Robots
+
+AI-assisted collaborative robotics platform.
+
+https://www.universal-robots.com
+
+KUKA iiQKA
+
+AI robot management software for smart factories.
+
+https://www.kuka.com
+
+NVIDIA Isaac
+
+AI robotics development platform.
+
+https://developer.nvidia.com/isaac
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for electronics research, coding, and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and semiconductor research.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for electronics engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered research engine for electronics innovations.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing electronics research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for semiconductor research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding scientific papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering electronics research publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for electronics AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for semiconductor AI and computer vision.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for electronics analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for semiconductor manufacturing analytics.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AI platform for predictive electronics analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+Visual AI workflows for electronics data analysis.
+
+https://www.knime.com
+
+Google Vertex AI
+
+Cloud AI platform for semiconductor machine learning.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for developing electronics AI models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for semiconductor analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for electronics datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

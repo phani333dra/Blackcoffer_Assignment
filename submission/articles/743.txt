@@ -1,0 +1,179 @@
+IoT & AI/ML Solution for Retail Walmart, Big Bazaar, Max, Reliance Fresh
+
+Scope
+
+Identify and visualize trend and pattern
+
+Remote equipment monitoring
+
+Diagnostic troubleshooting
+
+KPI dashboard
+
+Action recommendation
+
+Events and conditions prediction
+
+Rules and alert
+
+Unlocking your predictive maintenance through machine connection (satellite dependent)
+
+Your asset health: vending machines, inventory, truck carrier, building
+
+Your supply chain performance: vm+r+tc+rs
+
+Your asset safety: vm+r+tc+rs
+
+New services around maintenance
+
+Energy efficiency
+
+Dust maintenance
+
+Retail store traffic management
+
+Weather, temperature, pressures-environment satellite data
+
+Moisture, goods level, inventory satellite
+
+Satellite imagery from internet open source
+
+Video streaming real-time from a service station
+
+Identify neglected part (maybe driver)
+
+Assets synchronization -vm+reservoir+tc+rs
+
+Automatic calculation- vehicles of all types, smart cards, the flow rate of goods, traffic volume, others
+
+Traffic volume management
+
+Lights and information signs monitoring
+
+Strategic connection -vm+tc or r+tc
+
+Digital billboard monitoring for strategic improvement
+
+Pricing, events forecasts in billboard
+
+Redesign of retail store for high convenience
+
+Unlocking your operation speed
+
+Hyper digitizing all -no part neglected
+
+The real-time decision by minutes and hour
+
+The hyper environment surrounding awareness
+
+Hyper global/national market awareness
+
+Hyper collaboration with others
+
+Well-integrated assets
+
+Long queue monitor engineering
+
+Safety-related issues in detail
+
+Distance factor calculation
+
+Time factor calculation
+
+Policy guidelines, law awareness
+
+Uncertainty management and tie-up with local partners
+
+Good infrastructure -surface and surrounding
+
+Positive enthusiasm
+
+Efficient supply chain
+
+Design speed
+
+Identify the least favorable part to develop speed
+
+No collision in mind, matter, law
+
+Minimize reaction/decision time
+
+Deliver more services with less time
+
+Unlocking your business transformation
+
+Making your business unique in your area
+
+New business/revenue solution for you
+
+Similar cluster comparison for capacity development
+
+Similar individual retail store comparison
+
+Hyper association with other business partners
+
+Specialty in your area
+
+The gap in your area
+
+The new value to the community
+
+Big experiences
+
+Realigning staff, structure, services portfolio
+
+Shifting consumer base
+
+Business perspective projection
+
+Unlocking your business scale
+
+Present geography area of operation and expansion scope
+
+Present business area and expansion scope
+
+Present sale volume and expansion scope
+
+Present margin and expansion scope
+
+Present commission and expansion scope
+
+Present partnering and expansion scope
+
+Quality services
+
+Association with the right elements and partners
+
+Invisible assets-patent etc
+
+The long term sale contract
+
+Multiple revenue streams
+
+High business margin
+
+Brand development through company connection
+
+Demographic, psychographic, geographic market
+
+Create desirability of goods and services
+
+Create the ability of customers
+
+Create public regard for your business
+
+Our insights
+
+Breakdown of retail store customer-age, education, income, area, college
+
+Retail store brand and experience survey % people
+
+Also, machine connection will give insights to the company about selling on goods in real-time and can do trading
+
+Various score card-narrow focus, a large focus
+
+Iiot application platform scorecard
+
+Etc
+
+GENERAL SPECIFIC

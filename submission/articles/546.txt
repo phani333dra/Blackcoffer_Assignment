@@ -1,0 +1,55 @@
+Digital Strategic Foresight Platform – Smart AI-Driven Dashboard
+
+Client Background
+
+Client: Shaping Tomorrow
+
+Industry Type: Market Research
+
+Services: Horizon Scanning, Strategic Thinking, Action Planning, Networking, and Foresight Management, AI-driven, systems thinking model that delivers strategic foresight and anticipatory thinking in real-time.
+
+Organization Background : Shaping Tomorrow helps 15,000+ people in 6,000+ organizations anticipate and better prepare for emerging global opportunities and risks. Shaping Tomorrow helps people quickly gain strategic insight. They help by forecasting change more accurately yielding better performance through better-informed investment decisions. They do this with enterprise-wide knowledge management to speed up innovation. This also enables them to identify threats in real time leading to much lower risks.
+
+Challenges
+
+The client’s strategic platform was slow and lacking functionality.
+
+The foresight platform had no real-time visuals, dashboard, analysis. Storytelling and useful insights were missing from the strategic platform. Users had to wait to load visuals, no real-time reports, they were unable to download reports, were unable to compare, note, and save. In addition, reporting was manual and in excel spreadsheets.
+
+Solution
+
+Blackcoffer partnered with the client to transform the static strategic foresight platform to a real-time and dynamic platform and support for microservices and applications with data integration, data pipeline, and advanced analytics solutions. A multi-step project was defined that reflected client business priorities.
+
+Blackcoffer delivered real-time and dynamic dashboards, AI-driven solutions, data integration, NLP, predictive analytics applications at the production level and microservices applications while assisting the client through each stage of the project. The scope of the engagement included the following set of activities, which was implemented in 24 months and counting.
+
+A future spline to represents a series of projections, on a shaft that fit into slots on a corresponding shaft. It is a quick way to see where the future is shaping and how it is projected.
+
+The geographies map quickly pinpoints where change is happening between countries and cities.
+
+Graph-it: a new tools to bring data to life, to engage with users, to enable them to slice and dice the data, to view it from various angles and to find stories worth telling: outliers, trends or even the obvious.
+
+A heat map (or heatmap) to represent data where the individual values contained in a matrix are represented as colors. It’s a quick way to see where the highest impacts might be between two variable.
+
+Radar: To represent data into the strongest forces of change; which observations are most similar, i.e., are there clusters of observations, are there outliers?
+
+Sentiment analysis to measure positive and negative language, to evaluate written or spoken language to determine if the expression is favorable, unfavorable, or neutral, and to what degree.
+
+A word cloud to indicate the frequency of the most mentioned words found in your topic search.
+
+Realtime-report, multi-dashboard functionality, allowing users to write notes, save, generate and download the report on the go.
+
+Business Impact
+
+With the adoption of machine learning and AI automated tools, the work pace became more effective and efficient and increasing capabilities of the client in dealing with multiple customers at a given time.
+
+With the increase in efficiency, the Shaping Tomorrow was able to grab more clients and providing the result with 90+% accuracy.
+
+After the integration of Blackcoffer services, Client’s revenue increase was two-fold from the past by generating over USD 2 million.
+
+Helping users to learn and stay more at the new digital strategic foresight platform by 40%.
+
+The new platform is now able to gain more traction and adding new subscribers, doubling every year.
+
+With new microservices, applications, and data integration, the platform is able to generate real-time and dynamic insights by reading 300K+ documents efficiently.
+
+Implemented analytics techniques i.e. NLP, predictive models helping subscribers to drive decisions, make forecast more accurately by 90+%.

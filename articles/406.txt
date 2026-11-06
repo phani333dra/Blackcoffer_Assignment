@@ -1,0 +1,529 @@
+Complete List of Healthcare & Pharmaceuticals AI Tools & AI Software
+
+1. AI Drug Discovery & Pharmaceutical Research
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Insilico Medicine
+
+AI accelerates drug discovery and target identification.
+
+https://insilico.com
+
+BenevolentAI
+
+AI discovers novel drug candidates.
+
+https://www.benevolent.com
+
+Exscientia
+
+AI designs precision medicines using AI.
+
+https://www.exscientia.ai
+
+Atomwise
+
+AI predicts drug-target interactions.
+
+https://www.atomwise.com
+
+Schrödinger
+
+AI-powered molecular modeling and drug design.
+
+https://www.schrodinger.com
+
+Recursion
+
+AI-driven drug discovery using biological data.
+
+https://www.recursion.com
+
+Generate:Biomedicines
+
+AI creates therapeutic proteins and biologics.
+
+https://generatebiomedicines.com
+
+XtalPi
+
+AI platform for pharmaceutical R&D.
+
+https://www.xtalpi.com
+
+2. AI Medical Imaging & Diagnostics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aidoc
+
+AI analyzes medical imaging for faster diagnosis.
+
+https://www.aidoc.com
+
+Viz.ai
+
+AI detects strokes and critical conditions.
+
+https://www.viz.ai
+
+Qure.ai
+
+AI-powered radiology image analysis.
+
+https://www.qure.ai
+
+Lunit
+
+AI detects cancer and chest abnormalities.
+
+https://www.lunit.io
+
+PathAI
+
+AI supports pathology diagnosis.
+
+https://www.pathai.com
+
+Gleamer
+
+AI improves radiology workflow and diagnosis.
+
+https://www.gleamer.com
+
+Subtle Medical
+
+AI enhances MRI and CT imaging quality.
+
+https://subtlemedical.com
+
+Annalise.ai
+
+AI assists radiologists with diagnostic support.
+
+https://annalise.ai
+
+3. AI Clinical Decision Support
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Dragon Copilot
+
+AI assistant for clinical documentation and decision support.
+
+https://www.microsoft.com
+
+Epic Cognitive Computing
+
+AI enhances clinical workflows and patient care.
+
+https://www.epic.com
+
+Oracle Health AI
+
+AI-powered clinical decision support.
+
+https://www.oracle.com/health
+
+Wolters Kluwer UpToDate AI
+
+AI-assisted evidence-based clinical guidance.
+
+https://www.wolterskluwer.com
+
+Elsevier ClinicalKey AI
+
+AI-powered clinical knowledge platform.
+
+https://www.elsevier.com
+
+IBM Watsonx for Healthcare
+
+AI supports healthcare analytics and decision-making.
+
+https://www.ibm.com
+
+4. AI Hospital & Healthcare Operations
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+LeanTaaS iQueue
+
+AI optimizes hospital capacity and scheduling.
+
+https://www.leantaas.com
+
+Qventus
+
+AI automates hospital operations.
+
+https://www.qventus.com
+
+TeleTracking
+
+AI improves patient flow management.
+
+https://www.teletracking.com
+
+Palantir Foundry Healthcare
+
+AI integrates healthcare data and operations.
+
+https://www.palantir.com
+
+GE HealthCare Edison
+
+AI platform for hospital operations and imaging.
+
+https://www.gehealthcare.com
+
+Philips HealthSuite
+
+AI-powered healthcare data platform.
+
+https://www.philips.com
+
+5. AI Clinical Trials & Research
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Medidata AI
+
+AI improves clinical trial management.
+
+https://www.medidata.com
+
+IQVIA Connected Intelligence
+
+AI optimizes clinical research.
+
+https://www.iqvia.com
+
+Saama AI
+
+AI automates clinical trial analytics.
+
+https://www.saama.com
+
+Deep 6 AI
+
+AI matches patients with clinical trials.
+
+https://deep6.ai
+
+TriNetX
+
+AI-powered healthcare research platform.
+
+https://www.trinetx.com
+
+Tempus
+
+AI supports precision medicine research.
+
+https://www.tempus.com
+
+6. AI Laboratory & Biotechnology
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Benchling
+
+AI-powered laboratory management platform.
+
+https://www.benchling.com
+
+Dotmatics
+
+AI supports scientific research workflows.
+
+https://www.dotmatics.com
+
+Labguru
+
+AI-enabled electronic laboratory notebook.
+
+https://www.labguru.com
+
+SciNote
+
+AI-powered laboratory management software.
+
+https://www.scinote.net
+
+LabVantage
+
+AI laboratory information management system (LIMS).
+
+https://www.labvantage.com
+
+STARLIMS
+
+AI-enabled laboratory data management.
+
+https://www.starlims.com
+
+7. AI Healthcare Analytics & Business Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered healthcare dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven healthcare analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered healthcare analytics platform.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven healthcare insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered healthcare analytics.
+
+https://www.sas.com
+
+DataRobot
+
+AI platform for predictive healthcare analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for healthcare data analysis.
+
+https://www.knime.com
+
+Alteryx AI Platform
+
+AI automates healthcare reporting.
+
+https://www.alteryx.com
+
+8. AI Patient Engagement & Virtual Care
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Hyro
+
+AI healthcare virtual assistant.
+
+https://www.hyro.ai
+
+Hippocratic AI
+
+AI-powered healthcare conversational agent.
+
+https://www.hippocraticai.com
+
+Infermedica
+
+AI symptom checker and patient triage.
+
+https://infermedica.com
+
+Ada Health
+
+AI-powered health assessment platform.
+
+https://ada.com
+
+Sensely
+
+AI virtual healthcare assistant.
+
+https://www.sensely.com
+
+Orbita
+
+AI conversational platform for healthcare.
+
+https://orbita.ai
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for healthcare research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for medical reports and documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for healthcare research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports and presentations.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered healthcare research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing medical documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review for healthcare research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains medical and pharmaceutical research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers medical research publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for healthcare AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for healthcare applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for healthcare analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for healthcare forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for healthcare solutions.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for healthcare model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for healthcare analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for healthcare datasets.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for healthcare intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for healthcare AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

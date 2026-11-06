@@ -1,0 +1,51 @@
+Supplier Insights and Decision Supports for the eCommerce Outlets
+
+Client Background
+
+Client: A leading retail tech in the EU
+
+Industry Type: Retail, e-commerce
+
+Services: eCommerce business
+
+Organization Size: 100+
+
+Project Objective for the eCommerce Outlets
+
+Extract meaningful inferences from supplier and target data
+
+Analyze and perform normalization on data
+
+Transform supplier data into target data
+
+The language used – Python
+
+Project Description
+
+An e-commerce shop would like to onboard new suppliers efficiently. To enable the onboarding process, the customer needs us to integrate product data from suppliers in various formats and styles into the pre-defined data structure of their e-commerce shop application. So, we have a supplier file that we need to convert into another file with a different format using a provided file.
+
+Input file – supplier_car.json
+
+Output file (used for format) – Target Data.xlsx
+
+Result files will include input file data converted into a new file using format of data present inside given output file.
+
+Our solution for the eCommerce Outlets
+
+First, read how data looks like inside output and input file by going through multiple columns and values (also checking values in german so as to match English equivalent). Then mapped data which could be converted into the target from the input data file. Made note of data that has to be changed. Then created a python script to convert the data including making any changes needed to the source data to match target data. Lastly some ideas for some missing column data.
+
+Project Deliverables
+
+Excel files with result data of how final result would look like after converting supply data into newer format (data layout with relevant data).
+
+Python code for the same.
+
+A report explaining everything in detail.
+
+A short video explanation.
+
+Tools/Languages used for the eCommerce Outlets
+
+Python for coding.
+
+Excel for source, storing, and analyzing data.

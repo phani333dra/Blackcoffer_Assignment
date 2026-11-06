@@ -1,0 +1,69 @@
+SEO Tool – AI and Data Driven
+
+Project Description for SEO Tool
+
+The goal was to design and develop an SEO tool driven by AI, ML, and data. The client needed an automated tool that is capable of collecting the data and analyzing the key components in real-time.
+
+Delivered a tool that analyzes the most common keywords on the website
+
+Delivered a tool that analyzes the keywords in the meta-tag
+
+Delivered a tool that analyzes the keywords in the meta description tag
+
+This tool analyzes and produces the keyword cloud
+
+This analyzes the complex words, risky words, H1 tags, page links, similarity scores, cosine similarity, page word counts, page description, page titles, alt tags , and produces the report in real-time.
+
+Machine Learning Deliverables
+
+Recommendation System
+
+Model Tuning
+
+Model Optimization
+
+Machine Learning Model
+
+Chatbot
+
+Maintenance
+
+Data Science Consultation
+
+Machine Learning Methods for SEO Tool
+
+Knowledge Representation
+
+Natural Language Generation
+
+Learning to Rank
+
+Feature Extraction
+
+Natural Language Processing
+
+Deep Learning
+
+Machine Learning Techniques
+
+Word Embedding
+
+Cluster Computing
+
+Anomaly Detection
+
+Classification
+
+Machine Learning Tools
+
+NLTK
+
+Machine Learning Languages
+
+Python
+
+R
+
+Project Website
+
+https://seo.blackcoffer.com/

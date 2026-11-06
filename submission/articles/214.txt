@@ -1,0 +1,95 @@
+AI/ML and Predictive Modeling
+
+Steps overall
+
+Collect data
+
+Prepare data for analysis
+
+Perform statistical test to select variable
+
+Select variable for modeling
+
+Descriptive Analysis
+
+Correlation
+
+Prepare hypothessis to find target and independent variable
+
+Correlation of target variable with all dependent variable wit p-value
+
+Prepare AI/ML Model list
+
+Build Model
+
+Model Insights / Results
+
+AI/ML Model API
+
+Steps specific project
+
+Here are the steps:
+
+Develop a python tool to pull data from the FB ads
+
+Prepare data for analysis
+
+Perform descriptive analytics
+
+Prepare Hypotheses and AI/ML Model for the objective
+
+Build AI/ML model
+
+Training the model
+
+Testing the model
+
+Validation and Iteration of the model
+
+Then Model insights will be visualization/delivered.
+
+Output Structure
+
+Interpret the Coefficients in Regression Models
+
+How one interprets the coefficients in regression models will be a function of how the dependent (y) and independent (x) variables are measured. In general, there are three main types of variables used in econometrics: continuous variables, the natural log of continuous variables, and dummy variables. In the examples below we will consider models with three independent variables:
+
+x1i a continuous variable
+
+ln(x2i) the natural log of a continuous variable
+
+x3i a dummy variable that equals 1 (if yes) and 0 (if no)
+
+Listed below are three models. In each case, the right-hand side variables are the same, but the dependent variables differ. In each of these regressions, the dependent variable will be measured either as a continuous variable, the natural log or a dummy variable. Define the following dependent variables:
+
+y1i a continuous variable
+
+ln(y2i) the natural log of a continuous variable
+
+y3i a dummy variable that equals 1 (if yes) and 0 (if no)
+
+Below each model is text that describes how to interpret particular regression coefficients.
+
+M odel 1: y 1i = β 0 + x 1 i β 1 + ln(x 2i ) β 2 + x 3i β 3 + ε i
+
+β1 =∂y1i/∂x1i = a one unit change in x1 generates a β1 unit change in y1i
+
+β2 =∂y1i/∂ln(x2i) = a 100% change in x2 generates a β2 change in y1i
+
+β3 = the movement of x3i from 0 to 1 produces a β3 unit change in y1i
+
+M odel 2: ln(y 2i ) = β 0 + x 1i β 1 + ln(x 2i ) β 2 + x 3 i β 3 + ε i
+
+β1 =∂ln(y2i)/∂x1i = a one unit change in x1 generates a 100*β1 percent change in y2i
+
+β2 =∂ln(y1i)/∂ln(x2i) = a 100% change in x2 generates a 100*β2 percent change in y2i
+
+β3 = the movement of x3i from 0 to 1 produced a 100*β3 percent change in y2i
+
+M odel 3: y 3i = β 0 + x 1 i β 1 + ln(x 2i ) β 2 + x 3i β 3 + ε i
+
+β1 =∂y3i/∂x1i = a one unit change in x1 generates a 100*β1 percentage point change in the probability y3i occurs
+
+β2 =∂y3i/∂ln(x2i) = a 100% change in x2 generates a 100*β2 percentage point change in the probability y3i occurs
+
+β3 = the movement of x3i from 0 to 1 produced a 100*β3 percentage point change in the probability that y3i occurs

@@ -1,0 +1,55 @@
+OCR – Extracting Information from Scanned Documents
+
+Optical character recognition (OCR) is the process of classifying optical patterns contained in a digital image. The character recognition is achieved through segmentation, feature extraction, and classification.
+
+OCR (optical character recognition) is the recognition of printed or written text characters by a computer. This involves photo-scanning of the text character-by-character, analysis of the scanned-in image, and then translation of the character image into character codes, such as ASCII, commonly used in the data processing.
+
+In OCR processing, the scanned-in image or bitmap is analyzed for light and dark areas in order to identify each alphabetic letter or a numeric digit. When a character is recognized, it is converted into an ASCII code. Special circuit boards and computer chips designed expressly for OCR are used to speed up the recognition process.
+
+Steps involved in Optical Character recognition:-
+
+The Algorithm is built in a way to segment each individual character in an Image as individual images :-), followed by recognition and consolidation to text in an Image.
+
+to download the pre-trained Models Pretrained Models to download sample labeled character Images
+
+1) Optical Scanning ✂️ from Image :
+
+Select any document or letter of having text information
+
+Extract Character boundaries Contours can be explained simply as a curve joining all the continuous points (along the boundary). The contours are a useful tool for shape analysis and object detection and recognition. Here Contours explained in differentiating each individual character in an image using contour dilation technique. Create a boundary to each character in an image using OpenCV Contours method. Character recognition with the use of OpenCV contours method
+
+Naming Convention followed the extracted Text characters should be labeled with the Original character associated with it.
+
+Here the Naming convention followed for the letters is the last letter of the file name should be the name associated with the character.
+
+Pre-processing
+
+The raw data depending on the data acquisition type is subjected to a number of preliminary processing steps to make it usable in the descriptive stages of character analysis. The image resulting from scanning process may contain a certain amount of noise
+
+Smoothing implies both filling and thinning. Filling eliminates small breaks, gaps and holes in digitized characters while thinning reduces the width of the line. (a) noise reduction (b) normalization of the data and (c) compression in the amount of information to be retained.
+
+2) Build a ConvNet Model ✂️(Character Recognition Model):
+
+Convolution Network of 8 layers with 2*4 layers residual feedbacks used in remembering the Patterns ✂️ of the Individual Character Images.
+
+1st Model will train on the Individual Character Images with direct Classification to predict the Images with softmax Classification of Character Categories.
+
+2nd Model is the same model with last before layering as predictor which will Calculate an Embedding of specified Flatten Neurons ( The Predicted flatten Values will have Feature Information of Receipt Images ). Convolution Last before layer Embedding Output is considered as Pattern Feature of Image.
+
+3) Load Trained ConvNet OCR model:
+
+Optical Character recognition last step involves preprocessing of the image into specific word related contours and letter contours, followed by prediction and consolidating according to the letter and word related contours in an image.
+
+once after training the model loading the pre-trained Optical character recognition model.
+
+!) Once after training the OCR model on labeled names data, load the pre-trained model in recognizing the specific character.
+
+!!) Predict each character image and label it with the prediction associated with the Optical character recognition technique.
+
+4) Test and Consolidate Predictions of OCR :
+
+Consolidate predictions involve, assigning a specific ID to each word related contour with the line associated with the word in the image, Consolidating all predictions in a sorted series of specific word related contour and letters associated word.
+
+Predict each character image and label it with the prediction associated with the Optical character recognition technique.
+
+Fix the word associated with the prediction with the use of word contour and line through line related contour and consolidate all together.

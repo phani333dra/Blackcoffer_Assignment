@@ -1,0 +1,41 @@
+Data Integration, ELT with Neo4j Graph Database
+
+Client Background
+
+Client: A leading IT firm in the USA
+
+Industry Type: IT
+
+Services: IT services, EdTech
+
+Organization Size: 20+
+
+The objective for ELT with Neo4j Graph Database
+
+The objective of the project is to upload the graph data from various sources to the neo4j database installed on the Linux server and use Kibana/Elasticsearch to visualize the data.
+
+Project Description
+
+In this project, we have created a pipeline so that data will be downloaded from various sources to the Linux server using a python script and then these data will be uploaded to the neo4j graph database using python script. In this project, we are using three sources (dbpedia, yago, and gdelt) of data. Dbpedia and Yago are in the RDF format and gdelt is in the CSV format. Gdelt data is updated every 15 minutes and it is downloaded to the server at every 15 minutes using a python script running as a cron job on the server.
+
+Our Solution
+
+Our solution was to build an automation software that should be able to automatically download the data for the source, do the loading into the cloud infrastructure, then transform it, and then load the transformed data into the target infrastructure.
+
+Project Deliverables
+
+Python tool
+
+ELT tool
+
+Bigdata infrastructure
+
+Tools Used for ELT with Neo4j Graph Database
+
+Neo4j graph database
+
+Language
+
+Python3
+
+Project snapshots of ELT with Neo4j Graph Database

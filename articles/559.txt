@@ -1,0 +1,43 @@
+Easy Database Access
+
+Get more citations to your research
+
+by enabling easier access to research
+
+and get more credit for your work
+
+Blackcoffer handles the maintenance updates hosting etc.
+
+So your research is easier to understand
+
+and gets cited often
+
+We reduce the friction in publishing research
+
+BY making it easy to play with data.
+
+Example 1
+
+Disease-Drug Database
+
+This runs on a Neo4j Graph Database
+
+Advantages of this database:
+
+Easy to browse
+
+Data has labels and relationships
+
+Click on each node to expand relationships
+
+Download data in CSV/ JSON format once you find what you want.
+
+Need help getting data?
+
+Schedule a call.
+
+Does Bupropion treat nicotine dependence?
+
+Project Rephetio predicted a probability of 1.265% that Bupropion ( DB01156 ) treats nicotine dependence ( DOID:0050742 ). This probability represents a 2.50-fold enrichment over the background prevalence of treatment. This prediction is in the 96.3 th percentile for Bupropion and the 99.5 th percentile for nicotine dependence.
+
+Browse Database To See How.

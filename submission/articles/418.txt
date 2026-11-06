@@ -1,0 +1,537 @@
+Complete List of Investment & Asset Management AI Tools & AI Software
+
+1. AI Portfolio Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+BlackRock Aladdin
+
+AI-powered portfolio, risk, and investment management platform.
+
+https://www.blackrock.com/aladdin
+
+SimCorp One
+
+AI platform for investment and portfolio management.
+
+https://www.simcorp.com
+
+Charles River IMS
+
+AI-enabled investment management system.
+
+https://www.crd.com
+
+SS&C Eze
+
+AI-powered portfolio and order management.
+
+https://www.ssctech.com
+
+Bloomberg AIM
+
+AI-assisted investment and portfolio management.
+
+https://www.bloomberg.com
+
+FactSet Portfolio Analytics
+
+AI-driven portfolio performance analysis.
+
+https://www.factset.com
+
+Enfusion
+
+AI-powered cloud investment management platform.
+
+https://www.enfusion.com
+
+2. AI Investment Research & Market Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Bloomberg Terminal AI
+
+AI-powered financial market analysis and insights.
+
+https://www.bloomberg.com
+
+AlphaSense
+
+AI search engine for financial research and market intelligence.
+
+https://www.alpha-sense.com
+
+Refinitiv Workspace
+
+AI platform for investment research and analytics.
+
+https://www.lseg.com
+
+S&P Capital IQ Pro
+
+AI-powered market intelligence and financial research.
+
+https://www.spglobal.com
+
+Sentieo
+
+AI-assisted equity research and financial modeling.
+
+https://www.sentieo.com
+
+Koyfin AI
+
+AI-powered investment research platform.
+
+https://www.koyfin.com
+
+Tegus
+
+AI-driven investment research and expert insights.
+
+https://www.tegus.com
+
+3. AI Trading & Algorithmic Investing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Trade Ideas HOLLY AI
+
+AI generates stock trading opportunities.
+
+https://www.trade-ideas.com
+
+Kavout
+
+AI-powered stock ranking and market prediction.
+
+https://www.kavout.com
+
+Alpaca AI
+
+AI-ready algorithmic trading platform.
+
+https://alpaca.markets
+
+QuantConnect
+
+AI platform for quantitative trading strategies.
+
+https://www.quantconnect.com
+
+Numerai
+
+AI-powered crowdsourced hedge fund platform.
+
+https://numer.ai
+
+Tickeron
+
+AI stock pattern recognition and trading signals.
+
+https://tickeron.com
+
+Composer
+
+AI-assisted automated investing platform.
+
+https://www.composer.trade
+
+4. AI Risk Management & Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+MSCI RiskManager
+
+AI-powered portfolio risk analysis.
+
+https://www.msci.com
+
+Moody’s Analytics
+
+AI platform for investment risk management.
+
+https://www.moodys.com
+
+SAS Risk Management
+
+AI-driven financial risk analytics.
+
+https://www.sas.com
+
+Axioma Risk
+
+AI software for portfolio risk modeling.
+
+https://www.simcorp.com
+
+FIS Risk & Compliance
+
+AI-powered investment compliance platform.
+
+https://www.fisglobal.com
+
+OneTrust AI
+
+AI automates regulatory compliance and governance.
+
+https://www.onetrust.com
+
+5. AI Wealth Management & Robo-Advisors
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Betterment
+
+AI-powered digital wealth management platform.
+
+https://www.betterment.com
+
+Wealthfront
+
+AI-driven automated investment advisory.
+
+https://www.wealthfront.com
+
+SigFig
+
+AI platform for portfolio optimization.
+
+https://www.sigfig.com
+
+Magnifi
+
+AI-powered investment search assistant.
+
+https://www.magnifi.com
+
+Qplum
+
+AI-managed investment portfolios.
+
+https://www.qplum.com
+
+Schwab Intelligent Portfolios
+
+AI-assisted automated investing.
+
+https://www.schwab.com
+
+6. AI ESG & Sustainability Investing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+MSCI ESG Ratings
+
+AI-powered ESG investment analysis.
+
+https://www.msci.com
+
+Sustainalytics
+
+AI platform for ESG risk assessment.
+
+https://www.sustainalytics.com
+
+Clarity AI
+
+AI-powered sustainability analytics.
+
+https://clarity.ai
+
+Arabesque S-Ray
+
+AI-driven ESG scoring platform.
+
+https://www.arabesque.com
+
+Datamaran
+
+AI software for ESG risk monitoring.
+
+https://www.datamaran.com
+
+RepRisk
+
+AI identifies ESG and reputational risks.
+
+https://www.reprisk.com
+
+7. AI Document Processing & Financial Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABBYY Vantage
+
+AI-powered financial document processing.
+
+https://www.abbyy.com
+
+Rossum
+
+AI extracts data from investment documents.
+
+https://rossum.ai
+
+Hyperscience
+
+AI automates financial document processing.
+
+https://www.hyperscience.com
+
+UiPath AI Center
+
+AI automates investment workflows.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered robotic process automation (RPA).
+
+https://www.automationanywhere.com
+
+Kofax TotalAgility
+
+AI automates financial document workflows.
+
+https://www.tungstenautomation.com
+
+8. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-assisted investment dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-powered business intelligence platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-driven investment analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI-powered search-driven analytics platform.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive investment analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for investment data analysis.
+
+https://www.knime.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for investment research, financial analysis, and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for financial modeling and investment reports.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for market research and investment insights.
+
+https://gemini.google.com
+
+Perplexity AI
+
+AI-powered financial research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing financial reports.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for finance research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding finance papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering finance research publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for investment AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for quantitative finance.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for investment analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for financial forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for investment machine learning.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for financial AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for investment analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for financial datasets.
+
+https://www.databricks.com
+
+11. AI Alternative Data & Predictive Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Yewno
+
+AI-powered knowledge graph for investment discovery.
+
+https://www.yewno.com
+
+RavenPack
+
+AI analyzes news and alternative data for investment insights.
+
+https://www.ravenpack.com
+
+Amenity Analytics
+
+AI extracts insights from financial documents.
+
+https://www.amenityanalytics.com
+
+Accern
+
+AI platform for alternative data and financial NLP.
+
+https://accern.com
+
+Dataminr
+
+AI provides real-time market event detection.
+
+https://www.dataminr.com
+
+Predata
+
+AI forecasts geopolitical and market risks.
+
+https://www.predata.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

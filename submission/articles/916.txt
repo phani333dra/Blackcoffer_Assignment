@@ -1,0 +1,83 @@
+Sentiment Analysis of a Leading Restaurants Chain in the USA
+
+Client Background
+
+Client: A leading restaurants chain in the United States of America
+
+Industry Type: Hospitality
+
+Services: Restaurants, food, hotels, dining
+
+Organization Size: 200+
+
+Customers: People who spent holidays or vacation
+
+Challenges for Leading Restaurants Chain in the USA
+
+The client was using a legacy-based approach to understand customer’s feedback, call to action, and perform the competitive approach to surpass their competitor. It was a way difficult approach to ask customers for feedback since it was manual. Several customers used to deny it. Several customers used to pass it just like that. Several customers used to get harassed by asking for their feedbacks etc. Several customers used to just writing anything to look like they are gentlemen. Several customers used to ask what he gets if he writes true feedback, discount, offers, etc. when they visit next time.
+
+It was way difficult for the client to get the true opinion from the customers. The client was finding several funny feedback, blank feedback with just name, no contact details, and much more. The major difficulties were how to respond to them or assure the quality of the service when the customer is willing to visit next time. There was no channel for it at all. Even the client managed to get some valuable feedback by investing time, resources, and money, it was too difficult for the client to perform an analysis, compare then understand the top demands, top issues, top requests, what are the items most liked by the customers, most disliked by the customers. It was nearly impossible to take the right decision and a perfact call to action.
+
+Solution for Leading Restaurants Chain in the USA
+
+TS Restaurants in association with Saint Peter’s University partnered with Blackcoffer to solve their business problems and help them in increasing customer experiences.
+
+Blackcoffer built a strategic approach and solution to understand the customer’s true feedback from social media platforms. Blackcoffer’s first solution was to strategically list and prepare the social media sources where true and honest feedback and reviews can be collected. After extensive research and according to the business goals, Yelp, Twitter, Facebook, and YouTube were are right and perfect sources for the data collection.
+
+A solution was designed and developed to collect customer feedback and reviews data from social media platforms i.e. Yelp, Twitter, Facebook, and YouTube. True feedback and reviews posted by the customers in presence of no one and with no pressure. Blackcoffer solution was able to pull right and perfect data related to the client’s business and reviews and feedbacks posted by the customers for the client’s restaurants at their various locations. The Blackcoffer solution was also capable to pull, extract, clean, and make analytics-ready customer reviews and feedbacks.
+
+Further Blackcoffer designed and developed a solution to perform descriptive analytics, inquisitive analytics, and the most important thing was the sentiment analysis. The descriptive analytics solution was able to analyze and understand the summary of the dataset, important keywords, correlations, and contingency tables. The inquisitive analytics solution was able to understand the data behaviors, data trends, potential impacts among the variables, and the key drivers. The sentiment analytics solution was best among all where the solution was able to perform and analyze the sentiments of the customer feedback and opinions. The sentiment analysis solution was able to analyze and understand the top negative feedbacks, top positive feedbacks, and especially with the driving forces and the key drives for the negative and positive feedbacks and the reviews.
+
+Business Impact
+
+Further Blackcoffer delivered a strategic digital foresight intelligence platform, a dashboard to the clients with various key drivers, driving forces, and call to actions points such as:
+
+Top positive sentiments
+
+Top negative sentiments
+
+Top positive and negative keywords
+
+top demands, top issues, top requests, what are the items most liked by the customers, most disliked by the customers.
+
+The client is now able to understand the customer and increasing their experience with several call of actions with following benefits:
+
+30% increase in footfall.
+
+90% utilization of the restaurant’s facilities and services.
+
+Food wastage was reduced from 40% to nearly 5%.
+
+The client is able to respond to their customers with data-driven answers and solutions.
+
+The customer’s satisfaction level increased by 40%.
+
+A 30% increase in revenue was observed in the client’s book.
+
+The client is able to increase the quality of their food, beverages, and more that they used to serve their customers.
+
+The client is able to invite more musicians, singers, and band performers to attract more footfall and customers to their premises and hospitalities.
+
+Models Used
+
+The following models were used
+
+Descriptive Analytics Models
+
+Inquisitive Analytics Models
+
+Sentiment Analytics Models NLTK Positive scores Negative scores Polarity scores Subjectivity scores Sentiment score categorization
+
+Technology Stack
+
+The following technology stacks were used
+
+Python
+
+NLTK
+
+Web Crawler API
+
+Sentiment Lexicon
+
+APIs for YELP, Twitter, Facebook, and YouTube

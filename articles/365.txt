@@ -1,0 +1,561 @@
+Complete List of Aerospace & Defence AI Tools & AI Software
+
+1. AI Aircraft Design & Engineering
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+CATIA
+
+AI-powered aircraft and aerospace product design platform.
+
+https://www.3ds.com/products/catia
+
+Siemens NX
+
+AI-assisted aerospace design, CAD, CAM, and engineering software.
+
+https://www.siemens.com/nx
+
+PTC Creo
+
+AI-driven CAD software for aerospace component design.
+
+https://www.ptc.com
+
+Autodesk Fusion 360
+
+AI-powered CAD/CAM software for aerospace product development.
+
+https://www.autodesk.com/products/fusion-360
+
+SolidWorks
+
+AI-enhanced 3D mechanical design software for aerospace engineering.
+
+https://www.solidworks.com
+
+Autodesk Inventor
+
+AI-assisted mechanical design and simulation platform.
+
+https://www.autodesk.com/products/inventor
+
+nTop
+
+AI-powered generative engineering for lightweight aerospace structures.
+
+https://www.ntop.com
+
+Rhino + Grasshopper
+
+AI-supported parametric aerospace design platform.
+
+https://www.rhino3d.com
+
+Onshape AI
+
+Cloud CAD software with AI-assisted engineering workflows.
+
+https://www.onshape.com
+
+BricsCAD Mechanical
+
+AI-powered CAD software for aerospace manufacturing.
+
+https://www.bricsys.com
+
+2. AI Simulation & Digital Engineering
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Ansys Discovery
+
+AI-assisted real-time engineering simulation software.
+
+https://www.ansys.com
+
+Ansys Fluent
+
+AI-powered computational fluid dynamics (CFD) simulation.
+
+https://www.ansys.com
+
+Siemens Simcenter
+
+AI-driven multiphysics simulation platform.
+
+https://www.siemens.com
+
+Altair HyperWorks
+
+AI-powered engineering simulation and optimization suite.
+
+https://altair.com
+
+MSC Nastran
+
+AI-supported structural analysis and simulation software.
+
+https://hexagon.com
+
+COMSOL Multiphysics
+
+AI-assisted multiphysics modeling and simulation platform.
+
+https://www.comsol.com
+
+Dassault SIMULIA
+
+AI-enabled structural, fluid, and electromagnetic simulations.
+
+https://www.3ds.com/products/simulia
+
+MATLAB AI Toolbox
+
+AI model development for aerospace simulations and controls.
+
+https://www.mathworks.com
+
+3. AI Digital Twins
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Xcelerator
+
+AI-powered digital twin platform for aerospace systems.
+
+https://www.siemens.com/xcelerator
+
+NVIDIA Omniverse
+
+AI platform for digital twins and collaborative simulations.
+
+https://www.nvidia.com/omniverse
+
+Ansys Twin Builder
+
+AI-assisted digital twin modeling and predictive analysis.
+
+https://www.ansys.com
+
+Bentley iTwin
+
+AI-powered digital twin platform for aerospace infrastructure.
+
+https://www.bentley.com
+
+Dassault 3DEXPERIENCE
+
+AI-enabled digital engineering and lifecycle management.
+
+https://www.3ds.com
+
+4. AI Manufacturing & Smart Factory
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter
+
+AI-powered manufacturing execution system (MES).
+
+https://www.siemens.com/opcenter
+
+ABB Ability
+
+AI platform for industrial automation and manufacturing.
+
+https://global.abb
+
+Honeywell Forge
+
+AI-powered aerospace manufacturing optimization platform.
+
+https://www.honeywell.com
+
+Rockwell FactoryTalk
+
+AI software for aerospace production monitoring.
+
+https://www.rockwellautomation.com
+
+SAP Digital Manufacturing
+
+AI-powered manufacturing management platform.
+
+https://www.sap.com
+
+AVEVA Insight
+
+AI-driven manufacturing performance analytics.
+
+https://www.aveva.com
+
+C3 AI Manufacturing
+
+Enterprise AI platform for production optimization.
+
+https://c3.ai
+
+5. AI Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts aircraft and equipment maintenance needs.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance platform.
+
+https://senseye.io
+
+SparkCognition
+
+AI predicts aerospace equipment failures.
+
+https://sparkcognition.com
+
+Aspen Mtell
+
+AI platform for predictive asset maintenance.
+
+https://www.aspentech.com
+
+Uptake
+
+AI-powered equipment health monitoring platform.
+
+https://www.uptake.com
+
+Falkonry
+
+AI software for industrial anomaly detection.
+
+https://falkonry.com
+
+6. AI Computer Vision & Inspection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cognex VisionPro
+
+AI-powered machine vision for aerospace inspection.
+
+https://www.cognex.com
+
+LandingLens
+
+AI visual inspection software for defect detection.
+
+https://landing.ai
+
+MVTec HALCON
+
+AI-powered industrial machine vision software.
+
+https://www.mvtec.com
+
+Keyence Vision Systems
+
+AI inspection platform for manufacturing quality control.
+
+https://www.keyence.com
+
+Roboflow
+
+AI platform for training aerospace computer vision models.
+
+https://roboflow.com
+
+OpenCV
+
+Open-source computer vision library for aerospace AI.
+
+https://opencv.org
+
+Ultralytics YOLO
+
+AI object detection model for inspection and surveillance.
+
+https://ultralytics.com
+
+7. AI Robotics & Autonomous Systems
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Isaac
+
+AI robotics development platform.
+
+https://developer.nvidia.com/isaac
+
+ABB RobotStudio
+
+AI-powered robotic programming and simulation software.
+
+https://new.abb.com/products/robotics/robotstudio
+
+ROS 2
+
+Open-source robotics framework with AI integration.
+
+https://www.ros.org
+
+PX4 Autopilot
+
+AI-enabled autopilot software for drones and UAVs.
+
+https://px4.io
+
+AirSim
+
+AI simulator for autonomous drones and aerial vehicles.
+
+https://microsoft.github.io/AirSim
+
+8. AI Geospatial Intelligence & Surveillance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Palantir Foundry
+
+AI platform for intelligence and mission data integration.
+
+https://www.palantir.com/platforms/foundry
+
+ArcGIS GeoAI
+
+AI-powered geospatial intelligence and mapping.
+
+https://www.esri.com
+
+Planet
+
+AI satellite imagery analysis for surveillance.
+
+https://www.planet.com
+
+Maxar Intelligence
+
+AI-powered geospatial intelligence platform.
+
+https://www.maxar.com
+
+BlackSky
+
+AI-driven satellite monitoring and analytics.
+
+https://www.blacksky.com
+
+9. AI Cybersecurity & Defence Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Darktrace
+
+AI-powered cyber threat detection and response.
+
+https://www.darktrace.com
+
+CrowdStrike Falcon
+
+AI-driven endpoint security platform.
+
+https://www.crowdstrike.com
+
+Microsoft Security Copilot
+
+AI assistant for cybersecurity operations.
+
+https://www.microsoft.com/security
+
+SentinelOne
+
+AI-powered autonomous cybersecurity platform.
+
+https://www.sentinelone.com
+
+Palo Alto Cortex XSIAM
+
+AI-driven security operations platform.
+
+https://www.paloaltonetworks.com
+
+10. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for aerospace research, documentation, and coding.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and engineering analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for aerospace engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered research engine for aerospace innovations.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing aerospace research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for aerospace engineering research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding scientific papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering aerospace research publications.
+
+https://www.researchrabbit.ai
+
+11. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for aerospace AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for autonomous systems and vision.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for aerospace analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for aerospace engineering datasets.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AI platform for predictive aerospace analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+Visual AI workflows for aerospace data analysis.
+
+https://www.knime.com
+
+Google Vertex AI
+
+Cloud AI platform for aerospace machine learning.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI model development and deployment platform.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for aerospace AI model training.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for aerospace datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

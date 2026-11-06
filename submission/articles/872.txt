@@ -1,0 +1,65 @@
+Recommendation System for Posts and Articles.
+
+Client Background
+
+Client: A leading IT Firm in India
+
+Industry Type: IT
+
+Services: Networking solution, News, Media
+
+Organization Size: 1000+
+
+Customers: World Wide
+
+Project Description
+
+I need to create a system which understands user’s interest and recommend the posts that are more relevant to his interest. These interests can be understandable by their viewed posts, liked posts, commented posts, joined groups and saved posts. And according to all these computer needs to understand the current interest of the user and have to recommend such posts.
+
+Our Solution
+
+For this, there are 4 models and I have applied all of them to the sample dataset. These are the Popularity model, Content-Based Filtering, Collaborative Filtering, Hybrid Model. The popularity model shows those posts which are most viewed, liked, and have a large no. of comments. Content-based model uses tfidf (NLP) for relating the articles as same or similar and then to suggest accordingly as if there are 2 similar posts then if a user saw 1 post then he may like the other one-two as they have similar content. Collaborative filtering searches for similar users by using cosine similarity and according to that, it shows results. And the last model hybrid model uses results of both content-based model and CF to evaluate the final results and shows the final results. Then I have shown the accuracy of each model using the top n accuracy matrix and according to the need, the company can apply the model.
+
+Project Deliverables
+
+Recommendation tool
+
+Production level
+
+Tools used
+
+Google Colab
+
+Language/techniques used
+
+Python
+
+Machine learning
+
+Recommendation engine
+
+Models used
+
+Popularity model
+
+Content based model
+
+Collaborative Filtering model
+
+Hybrid model
+
+Skills used
+
+Data Science
+
+Databases used
+
+Articles
+
+eventType
+
+NoSQL
+
+Web Cloud Servers used
+
+Google Cloud Platform

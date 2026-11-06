@@ -1,0 +1,61 @@
+Credit Scoring model
+
+A credit scoring model is a tool that is typically used in the decision-making process of accepting or rejecting a loan. A credit scoring model is the result of a statistical model which, based on information about the borrower (e.g. age, number of previous loans, etc.), allows one to distinguish between “good” and “bad” loans and give an estimate of the probability of default. The fact that this model can allocate a rating on the credit quality of a loan implies a certain number of possible applications:
+
+Health score
+
+The model provides a score that is related to the probability that the client misses a payment. This can be seen as the “health” of the client and allows the company to monitor its portfolio and adjust its risk.
+
+New clients
+
+The model can be used for new clients to assess what is their probability of respecting to their financial obligations. Subsequently, the company can decide to grant or not the requested loan.
+
+What drives default for the Credit Scoring model?
+
+The model can be used to understand what the driving factors behind default are. The bank can utilize this knowledge for its portfolio and risk assessment. The model can be used to understand what the driving factors behind default are. The bank can utilize this knowledge for its portfolio and risk assessment.
+
+A credit scoring model is just one of the factors used in evaluating a credit application. Assessment by a credit expert remains the decisive factor in the evaluation of a loan.
+
+The history of developing credit-scoring models goes as far back as the history of borrowing and repaying. It reflects the desire to issue an appropriate rate of interest for undertaking the risk of giving away one’s own money.
+
+With the advent of the modern statistics era in the 20 th century, appropriate techniques have been developed to assess the likelihood of someone’s default on the payment, given the resemblance of his/her characteristics to those who have already defaulted in the past. We will focus on one of the most prominent methods to do credit scoring, the logistic regression. Despite being one of the earliest methods of the subject, it is also one of the most successful, owing to its transparency.
+
+Although credit scoring methods are linked to the aforementioned applications in banking and finance, they can be applied to a large variety of other data analytics problems, such as:
+
+Which factors contribute to a consumer’s choice ?
+
+Which factors generate the biggest impact on a consumer’s choice?
+
+What is the profit associated with a further boost in each of the impact factors?
+
+How likely is that a customer likes to adopt a new service ?
+
+What is the likelihood that a customer will go to a competitor?
+
+Such questions can all be answered within the same statistical framework. A logistic regression model can, for example, provide not only the structure of dependencies of the explanatory variables to the default but also the statistical significance of each variable.
+
+Logistic Model Interoperation for Credit Scoring model
+
+How one interprets the coefficients in regression models will be a function of how the dependent (y) and independent (x) variables are measured. In general, there are three main types of variables used in econometrics: continuous variables, the natural log of continuous variables, and dummy variables. In the examples below we will consider models with three independent variables:
+
+x1i a continuous variable
+
+ln(x2i) the natural log of a continuous variable
+
+x3i a dummy variable that equals 1 (if yes) and 0 (if no)
+
+Listed below are three models. In each case, the right-hand side variables are the same, but the dependent variables differ. In each of these regressions, the dependent variable will be measured either as a continuous variable, the natural log or a dummy variable. Define the dependent variable:
+
+yi a dummy variable that equals 1 (if yes) and 0 (if no)
+
+Below each model is the text that describes how to interpret particular regression coefficients.
+
+M odel: Yi = β 0 + x1i β 1 + ln(x2i) β 2 + x3i β 3 + ε i
+
+β1 =∂Yi/∂x1i = a one-unit change in x1 generates a 100*β1 percentage point change in the probability yi occurs
+
+β2 =∂Yi/∂ln(x2i) = a 100% change in x2 generates a 100*β2 percentage point change in the probability yi occurs
+
+β3 = the movement of x3i from 0 to 1 produced a 100*β3 percentage point change in the probability that yi occurs
+
+Model is the key to the solution to all our problems. While the independent variables can be interpreted the way are and how they influence the dependent variables.

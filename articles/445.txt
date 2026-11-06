@@ -1,0 +1,475 @@
+Complete List of Quantum Computing Engineering AI Tools & AI Software
+
+1. AI Quantum Computing Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Quantum Platform
+
+Cloud platform for quantum computing research and AI integration.
+
+https://quantum.ibm.com
+
+Microsoft Azure Quantum
+
+AI-powered cloud platform for quantum computing solutions.
+
+https://azure.microsoft.com/products/quantum
+
+Amazon Braket
+
+Cloud service for building and testing quantum algorithms.
+
+https://aws.amazon.com/braket
+
+Google Quantum AI
+
+AI-driven quantum computing research platform.
+
+https://quantumai.google
+
+IonQ Cloud
+
+AI-enabled trapped-ion quantum computing platform.
+
+https://ionq.com
+
+Quantinuum
+
+Quantum computing platform with AI-assisted development tools.
+
+https://www.quantinuum.com
+
+Rigetti Quantum Cloud Services
+
+Quantum cloud platform for hybrid AI-quantum applications.
+
+https://www.rigetti.com
+
+D-Wave Leap
+
+Quantum annealing cloud platform with AI optimization.
+
+https://cloud.dwavesys.com/leap
+
+2. AI Quantum Programming Frameworks
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Qiskit
+
+Open-source quantum computing SDK with AI support.
+
+https://qiskit.org
+
+PennyLane
+
+AI-powered quantum machine learning framework.
+
+https://pennylane.ai
+
+Cirq
+
+Google’s framework for developing quantum algorithms.
+
+https://quantumai.google/cirq
+
+Q#
+
+Microsoft’s quantum programming language and SDK.
+
+https://learn.microsoft.com/azure/quantum
+
+CUDA Quantum
+
+NVIDIA platform for hybrid quantum-classical computing.
+
+https://developer.nvidia.com/cuda-quantum
+
+TKET
+
+Quantum circuit optimization and compilation toolkit.
+
+https://cqcl.github.io/tket
+
+Ocean SDK
+
+D-Wave SDK for quantum optimization and AI workflows.
+
+https://docs.ocean.dwavesys.com
+
+Strawberry Fields
+
+Quantum photonic computing and AI framework.
+
+https://strawberryfields.ai
+
+3. AI Quantum Machine Learning
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+PennyLane
+
+Hybrid quantum machine learning development platform.
+
+https://pennylane.ai
+
+TensorFlow Quantum
+
+Quantum machine learning library integrated with TensorFlow.
+
+https://www.tensorflow.org/quantum
+
+Qiskit Machine Learning
+
+AI library for quantum machine learning models.
+
+https://qiskit.org/ecosystem/machine-learning
+
+TorchQuantum
+
+Quantum machine learning framework based on PyTorch.
+
+https://github.com/mit-han-lab/torchquantum
+
+TensorCircuit
+
+High-performance framework for quantum AI research.
+
+https://tensorcircuit.readthedocs.io
+
+QuantumFlow
+
+AI framework for quantum algorithm development.
+
+https://github.com/gecrooks/quantumflow
+
+4. AI Quantum Simulation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+QuTiP
+
+Open-source framework for quantum system simulation.
+
+https://qutip.org
+
+Qulacs
+
+High-speed quantum circuit simulator.
+
+https://github.com/qulacs/qulacs
+
+Intel Quantum Simulator
+
+AI-supported simulation for quantum algorithms.
+
+https://www.intel.com
+
+QSim
+
+Google’s high-performance quantum simulator.
+
+https://quantumai.google/qsim
+
+ProjectQ
+
+Open-source quantum computing simulator.
+
+https://projectq.ch
+
+Quantum Inspire
+
+Quantum simulation platform for education and research.
+
+https://www.quantum-inspire.com
+
+5. AI Quantum Chemistry & Materials Science
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Qiskit Nature
+
+Quantum computing library for chemistry and materials research.
+
+https://qiskit.org/ecosystem/nature
+
+PennyLane Chemistry
+
+AI-powered quantum chemistry development toolkit.
+
+https://pennylane.ai
+
+OpenFermion
+
+Quantum algorithms for chemistry simulations.
+
+https://quantumai.google/openfermion
+
+Tequila
+
+Quantum optimization framework for chemistry applications.
+
+https://tequilahub.github.io
+
+HQS Quantum Simulations
+
+AI-assisted quantum chemistry software.
+
+https://quantumsimulations.de
+
+6. AI Quantum Optimization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+D-Wave Ocean
+
+AI-powered quantum optimization toolkit.
+
+https://docs.ocean.dwavesys.com
+
+QAOA Toolkit
+
+Framework for Quantum Approximate Optimization Algorithms.
+
+https://qiskit.org
+
+Classiq
+
+AI-assisted quantum algorithm design platform.
+
+https://www.classiq.io
+
+Zapata Orquestra
+
+AI platform for quantum workflow orchestration.
+
+https://zapatacomputing.com
+
+QC Ware Forge
+
+AI-powered enterprise quantum optimization platform.
+
+https://qcware.com
+
+7. AI Quantum Research Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for quantum research and programming.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for quantum documentation and analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for quantum engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for quantum coding and technical writing.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered search engine for quantum research.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing quantum research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for quantum computing.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for reading quantum computing publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering quantum computing papers.
+
+https://www.researchrabbit.ai
+
+8. AI Classical Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for hybrid quantum AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework used in quantum AI research.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for hybrid quantum models.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for quantum analytics.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for predictive modeling.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for quantum data analysis.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered analytics for scientific research.
+
+https://altair.com/rapidminer
+
+9. AI Cloud Platforms for Quantum Computing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Google Vertex AI
+
+Cloud AI platform for hybrid quantum workflows.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform supporting quantum computing projects.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for quantum-classical model development.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI platform for large-scale quantum research analytics.
+
+https://www.databricks.com
+
+Snowflake Cortex AI
+
+AI-powered analytics platform for quantum datasets.
+
+https://www.snowflake.com
+
+10. AI Quantum Hardware & Control
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Quantum Machines OPX
+
+AI-powered quantum control hardware platform.
+
+https://www.quantum-machines.co
+
+Zurich Instruments LabOne Q
+
+AI-assisted quantum hardware control software.
+
+https://www.zhinst.com
+
+Keysight Quantum Control
+
+AI-enabled measurement and control platform.
+
+https://www.keysight.com
+
+Qblox Cluster
+
+Modular AI-powered quantum control system.
+
+https://qblox.com
+
+Quantum Benchmark
+
+AI software for quantum hardware error diagnostics.
+
+https://quantumbenchmark.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

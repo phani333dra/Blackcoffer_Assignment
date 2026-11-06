@@ -1,0 +1,85 @@
+Accounts Payables Analytics
+
+The Problem
+
+A strong liquidity position is important for every company and maintaining tight control over Accounts Payable is always critical for enterprises. Some of the common challenges faced in managing Accounts Payable (AP) function include the following;
+
+Keep tight cash outflow control while maintaining strong vendor relationships
+
+Enable projections for use in cash flow planning.
+
+Evaluate and improve vendor relationships from an AP perspective.
+
+Evaluate functional transaction volumes and the impact on AP performance.
+
+The productivity of the AP organization. Monitor, manage and improve the AP process and performance of existing resources.
+
+Assess Payables Analyst performance.
+
+It becomes imperative to have an end-to-end insight that gives everyone from CFO to Executives fast, insightful, and appropriate answers to critical business questions such as the following:
+
+Payables Analysis
+
+How can we efficiently control current liabilities and calibrate cash management?
+
+What quantum of payments overdue?
+
+What is their composition by age (bucket analysis) and who are the Top 10 vendors in each age category?
+
+Who are the Top 10 Outstanding Vendors for overall outstanding payment by age category and “What if Analysis” of the same on a particular future date?
+
+Ensuring prompt payments can eliminate and reduce late payment penalties while promoting a strong supplier relationship.
+
+Who is the Top 5 Vendor by spending?
+
+Can we maximize cash flow by renegotiating their terms of payments?
+
+Cash Management
+
+Can we leverage “Predictive Analysis” in monetary terms for capitalizing discounts and analyze the impact of invoice payments at par vs paid after the due date?
+
+What is the Number of High-Mid-Low value upcoming invoice by price range category?
+
+Assessment of present and future cash position is critical for effective fund management.
+
+What are the forecasted outflow cash of over-due and open items in AP and their comparison with the inflow of Funds in AR? Improving cash position in relation to current liabilities will improve the organization’s balance sheet liquidity.
+
+Is it possible to seek higher and healthier valuation by analyzing trends developed for a set of periods by particular due date category?
+
+Strategic Analysis
+
+What are the Number and average value of un-reconciled Line Items?
+
+Timely settlement of un-reconciled items and incorporating effective reconciliation management processes can reduce operating costs and lead to substantial write-offs.
+
+How to capitalize on discount by controlling the Total Amount of Goods Received not invoice?
+
+Tracking and monitoring of AP functions are essential to strategically improve the efficiency of underlying operations. How can we effectively analyze the following performance metrics for the current year as compared to last year? Percentage of accounts payables disputed to total accounts payables to Percentage of accounts payables overdue to total accounts payables Average time to pay The average value of accounts payable disputed The average value of accounts payable overdue The average value of accounts payable paid The average value of payable invoices outstanding
+
+How to improve the “first-time match” by analyzing the quantum of blocked payments and further by reason?
+
+What is the status of DPO(Days Payable Outstanding) against the Benchmark and DSO(Days Sales Outstanding)?
+
+Are we comfortably positioned to meet current debt obligations?
+
+How to measure management effectiveness that depicts how quickly the funds on hand can be converted into even more cash?
+
+Ensure optimal AP Turn-Over ratio and reduce the overall Cash Conversion Cycle.
+
+Payables Performance Management
+
+How to improve the productivity of AP resources?
+
+How can we identify and remove inefficiencies in the AP workflow process?
+
+What is the average number of invoices paid per accounts payable (A/P) payment?
+
+What is the Loss of Discount as a percentage of purchases?
+
+What is the Trend of On-Time V/s Delayed Payment which contributes to an excessive amount of management time, attention, and resources being spent on a non – value-added function:- Reason for delay Delayed Number of Invoices Received Delayed Average number of line items per invoice Delayed Number of Payments Made Delayed Average number of invoices per payment
+
+What are the Invoices processed per day/month/quarter?
+
+What are the Types of Documents processed by the AP Department so appropriate attention can be paid to a bigger chunk?
+
+How to reduce payable transaction costs by monitoring clearance made by each mode of payment and the cost incurred by each mode?

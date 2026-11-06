@@ -1,0 +1,505 @@
+Complete List of AI Tools & AI Software
+
+1. AI Hotel Management Systems
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Oracle OPERA Cloud
+
+AI-powered hotel property management system (PMS).
+
+https://www.oracle.com/hospitality
+
+Cloudbeds
+
+AI automates hotel operations and reservations.
+
+https://www.cloudbeds.com
+
+Mews
+
+AI-powered cloud hotel management platform.
+
+https://www.mews.com
+
+Stayntouch
+
+AI-enabled property management software.
+
+https://www.stayntouch.com
+
+RMS Cloud
+
+AI optimizes hotel operations and guest management.
+
+https://www.rmscloud.com
+
+Hotelogix
+
+AI-powered hotel management solution.
+
+https://www.hotelogix.com
+
+eZee Absolute
+
+AI-based hotel property management system.
+
+https://www.ezeeabsolute.com
+
+Protel PMS
+
+AI-driven hotel property management.
+
+https://www.protel.net
+
+2. AI Revenue Management & Dynamic Pricing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+IDeaS Revenue Solutions
+
+AI optimizes hotel pricing and revenue.
+
+https://ideas.com
+
+Duetto
+
+AI-powered dynamic pricing platform.
+
+https://www.duettocloud.com
+
+Atomize
+
+AI automates hotel revenue management.
+
+https://atomize.com
+
+Pace Revenue
+
+AI forecasts demand and pricing.
+
+https://www.pacerevenue.com
+
+BEONx
+
+AI-driven hotel pricing optimization.
+
+https://www.beonx.com
+
+RoomPriceGenie
+
+AI simplifies hotel pricing strategies.
+
+https://roompricegenie.com
+
+3. AI Guest Experience & Virtual Assistants
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+HiJiffy
+
+AI chatbot for hotel guest communication.
+
+https://www.hijiffy.com
+
+Asksuite
+
+AI assistant for hotel bookings and support.
+
+https://asksuite.com
+
+Quicktext
+
+AI concierge and booking chatbot.
+
+https://www.quicktext.im
+
+GuestChat
+
+AI-powered hotel guest messaging.
+
+https://www.guestchat.com
+
+Zendesk AI
+
+AI automates customer support.
+
+https://www.zendesk.com
+
+Intercom Fin AI
+
+AI customer service assistant.
+
+https://www.intercom.com
+
+4. AI Travel Planning & Booking
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Expedia AI
+
+AI-powered travel planning and recommendations.
+
+https://www.expedia.com
+
+Booking.com AI
+
+AI recommends hotels and travel services.
+
+https://www.booking.com
+
+Tripadvisor AI
+
+AI suggests destinations and activities.
+
+https://www.tripadvisor.com
+
+Hopper
+
+AI predicts flight and hotel prices.
+
+https://hopper.com
+
+Skyscanner AI
+
+AI finds the best travel deals.
+
+https://www.skyscanner.com
+
+Kayak AI
+
+AI-powered travel search assistant.
+
+https://www.kayak.com
+
+5. AI Customer Relationship Management (CRM)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Salesforce Einstein
+
+AI-powered hospitality CRM.
+
+https://www.salesforce.com
+
+HubSpot AI
+
+AI automates guest relationship management.
+
+https://www.hubspot.com
+
+Zoho CRM Zia
+
+AI assistant for customer engagement.
+
+https://www.zoho.com/crm
+
+Freshworks Freddy AI
+
+AI-powered customer support platform.
+
+https://www.freshworks.com
+
+Microsoft Dynamics 365 AI
+
+AI-driven hospitality CRM.
+
+https://www.microsoft.com/dynamics-365
+
+Revinate
+
+AI-powered guest marketing and CRM.
+
+https://www.revinate.com
+
+6. AI Marketing & Reputation Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Canary Technologies
+
+AI automates guest communication and reviews.
+
+https://www.canarytechnologies.com
+
+TrustYou
+
+AI analyzes guest feedback and reviews.
+
+https://www.trustyou.com
+
+ReviewPro
+
+AI manages hotel reputation and reviews.
+
+https://www.reviewpro.com
+
+Yext AI
+
+AI manages business listings and customer reviews.
+
+https://www.yext.com
+
+Sprinklr AI
+
+AI-powered customer experience management.
+
+https://www.sprinklr.com
+
+Birdeye AI
+
+AI monitors online reviews and reputation.
+
+https://birdeye.com
+
+7. AI Restaurant & Hospitality Operations
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Toast AI
+
+AI-powered restaurant POS and operations.
+
+https://pos.toasttab.com
+
+Square AI
+
+AI assists restaurant payments and analytics.
+
+https://squareup.com
+
+Lightspeed Restaurant
+
+AI-driven restaurant management software.
+
+https://www.lightspeedhq.com
+
+Oracle MICROS
+
+AI-enabled restaurant management system.
+
+https://www.oracle.com/food-beverage
+
+Deliverect
+
+AI connects restaurants with delivery platforms.
+
+https://www.deliverect.com
+
+OpenTable AI
+
+AI-powered restaurant reservations.
+
+https://www.opentable.com
+
+8. AI Analytics & Business Intelligence
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered hospitality dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven hospitality analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered tourism analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven business insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered hospitality analytics.
+
+https://www.sas.com
+
+DataRobot
+
+AI predicts tourism demand and occupancy.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for hospitality data.
+
+https://www.knime.com
+
+Alteryx AI Platform
+
+AI automates tourism reporting.
+
+https://www.alteryx.com
+
+9. AI Productivity & Content Creation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for customer communication and content.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for hospitality documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for travel research and planning.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI supports reports and presentations.
+
+https://copilot.microsoft.com
+
+Canva Magic Studio
+
+AI creates tourism marketing content.
+
+https://www.canva.com
+
+Gamma
+
+AI generates presentations and proposals.
+
+https://gamma.app
+
+Synthesia
+
+AI creates hospitality training videos.
+
+https://www.synthesia.io
+
+HeyGen
+
+AI produces multilingual promotional videos.
+
+https://www.heygen.com
+
+10. AI Machine Learning Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for hospitality AI.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for demand forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for tourism applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for hospitality solutions.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for predictive analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered hospitality analytics platform.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for tourism intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,603 @@
+Complete List of Construction (Infrastructure, Residential, Commercial) AI Tools & AI Software
+
+1. AI Building Information Modeling (BIM) & Design
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Autodesk Construction Cloud
+
+AI-powered BIM, project collaboration, and construction management.
+
+https://construction.autodesk.com
+
+Autodesk Forma
+
+AI-assisted early-stage building design and site planning.
+
+https://www.autodesk.com/products/forma
+
+Autodesk Revit
+
+BIM software with AI-powered design automation and modeling.
+
+https://www.autodesk.com/products/revit
+
+Graphisoft Archicad AI
+
+AI-enhanced BIM software for architects and engineers.
+
+https://graphisoft.com
+
+Bentley OpenBuildings Designer
+
+AI-powered building design and infrastructure modeling.
+
+https://www.bentley.com
+
+BricsCAD BIM
+
+AI-assisted BIM workflow for building projects.
+
+https://www.bricsys.com
+
+Vectorworks Architect
+
+AI-supported architectural and BIM design software.
+
+https://www.vectorworks.net
+
+Rhino + Grasshopper AI
+
+AI-assisted parametric building and structural design.
+
+https://www.rhino3d.com
+
+TestFit
+
+AI automates site planning and conceptual building layouts.
+
+https://testfit.io
+
+Hypar
+
+AI platform for generative building design and automation.
+
+https://hypar.io
+
+2. AI Construction Project Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Procore
+
+AI-powered construction project and document management.
+
+https://www.procore.com
+
+Oracle Primavera P6
+
+AI-assisted scheduling and construction planning.
+
+https://www.oracle.com
+
+Oracle Aconex
+
+AI-enabled project collaboration and document control.
+
+https://www.oracle.com/construction-engineering/aconex
+
+Autodesk Build
+
+AI platform for project management and field collaboration.
+
+https://construction.autodesk.com
+
+Buildertrend
+
+AI-powered residential construction management software.
+
+https://buildertrend.com
+
+Fieldwire
+
+AI task management and construction site coordination.
+
+https://www.fieldwire.com
+
+Raken
+
+AI-powered field reporting and workforce management.
+
+https://www.rakenapp.com
+
+Monday.com AI
+
+AI project planning and workflow automation for construction.
+
+https://monday.com
+
+ClickUp AI
+
+AI-powered project planning and task management.
+
+https://clickup.com
+
+Asana AI
+
+AI workflow automation for construction teams.
+
+https://asana.com
+
+3. AI Cost Estimation & Quantity Takeoff
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Togal.AI
+
+AI automates quantity takeoffs from construction drawings.
+
+https://www.togal.ai
+
+STACK
+
+AI-powered construction estimating and takeoff software.
+
+https://www.stackct.com
+
+CostOS
+
+AI-assisted cost estimation and budgeting platform.
+
+https://www.nomitech.com
+
+PlanSwift
+
+AI-supported digital quantity takeoff software.
+
+https://www.planswift.com
+
+Buildxact
+
+AI estimating software for residential builders.
+
+https://www.buildxact.com
+
+Autodesk Takeoff
+
+AI-based quantity extraction from BIM and drawings.
+
+https://construction.autodesk.com
+
+Sage Estimating
+
+AI-assisted construction estimating software.
+
+https://www.sage.com
+
+HeavyBid
+
+AI software for civil construction bidding and estimating.
+
+https://www.hcss.com
+
+4. AI Site Monitoring & Computer Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+OpenSpace
+
+AI captures and analyzes 360° construction site progress.
+
+https://www.openspace.ai
+
+Buildots
+
+AI monitors project progress using computer vision.
+
+https://buildots.com
+
+Doxel
+
+AI tracks construction progress and detects delays.
+
+https://www.doxel.ai
+
+Smartvid.io
+
+AI identifies safety risks from construction site images.
+
+https://smartvid.io
+
+Newmetrix
+
+AI-powered safety and risk analytics platform.
+
+https://newmetrix.com
+
+Roboflow
+
+AI platform for training construction computer vision models.
+
+https://roboflow.com
+
+LandingLens
+
+AI visual inspection software for construction quality control.
+
+https://landing.ai
+
+OpenCV
+
+Computer vision library for construction AI applications.
+
+https://opencv.org
+
+Ultralytics YOLO
+
+AI object detection for equipment and worker monitoring.
+
+https://ultralytics.com
+
+NVIDIA Metropolis
+
+AI vision platform for smart construction sites.
+
+https://www.nvidia.com/metropolis
+
+5. AI Drones & Surveying
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+DroneDeploy
+
+AI-powered drone mapping and site inspections.
+
+https://www.dronedeploy.com
+
+Pix4D
+
+AI photogrammetry software for surveying and earthworks.
+
+https://www.pix4d.com
+
+DJI Terra
+
+AI mapping software for construction projects.
+
+https://enterprise.dji.com
+
+Propeller Aero
+
+AI platform for site surveying and earthwork measurement.
+
+https://www.propelleraero.com
+
+Delair.ai
+
+AI drone analytics for infrastructure inspection.
+
+https://delair.ai
+
+Skydio 3D Scan
+
+AI-powered autonomous construction inspections.
+
+https://www.skydio.com
+
+6. AI Safety & Risk Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Smartvid.io
+
+AI identifies unsafe conditions on construction sites.
+
+https://smartvid.io
+
+Newmetrix
+
+AI predicts safety risks using site data.
+
+https://newmetrix.com
+
+HammerTech
+
+AI-based safety compliance and workforce management.
+
+https://www.hammertechglobal.com
+
+SafetyCulture
+
+AI-powered inspections and compliance management.
+
+https://safetyculture.com
+
+EcoOnline
+
+AI software for EHS and risk management.
+
+https://www.ecoonline.com
+
+7. AI Equipment Monitoring & Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo
+
+AI predicts equipment failures and maintenance needs.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance for construction equipment.
+
+https://senseye.io
+
+C3 AI Reliability
+
+AI predicts heavy equipment failures.
+
+https://c3.ai
+
+Caterpillar VisionLink
+
+AI monitors equipment utilization and performance.
+
+https://www.cat.com
+
+Komatsu Smart Construction
+
+AI platform for connected construction machinery.
+
+https://www.komatsu.com
+
+Trimble WorksManager
+
+AI manages machine control and equipment workflows.
+
+https://trimble.com
+
+8. AI Smart Infrastructure & Digital Twins
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Bentley iTwin
+
+AI-powered digital twin platform for infrastructure.
+
+https://www.bentley.com
+
+NVIDIA Omniverse
+
+AI platform for digital twins and construction simulations.
+
+https://www.nvidia.com/omniverse
+
+Siemens Xcelerator
+
+AI-enabled digital engineering and infrastructure platform.
+
+https://www.siemens.com
+
+Matterport
+
+AI creates digital twins of buildings and construction sites.
+
+https://matterport.com
+
+Unity Industry
+
+AI-powered 3D visualization for infrastructure projects.
+
+https://unity.com
+
+9. AI Sustainability & ESG
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+One Click LCA
+
+AI calculates building life-cycle carbon emissions.
+
+https://oneclicklca.com
+
+Watershed
+
+AI platform for carbon accounting and ESG reporting.
+
+https://watershed.com
+
+Persefoni
+
+AI-powered sustainability reporting software.
+
+https://persefoni.com
+
+Sphera
+
+AI platform for environmental compliance and risk.
+
+https://sphera.com
+
+Autodesk Insight
+
+AI optimizes building energy performance.
+
+https://www.autodesk.com
+
+10. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for construction documentation, planning, and research.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and project analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for engineering research and construction workflows.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and project management.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered search engine for construction research.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing construction documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for engineering research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding technical papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering construction research publications.
+
+https://www.researchrabbit.ai
+
+11. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for construction AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for computer vision and predictive analytics.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for construction data analysis.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for construction analytics.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AI platform for predictive construction analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+Visual AI workflows for construction data science.
+
+https://www.knime.com
+
+Google Vertex AI
+
+Cloud AI platform for construction machine learning.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI model development and deployment platform.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for training and deploying AI models.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for large construction datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

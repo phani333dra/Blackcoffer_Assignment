@@ -1,0 +1,67 @@
+Transalta: Migration of servers from VMware to AWS Client
+
+About the client: Canada’s largest clean electricity provider
+
+Location: Calgary, Canada
+
+Date: Feb 2016
+
+Requirement for Transalta
+
+The client had a setup of 900+ VM’s on multiple VMware Exsi Hosts, as well as multiple VMware Vcenter Client. The Operating Systems were mostly Windows with a few RHEL instances. The client had multiple applications running on the servers ranging from Biz-Talk, SAP Basis, MM, Sharepoint, SCOM, SCCM, etc.
+
+The main objective of the client was to prevent underutilization or over-provisioning of resources due to unpredictable demand.
+
+Solution provided by Blackcoffer for VMware to AWS Client
+
+Blackcoffer Team collaborated with Transalta and executed alongside their team to meet the infrastructure and timeline goals. The goals of migration VMware to AWS Client were:
+
+To become an extension to their internal IT team and managing their entire infrastructure that runs on AWS
+
+To determine migration costs
+
+To estimate how much can be saved by migrating to AWS
+
+To estimate other business benefits of migrating
+
+To determine the length of the target migration
+
+To determine which workloads will migrate and in which year
+
+To develop the prioritized migration schedule to ensure a smooth migration process with zero downtime or impact to end-users, and also assisting with AWS project governance, security administration, billing support, and continuous cost optimization
+
+Specifics: Number of Servers: 900+
+
+Operating Systems: Windows Server 2008 Windows Server 2012 R2 RHEL 7
+
+Virtualization: VMware Database: MySQL, MS SQL Server
+
+Applications: The applications running on the instances varied from Biz-Talk, SAP Basis, SAP MM, SAP Security, Sharepoint, SCOM, SCCM, etc.
+
+Environments: Development, Test, Pre-Production, Production
+
+A bird’s eye view of the Migration Process from VMware to AWS Client
+
+Assessment of Transalta
+
+An initial understanding of the existing environment was necessary to develop a business case for migration. Through the data on the actual utilization of the on-premises resources, we created a more accurate forecast of the total cost of ownership (TCO) to run these workloads in AWS.
+
+Readiness and Planning for Transalta
+
+We analyzed their environment, created a map of interdependencies, and determined migration strategies (e.g., lift-and-shift, re-platform, etc.) to build a detailed migration plan with priorities for each application. At this stage, we set up a secured, and well-architected multi-account AWS environment (AWS Landing Zone). As part of the readiness and planning phase, we created a migration plan (which includes building experience through initial migrations) and refined their business case. We also focused on building the baseline environment (the “landing zone”), driving operational readiness, and developing cloud skills.
+
+Migration from VMware to AWS Client
+
+In this phase, the focus shifted from the portfolio level to the individual applications. Each application was designed, migrated, and validated. We needed the capability to automatically migrate thousands of applications from different source environments (physical, virtual, and cloud-based) to AWS. These applications typically involved widely used commercial and open-source databases. Additionally, we required a one-time migration of a large volume of data to AWS.
+
+Operations and Optimizations
+
+As applications were migrated, we optimized their new foundation, turned off old systems, and constantly iterated towards a modern operating model. At this stage, we operated, managed and optimized workloads in the cloud efficiently. Ideally, we built it off the foundational expertise we had already developed. If not, we would have used the first few application migrations to develop that foundation to improve and sophisticate their operating model.
+
+Major Tools used for Migration : AWS Server Migration Service, AWS Database Migration Service, VMware Cloud on AWS
+
+AWS VPN Gateway: AWS Site-to-Site VPN AWS Client VPN
+
+High-Level Diagram of the connectivity to AWS
+
+We designed the Virtual Networks by creating appropriate CIDR’s to avoid overlap between on-premises and Cloud VPC’s. The client had an on-premises Cisco Firewall ASA (Adaptive Security Appliance). Hence, we decided to create a Site to Site VPN Gateway.

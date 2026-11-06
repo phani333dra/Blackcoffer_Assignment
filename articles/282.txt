@@ -1,0 +1,43 @@
+Audify Music Player Website in MERN Stack
+
+Project Description
+
+The client wanted to design and develop a web application for their largest mobile application in the music play industry using the Audify Music Player Website. Their music player app has over 10M+ installs and 8M+ active users. The application is so big, that the client needed a web application to showcase their product and to attract advertisers to their application.
+
+Deigned and implanted the web application
+
+Delivered the interactive and dynamic web application
+
+Deployed the fully mean stack app at the server
+
+The client is now able to showcase their product through a web application to attract advertisers to advertise with them.
+
+Data Visualization Deliverables
+
+Presentation
+
+Map
+
+Dashboard
+
+API Integration
+
+Data Visualization Tools for Audify Music Player Website
+
+Microsoft Power BI
+
+D3.js
+
+Google Data Studio
+
+Data Visualization Languages
+
+JavaScript
+
+Python
+
+Project Snapshot
+
+Project Website
+
+https://audifytech.com/home

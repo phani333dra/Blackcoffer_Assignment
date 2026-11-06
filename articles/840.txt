@@ -1,0 +1,75 @@
+Political Intelligence Database
+
+Election Campaign Finance Data
+
+Source: https://www.fec.gov/data/
+
+API: https://api.open.fec.gov/developers/
+
+Raising
+
+Spending
+
+Candidates
+
+Commiters
+
+Filings and reports
+
+Loans and depts.
+
+Candidates and committee profiles
+
+Contributions from individuals
+
+Historical statistics
+
+Voteview
+
+Source: https://voteview.com/district/
+
+Bulk: https://voteview.com/data
+
+Search by address or zip code
+
+Historical representative
+
+Congress
+
+District
+
+Ideology
+
+Party
+
+Member
+
+Member demographics
+
+Census database
+
+Source: https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-583.html
+
+Voting and registration
+
+On the Issues
+
+Source: https://www.ontheissues.org/index.htm
+
+OpenSecrete
+
+Source: https://www.opensecrets.org/
+
+Social Media
+
+Twitter
+
+Facebook
+
+Instagram
+
+YouTube
+
+Internet
+
+Suggest more urls for data collection

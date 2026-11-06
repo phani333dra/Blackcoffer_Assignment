@@ -1,0 +1,53 @@
+AI Bot Driven by GraphDB Neo4j for a Leading Healthcare Tech Firm in the USA
+
+Client Background
+
+Client: A leading healthcare tech firm in the USA
+
+Industry Type: Healthcare Tech
+
+Services: Healthcare services, Healthcare insurance , Medical Devices
+
+Organization Size: 10,000+
+
+Project Objective
+
+Tasks related to neo4j:
+
+Making a chatbot using google Dialogflow with neo4j as storage and using node js code to connect them.
+
+Making documentations for chatbot and neo4j/knowledge graphs-related tasks. This also includes running queries and writing reports for different use cases of infertilities.
+
+Project Description
+
+Our use case involves developing a chatbot using Google Dialogflow, neo4j and nodejs. The chatbot will work as an interface connecting our user queries to the Knowledge Graph database. NLP queries provided by the user are processed and then broken down into simpler elements by which we can perform queries inside the neo4j database and get relevant results. The project also includes running queries and creating reports for multiple test cases.
+
+Our Solution for AI Bot Driven by GraphDB
+
+Created a google Dialogflow chatbot to test case for providing a platform where users can interact using natural language to get relevant data from a fast database. This includes creating python scripts for converting source excel data into neo4j database, then connecting it to Dialogflow UI using nodejs. Later on, going through methods for ontology generation so as to automate data extraction for databases.
+
+Project Deliverables
+
+Interact able chatbot where user can use nlp queries to interact with stored medical data.
+
+Python code/neo4j queries for different use cases.
+
+Documentation/reports related to given tasks.
+
+Tools used for AI Bot Driven by GraphDB
+
+Python – for creating scripts to transfer excel data into neo4j storage.
+
+Nodejs – as a backend for connecting storage to Dialogflow frontend using ngrok tool.
+
+Google Dialogflow – used as an interaction platform for the user to process and convert nlp queries into simpler data that can be used inside nodejs (and vice versa).
+
+Language/ Techniques used
+
+Python for coding on excel data.
+
+Cypher query language for interacting with neo4j database.
+
+Javascript for nodejs.
+
+Dialogflow ES UI for creating intents, entities, etc.

@@ -1,0 +1,35 @@
+Solution for Contact Centre Problems
+
+Customer Care Problems
+
+Dealing with a customer contact centre can be horror and tedious task anytime. Using the IVR and telephonic Menus can be so frustrating. Calling the customer care executive and resolving the problem can be an irritant. It can kill Brand reputation. The opportunity cost is quite high wasting our waiting time and energy to raise a ticket and follow up.
+
+This can be even more painful if you have multiple products and multiple contact centers to reach out to your problems. (Assume you have bought a TV and a mobile phone etc.., together.)
+
+Imagine
+
+Imagine how would it be login to an application and directly explain the customer service executive the problem without any kind of verification(or minimal verification) and long haul on the phone…What a relatively pleasurable experience it would be…Yes, this is possible through chat, phone, and all other mediums if you are on this particular SOVRIN block-chain network and using the HearRo solution built by Blackcoffer.
+
+You may just have to scan the BAR code or QR code of the product and connect with the customer care using the HearRO solution.
+
+To verify the product, the QR code is verified and to verify the customer SOVRIN identity is used. Both of them are minimal and one-time effort.
+
+Options to chat, audio, video call with support agents, with AI and automation and many more are possible. The customer need not communicate the same problem and information to the support agents more than once. Once it is said, it is recorded and relayed to the next level in case of an escalation.
+
+This can be implemented by a Seamless customer support software either through a web application or mobile app using AI and BlockChain technology. Blackcoffer has built this solution for HearRO.
+
+To have access to this network, one should enroll with SOVRIN, a digital (block-chain) network with minimal paperwork. There will be a one-time registration with identity papers from a government body like a post office.
+
+To implement this solution, HearRo depends upon TWILIO-flex which provides such a seamlessly integrated platform for contact centers. But unfortunately, there is no API and the documentation is quite poor. Hence, the need for building a new API, application to connect HearRO with TWILIO.
+
+The only challenge is the absence of a working API. Information related to Blockchain and communication to third party apps is very poorly documented, and nearly incomplete in providing solutions to integrate.
+
+If we overcome the challenges, the benefits are many. One can get connected with several customer platforms like Audio/Video Call and Messaging, chat with AI-enabled solutions.
+
+Blackcoffer’s Solution
+
+HearRo partnered with Blackcoffer to develop this integration, the API and the solution to React Javascript. This API is a total replacement for the poor documentation done from TWILIO’s end.
+
+Additionally, Testing, Automation, improved scalability are the main value-adds provided by Blackcoffer for multiple partners and customers.
+
+Using the SOVRIN network, both customers and contact center agents can use digital identity to login instead of logging in separately in separate applications.

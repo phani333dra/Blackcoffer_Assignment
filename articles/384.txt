@@ -1,0 +1,469 @@
+Complete List of Cybersecurity AI Tools & AI Software
+
+1. AI Security Operations (SOC) & Threat Detection
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Security Copilot
+
+AI-powered cybersecurity assistant for SOC teams.
+
+https://www.microsoft.com/security
+
+CrowdStrike Charlotte AI
+
+AI-driven threat detection and incident response.
+
+https://www.crowdstrike.com
+
+Google SecOps AI
+
+AI-powered cloud-native security operations.
+
+https://cloud.google.com/security
+
+Splunk AI Assistant
+
+AI analyzes security events and logs.
+
+https://www.splunk.com
+
+IBM QRadar Suite
+
+AI-powered SIEM and threat detection.
+
+https://www.ibm.com/qradar
+
+Elastic Security AI Assistant
+
+AI supports SOC investigations and alerts.
+
+https://www.elastic.co/security
+
+2. AI Endpoint Detection & Response (EDR/XDR)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+SentinelOne Purple AI
+
+AI-powered endpoint protection and response.
+
+https://www.sentinelone.com
+
+CrowdStrike Falcon
+
+AI-based endpoint detection and response.
+
+https://www.crowdstrike.com
+
+Microsoft Defender XDR
+
+AI protects endpoints, identities, and cloud apps.
+
+https://www.microsoft.com/security
+
+Palo Alto Cortex XDR
+
+AI detects advanced cyber threats.
+
+https://www.paloaltonetworks.com
+
+Trend Micro Vision One
+
+AI-powered extended detection and response.
+
+https://www.trendmicro.com
+
+Sophos XDR
+
+AI-driven endpoint security platform.
+
+https://www.sophos.com
+
+3. AI Network Security
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Darktrace
+
+AI autonomously detects network threats.
+
+https://www.darktrace.com
+
+Cisco Secure AI
+
+AI-powered network protection and analytics.
+
+https://www.cisco.com
+
+Fortinet FortiAI
+
+AI enhances network threat detection.
+
+https://www.fortinet.com
+
+Check Point Infinity AI
+
+AI-powered network security platform.
+
+https://www.checkpoint.com
+
+Juniper Mist AI
+
+AI automates secure network operations.
+
+https://www.juniper.net
+
+Vectra AI
+
+AI detects identity and network attacks.
+
+https://www.vectra.ai
+
+4. AI Cloud Security
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Wiz AI
+
+AI-powered cloud security posture management.
+
+https://www.wiz.io
+
+Lacework AI
+
+AI detects cloud threats and vulnerabilities.
+
+https://www.lacework.com
+
+Orca Security
+
+AI-based cloud security platform.
+
+https://orca.security
+
+Prisma Cloud AI
+
+AI secures cloud-native applications.
+
+https://www.paloaltonetworks.com/prisma/cloud
+
+Microsoft Defender for Cloud
+
+AI protects multi-cloud environments.
+
+https://azure.microsoft.com/products/defender-for-cloud
+
+AWS GuardDuty
+
+AI-powered intelligent threat detection for AWS.
+
+https://aws.amazon.com/guardduty
+
+5. AI Identity & Access Management (IAM)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Okta AI
+
+AI-powered identity and access management.
+
+https://www.okta.com
+
+Microsoft Entra ID
+
+AI secures identities and access.
+
+https://www.microsoft.com/security/business/microsoft-entra
+
+Ping Identity
+
+AI-based authentication and identity protection.
+
+https://www.pingidentity.com
+
+CyberArk Identity
+
+AI secures privileged accounts.
+
+https://www.cyberark.com
+
+SailPoint Atlas
+
+AI-driven identity governance platform.
+
+https://www.sailpoint.com
+
+One Identity
+
+AI-powered identity security management.
+
+https://www.oneidentity.com
+
+6. AI Vulnerability Management & Penetration Testing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Tenable AI
+
+AI identifies and prioritizes vulnerabilities.
+
+https://www.tenable.com
+
+Qualys VMDR
+
+AI-powered vulnerability management.
+
+https://www.qualys.com
+
+Rapid7 InsightVM
+
+AI automates vulnerability assessment.
+
+https://www.rapid7.com
+
+Detectify
+
+AI-powered web vulnerability scanning.
+
+https://detectify.com
+
+Pentera
+
+AI automates penetration testing.
+
+https://pentera.io
+
+Horizon3.ai NodeZero
+
+AI-driven autonomous penetration testing.
+
+https://www.horizon3.ai
+
+7. AI Email & Phishing Protection
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Abnormal AI
+
+AI detects phishing and email fraud.
+
+https://abnormal.ai
+
+Proofpoint AI
+
+AI-powered email security platform.
+
+https://www.proofpoint.com
+
+Mimecast AI
+
+AI blocks phishing and malicious emails.
+
+https://www.mimecast.com
+
+IRONSCALES
+
+AI automates phishing detection and response.
+
+https://ironscales.com
+
+Barracuda Email Protection
+
+AI-powered email threat defense.
+
+https://www.barracuda.com
+
+Avanan (Check Point)
+
+AI secures Microsoft 365 and Google Workspace email.
+
+https://www.checkpoint.com/avanan
+
+8. AI Security Analytics & SIEM
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Sentinel
+
+AI-powered cloud-native SIEM platform.
+
+https://azure.microsoft.com/products/microsoft-sentinel
+
+Splunk Enterprise Security
+
+AI-driven security analytics.
+
+https://www.splunk.com
+
+IBM QRadar SIEM
+
+AI-based security event monitoring.
+
+https://www.ibm.com/qradar
+
+LogRhythm Axon
+
+AI-powered security operations platform.
+
+https://logrhythm.com
+
+Exabeam
+
+AI-powered behavior analytics and SIEM.
+
+https://www.exabeam.com
+
+Securonix
+
+AI detects insider threats and anomalies.
+
+https://www.securonix.com
+
+9. AI Security Automation & Productivity
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assists with security documentation and analysis.
+
+https://chatgpt.com
+
+Claude
+
+AI generates cybersecurity reports and policies.
+
+https://claude.ai
+
+Google Gemini
+
+AI supports cybersecurity research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI improves security operations productivity.
+
+https://copilot.microsoft.com
+
+UiPath AI Center
+
+AI automates cybersecurity workflows.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered security process automation.
+
+https://www.automationanywhere.com
+
+ABBYY Vantage
+
+AI extracts security document data.
+
+https://www.abbyy.com
+
+Notion AI
+
+AI manages cybersecurity knowledge and documentation.
+
+https://www.notion.so
+
+10. AI Machine Learning & Security Research Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source framework for cybersecurity AI models.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning framework for cyber defense research.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for threat detection.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Enterprise AutoML for cybersecurity analytics.
+
+https://h2o.ai
+
+Hugging Face
+
+AI models for security research and NLP.
+
+https://huggingface.co
+
+MLflow
+
+AI model lifecycle management for security.
+
+https://mlflow.org
+
+Dataiku
+
+Enterprise AI platform for cyber analytics.
+
+https://www.dataiku.com
+
+Databricks AI
+
+AI-powered cybersecurity analytics platform.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

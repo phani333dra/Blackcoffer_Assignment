@@ -1,0 +1,57 @@
+IoT, AI, ML to Detect Fire and Smoke
+
+Client Background
+
+Client: A leading Wine and Spirits Firm Worldwide
+
+Industry Type: Wine and Spirits
+
+Products: Wine & Spirits, Alcoholic Beverages, Seagrams, Blenders Pride, Royal Stag, Imperial Blue, Jameson, ABSOLUT, Ballentine’s, Chivas Regal, Jacob’s Creek, 100 Pipers, and Glenlivet
+
+Organization Size: 5000+
+
+Customers: Worldwide
+
+Challenges to Detect Fire and Smoke
+
+The client had a legacy-based system in place and a manual process to manage hazardous and critical risks such as fire and some. Alcohol is highly flammable and the legacy-based system was causing a huge risk at their processing centres and warehouses. The client wanted to design and develop an automated system in place to detect smoke and fire and raise the early-stage alarm to the stakeholders to minimize the overall risk.
+
+The solution to Detect Fire and Smoke
+
+An IoT, AI, and ML-driven automated system were designed and implemented to Detect Fire and Smoke and raise early-stage triggers to the stakeholders. Further, a dashboard was created for the decision-maker to live to monitor and controlling of their processing centres and warehouses.
+
+Business Impact
+
+An estimated yearly loss reduced by 80%
+
+The risk was reduced by 95%
+
+Proposed Approach
+
+The detection can be done using CNN (Deep Learning) where we train the fire and smoke dataset on different layers of CNN. The early layer of CNN uses to detect edge or simple things of an image and the deeper layer use to detect complex things in the image like texture, object, face, etc.
+
+Software used
+
+I. Python
+
+II. Open CV
+
+Yolo Model to Detect Fire and Smoke
+
+We use the YOLO model to do Fire and Smoke Detection, the input image will be divided into S * S grid cells, where S is an integer. Suppose the centre of a detected object is located in one of the grid cells, then the classification of the object is determined by the specific grid cells.
+
+In YOLO each grid cell will be in charge of predicting B bounding boxes. After calculating, the YOLO model completes the regression of each bounding box. The confidence value indicates whether or not there is an object in the bounding box and how accurate the prediction is. The value calculated by
+
+Pr (Object) * 𝐼𝑂𝑈 𝑝𝑟𝑒𝑑 𝑡𝑟𝑢𝑡ℎ . Pr (Object)
+
+Pr (Object) is the possibility that the object exists in a specific grid cell. When there is an object located in a grid cell, Pr(Object) = 1.
+
+One of the major drawbacks of YOLO or any other model is the final on-disk size of the trained model and the number of layers is too large, thus preventing these trained models to run smoothly at a sufficient frame rate on low-cost hardware like Raspberry Pi for real-time fire and smoke detection.
+
+To overcome this model, we use your tiny model which takes about 40 mb of disk size and gives a very good frame rate.
+
+The architecture of YOLO Tiny
+
+The Architecture of YOLO tiny only has 23 layers instead of 106 which is present in a YOLO model.
+
+Results

@@ -1,0 +1,53 @@
+Predictive Modelling, AI, ML Dashboards in Power BI
+
+Client Background
+
+Client: A leading tech firm in the USA
+
+Industry Type: IT Services
+
+Services: SAAS services, DAAS, Marketing services, Business consultant
+
+Organization Size: 100+
+
+Project Objective
+
+The main objective of this project is to create documentation of predictive model dashboard that explains about connectivity, correlation with data and graph.
+
+Project Description
+
+With the Provender content pack for Power BI, you can visualize and explore your predictive results. This out-of-the-box solution includes information such as financial forecasts, top growth markets, and global economic, industry specific, and weather data that’s relevant to your business.
+
+Our Solution
+
+Step 1: Providing dashboard access credential to client and discuss requirement in zoom meeting.
+
+Step 2: Providing full explanation document of Predictive modelling dashboard.
+
+Project Deliverables
+
+After understanding the prediction model dashboard we come up with Power BI file access credential and explanation of model in documentation.
+
+Tools used
+
+Power BI, Microsoft Word.
+
+Language/techniques used
+
+Power BI report techniques used.
+
+Models used
+
+Predictive model used.
+
+Skills used
+
+Power BI Dashboard and report development.
+
+Databases used
+
+CSV dataset and zip file of predictive model.
+
+Web Cloud Servers used
+
+Microsoft Azure

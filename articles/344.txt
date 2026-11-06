@@ -1,0 +1,37 @@
+Car Parking Management System
+
+Today a car parking problem is increasing day by day that multiplies parking capacity inside a building or a parking lot. Parking systems are generally powered by electric motors or hydraulic pumps that move vehicles into a storage position.
+
+There are two types of car parking systems: traditional and automated . In the long term, automated car parking systems are likely to be more cost-effective when compared to traditional parking garages . Automatic multi-story automated car park systems are less expensive per parking slot since they tend to require less building volume and less ground area than a conventional facility with the same capacity. Both automated car parking systems and automated parking garage systems reduce pollution—cars are not running or circling around while drivers look for parking spaces and for all these processes a lot of man work is required that not seems to be useful.
+
+A Smart way to manage car parking using OpenCV. Using a smart parking system with image processing technique with OpenCV. Nowadays, Smart Car Parking is a must. The project involves a system including infrared transmitter and receiver at entry and exit gates and a boom barrier at gates can be powered by the hydraulic system by a microcontroller for car entry and exit. The Smart Car Parking System does all the required work like automatic counting, and opening and closing of the gates without human intervention. When the parking space is full, the gate barrier does not open and cars cannot enter the parking lot.
+
+OpenCV is a library of programming functions for real-time computer vision originally and developed by Intel and now supported by Willogarage. Open CV is a cross-platform library, which has been suggested for applying SVMs for multiclass classification. They are “one against all” and “one against one”. A number plate region is located by using mean shift method and extracted; the histogram projection method in the horizontal direction is applied for a simple segmentation only.
+
+Automatic license plate recognition is a Computer Vision technique which is able to recognize a license plate number. This system is useful in many fields likes parking lots, private and public entrances, theft control. In this paper, we designed such a system. First, we capture the image from the camera then load into the system after that we used Open CV library tools.
+
+Our solution
+
+Parking Permit Software
+
+We can develop self-registration mobile apps and web interfaces with automated SMS or push notifications to alert users of permit expirations, as well as create permit management software which includes features such as customizable time-limit and renewal settings, and group and extended stay management.
+
+Parking Access Control Solutions
+
+We develop Radio Frequency Identification (RFID) and smart decal software systems for gate access control, vehicle tracking, and automated restricted-user alerts that notify security personnel, tow services, or law enforcement depending on prior delinquencies, with custom systems designed for public or residential transparency.
+
+Parking Kiosk Software
+
+We program and implement self-service kiosks with Ticket In/Credit Card Out and Credit Card In/Credit Card Out (TICO/CICO) functions, smart meter, and mobile app technology. We also develop payment processing features integrated with banking and accounting software for end-to-end revenue management and payment channel development.
+
+Parking Enforcement Software
+
+Our experts develop mobile parking attendant applications for issuing virtual and QR-coded paper tickets using handheld printers, Automatic Number Plate Recognition (ANPR), automated fee calculations, note taking, photo software for documenting property and vehicle damage, security, tow service, and law enforcement communication channels.
+
+Business Intelligence Solutions
+
+Our business intelligence (BI) solutions include developing systems powered by data from guest registration systems, meters, kiosks, and smart sensors with reporting modules for rate planning and scheduling, as well as custom smart sensors, integrated with GPS.
+
+Parking Lot Security Systems Integration
+
+We integrate IP HD camera technology with parking management platforms to record footage automatically when motion is detected and alert security when banned vehicles enter the premises. We also program mobile attendant apps to access feed and sensor data while in the field.

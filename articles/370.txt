@@ -1,0 +1,425 @@
+Complete List of Airlines AI Tools & AI Software
+
+1. AI Airline Operations Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Lufthansa Systems
+
+AI-powered airline operations, scheduling, and flight planning.
+
+https://www.lhsystems.com
+
+Amadeus Airline Platform
+
+AI manages airline operations and passenger services.
+
+https://amadeus.com
+
+Sabre AirCentre
+
+AI optimizes airline operational control.
+
+https://www.sabre.com
+
+SITA Operations Control
+
+AI improves airline operations and flight monitoring.
+
+https://www.sita.aero
+
+Honeywell Forge
+
+AI monitors airline performance and operations.
+
+https://www.honeywell.com
+
+Airbus Skywise
+
+AI-powered aviation data and operations platform.
+
+https://skywise.airbus.com
+
+2. AI Flight Planning & Route Optimization
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+GE Aerospace FlightPulse
+
+AI analyzes flight efficiency and fuel usage.
+
+https://www.geaerospace.com
+
+SITA OptiFlight
+
+AI optimizes flight routes and fuel consumption.
+
+https://www.sita.aero
+
+Jeppesen FliteDeck Pro
+
+AI-assisted flight planning and navigation.
+
+https://ww2.jeppesen.com
+
+NAVBLUE N-Flight Planning
+
+AI optimizes airline flight planning.
+
+https://www.navblue.aero
+
+Flightkeys 5D
+
+AI-powered flight optimization platform.
+
+https://www.flightkeys.com
+
+RocketRoute
+
+AI assists pilots with flight planning.
+
+https://www.rocketroute.com
+
+3. AI Revenue Management & Dynamic Pricing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+PROS Revenue Management
+
+AI optimizes airline ticket pricing.
+
+https://www.pros.com
+
+FLYR
+
+AI forecasts demand and dynamic pricing.
+
+https://flyr.com
+
+Amadeus Revenue Management
+
+AI improves airline revenue optimization.
+
+https://amadeus.com
+
+Sabre AirVision Revenue Optimizer
+
+AI maximizes airline profitability.
+
+https://www.sabre.com
+
+Accelya FLX Revenue
+
+AI automates pricing and revenue decisions.
+
+https://w3.accelya.com
+
+IDeaS Revenue Solutions
+
+AI-powered demand forecasting.
+
+https://ideas.com
+
+4. AI Passenger Experience & Customer Service
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Amelia
+
+AI virtual assistant for airlines.
+
+https://amelia.ai
+
+Zendesk AI
+
+AI-powered airline customer support.
+
+https://www.zendesk.com
+
+Intercom Fin AI
+
+AI chatbot for passenger assistance.
+
+https://www.intercom.com
+
+Freshworks Freddy AI
+
+AI automates airline customer service.
+
+https://www.freshworks.com
+
+Tidio AI
+
+AI chatbot for airline websites.
+
+https://www.tidio.com
+
+Drift AI
+
+AI conversational assistant for travelers.
+
+https://www.drift.com
+
+5. AI Airport & Passenger Processing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+SITA Smart Path
+
+AI-powered biometric passenger processing.
+
+https://www.sita.aero
+
+Vision-Box
+
+AI facial recognition for airports.
+
+https://www.vision-box.com
+
+NEC I:Delight
+
+AI-powered identity verification.
+
+https://www.nec.com
+
+IDEMIA Travel & Transport
+
+AI biometric passenger solutions.
+
+https://www.idemia.com
+
+Collins Aerospace ARINC
+
+AI supports airport operations.
+
+https://www.collinsaerospace.com
+
+Thales Fly to Gate
+
+AI-powered passenger identity management.
+
+https://www.thalesgroup.com
+
+6. AI Predictive Maintenance & Fleet Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+IBM Maximo
+
+AI predicts aircraft maintenance requirements.
+
+https://www.ibm.com/maximo
+
+Airbus Skywise Predictive Maintenance
+
+AI forecasts aircraft component failures.
+
+https://skywise.airbus.com
+
+Boeing AnalytX
+
+AI optimizes aircraft maintenance planning.
+
+https://www.boeing.com
+
+Honeywell Forge
+
+AI monitors aircraft health.
+
+https://www.honeywell.com
+
+Siemens Senseye
+
+AI-powered predictive maintenance.
+
+https://senseye.io
+
+AVEVA Predictive Analytics
+
+AI detects equipment failures early.
+
+https://www.aveva.com
+
+7. AI Safety, Security & Compliance
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Dedrone
+
+AI detects unauthorized drones near airports.
+
+https://www.dedrone.com
+
+BriefCam
+
+AI analyzes airport surveillance footage.
+
+https://www.briefcam.com
+
+Avigilon Alta
+
+AI-powered airport security platform.
+
+https://www.avigilon.com
+
+Verkada AI
+
+AI cloud-based airport surveillance.
+
+https://www.verkada.com
+
+Axis Communications AI
+
+AI intelligent airport video analytics.
+
+https://www.axis.com
+
+Bosch Intelligent Video Analytics
+
+AI monitors airport safety events.
+
+https://www.boschsecurity.com
+
+8. AI Airline Analytics & Business Intelligence
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered airline analytics dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven airline performance analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered aviation business intelligence.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven airline insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered aviation analytics platform.
+
+https://www.sas.com
+
+DataRobot
+
+AI predicts passenger demand and revenue.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for aviation data analysis.
+
+https://www.knime.com
+
+Alteryx AI Platform
+
+AI automates airline reporting.
+
+https://www.alteryx.com
+
+9. AI Productivity & Automation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assists with airline documentation and customer communication.
+
+https://chatgpt.com
+
+Claude
+
+AI generates airline reports and operational documents.
+
+https://claude.ai
+
+Google Gemini
+
+AI supports aviation research and planning.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI automates airline workflows.
+
+https://copilot.microsoft.com
+
+UiPath AI Center
+
+AI automates airline business processes.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered airline workflow automation.
+
+https://www.automationanywhere.com
+
+ABBYY Vantage
+
+AI extracts airline document data.
+
+https://www.abbyy.com
+
+Rossum
+
+AI automates invoice and document processing.
+
+https://rossum.ai
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

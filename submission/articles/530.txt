@@ -1,0 +1,51 @@
+Deploy node.js apps to google app engine, google cloud platform
+
+Client Background
+
+Client: A leading social network firm worldwide
+
+Industry Type: Networking
+
+Services: B2C
+
+Organization Size: 100+
+
+Project Description
+
+The objective of this project is to Deploy Node.js, to google app engine, google cloud platform
+
+Design and Development
+
+Front-end development,
+
+Back-end development
+
+Web services
+
+Deployment
+
+Full Stack Development Deliverables
+
+API Database Architecture Database Design API Integration Database Development
+
+Full Stack Development Skills
+
+Node.js PyTorch
+
+Full Stack Development Languages
+
+JavaScript Python
+
+Databases
+
+MongoDB Neo4j
+
+Web Servers
+
+Apache HTTP Server
+
+Business Size Experience
+
+Small (10-99 employees)
+
+Project Snapshot

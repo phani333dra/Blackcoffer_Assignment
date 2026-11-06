@@ -1,0 +1,37 @@
+MisesBot Activate – Markov Chain, Text Generator
+
+Project Description
+
+The client wanted to design and implemented a bot that can generate texts based on input or selection using a Markov text generator.
+
+Delivered a web app
+
+Delivered a bot that generates text based on input or selections
+
+Fully automated the system
+
+Product Description I am MisesBot. I am an artificially intelligent entity created from the works of Ludwig von Mises, the great 20th-century economist. I bring his teachings to life for a new generation and create synthetic insights. I can speak about economics, politics, philosophy, and war. When you enjoy my output, tweet at me!
+
+Data Visualization Deliverables
+
+Presentation
+
+Map
+
+Dashboard
+
+API Integration
+
+Data Visualization Tools for Text Generator, Markov Chain
+
+D3.js
+
+Data Visualization Languages
+
+JavaScript
+
+Python
+
+Project Website
+
+https://www.misesbot.com/preview/

@@ -1,0 +1,41 @@
+Risk Factors and Predicting Intraoperative, and Postoperative Blood Transfusion
+
+Client Background
+
+Client: One of the leading research institutions in the middle east
+
+Industry Type: Healthcare
+
+Services: Research, Healthcare, Medical Devices, Biotechnology, Pharma
+
+Organization Size: 5000+
+
+Challenges
+
+The client wanted to find subjective data linking the amount of blood loss represented by delta hemoglobin to the readmission rates and to identify any potential predictors for increased delta hemoglobin and blood transfusion. Electronic health record and patient treatment data at the hospital, patient, and doctor level were provided. The stored data was complex and unstructured, and it was not easy to drive actionable insights and key drivers from the dataset with performed analysis.
+
+Solution
+
+Statistical modeling was performed using r (statistical programming language). Exploratory statistical analysis was used to measure descriptive statistics of the dataset where we have calculated Standard Deviation, mean, trimmed mean, mean absolute deviation, skewness, kurtosis and standard error for continuous data. Contingency tables (univariate and bi-variate) were reported for factor variable types such as gender, and fusion level.
+
+Multivariate analyses were performed to build and test the statistical model. Further, the multivariate statistical tests were performed to calculate model estimates, standard errors, z value and pr(>|z|), p-value and odds ratio using logistic regression techniques. This analysis often hypothesizes that a given outcome of interest is affected or influenced by more than one thing. Risk factor for the response variable i.e. Transfusion is calculated by performing a chi-square test on the multivariate logistic regression model.
+
+Logistic regression is used for predicting the cause for increased delta hemoglobin and blood transfusion rate. P-value, P<0.05 denoted statistical significance. Further data modeling techniques were performed to visualize data and results.
+
+Business Impact
+
+Designed and implemented multivariate models with 95% accuracy
+
+Designed and implemented risk factor models with 95% certainty
+
+Designed and implemented predictive models with a 99% confidence level.
+
+Studied demographic and clinical data. Age, sex, BMI, ASA. Descriptive basically. A table, containing SD for continuous data – only age and BMI here-and frequencies ( number and percentage) for categorical data (sex, ASA)
+
+Reported risk factors for transfusion (intraoperative and postoperative): Age, BMI, operative time, estimated blood loss, preop hemoglobin, delta hemoglobin, fusion level. Expression as OR with 95% CI and P value
+
+Implemented multivariate logistic regression to discover drivers for the association of transfusion with adverse outcomes e.g. readmission, long hospital stay (more than 7 days). Expression as OR with 95% CI and P value.
+
+Visualized estimated blood loss vs delta hemoglobin in short fusions 3 levels or less (showing linear or non-linear relationship) expressed as a dot plot
+
+Visualized estimated blood loss vs delta hemoglobin in long fusion more than 3 levels (showing linear or non-linear relationship) expressed as a dot plot

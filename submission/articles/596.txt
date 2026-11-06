@@ -1,0 +1,61 @@
+Evaluating Logistic Regression Models
+
+Logistic Regression Models are a technique that is well suited for examining the relationship between a categorical response variable and one or more categorical or continuous predictor variables. The model is generally presented in the following format, where β refers to the parameters and x represents the independent variables.
+
+log(odds)=β0+β1∗x1+…+βn∗xn
+
+The log(odds), or log-odds ratio, is defined by ln[p/(1−p)] and expresses the natural logarithm of the ratio between the probability that an event will occur, p(Y=1), to the probability that it will not occur. We are usually concerned with the predicted probability of an event occurring and that is defined by p=1/1+exp^−z, where z=β0+β1∗x1+…+βn∗xn
+
+Logistic Regression Models Example
+
+We will use the GermanCredit dataset in the caret package for this example. It contains 62 characteristics and 1000 observations, with a target variable ( Class ) that is already defined. The response variable is coded 0 for bad consumers and 1 for good. It’s always recommended that one looks at the coding of the response variable to ensure that it’s a factor variable that’s coded accurately with a 0/1 scheme or two-factor levels in the right order. The first step is to partition the data into training and testing sets.
+
+Using the training dataset, which contains 600 observations, we will use logistic regression to model Class as a function of five predictors.
+
+Bear in mind that the estimates from logistic regression characterize the relationship between the predictor and response variable on a log-odds scale. For example, this model suggests that for every one-unit increase in Age , the log-odds of the consumer having good credit increases by 0.018. Because this isn’t of much practical value, we’ll usually want to use the exponential function to calculate the odds ratios for each preditor.
+
+This informs us that for every one-unit increase in Age , the odds of having good credit increase by a factor of 1.01. In many cases, we often want to use the model parameters to predict the value of the target variable in a completely new set of observations. That can be done with the predict function. Keep in mind that if the model was created using the glm function, you’ll need to add type="response" to the predict command.
+
+Model Evaluation and Diagnostics
+
+A logistic regression model has been built and the coefficients have been examined. However, some critical questions remain. Is the model any good? How well does the model fit the data? Which predictors are most important? Are the predictions accurate? The rest of this document will cover techniques for answering these questions and provide R code to conduct that analysis.
+
+For the following sections, we will primarily work with the logistic regression that I created with the glm() function. While I prefer utilizing the Caret package, many functions in R will work better with a glm object.
+
+The goodness of Fit for Logistic Regression Models
+
+Likelihood Ratio Test
+
+Logistic Regression Models are said to provide a better fit to the data if it demonstrates an improvement over a model with fewer predictors. This is performed using the likelihood ratio test, which compares the likelihood of the data under the full model against the likelihood of the data under a model with fewer predictors. Removing predictor variables from a model will almost always make the model fit less well (i.e. a model will have a lower log-likelihood), but it is necessary to test whether the observed difference in model fit is statistically significant. Given that H0 holds that the reduced model is true, a p-value for the overall model fit statistic that is less than 0.05 would compel us to reject the null hypothesis. It would provide evidence against the reduced model in favor of the current model. The likelihood ratio test can be performed in R using the lrtest() function from the lmtest package or using the anova() function in base.
+
+Pseudo R^2
+
+Unlike linear regression with ordinary least squares estimation, there is no R2 statistic that explains the proportion of variance in the dependent variable that is explained by the predictors. However, there are a number of pseudo R2 metrics that could be of value. Most notable is McFadden’s R2, which is defined as 1−[ln(LM)/ln(L0)] where ln(LM) is the log-likelihood value for the fitted model and ln(L0) is the log-likelihood for the null model with only an intercept as a predictor. The measure ranges from 0 to just under 1 , with values closer to zero indicating that the model has no predictive power.
+
+Hosmer-Lemeshow Test
+
+Another approach to determining the goodness of fit is through the Homer-Lemeshow statistics, which is computed on data after the observations have been segmented into groups based on having similar predicted probabilities. It examines whether the observed proportions of events are similar to the predicted probabilities of occurrence in subgroups of the data set using a Pearson chi-square test. Small values with large p-values indicate a good fit to the data while large values with p-values below 0.05 indicate a poor fit. The null hypothesis holds that the model fits the data and in the below example we would reject H0.
+
+Statistical Tests for Individual Predictors
+
+Wald Test
+
+A wald test is used to evaluate the statistical significance of each coefficient in the model and is calculated by taking the ratio of the square of the regression coefficient to the square of the standard error of the coefficient. The idea is to test the hypothesis that the coefficient of an independent variable in the model is significantly different from zero. If the test fails to reject the null hypothesis, this suggests that removing the variable from the model will not substantially harm the fit of that model.
+
+Variable Importance
+
+To assess the relative importance of individual predictors in the model, we can also look at the absolute value of the t- statistic for each model parameter. This technique is utilized by the vamp function in the caret package for general and generalized linear models.
+
+Validation of Predicted Values
+
+Classification Rate
+
+When developing models for prediction, the most critical metric regards how well the model does in predicting the target variable on out-of-sample observations. The process involves using the model estimates to predict values on the training set. Afterward, we will compare the predicted target variable versus the observed values for each observation. In the example below, you’ll notice that our model accurately predicted 67 of the observations in the testing set.
+
+ROC Curve
+
+The receiving operating characteristic is a measure of classifier performance. Using the proportion of positive data points that are correctly considered as positive and the proportion of negative data points that are mistakenly considered as positive, we generate a graphic that shows the trade-off between the rate at which you can correctly predict something with the rate of incorrectly predicting something. Ultimately, we’re concerned about the area under the ROC curve, or AUROC. That metric ranges from 0.50 to 1.00, and values above 0.80 indicate that the model does a good job in discriminating between the two categories which comprise our target variable. Bear in mind that ROC curves can examine both target-x-predictor pairings and target-x-model performance. An example of both are presented below.
+
+K-Fold Cross-Validation
+
+When evaluating models, we often want to assess how well it performs in predicting the target variable on different subsets of the data. One such technique for doing this is k-fold cross-validation, which partitions the data into k equally sized segments (called ‘folds’). One fold is held out for validation while the other k-1 folds are used to train the model and then used to predict the target variable in our testing data. This process is repeated k times, with the performance of each model in predicting the hold-out set being tracked using a performance metric such as accuracy. The most common variation of cross-validation is 10-fold cross-validation.

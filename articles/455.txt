@@ -1,0 +1,511 @@
+Complete List of Telecommunication Engineering AI Tools & AI Software
+
+1. AI Network Planning & Optimization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Ericsson Intelligent Automation Platform
+
+AI-powered telecom network optimization and automation.
+
+https://www.ericsson.com
+
+Nokia AVA
+
+AI platform for autonomous network management and optimization.
+
+https://www.nokia.com
+
+Huawei iMaster NCE
+
+AI-driven network cloud engine for telecom operations.
+
+https://www.huawei.com
+
+Juniper Mist AI
+
+AI-powered wired, wireless, and WAN network management.
+
+https://www.juniper.net
+
+Cisco Crosswork
+
+AI-assisted network automation and optimization platform.
+
+https://www.cisco.com
+
+Netcracker Digital OSS
+
+AI platform for telecom network operations.
+
+https://www.netcracker.com
+
+Amdocs Network AIOps
+
+AI-powered telecom network intelligence platform.
+
+https://www.amdocs.com
+
+Blue Planet
+
+AI-driven network orchestration and automation software.
+
+https://www.blueplanet.com
+
+2. AI Network Monitoring & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cisco ThousandEyes
+
+AI-powered network performance monitoring.
+
+https://www.thousandeyes.com
+
+Kentik
+
+AI-driven network observability and traffic analytics.
+
+https://www.kentik.com
+
+Datadog Network Monitoring
+
+AI platform for monitoring telecom infrastructure.
+
+https://www.datadoghq.com
+
+Splunk Observability
+
+AI-powered network monitoring and analytics.
+
+https://www.splunk.com
+
+SolarWinds Network Performance Monitor
+
+AI-assisted telecom network monitoring.
+
+https://www.solarwinds.com
+
+ManageEngine OpManager Plus
+
+AI-powered IT and telecom network monitoring.
+
+https://www.manageengine.com
+
+LogicMonitor
+
+AI-driven infrastructure monitoring platform.
+
+https://www.logicmonitor.com
+
+Dynatrace
+
+AI platform for telecom infrastructure observability.
+
+https://www.dynatrace.com
+
+3. AI 5G & Wireless Network Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Ericsson 5G Intelligent Automation
+
+AI platform for autonomous 5G network operations.
+
+https://www.ericsson.com
+
+Nokia MantaRay SON
+
+AI-powered self-organizing 5G network management.
+
+https://www.nokia.com
+
+Huawei SingleSON
+
+AI-enabled self-optimizing mobile network solution.
+
+https://www.huawei.com
+
+AirHop SON
+
+AI software for LTE and 5G radio optimization.
+
+https://www.airhopcomm.com
+
+Parallel Wireless
+
+AI-powered Open RAN and 5G automation platform.
+
+https://www.parallelwireless.com
+
+Mavenir AI
+
+AI platform for Open RAN and cloud-native telecom networks.
+
+https://www.mavenir.com
+
+4. AI Telecom Security
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Darktrace
+
+AI-powered cyber threat detection for telecom networks.
+
+https://www.darktrace.com
+
+Microsoft Security Copilot
+
+AI assistant for telecom cybersecurity operations.
+
+https://www.microsoft.com/security
+
+CrowdStrike Falcon
+
+AI-powered endpoint security for telecom infrastructure.
+
+https://www.crowdstrike.com
+
+SentinelOne
+
+AI-driven cybersecurity platform for telecom systems.
+
+https://www.sentinelone.com
+
+IBM QRadar Suite
+
+AI-powered SIEM for telecom security monitoring.
+
+https://www.ibm.com/qradar
+
+Palo Alto Cortex XDR
+
+AI-powered extended detection and response platform.
+
+https://www.paloaltonetworks.com
+
+5. AI Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Senseye
+
+AI predicts failures in telecom equipment.
+
+https://senseye.io
+
+IBM Maximo Application Suite
+
+AI-powered telecom asset management platform.
+
+https://www.ibm.com/products/maximo
+
+AVEVA Predictive Analytics
+
+AI monitors telecom infrastructure health.
+
+https://www.aveva.com
+
+GE Digital APM
+
+AI platform for telecom asset performance management.
+
+https://www.gevernova.com/software
+
+Aspen Mtell
+
+AI-powered predictive maintenance software.
+
+https://www.aspentech.com
+
+SparkCognition
+
+AI platform for equipment reliability and maintenance.
+
+https://sparkcognition.com
+
+6. AI Customer Experience & Virtual Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Salesforce Einstein AI
+
+AI-powered telecom CRM and customer insights.
+
+https://www.salesforce.com
+
+Genesys Cloud AI
+
+AI virtual agents for telecom customer service.
+
+https://www.genesys.com
+
+NICE CXone AI
+
+AI-powered customer interaction platform.
+
+https://www.nice.com
+
+Google Dialogflow CX
+
+AI chatbot platform for telecom support.
+
+https://cloud.google.com/dialogflow
+
+Kore.ai
+
+AI virtual assistant platform for telecom businesses.
+
+https://kore.ai
+
+Amelia AI
+
+AI-powered customer service automation platform.
+
+https://amelia.ai
+
+7. AI OSS/BSS & Telecom Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Netcracker OSS/BSS
+
+AI-powered telecom operations support system.
+
+https://www.netcracker.com
+
+Amdocs CES
+
+AI-enabled telecom billing and customer management.
+
+https://www.amdocs.com
+
+Oracle Communications
+
+AI platform for telecom business operations.
+
+https://www.oracle.com/communications
+
+CSG Ascendon
+
+AI-powered telecom monetization platform.
+
+https://www.csgi.com
+
+Blue Planet Inventory
+
+AI-driven telecom service orchestration.
+
+https://www.blueplanet.com
+
+IBM Cloud Pak for Network Automation
+
+AI platform for telecom network automation.
+
+https://www.ibm.com
+
+8. AI Digital Twin & Network Simulation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Omniverse
+
+AI-powered digital twins for telecom infrastructure.
+
+https://www.nvidia.com/omniverse
+
+Azure Digital Twins
+
+AI platform for modeling telecom networks.
+
+https://azure.microsoft.com/products/digital-twins
+
+AWS IoT TwinMaker
+
+AI-powered digital twin platform for telecom assets.
+
+https://aws.amazon.com/iot-twinmaker
+
+Siemens Digital Twin
+
+AI-enabled telecom infrastructure simulation.
+
+https://www.siemens.com
+
+Dassault 3DEXPERIENCE
+
+AI-powered digital engineering platform.
+
+https://www.3ds.com
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for telecom research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and telecom analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for telecommunication engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for coding, reports, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered telecom research search engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing telecom research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for telecom engineering.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding telecom publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering telecom engineering papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for telecom AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for telecom research.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for telecom analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for telecom analytics.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for predictive telecom models.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for telecom data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics platform.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for telecom engineering applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+Cloud AI platform for telecom AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for training telecom AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

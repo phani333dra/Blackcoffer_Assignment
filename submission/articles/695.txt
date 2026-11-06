@@ -1,0 +1,59 @@
+HR Analytics Dashboard
+
+The Problem
+
+In a shifting market, organizations often lose focus on their long-term strategies in favor of the practical business tactics necessary for maintaining daily operations. Many organizations are concerned about meeting their future staffing needs, due to an aging workforce or factors such as planned investments in a clinical capacity. Organizations that use a data-driven approach to decision making are more likely to achieve their strategic objectives. The value proposition of metrics and analytics can be substantial, consisting of both hard dollar and strategic savings. By optimizing data stored in the Blackcoffer data management solution, the Payroll Analytics tool uses existing daily processes to provide invaluable analytics intelligence across the industry spectrum. Analytics are most meaningful when delivered as part of regular business practices.
+
+Basic (USD 5999)
+
+Metrics Covered
+
+Recruitment Parameters Cost Per Hire Hiring Fill Rate Offer Acceptance Rate Channel-wise Employee Recruitment
+
+Training & Development Parameters Training Cost per Employee Training Hours per Employee
+
+Diversity & Compliance Parameters Gender Disabilities
+
+Costs Parameters Average Salary across departments Cost of Benefits Cost of Contractual/ Permanent Employees
+
+Advance (USD 10999)
+
+Metrics Covered
+
+Recruitment Parameters Cost Per Hire Hiring Fill Rate Hiring Cycle Time Probation Time Termination Rate First Year Turnover Cost Rate Offer Acceptance Rate Channel-wise Employee Recruitment Training Cost per Employee Training Hours per Employee
+
+Training & Development Parameters Training Cost per Employee Training Hours per Employee Training Effectiveness Index Training Efficiency Goals and Targets Achievement
+
+Diversity & Compliance Parameters Gender Disabilities Civil Status
+
+Absenteeism Parameters Absence Rate Absence Rate across departments & Managers
+
+Costs Parameters Average Salary across departments Cost of Benefits Cost of Contractual/ Permanent Employees
+
+Performance Management Parameters Average Performance Rating across departments Employee Failure Rate Training of failed employees Termination Rate of Failed Employees
+
+Employee Retention Parameters Voluntary/Involuntary Termination Rate Average Retention Period Average Tenure Voluntary Termination by reason
+
+Pro (USD 15999)
+
+Metrics Covered
+
+Recruitment Parameters Cost Per Hire Hiring Fill Rate Hiring Cycle Time Probation Time Termination Rate First Year Turnover Cost Rate Offer Acceptance Rate Channel-wise Employee Recruitment Manager Satisfaction with New Hires
+
+Training & Development Parameters Training Cost per Employee Training Hours per Employee Training Effectiveness Index Training Efficiency Goals and Targets Achievement
+
+Diversity & Compliance Parameters Gender Disabilities Civil Status
+
+Absenteeism Parameters Absence Rate Absence Rate across departments & Managers
+
+Costs Parameters Average Salary across departments Cost of Benefits Cost of Contractual/ Permanent Employees
+
+Performance Management Parameters Average Performance Rating across departments Employee Failure Rate Training of failed employees Termination Rate of Failed Employees
+
+Employee Retention Parameters Voluntary/Involuntary Termination Rate Average Retention Period Average Tenure Voluntary Termination by reason
+
+Employee Satisfaction Parameters Job Satisfaction Compensation Satisfaction Net Promoter Rate HR Department Satisfaction Rate Work/Life Balance Management Effectiveness Average Employee Complaints
+
+Key Employees & Performers Parameters Key Employees/ Performers Key Employee Satisfaction Rate Key Employee Retention Rate Key Employee Cost Rate Training Efficiency Goals and Targets Achievement
+
+Productivity Parameters Revenue per employee Profit per employee Salary Increment Vs. Revenue Increment

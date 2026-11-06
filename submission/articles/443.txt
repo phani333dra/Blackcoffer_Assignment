@@ -1,0 +1,469 @@
+Complete List of Public Services & Government AI Tools & AI Software
+
+1. AI Citizen Services & Digital Government
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Copilot
+
+AI assistant for public sector productivity and citizen services.
+
+https://copilot.microsoft.com
+
+Google Gemini
+
+AI supports digital government services and public information.
+
+https://gemini.google.com
+
+ChatGPT
+
+AI chatbot for citizen support, FAQs, and document assistance.
+
+https://chatgpt.com
+
+IBM watsonx
+
+Enterprise AI platform for government agencies.
+
+https://www.ibm.com/watsonx
+
+Salesforce Government Cloud AI
+
+AI-powered citizen relationship management.
+
+https://www.salesforce.com
+
+ServiceNow Government AI
+
+AI automates government service delivery.
+
+https://www.servicenow.com
+
+2. AI Document Processing & Records Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Azure AI Document Intelligence
+
+AI extracts structured data from government documents.
+
+https://azure.microsoft.com
+
+Google Document AI
+
+AI processes forms, permits, and public records.
+
+https://cloud.google.com/document-ai
+
+Amazon Textract
+
+AI extracts text from scanned government records.
+
+https://aws.amazon.com/textract
+
+ABBYY Vantage
+
+AI automates document capture and processing.
+
+https://www.abbyy.com
+
+Rossum
+
+AI-powered document processing and workflow automation.
+
+https://rossum.ai
+
+Nanonets
+
+AI OCR for forms, IDs, and administrative documents.
+
+https://nanonets.com
+
+3. AI Public Safety & Emergency Response
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+RapidSOS
+
+AI improves emergency response and dispatch.
+
+https://www.rapidsos.com
+
+Motorola Solutions AI
+
+AI supports public safety communications.
+
+https://www.motorolasolutions.com
+
+Axon AI
+
+AI assists law enforcement with evidence management.
+
+https://www.axon.com
+
+BriefCam
+
+AI-powered video analytics for public safety.
+
+https://www.briefcam.com
+
+Genetec Security Center
+
+AI monitors surveillance and security systems.
+
+https://www.genetec.com
+
+Hexagon Safety Platform
+
+AI supports emergency management and incident response.
+
+https://hexagon.com
+
+4. AI Smart Cities & Urban Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+NVIDIA Metropolis
+
+AI platform for smart city applications.
+
+https://developer.nvidia.com/metropolis
+
+Siemens Building X
+
+AI manages smart public infrastructure.
+
+https://www.siemens.com
+
+Schneider Electric EcoStruxure
+
+AI optimizes energy and public utilities.
+
+https://www.se.com
+
+Cisco Smart+Connected Communities
+
+AI-powered urban infrastructure management.
+
+https://www.cisco.com
+
+Hitachi Lumada
+
+AI analyzes smart city data and operations.
+
+https://www.hitachivantara.com
+
+Bentley iTwin
+
+AI-powered digital twins for infrastructure.
+
+https://www.bentley.com
+
+5. AI Cybersecurity & National Security
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Security Copilot
+
+AI-powered cyber defense for government agencies.
+
+https://www.microsoft.com/security
+
+CrowdStrike Falcon
+
+AI endpoint protection and threat detection.
+
+https://www.crowdstrike.com
+
+Darktrace
+
+AI detects cyber threats in government networks.
+
+https://www.darktrace.com
+
+Palo Alto Cortex XSIAM
+
+AI-driven security operations platform.
+
+https://www.paloaltonetworks.com
+
+SentinelOne Purple AI
+
+AI-powered endpoint security and response.
+
+https://www.sentinelone.com
+
+Splunk AI Assistant
+
+AI analyzes security logs and incidents.
+
+https://www.splunk.com
+
+6. AI Geographic Information Systems (GIS)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Esri ArcGIS AI
+
+AI-powered geospatial mapping and analytics.
+
+https://www.esri.com
+
+Google Earth Engine
+
+AI analyzes satellite and environmental data.
+
+https://earthengine.google.com
+
+Planet AI
+
+AI-powered satellite imagery analysis.
+
+https://www.planet.com
+
+Maxar Intelligence
+
+AI geospatial intelligence and mapping.
+
+https://www.maxar.com
+
+Trimble AI
+
+AI-powered surveying and geospatial solutions.
+
+https://www.trimble.com
+
+Hexagon Geospatial
+
+AI supports mapping and spatial analysis.
+
+https://hexagon.com
+
+7. AI Finance, Taxation & Compliance
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Oracle Fusion Cloud ERP AI
+
+AI automates government finance operations.
+
+https://www.oracle.com
+
+SAP Business AI
+
+AI supports budgeting and financial management.
+
+https://www.sap.com
+
+IBM OpenPages
+
+AI-powered governance, risk, and compliance.
+
+https://www.ibm.com/products/openpages
+
+Thomson Reuters ONESOURCE AI
+
+AI automates tax and compliance processes.
+
+https://tax.thomsonreuters.com
+
+Wolters Kluwer CCH AI
+
+AI supports tax administration and auditing.
+
+https://www.wolterskluwer.com
+
+BlackLine AI
+
+AI automates financial reconciliation.
+
+https://www.blackline.com
+
+8. AI Business Intelligence & Data Analytics
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered government dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven analytics for public sector data.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered government business intelligence.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven analytics platform.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI predictive analytics for public services.
+
+https://www.sas.com
+
+DataRobot
+
+AI forecasting and policy analytics.
+
+https://www.datarobot.com
+
+Databricks AI
+
+AI platform for large-scale government data.
+
+https://www.databricks.com
+
+Snowflake Cortex AI
+
+AI-powered cloud analytics platform.
+
+https://www.snowflake.com
+
+9. AI Workflow Automation & Process Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+UiPath AI Center
+
+AI automates government administrative tasks.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered robotic process automation (RPA).
+
+https://www.automationanywhere.com
+
+Microsoft Power Automate AI
+
+AI automates approvals and workflows.
+
+https://powerautomate.microsoft.com
+
+Appian AI
+
+AI-powered low-code workflow automation.
+
+https://www.appian.com
+
+Pega GenAI
+
+AI automates case management and public services.
+
+https://www.pega.com
+
+Kissflow AI
+
+AI-powered workflow automation platform.
+
+https://kissflow.com
+
+10. AI Machine Learning & Development Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source machine learning framework.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning framework for public sector AI.
+
+https://pytorch.org
+
+Hugging Face
+
+AI models for NLP, vision, and document processing.
+
+https://huggingface.co
+
+LangChain
+
+Framework for AI assistants and government automation.
+
+https://www.langchain.com
+
+LlamaIndex
+
+Framework for Retrieval-Augmented Generation (RAG).
+
+https://www.llamaindex.ai
+
+MLflow
+
+AI model lifecycle management platform.
+
+https://mlflow.org
+
+Weights & Biases
+
+AI experiment tracking and collaboration.
+
+https://wandb.ai
+
+Dataiku
+
+Enterprise AI platform for government analytics.
+
+https://www.dataiku.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

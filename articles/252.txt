@@ -1,0 +1,71 @@
+Airbnb & Homeaway Pricing Recommendation
+
+Project Description
+
+The client needed to analyze datasets in Excel related to Airbnb reservations to make recommendations on Airbnb & Homeaway Pricing and a minimum length of stay requirements. And also just to answer ad hoc questions I have.
+
+The client needed extremely detail-oriented recommendation following business problems:
+
+For places with 5+ bedrooms or 16+ guests
+
+Provide a summary by reservation ID of the total amount of each reservation, the length of stay in nights, and the total amount paid for each reservation.
+
+Make a recommendation based on 2019 data for the minimum length of stay I should require for this Thanksgiving, Xmas, and NYE. Defend your recommendation.
+
+The client is operating dozen-plus cabins listed at Airbnb and the HomeAway in the Smoky Mountains, USA.
+
+Machine Learning Deliverables
+
+Data Science Consultation
+
+Recommendation System
+
+Model Tuning
+
+Model Optimization
+
+Machine Learning Model
+
+Machine Learning Methods for Airbnb & Homeaway Pricing
+
+Unsupervised Learning
+
+Learning to Rank
+
+Knowledge Representation
+
+Feature Extraction
+
+Natural Language Processing
+
+Deep Learning
+
+Machine Learning Techniques
+
+Logistic Regression
+
+Gradient Boosting
+
+Decision Trees
+
+Linear Regression
+
+Classification
+
+Machine Learning Tools for Airbnb & Homeaway Pricing
+
+pandas
+
+scikit-learn
+
+TensorFlow
+
+XGBoost
+
+NLTK
+
+Machine Learning Languages
+
+Python
+
+Website

@@ -1,0 +1,561 @@
+Complete List of Retail & Wholesale Trade AI Tools & AI Software
+
+1. AI Inventory Management & Demand Forecasting
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Blue Yonder
+
+AI-powered inventory optimization and demand forecasting.
+
+https://blueyonder.com
+
+o9 Solutions
+
+AI platform for demand planning and supply chain optimization.
+
+https://o9solutions.com
+
+Kinaxis RapidResponse
+
+AI-driven inventory and production planning.
+
+https://www.kinaxis.com
+
+Oracle Retail AI
+
+AI software for retail inventory and merchandising.
+
+https://www.oracle.com/retail
+
+SAP Integrated Business Planning
+
+AI-powered retail planning and inventory management.
+
+https://www.sap.com
+
+RELEX Solutions
+
+AI platform for retail replenishment and forecasting.
+
+https://www.relexsolutions.com
+
+ToolsGroup
+
+AI software for inventory optimization and demand sensing.
+
+https://www.toolsgroup.com
+
+Lokad
+
+AI-driven predictive supply chain optimization.
+
+https://www.lokad.com
+
+2. AI E-commerce & Personalization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Dynamic Yield
+
+AI-powered personalized shopping experiences.
+
+https://www.dynamicyield.com
+
+Nosto
+
+AI-driven product recommendations and personalization.
+
+https://www.nosto.com
+
+Bloomreach
+
+AI platform for e-commerce search and merchandising.
+
+https://www.bloomreach.com
+
+Algolia AI Search
+
+AI-powered product search and discovery.
+
+https://www.algolia.com
+
+Constructor
+
+AI platform for personalized product recommendations.
+
+https://constructor.com
+
+Adobe Commerce Sensei
+
+AI enhances online shopping experiences.
+
+https://business.adobe.com
+
+Shopify Magic
+
+AI assistant for Shopify store management.
+
+https://www.shopify.com/magic
+
+3. AI Customer Service & Sales
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Salesforce Einstein
+
+AI-powered CRM and customer insights.
+
+https://www.salesforce.com
+
+Zendesk AI
+
+AI automates customer support and ticket handling.
+
+https://www.zendesk.com
+
+Freshworks Freddy AI
+
+AI assistant for customer engagement and sales.
+
+https://www.freshworks.com
+
+IBM watsonx Assistant
+
+AI chatbot for retail customer service.
+
+https://www.ibm.com/watsonx
+
+Intercom Fin AI
+
+AI customer support chatbot.
+
+https://www.intercom.com
+
+Drift AI
+
+AI conversational sales platform.
+
+https://www.drift.com
+
+HubSpot Breeze AI
+
+AI-powered CRM and sales automation.
+
+https://www.hubspot.com
+
+4. AI Pricing & Revenue Optimization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Competera
+
+AI-powered dynamic pricing platform.
+
+https://competera.net
+
+Pricefx
+
+AI software for pricing optimization.
+
+https://www.pricefx.com
+
+Revionics
+
+AI-driven retail pricing and promotions.
+
+https://www.revionics.com
+
+Intelligence Node
+
+AI platform for competitive pricing analytics.
+
+https://www.intelligencenode.com
+
+Prisync
+
+AI-powered competitor price tracking.
+
+https://prisync.com
+
+Omnia Retail
+
+AI software for automated pricing decisions.
+
+https://www.omniaretail.com
+
+5. AI Supply Chain & Logistics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Oracle SCM Cloud
+
+AI-powered supply chain management.
+
+https://www.oracle.com/scm
+
+SAP Supply Chain Management
+
+AI platform for logistics optimization.
+
+https://www.sap.com
+
+Blue Yonder Luminate
+
+AI optimizes logistics and warehouse operations.
+
+https://blueyonder.com
+
+FourKites
+
+AI-powered shipment visibility and tracking.
+
+https://www.fourkites.com
+
+project44
+
+AI platform for transportation visibility.
+
+https://www.project44.com
+
+Manhattan Active Supply Chain
+
+AI warehouse and logistics management.
+
+https://www.manh.com
+
+Descartes Systems
+
+AI-driven logistics and route optimization.
+
+https://www.descartes.com
+
+6. AI Visual Search & Computer Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Google Cloud Vision AI
+
+AI-powered image recognition and product search.
+
+https://cloud.google.com/vision
+
+Amazon Rekognition
+
+AI image and video analysis platform.
+
+https://aws.amazon.com/rekognition
+
+Syte
+
+AI visual search and product discovery platform.
+
+https://www.syte.ai
+
+ViSenze
+
+AI-powered visual commerce platform.
+
+https://www.visenze.com
+
+Roboflow
+
+AI platform for retail computer vision models.
+
+https://roboflow.com
+
+OpenCV
+
+Computer vision library for retail applications.
+
+https://opencv.org
+
+Ultralytics YOLO
+
+AI object detection for retail analytics.
+
+https://ultralytics.com
+
+7. AI Store Operations & Smart Retail
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Trax Retail
+
+AI-powered shelf monitoring and retail execution.
+
+https://traxretail.com
+
+Focal Systems
+
+AI platform for shelf inventory management.
+
+https://www.focal.systems
+
+Standard AI
+
+AI checkout-free retail technology.
+
+https://standard.ai
+
+AiFi
+
+AI-powered autonomous retail store platform.
+
+https://aifi.com
+
+Everseen
+
+AI computer vision for loss prevention and checkout.
+
+https://everseen.com
+
+Zebra Prescriptive Analytics
+
+AI software for retail operations optimization.
+
+https://www.zebra.com
+
+8. AI Marketing & Customer Insights
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Adobe Experience Platform AI
+
+AI-powered customer journey analytics.
+
+https://business.adobe.com
+
+Salesforce Marketing Cloud Einstein
+
+AI-driven marketing automation.
+
+https://www.salesforce.com
+
+HubSpot AI
+
+AI assistant for marketing campaigns.
+
+https://www.hubspot.com
+
+Klaviyo AI
+
+AI-powered email and SMS marketing.
+
+https://www.klaviyo.com
+
+Emarsys
+
+AI marketing personalization platform.
+
+https://emarsys.com
+
+Insider
+
+AI-driven customer engagement platform.
+
+https://useinsider.com
+
+9. AI Financial & Business Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-assisted business intelligence platform.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-powered analytics and dashboards.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-driven retail business analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI-powered search-driven business intelligence.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive retail analytics.
+
+https://www.datarobot.com
+
+10. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for retail research, content, and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for business analysis and retail planning.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for retail market research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and presentations.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered research engine for retail trends.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing business documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for retail research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding business research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering retail research publications.
+
+https://www.researchrabbit.ai
+
+11. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for retail AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for retail analytics.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for retail forecasting.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for retail analytics.
+
+https://h2o.ai
+
+KNIME Analytics Platform
+
+Visual AI workflows for retail data analysis.
+
+https://www.knime.com
+
+Google Vertex AI
+
+Cloud AI platform for retail machine learning.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for retail AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for retail analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for retail datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

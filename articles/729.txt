@@ -1,0 +1,81 @@
+Integrating and Deriving Insights from the Cost of Equity
+
+Client Background
+
+Client: A leading business school worldwide
+
+Industry Type: Research and Academia
+
+Services: R&D, Higher Study
+
+Organization Size: 10,000+
+
+Challenges for the Cost of Equity
+
+The client had a huge amount of unstructured digital documents in pdf format with a lot of useful and financial information in them. But was struggling with extracting the data, and making it useful for analytics and business decisions. It was difficult to extract accurate data from the unstructured pdf documents in a way that the data accuracy is maintained and there is no machine or human errors.
+
+The client wanted to drive business decisions at the management and financial level from the data distributed over such a huge amount of unstructured pdf file format documents. Data loss, data accuracy, and data management were a few major concerns that needed to addressed in a way that can drive business and financial decisions.
+
+Solution for the Cost of Equity
+
+The client partnered with Blackcoffer to transform unstructured data into structured data in usable formats. Blackcoffer built an automated system to:
+
+Extract
+
+Transform
+
+Clean
+
+Prepare analytics-ready data
+
+Blackcoffer managed the data extraction in a way that overall the business goals and activities were met with the following criteria:
+
+Data accuracy at a very high stake
+
+Data loss is minimized
+
+Right and useful information must be collected from the financial documents
+
+Blackcoffer’s developed solution was used to extract the cost of equities and the cost of capital from the financial documents for analytics so that the results can help the business managers and the stakeholders to make business, management, and financial decisions with greater confidence.
+
+Business Impact
+
+Blackcoffer solution was used at the production level to make:
+
+Business decisions
+
+Management decisions
+
+Financial decisions.
+
+The following business impacts were seen after deployment of the Blackcoffer data management solutions:
+
+The decision making data became 99.9% accurate
+
+It has helped business managers to make manage the business at a high stake with more confidence
+
+It has helped managements to make operations decision precisely and boost their business more by 40%
+
+It has helped financial managers to make a decision with more certainty especially for the financial measures like Cost of equity Cost of capitals
+
+The financial managers are now able to observe and analyze the time-series cost of equity, its patterns, trends and able to forecasts the cost of equity for the next quarters to gain maximum profit and minimize the losses.
+
+The financial managers are now able to observe and analyze the time-series cost of capital, its patterns, trends, and able to forecasts the cost of capital for the next quarters to gain maximum profit and minimize the losses.
+
+Technology Stack
+
+Python
+
+Data transformation
+
+Data integration
+
+Data ETL
+
+Data Pipeline
+
+Data Cleaning
+
+Digital document processing
+
+Financial modeling

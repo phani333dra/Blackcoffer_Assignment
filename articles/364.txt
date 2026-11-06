@@ -1,0 +1,475 @@
+Complete List of Aerospace & Defence AI Tools & AI Software
+
+1. AI Autonomous Systems & Mission Planning
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Palantir AIP
+
+AI platform for mission planning and defense intelligence.
+
+https://www.palantir.com
+
+Shield AI Hivemind
+
+AI enables autonomous aircraft and drone operations.
+
+https://shield.ai
+
+Anduril Lattice
+
+AI-powered command, control, and autonomous defense platform.
+
+https://www.anduril.com
+
+Lockheed Martin AI Factory
+
+AI supports defense decision-making and mission planning.
+
+https://www.lockheedmartin.com
+
+Boeing AnalytX
+
+AI-driven aviation operations and predictive insights.
+
+https://www.boeing.com
+
+BAE Systems AI Solutions
+
+AI enhances mission planning and operational awareness.
+
+https://www.baesystems.com
+
+2. AI Aircraft Design & Engineering
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Dassault CATIA
+
+AI-assisted aerospace CAD and aircraft design.
+
+https://www.3ds.com/products/catia
+
+Siemens NX
+
+AI-powered aerospace product engineering.
+
+https://www.siemens.com/nx
+
+PTC Creo
+
+AI-enabled 3D aircraft component design.
+
+https://www.ptc.com
+
+Autodesk Fusion
+
+AI supports aerospace product development.
+
+https://www.autodesk.com/products/fusion-360
+
+Altair HyperWorks
+
+AI-driven design optimization and simulation.
+
+https://altair.com
+
+Ansys Discovery
+
+AI-assisted engineering simulation platform.
+
+https://www.ansys.com
+
+3. AI Simulation & Digital Twins
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Ansys Twin Builder
+
+AI-powered digital twins for aerospace systems.
+
+https://www.ansys.com
+
+Siemens Xcelerator
+
+AI platform for digital engineering and simulation.
+
+https://www.siemens.com/xcelerator
+
+Dassault 3DEXPERIENCE
+
+AI-enabled digital twin and PLM platform.
+
+https://www.3ds.com
+
+NVIDIA Omniverse
+
+AI platform for aerospace digital twins.
+
+https://www.nvidia.com/omniverse
+
+PTC ThingWorx
+
+AI-powered Industrial IoT and digital twins.
+
+https://www.ptc.com
+
+Bentley iTwin
+
+AI digital twins for airports and infrastructure.
+
+https://www.bentley.com
+
+4. AI Manufacturing & Quality Inspection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter
+
+AI-powered aerospace manufacturing execution system.
+
+https://www.siemens.com/opcenter
+
+LandingLens
+
+AI visual inspection for aerospace components.
+
+https://landing.ai
+
+Cognex VisionPro
+
+AI machine vision for quality control.
+
+https://www.cognex.com
+
+Instrumental AI
+
+AI detects manufacturing defects automatically.
+
+https://instrumental.com
+
+MVTec HALCON
+
+AI-powered industrial image processing.
+
+https://www.mvtec.com
+
+ABB Ability
+
+AI automates aerospace manufacturing processes.
+
+https://new.abb.com/ability
+
+5. AI Predictive Maintenance & Asset Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts aircraft maintenance requirements.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance platform.
+
+https://senseye.io
+
+Honeywell Forge
+
+AI optimizes aircraft maintenance and operations.
+
+https://www.honeywell.com
+
+GE Aerospace Prognostic AI
+
+AI predicts engine and aircraft health.
+
+https://www.geaerospace.com
+
+AVEVA Predictive Analytics
+
+AI forecasts equipment failures.
+
+https://www.aveva.com
+
+SparkCognition
+
+AI detects anomalies in aerospace assets.
+
+https://sparkcognition.com
+
+6. AI Drones, UAVs & Robotics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Skydio Autonomy
+
+AI-powered autonomous drone platform.
+
+https://www.skydio.com
+
+Shield AI Nova
+
+AI-enabled autonomous reconnaissance drone.
+
+https://shield.ai
+
+DJI Enterprise
+
+AI drones for inspection and surveillance.
+
+https://enterprise.dji.com
+
+AeroVironment Tomahawk AI
+
+AI-powered UAV mission support.
+
+https://www.avinc.com
+
+Teledyne FLIR SIRAS
+
+AI drone for industrial and defense inspection.
+
+https://www.flir.com
+
+ExynAI
+
+AI autonomous drones for GPS-denied environments.
+
+https://www.exyn.com
+
+7. AI Cybersecurity & Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Darktrace
+
+AI detects cyber threats in real time.
+
+https://www.darktrace.com
+
+CrowdStrike Falcon
+
+AI-powered endpoint security platform.
+
+https://www.crowdstrike.com
+
+SentinelOne
+
+AI autonomous cybersecurity solution.
+
+https://www.sentinelone.com
+
+Microsoft Defender XDR
+
+AI-powered threat detection and response.
+
+https://www.microsoft.com/security
+
+Palo Alto Cortex XSIAM
+
+AI-driven security operations platform.
+
+https://www.paloaltonetworks.com
+
+Splunk AI
+
+AI-powered security analytics and monitoring.
+
+https://www.splunk.com
+
+8. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered aerospace dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven aerospace analytics platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered aerospace data analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven aerospace insights.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive aerospace analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for aerospace data analysis.
+
+https://www.knime.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for aerospace research, documentation, and technical writing.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for engineering reports and documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for aerospace research and analysis.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and presentations.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered aerospace research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing aerospace documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review for aerospace research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains aerospace engineering papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for aerospace AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for aerospace applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for aerospace analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for aerospace forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for aerospace applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for aerospace model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for aerospace analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for aerospace datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

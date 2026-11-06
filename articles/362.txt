@@ -1,0 +1,79 @@
+Code Review Checklist
+
+Coding Standards
+
+understandable
+
+adhere code guidelines
+
+indentation
+
+no magic numbers
+
+naming
+
+units, bounds
+
+spacing: horizontal (btwn operators, keywords) and vertical (btwn methods, blocks)
+
+Comments
+
+no needless comments
+
+no obsolete comments
+
+no redundant comments
+
+methods document parameters it modifies, functional dependencies
+
+comments consistent in format, length, level of detail
+
+no code commented out
+
+Logic
+
+array indexes within bounds
+
+conditions correct in ifs, loops
+
+loops always terminate
+
+division by zero
+
+refactor statements in the loop to outside the loop
+
+Error Handling
+
+error messages understandable and complete
+
+edge cases (null, 0, negative)
+
+parameters valid
+
+files, other input data valid
+
+Code Decisions
+
+code at the right level of abstraction
+
+methods have the appropriate number, types of parameters
+
+no unnecessary features
+
+redundancy minimized
+
+mutability minimized
+
+static preferred over nonstatic
+
+appropriate accessibility (public, private, etc.)
+
+enums, not int constants
+
+defensive copies when needed
+
+no unnecessary new objects
+
+variables in lowest scope
+
+objects referred to by their interfaces, most generic supertype

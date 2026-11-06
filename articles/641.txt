@@ -1,0 +1,53 @@
+Healthcare Data Dashboard in Kibana
+
+Client Background
+
+Client: A leading healthcare tech firm in the USA
+
+Industry Type: Healthcare
+
+Services: Healthcare services
+
+Organization Size: 100+
+
+Project description
+
+The objective of the project was to:
+
+Clean and process the data in the Python tool
+
+Connect the python tool with a MongoDB database
+
+Load the data from MongoDB
+
+Process, transform, and clean the data loaded from the MongoDB
+
+Load the data to the Kibana Elasticsearch server dashboard
+
+Design and visualize the dashboard in Kibana
+
+That tells a story
+
+Drives insights
+
+Helps in decision making
+
+Data Visualization Deliverables
+
+Presentation
+
+Map
+
+Dashboard
+
+API Integration
+
+Data Visualization Tools
+
+Microsoft Excel
+
+Kibana
+
+Data Visualization Languages
+
+Python

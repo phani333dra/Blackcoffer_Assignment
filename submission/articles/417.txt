@@ -1,0 +1,541 @@
+Complete List of Investment & Asset Management AI Tools & AI Software
+
+1. AI Portfolio Management & Investment Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+BlackRock Aladdin
+
+AI-powered portfolio and investment management platform.
+
+https://www.blackrock.com/aladdin
+
+SimCorp One
+
+AI manages investment operations and portfolios.
+
+https://www.simcorp.com
+
+Charles River IMS
+
+AI-powered investment management system.
+
+https://www.crd.com
+
+Bloomberg AIM
+
+AI supports portfolio and order management.
+
+https://www.bloomberg.com/professional
+
+FactSet Portfolio Analytics
+
+AI analyzes portfolio performance and risk.
+
+https://www.factset.com
+
+SS&C Advent
+
+AI-powered portfolio accounting and reporting.
+
+https://www.ssctech.com
+
+Clearwater Analytics
+
+AI automates investment accounting and reporting.
+
+https://clearwateranalytics.com
+
+Enfusion
+
+AI-enabled cloud investment management platform.
+
+https://www.enfusion.com
+
+2. AI Investment Research & Market Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+AlphaSense
+
+AI-powered financial research and market intelligence.
+
+https://www.alpha-sense.com
+
+Bloomberg Terminal AI
+
+AI delivers real-time market insights.
+
+https://www.bloomberg.com/professional
+
+Refinitiv Workspace
+
+AI-powered market and financial data platform.
+
+https://www.lseg.com
+
+S&P Capital IQ Pro
+
+AI-assisted investment and valuation research.
+
+https://www.spglobal.com
+
+Morningstar Direct
+
+AI-enhanced investment research platform.
+
+https://www.morningstar.com
+
+PitchBook
+
+AI-powered private market intelligence.
+
+https://pitchbook.com
+
+Sentieo
+
+AI searches financial filings and research.
+
+https://sentieo.com
+
+Koyfin
+
+AI-powered market research and analytics.
+
+https://www.koyfin.com
+
+3. AI Trading & Algorithmic Investing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Alpaca AI
+
+AI-powered algorithmic trading platform.
+
+https://alpaca.markets
+
+QuantConnect
+
+AI develops and tests trading algorithms.
+
+https://www.quantconnect.com
+
+Trade Ideas
+
+AI identifies stock trading opportunities.
+
+https://www.trade-ideas.com
+
+Kavout
+
+AI predicts investment opportunities.
+
+https://www.kavout.com
+
+TrendSpider
+
+AI automates technical market analysis.
+
+https://trendspider.com
+
+Composer
+
+AI builds automated investment strategies.
+
+https://www.composer.trade
+
+TuringTrader
+
+AI backtests quantitative trading strategies.
+
+https://www.turingtrader.org
+
+QuantRocket
+
+AI-powered quantitative trading research.
+
+https://www.quantrocket.com
+
+4. AI Risk Management & Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+MSCI RiskMetrics
+
+AI measures portfolio risk and exposure.
+
+https://www.msci.com
+
+Moody’s Analytics
+
+AI predicts financial and investment risks.
+
+https://www.moodysanalytics.com
+
+SAS Risk Management
+
+AI automates investment risk analysis.
+
+https://www.sas.com
+
+FIS Risk Management
+
+AI supports investment compliance.
+
+https://www.fisglobal.com
+
+AxiomSL
+
+AI automates regulatory reporting.
+
+https://www.axiomsl.com
+
+OneTrust
+
+AI-powered governance, risk, and compliance platform.
+
+https://www.onetrust.com
+
+5. AI Wealth Management & Robo-Advisory
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Betterment
+
+AI-driven robo-advisory platform.
+
+https://www.betterment.com
+
+Wealthfront
+
+AI automates investment portfolio management.
+
+https://www.wealthfront.com
+
+SigFig
+
+AI-powered digital wealth management.
+
+https://www.sigfig.com
+
+TIFIN
+
+AI personalizes wealth management services.
+
+https://www.tifin.com
+
+Bambu
+
+AI-powered robo-advisory platform.
+
+https://www.bambu.life
+
+InvestCloud
+
+AI-enabled wealth management solutions.
+
+https://www.investcloud.com
+
+6. AI Client Relationship Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Salesforce Financial Services Cloud
+
+AI manages investor relationships.
+
+https://www.salesforce.com
+
+Microsoft Dynamics 365 AI
+
+AI automates financial CRM processes.
+
+https://www.microsoft.com/dynamics-365
+
+HubSpot AI
+
+AI-powered investor communication platform.
+
+https://www.hubspot.com
+
+Zendesk AI
+
+AI automates client support.
+
+https://www.zendesk.com
+
+Intercom AI
+
+AI chatbot for investment firms.
+
+https://www.intercom.com
+
+Freshworks Freddy AI
+
+AI improves investor customer service.
+
+https://www.freshworks.com
+
+7. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered investment dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven investment analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered financial analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven investment insights.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive investment analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for financial data analysis.
+
+https://www.knime.com
+
+SAS Viya
+
+AI-powered investment analytics platform.
+
+https://www.sas.com
+
+Alteryx AI Platform
+
+AI automates investment reporting.
+
+https://www.alteryx.com
+
+8. AI Document Processing & Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+UiPath AI Center
+
+AI automates investment workflows.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered robotic process automation (RPA).
+
+https://www.automationanywhere.com
+
+ABBYY Vantage
+
+AI extracts investment document data.
+
+https://www.abbyy.com
+
+Rossum
+
+AI automates financial document processing.
+
+https://rossum.ai
+
+Hyperscience
+
+AI processes investment forms automatically.
+
+https://www.hyperscience.com
+
+Tungsten Automation
+
+AI automates investment documentation.
+
+https://www.tungstenautomation.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for investment research and reports.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for financial documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for investment analysis.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for Excel, PowerPoint, and reports.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered investment research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing financial documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review for investment research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains finance and economics research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers investment research publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for investment AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for investment applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for investment analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for investment forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for investment applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for investment model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for investment analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for investment datasets.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for investment intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for investment AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,35 @@
+Text to Speech, html
+
+URL: http://www.blackcoffer.info/ops/demo/text-to-speech/
+
+Text-to-Speech converts text into human-like speech 20+ languages and variants. It applies groundbreaking research in speech synthesis (WaveNet) and Google’s powerful neural networks to deliver high-fidelity audio. With this easy-to-use API, you can create lifelike interactions with your users that transform customer service, device interaction, and other applications
+
+Machine learning
+
+Apply advanced deep learning neural network algorithms to synthesize text into a variety of voices and languages. Our neural networks were built based on Google’s speech synthesis expertise.
+
+Select from
+
+20+ languages and variants, enabling developers to pick the voice that works best for their application.
+
+Easily integrates with existing applications and devices
+
+Cloud Text-to-Speech supports any application or device that can send a REST or gRPC request including phones, PCs, tablets, and IoT devices (e.g., cars, TVs, speakers).
+
+Supports many common use cases
+
+As an easy-to-use API, Google Cloud Text-to-Speech is a flexible solution to creating natural experiences for a variety of use cases. Common use cases include call center automation, interactive responses from IoT devices, or transforming text to be consumed as audio.
+
+Cloud Text-to-Speech features
+
+Text and SSML Support:-Customize your speech with SSML tags that allow you to add pauses, numbers, date and time formatting, and other pronunciation instructions.
+
+Speaking Rate Tuning:-Customize your speaking rate to be 4x faster or slower than the normal rate.
+
+Pitch Tuning:-Customize the pitch of your selected voice, up to 20 semitones more or less than the default output.
+
+Volume Gain Control:-Increase the volume of the output by up to 16db or decrease the volume up to -96db.
+
+Audio Format Flexibility:-Choose from a number of audio formats including mp3, Linear16, and Ogg Opus.
+
+Audio Profiles:-Optimize for the type of speakers from which your speech is intended to play, such as headphones or phone lines.

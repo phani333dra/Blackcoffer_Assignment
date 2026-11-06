@@ -1,0 +1,481 @@
+Complete List of Cloud Computing AI Tools & AI Software
+
+1. AI Cloud Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Azure AI
+
+AI services for cloud application development.
+
+https://azure.microsoft.com
+
+Google Vertex AI
+
+Unified AI and ML platform on Google Cloud.
+
+https://cloud.google.com/vertex-ai
+
+Amazon SageMaker
+
+End-to-end machine learning platform on AWS.
+
+https://aws.amazon.com/sagemaker
+
+IBM watsonx
+
+Enterprise AI platform for cloud applications.
+
+https://www.ibm.com/watsonx
+
+Oracle AI Services
+
+AI-powered cloud services for enterprises.
+
+https://www.oracle.com/artificial-intelligence
+
+Alibaba Cloud AI
+
+AI and machine learning cloud solutions.
+
+https://www.alibabacloud.com
+
+SAP AI Core
+
+AI development and deployment on SAP Cloud.
+
+https://www.sap.com
+
+Snowflake Cortex AI
+
+AI-powered cloud data platform.
+
+https://www.snowflake.com
+
+2. AI Cloud Infrastructure Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+VMware Aria AI
+
+AI automates cloud infrastructure management.
+
+https://www.vmware.com
+
+Nutanix GPT-in-a-Box
+
+AI platform for hybrid cloud environments.
+
+https://www.nutanix.com
+
+Red Hat OpenShift AI
+
+AI platform for hybrid cloud applications.
+
+https://www.redhat.com
+
+HashiCorp Terraform Cloud
+
+AI-assisted infrastructure automation.
+
+https://www.hashicorp.com
+
+Cisco Intersight
+
+AI-powered cloud infrastructure operations.
+
+https://www.cisco.com
+
+HPE GreenLake AI
+
+AI-enabled hybrid cloud platform.
+
+https://www.hpe.com
+
+3. AI Cloud Monitoring & AIOps
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Dynatrace Davis AI
+
+AI-powered cloud monitoring and observability.
+
+https://www.dynatrace.com
+
+Datadog AI
+
+AI monitors cloud infrastructure and applications.
+
+https://www.datadoghq.com
+
+New Relic AI
+
+AI detects cloud performance issues.
+
+https://newrelic.com
+
+Splunk AI Assistant
+
+AI-powered cloud operations analytics.
+
+https://www.splunk.com
+
+IBM Instana
+
+AI application performance monitoring.
+
+https://www.ibm.com/products/instana
+
+LogicMonitor Edwin AI
+
+AI automates cloud infrastructure management.
+
+https://www.logicmonitor.com
+
+4. AI DevOps & CI/CD
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+GitLab Duo
+
+AI-powered DevOps assistant.
+
+https://about.gitlab.com
+
+GitHub Copilot
+
+AI assists cloud application development.
+
+https://github.com/features/copilot
+
+Harness AI
+
+AI automates cloud deployments and CI/CD.
+
+https://www.harness.io
+
+JFrog ML
+
+AI-powered DevSecOps platform.
+
+https://jfrog.com
+
+Azure DevOps with Copilot
+
+AI-powered DevOps workflows.
+
+https://azure.microsoft.com
+
+Jenkins AI Plugins
+
+AI extensions for continuous integration.
+
+https://www.jenkins.io
+
+5. AI Cloud Security
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Security Copilot
+
+AI-powered cloud security assistant.
+
+https://www.microsoft.com/security
+
+CrowdStrike Charlotte AI
+
+AI cloud threat detection and response.
+
+https://www.crowdstrike.com
+
+Palo Alto Cortex XSIAM
+
+AI-driven cloud security operations.
+
+https://www.paloaltonetworks.com
+
+SentinelOne Purple AI
+
+AI endpoint and cloud workload protection.
+
+https://www.sentinelone.com
+
+Wiz AI
+
+AI-powered cloud security posture management.
+
+https://www.wiz.io
+
+Lacework AI
+
+AI detects cloud security threats.
+
+https://www.lacework.com
+
+6. AI Data Engineering & Analytics
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Databricks AI
+
+AI-powered lakehouse analytics platform.
+
+https://www.databricks.com
+
+Snowflake Cortex AI
+
+AI for cloud data analysis and automation.
+
+https://www.snowflake.com
+
+Dataiku
+
+Enterprise AI and analytics platform.
+
+https://www.dataiku.com
+
+KNIME Analytics Platform
+
+AI workflows for cloud data science.
+
+https://www.knime.com
+
+Alteryx AI Platform
+
+AI automates cloud analytics.
+
+https://www.alteryx.com
+
+SAS Viya
+
+Cloud-native AI analytics platform.
+
+https://www.sas.com
+
+7. AI Automation & Integration
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+UiPath AI Center
+
+AI-powered cloud automation.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-driven cloud workflow automation.
+
+https://www.automationanywhere.com
+
+Microsoft Power Automate AI
+
+AI automates cloud workflows.
+
+https://powerautomate.microsoft.com
+
+ABBYY Vantage
+
+AI-powered document automation.
+
+https://www.abbyy.com
+
+WorkFusion
+
+AI intelligent process automation.
+
+https://www.workfusion.com
+
+Boomi AI
+
+AI-powered cloud integration platform.
+
+https://boomi.com
+
+8. AI Productivity & Collaboration
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for cloud documentation and coding.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for cloud architecture and documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for cloud productivity.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI-powered Microsoft 365 productivity.
+
+https://copilot.microsoft.com
+
+Notion AI
+
+AI-powered cloud documentation.
+
+https://www.notion.so
+
+Grammarly AI
+
+AI writing assistant for technical documents.
+
+https://www.grammarly.com
+
+Canva Magic Studio
+
+AI creates cloud presentations and diagrams.
+
+https://www.canva.com
+
+Gamma
+
+AI generates cloud architecture presentations.
+
+https://gamma.app
+
+9. AI Database & Storage Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+MongoDB Atlas AI
+
+AI-enhanced cloud database platform.
+
+https://www.mongodb.com
+
+Google BigQuery ML
+
+AI-powered SQL analytics.
+
+https://cloud.google.com/bigquery
+
+Amazon Aurora ML
+
+AI-enabled cloud relational database.
+
+https://aws.amazon.com/rds/aurora
+
+Azure Cosmos DB
+
+AI-ready globally distributed database.
+
+https://azure.microsoft.com/products/cosmos-db
+
+Oracle Autonomous Database
+
+Self-managing AI-powered cloud database.
+
+https://www.oracle.com/database/autonomous-database
+
+Redis Cloud
+
+AI-ready in-memory cloud database.
+
+https://redis.io/cloud
+
+10. AI Machine Learning Frameworks
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework.
+
+https://www.tensorflow.org
+
+PyTorch
+
+AI framework for deep learning applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for Python.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Enterprise AutoML platform.
+
+https://h2o.ai
+
+Hugging Face
+
+Open-source AI models and NLP platform.
+
+https://huggingface.co
+
+MLflow
+
+AI experiment tracking and model lifecycle management.
+
+https://mlflow.org
+
+Kubeflow
+
+Kubernetes-native machine learning platform.
+
+https://www.kubeflow.org
+
+Weights & Biases
+
+AI experiment tracking and collaboration.
+
+https://wandb.ai
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

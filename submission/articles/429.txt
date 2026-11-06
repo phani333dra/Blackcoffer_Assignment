@@ -1,0 +1,457 @@
+Complete List of Media & Entertainment AI Tools & AI Software
+
+1. AI Video Creation & Editing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Runway
+
+AI-powered video generation and editing.
+
+https://runwayml.com
+
+Pika
+
+AI creates videos from text and images.
+
+https://pika.art
+
+Synthesia
+
+AI generates videos with virtual presenters.
+
+https://www.synthesia.io
+
+InVideo AI
+
+AI converts text into professional videos.
+
+https://invideo.io
+
+VEED AI
+
+AI-powered online video editing platform.
+
+https://www.veed.io
+
+Adobe Premiere Pro (Firefly AI)
+
+AI-assisted professional video editing.
+
+https://www.adobe.com
+
+2. AI Image Generation & Design
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Adobe Firefly
+
+AI generates images and creative assets.
+
+https://firefly.adobe.com
+
+Midjourney
+
+AI creates high-quality digital artwork.
+
+https://www.midjourney.com
+
+DALL·E
+
+AI image generation from text prompts.
+
+https://chatgpt.com
+
+Stable Diffusion
+
+Open-source AI image generation model.
+
+https://stability.ai
+
+Canva Magic Studio
+
+AI-powered graphic design suite.
+
+https://www.canva.com
+
+Leonardo AI
+
+AI generates illustrations, game art, and designs.
+
+https://leonardo.ai
+
+3. AI Audio, Music & Voice Generation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ElevenLabs
+
+AI voice generation and dubbing.
+
+https://elevenlabs.io
+
+Suno AI
+
+AI generates original music from text.
+
+https://suno.com
+
+Udio
+
+AI creates songs and music tracks.
+
+https://www.udio.com
+
+AIVA
+
+AI composes music for films and games.
+
+https://www.aiva.ai
+
+Mubert
+
+AI generates royalty-free music.
+
+https://mubert.com
+
+Murf AI
+
+AI voiceover and narration platform.
+
+https://murf.ai
+
+4. AI Content Writing & Script Generation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI generates scripts, articles, and creative content.
+
+https://chatgpt.com
+
+Claude
+
+AI writing assistant for storytelling and editing.
+
+https://claude.ai
+
+Google Gemini
+
+AI creates media content and summaries.
+
+https://gemini.google.com
+
+Jasper AI
+
+AI marketing and content writing platform.
+
+https://www.jasper.ai
+
+Copy.ai
+
+AI-powered copywriting assistant.
+
+https://www.copy.ai
+
+Writesonic
+
+AI content generation for media teams.
+
+https://writesonic.com
+
+5. AI Animation & Visual Effects (VFX)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Autodesk Maya AI
+
+AI-assisted 3D animation and modeling.
+
+https://www.autodesk.com
+
+Blender AI Add-ons
+
+AI tools for 3D animation workflows.
+
+https://www.blender.org
+
+Wonder Studio
+
+AI automatically animates CGI characters.
+
+https://wonderdynamics.com
+
+Cascadeur
+
+AI-assisted character animation software.
+
+https://cascadeur.com
+
+DeepMotion
+
+AI motion capture and animation platform.
+
+https://www.deepmotion.com
+
+Rokoko Vision
+
+AI markerless motion capture solution.
+
+https://www.rokoko.com
+
+6. AI Media Asset Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Adobe Experience Manager Assets
+
+AI-powered digital asset management.
+
+https://business.adobe.com
+
+Bynder
+
+AI organizes and manages media assets.
+
+https://www.bynder.com
+
+Cloudinary AI
+
+AI optimizes images and videos.
+
+https://cloudinary.com
+
+Canto
+
+AI-powered digital asset management platform.
+
+https://www.canto.com
+
+MediaValet
+
+AI manages enterprise media libraries.
+
+https://www.mediavalet.com
+
+Aprimo
+
+AI-powered marketing asset management.
+
+https://www.aprimo.com
+
+7. AI Recommendation & Personalization
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Amazon Personalize
+
+AI-powered content recommendation engine.
+
+https://aws.amazon.com/personalize
+
+Google Recommendations AI
+
+AI personalizes digital experiences.
+
+https://cloud.google.com
+
+Dynamic Yield
+
+AI-powered audience personalization.
+
+https://www.dynamicyield.com
+
+Optimizely AI
+
+AI optimizes user engagement.
+
+https://www.optimizely.com
+
+Insider AI
+
+AI personalizes customer experiences.
+
+https://useinsider.com
+
+Bloomreach AI
+
+AI-driven content recommendations.
+
+https://www.bloomreach.com
+
+8. AI Analytics & Audience Insights
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered audience analytics dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven media analytics platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered business intelligence.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven audience insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered predictive media analytics.
+
+https://www.sas.com
+
+DataRobot
+
+AI forecasts audience engagement trends.
+
+https://www.datarobot.com
+
+9. AI Marketing & Social Media
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Hootsuite OwlyWriter AI
+
+AI creates and schedules social content.
+
+https://www.hootsuite.com
+
+Buffer AI Assistant
+
+AI writes social media posts.
+
+https://buffer.com
+
+Sprout Social AI
+
+AI-powered social media management.
+
+https://sproutsocial.com
+
+Lately AI
+
+AI converts long-form content into social posts.
+
+https://www.lately.ai
+
+Flick AI
+
+AI generates Instagram captions and hashtags.
+
+https://flick.social
+
+Predis.ai
+
+AI creates social media creatives and captions.
+
+https://predis.ai
+
+10. AI Machine Learning & Creative Development
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source framework for AI media applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning framework for creative AI.
+
+https://pytorch.org
+
+Hugging Face
+
+AI models for NLP, vision, and media.
+
+https://huggingface.co
+
+MLflow
+
+AI model lifecycle management platform.
+
+https://mlflow.org
+
+LangChain
+
+Framework for building AI media applications.
+
+https://www.langchain.com
+
+LlamaIndex
+
+Framework for Retrieval-Augmented Generation (RAG).
+
+https://www.llamaindex.ai
+
+Weights & Biases
+
+AI experiment tracking and collaboration.
+
+https://wandb.ai
+
+Dataiku
+
+Enterprise AI platform for media analytics.
+
+https://www.dataiku.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

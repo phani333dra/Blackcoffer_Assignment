@@ -1,0 +1,99 @@
+Meta-Analysis in Healthcare Research
+
+What is Meta-Analysis?
+
+Meta-analysis is a statistical technique for combining the findings from independent studies.
+
+Meta-analysis is most often used to assess the clinical effectiveness of healthcare interventions ; it does this by combining data from two or more randomized control trials.
+
+Meta-analysis of trials provides a precise estimate of treatment effect , giving due weight to the size of the different studies included.
+
+The validity of the meta-analysis depends on the quality of the systematic review on which it is based.
+
+Good meta-analyses aim for complete coverage of all relevant studies , look for the presence of heterogeneity , and explore the robustness of the main findings using sensitivity analysis .
+
+Trials, systematic reviews, and meta-analysis
+
+In many medical specialties it is common to find that several trials have attempted to answer similar questions about clinical effectiveness; for example: Does the new treatment confer significant benefits compared with the conventional treatment? Often many of the individual trials will fail to show a statistically significant difference between the two treatments. However, when the results from the individual studies are combined using appropriate techniques (meta-analysis), significant benefits of treatment may be shown. A good example of this is a retrospective review of the evidence on the effectiveness of thrombolytic therapy for the prevention of myocardial infarction. The study showed that had meta-analysis been conducted at an early stage, it would have demonstrated the benefits of thrombolytic therapy. Instead, experts remained unaware of its benefits for many years and patients were not given an effective therapy. Meta-analyses are now a hallmark of evidence-based medicine.
+
+Systematic reviews
+
+Systematic review methodology is at the heart of meta-analysis. This stresses the need to take great care to find all the relevant studies (published and unpublished) and to assess the methodological quality of the design and execution of each study. The objective of systematic reviews is to present a balanced and impartial summary of the existing research, enabling decisions on effectiveness to be based on all relevant studies of adequate quality. Frequently, such systematic reviews provide a quantitative (statistical) estimate of net benefit aggregated over all the included studies. Such an approach is termed a meta-analysis.
+
+Benefits of meta-analyses
+
+Meta-analysis offers a rational and helpful way of dealing with a number of practical difficulties that beset anyone trying to make sense of effectiveness research.
+
+Overcoming Bias
+
+The danger of unsystematic (or narrative) reviews, with only a portion of relevant studies included, is that they could introduce bias. Certain reports may be more likely to be included in a review than those which show no significant differences, and informal synthesis may be tainted by the prior beliefs of the reviewer. Meta-analysis carried out on a rigorous systematic review can overcome these dangers – offering an unbiased synthesis of the empirical data
+
+Precision
+
+The precision with which the size of any effect can be estimated depends to a large extent on the number of patients studied. Meta-analyses, which combine the results from many trials, have more power to detect small but clinically significant effects. Furthermore, they give more precise estimates of the size of any effects uncovered. This may be especially important when an investigator is looking for beneficial (or deleterious) effects in specific subgroups of patients. Individual studies may contain too few patients in the subgroup of interest to be informative. However, the systematic aggregation of data from many individual studies gives a clearer picture, particularly through use of the technique of meta-regression.
+
+Transparency
+
+It is not simply the case that meta-analyses can always exclude bias more readily than other forms of review. Their advantage also lies in the openness with which good meta-analyses reveal all the decisions that have been taken throughout the process of achieving the final aggregate effect sizes. Thus, good meta-analyses should allow readers to determine for themselves the reasonableness of the decisions taken and their likely impact on the final estimate of effect size.
+
+Requirements for meta-analysis
+
+The main requirement for a worthwhile meta-analysis is a well-executed systematic review. However competent the meta-analysis, if the original review was partial, flawed or otherwise unsystematic, then the meta-analysis may provide a precise quantitative estimate that is simply wrong. The main requirement of a systematic review is easier to state than to execute: a complete, unbiased collection of all the original studies of acceptable quality that examine the same therapeutic question.
+
+Conducting meta-analyses
+
+Location of studies
+
+Meta-analysis requires a comprehensive search strategy which interrogates several electronic databases (for example, MEDLINE, EMBASE, Cochrane Central Register of Controlled Trials). Hand searching of key journals and checking of the reference lists of papers obtained is also recommended. The search strategy – the key terms used to search the database – needs to be developed with care. The strategy is written as a sequence of requirements: include papers with specified terms, exclude papers that do not meet certain criteria (for example, age or diagnostic group), only include studies that follow certain research designs (for example, randomized controlled trials).
+
+Quality assessment
+
+Once all relevant studies have been identified, decisions must be taken about which studies are sufficiently well conducted to be worth including. This process may again introduce bias, so good meta-analyses will use explicit and objective criteria for inclusion or rejection of studies on quality grounds. There is a bewildering array of scales for assessing the quality of the individual clinical trials. Perhaps more important than the scale used is whether a scale has been used at all. Once a quality score has been assigned, the impact of excluding low-quality studies can be assessed by sensitivity analysis.
+
+Calculating effect sizes
+
+Clinical trials commonly present their results as the frequency of some outcome (such as a heart attack or death) in the intervention groups and the control group. For the meta-analysis, these are usually summarized as a ratio of the frequency of the events in the intervention to that in the control group. In the past, the most common summary measure of effect size was the odds ratio, but now the risk ratio (relative risk) can be given. Although they are technically different, the odds ratios and relative risks are usually interpreted in the same way. Thus, a ratio of 2 implies that the defined outcome happens about twice as often in the intervention group as in the control group; an odds ratio of 0.5 implies around a 50% reduction in the defined event in the treated group compared with the controls. The findings from individual studies can be combined using an appropriate statistical method. Separate methods are used for combining odds ratios, relative risks and other outcome measures such as risk difference or hazard ratio. The methods use a similar approach in which the estimate from each study is weighted by the precision of the estimate.
+
+Checking for publication bias
+
+A key concern is publication bias, as clinical trials that obtain negative findings (that is, no benefit of treatment) are less likely to be published than those that conclude the treatment is effective. One simple way of assessing the likely presence of publication bias is to examine a funnel plot. Funnel plots display the studies included in the meta-analysis in a plot of effect size against sample size (or some other measure of the extent to which the findings could be affected by the play of chance). If the plot is asymmetric, this suggests that the meta-analysis may have missed some trials – usually smaller studies showing no effect. (Note that asymmetry could also occur if small studies tend to have larger effect size, so the conclusion of publication bias should be a cautious one.) The funnel plot has some limitations; for example, it can sometimes be difficult to detect asymmetry by eye. To help with this, formal statistical methods have been developed to test for heterogeneity. Egger’s regression test has been widely used to test for publication bias. It tests whether small studies tend to have larger effect sizes than would be expected (implying that small studies with small effects have not been published). Another regression test, which in some circumstances may be better than Egger’s test, has been proposed. However, care is needed in the interpretation of the findings whatever test has been used. There is currently no clear direction in recent literature to indicate when to use each test.
+
+Sensitivity analyses
+
+Because of the many ways in which decisions taken about selection, inclusion, and aggregation of data may affect the main findings, it is usual for meta-analysts to carry out some sensitivity analysis. This explores the ways in which the main findings are changed by varying the approach to aggregation. A good sensitivity analysis will explore, among other things, the effect of excluding various categories of studies; for example, unpublished studies or those of poor quality. It may also examine how consistent the results are across various subgroups (perhaps defined by the patient group, type of intervention or setting). In meta-analyses without sensitivity analyses, the reader has to make guesses about the likely impact of these important factors on the key findings.
+
+Presenting the findings
+
+Forest plot
+
+The usual way of displaying data from a meta-analysis is by a pictorial representation (sometimes known as a Forest plot). A horizontal line (usually the 95% confidence interval) is drawn around each of the studies’ squares to represent the uncertainty of the estimate of the treatment effect. The aggregate effect size obtained by combining all the studies is usually displayed as a diamond.
+
+Heterogeneity
+
+A major concern about meta-analyses is the extent to which they mix studies that are different in kind (heterogeneity). One widely quoted definition of meta-analysis is: ‘a statistical analysis which combines or integrates the results of several independent clinical trials considered by the analyst to be “combinable”’. The key difficulty lies in deciding which sets of studies are ‘combinable’. Clearly, to get a precise answer to a specific question, only studies that exactly match the question should be included. Unfortunately, studies can differ on the types of patient studied (disease severity or co-morbidity), the nature of local healthcare facilities, the intervention given and the primary endpoint (death, disease, disability).
+
+These systematic differences between studies can influence the amount of treatment benefit (the effect size), leading to heterogeneity between studies. Meta-analyses should test for the existence of heterogeneity. A test which was commonly used is Cochrane’s Q, a statistic based on the chi-squared test. Unfortunately, this test is thought to have low power; that is, it may sometimes fail to detect heterogeneity when it is present. To try to overcome this, a second test, the statistic, was developed. This test seems attractive because it scores heterogeneity between 0% and 100%. Further, a rule of thumb was proposed, with 25% corresponding to low heterogeneity, 50% to moderate and 75% to high. Subsequent research suggests that this test may also have low power, so it too has to be interpreted cautiously. The presence or absence of heterogeneity influences the subsequent method of analysis. If heterogeneity is absent, then the analysis employs what is termed fixed-effects modeling. This assumes the size of the treatment effect is the same (fixed) across all studies and the variation seen between studies is due only to the play of chance. Random-effects models assume that the treatment effect really does vary between studies. Such models tend to increase the variance of the summary measure, making it more difficult to obtain significant results. When the amount of heterogeneity is large, it may even be inappropriate to calculate an overall summary measure of effect size. Unfortunately, there is no reliable objective measure to decide when pooling is appropriate. Thus, a rule of thumb is given above. The technique of meta-regression is introduced because it provides one way of overcoming the problem of heterogeneity.
+
+Meta-regression
+
+When heterogeneity is detected, it is important to investigate what may have caused it. Meta-regression is a technique which allows researchers to explore which types of patient-specific factors or study design factors contribute to the heterogeneity. The simplest type of metaregression uses summary data from each trial, such as the average effect size, average disease severity at baseline, and average length of follow-up. This approach is valuable, but it has only limited ability to identify important factors. In particular, it struggles to identify which patient features are related to the size of the treatment effect. Fortunately, another approach, using individual patient data, will give answers to the important question: what types of patients are most likely to benefit from this treatment? Using individual patient data allows much greater flexibility for the analysis, and issues can be explored that were not covered in the published trials. However, obtaining the original patient data from each of the trials is challenging.
+
+Limitations
+
+Assessments of the quality of systematic reviews and meta-analysis often identify limitations in the ways they were conducted. Flaws in the meta-analysis can arise through failure to conduct any of the steps in data collection, analysis, and presentation described above.
+
+To summarize:
+
+Was the search strategy comprehensive and likely to avoid bias in the studies identified for inclusion?
+
+Was publication bias assessed?
+
+Was the quality of the individual studies assessed using an appropriate checklist of criteria?
+
+Was combined effect size calculated using appropriate statistical methods?
+
+Was heterogeneity considered and tested for?
+
+Conflict with new experimental data
+
+Meta-analyses seek new knowledge from existing data. One test of the validity of this new knowledge is to compare the results from meta-analyses with subsequent findings from large-scale, well-conducted, randomized controlled trials (so-called ‘mega-trials’). The results of such comparisons have, so far, been mixed – good agreement in the majority of cases but some discrepancies in others. For example, one such exercise led to the publication of a paper subtitled ‘Lessons from an “effective, safe, simple intervention” that wasn’t’ (use of intravenous magnesium after heart attacks). With the benefit of hindsight, the flaws in meta-analyses that have been subsequently contradicted by data from mega-trials can often be uncovered. Such post-mortems have led to a number of methodological improvements (such as funnel plots) and a greater understanding of the pitfalls outlined above.

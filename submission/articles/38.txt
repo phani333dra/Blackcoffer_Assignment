@@ -1,0 +1,27 @@
+AI Conversational Bot using RASA
+
+Components for the conversational bot:
+
+Voice interface – a frontend that users use to communicate with the assistant (web or mobile app, smart speaker, etc)
+
+Speech-to-text (STT) – a voice processing component that takes user input in an audio format and produces a text representation of it.
+
+Natural Language Understanding (NLU) – a component which takes user input in text format and extracts structured data (intents and entities) which helps an assistant to understand what the user wants.
+
+Dialogue management – a component that determines how an assistant should respond at a specific state of the conversation and generates that response in a text format.
+
+Text-to-speech (TTS) – a component that takes the response of the assistant in a text format and produces a voice representation of it which is then sent back to the user.
+
+Tools:
+
+Mozilla Deep Speech – Mozilla DeepSpeech is a speech-to-text framework that takes user input in an audio format and uses machine learning to convert it into a text format which later can be processed by NLU and a dialogue system. Mozilla TTS takes care of the opposite – it takes the input (in our case – the response of the assistant produced by a dialogue system) in a text format and uses machine learning to create an audio representation of it.
+
+Rasa – Rasa is an open-source machine learning framework to automate text-and voice-based conversations. Rasa helps to build contextual assistants capable of having layered conversations with lots of back-and-forth. In order for a human to have a meaningful exchange with a contextual assistant, the assistant needs to be able to use context to build on things that were previously discussed – Rasa enables to build assistants that can do this in a scalable way.
+
+Input required from the client
+
+Rasa enterprise account for better interface
+
+https://rasa.com/enterprise/
+
+Data, if you have it we will use that otherwise we need to find.

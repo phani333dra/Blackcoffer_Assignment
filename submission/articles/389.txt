@@ -1,0 +1,499 @@
+Complete List of Energy Engineering AI Tools & AI Software
+
+1. AI Energy Modeling & Simulation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+EnergyPlus
+
+AI-assisted building energy simulation software.
+
+https://energyplus.net
+
+OpenStudio
+
+AI-enabled platform for building energy modeling.
+
+https://www.openstudio.net
+
+HOMER Pro
+
+AI-powered microgrid and renewable energy optimization software.
+
+https://www.homerenergy.com
+
+TRNSYS
+
+Simulation software for renewable and thermal energy systems.
+
+https://www.trnsys.com
+
+PLEXOS
+
+AI-driven energy market and power system simulation platform.
+
+https://www.energyexemplar.com
+
+ETAP
+
+AI-assisted electrical power system analysis and simulation.
+
+https://etap.com
+
+DIgSILENT PowerFactory
+
+AI-powered power system modeling and grid analysis.
+
+https://www.digsilent.de
+
+PSCAD
+
+Simulation software for power electronics and energy systems.
+
+https://www.pscad.com
+
+MATLAB Simulink
+
+AI-enabled simulation platform for energy engineering.
+
+https://www.mathworks.com
+
+ANSYS Twin Builder
+
+AI-powered digital twin software for energy systems.
+
+https://www.ansys.com
+
+2. AI Smart Grid & Power Systems
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Gridscale X
+
+AI platform for smart grid management and optimization.
+
+https://www.siemens.com
+
+GE GridOS
+
+AI software for grid operations and energy distribution.
+
+https://www.gevernova.com
+
+Schneider Electric EcoStruxure Grid
+
+AI-powered smart grid management platform.
+
+https://www.se.com
+
+ABB Ability Energy Manager
+
+AI platform for monitoring and optimizing power systems.
+
+https://global.abb
+
+Hitachi Energy Lumada
+
+AI-powered digital solutions for smart energy grids.
+
+https://www.hitachienergy.com
+
+Oracle Utilities
+
+AI platform for utility operations and grid analytics.
+
+https://www.oracle.com/utilities
+
+IBM Maximo Utilities
+
+AI software for utility asset management.
+
+https://www.ibm.com/maximo
+
+AutoGrid
+
+AI platform for distributed energy resource management.
+
+https://auto-grid.com
+
+3. AI Renewable Energy Optimization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aurora Solar
+
+AI-powered solar system design and performance analysis.
+
+https://aurorasolar.com
+
+PVsyst
+
+AI-assisted photovoltaic system simulation software.
+
+https://www.pvsyst.com
+
+HelioScope
+
+AI platform for solar plant design and optimization.
+
+https://www.helioscope.com
+
+WindPRO
+
+AI-assisted wind farm planning and energy analysis.
+
+https://www.emd-international.com
+
+OpenWind
+
+AI software for wind energy project optimization.
+
+https://openwind.ul-renewables.com
+
+SAM (System Advisor Model)
+
+AI-supported renewable energy performance modeling.
+
+https://sam.nrel.gov
+
+RETScreen Expert
+
+AI-enabled software for clean energy project analysis.
+
+https://www.nrcan.gc.ca/retscreen
+
+4. AI Energy Management Systems (EMS)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Desigo CC
+
+AI-powered building and energy management platform.
+
+https://www.siemens.com
+
+Schneider EcoStruxure Building
+
+AI software for intelligent energy management.
+
+https://www.se.com
+
+Honeywell Forge Energy
+
+AI-driven building energy optimization software.
+
+https://www.honeywell.com
+
+Johnson Controls OpenBlue
+
+AI platform for smart buildings and energy efficiency.
+
+https://www.johnsoncontrols.com/openblue
+
+BrainBox AI
+
+AI software for HVAC and energy optimization.
+
+https://brainboxai.com
+
+GridPoint
+
+AI-powered commercial building energy management.
+
+https://www.gridpoint.com
+
+5. AI Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Senseye
+
+AI predicts equipment failures before breakdowns.
+
+https://senseye.io
+
+IBM Maximo
+
+AI-powered predictive maintenance platform.
+
+https://www.ibm.com/maximo
+
+GE Digital APM
+
+AI software for asset performance management.
+
+https://www.gevernova.com
+
+AVEVA Predictive Analytics
+
+AI platform for industrial equipment monitoring.
+
+https://www.aveva.com
+
+Aspen Mtell
+
+Machine learning software for predictive maintenance.
+
+https://www.aspentech.com
+
+ABB Ability Predictive Maintenance
+
+AI monitors energy equipment health.
+
+https://global.abb
+
+Uptake
+
+AI-powered predictive maintenance for industrial assets.
+
+https://www.uptake.com
+
+SparkCognition
+
+AI platform for predictive asset management.
+
+https://sparkcognition.com
+
+6. AI Energy Forecasting & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Tomorrow.io
+
+AI weather forecasting for renewable energy operations.
+
+https://www.tomorrow.io
+
+Amperon
+
+AI-powered electricity demand forecasting platform.
+
+https://www.amperon.co
+
+AutoGrid Flex
+
+AI software for load forecasting and grid balancing.
+
+https://auto-grid.com
+
+C3 AI Energy Management
+
+AI analytics platform for utilities and energy companies.
+
+https://c3.ai
+
+Palantir Foundry
+
+AI-powered analytics for energy infrastructure.
+
+https://www.palantir.com
+
+Databricks AI
+
+AI and big data analytics platform for energy data.
+
+https://www.databricks.com
+
+7. AI Sustainability & Carbon Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Persefoni
+
+AI-powered carbon accounting and ESG reporting.
+
+https://persefoni.com
+
+Watershed
+
+AI platform for carbon footprint management.
+
+https://watershed.com
+
+Microsoft Cloud for Sustainability
+
+AI solution for sustainability management.
+
+https://www.microsoft.com
+
+IBM Envizi
+
+AI-powered ESG data and carbon management.
+
+https://www.ibm.com/envizi
+
+Sweep
+
+AI platform for sustainability reporting.
+
+https://www.sweep.net
+
+Greenly
+
+AI software for business carbon tracking.
+
+https://greenly.earth
+
+8. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for energy research and technical documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for scientific writing and engineering tasks.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for energy engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, coding, and analysis.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered research engine for energy innovations.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing technical papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for engineering research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding scientific papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering scientific publications.
+
+https://www.researchrabbit.ai
+
+9. AI & Machine Learning Development Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for energy AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for energy engineering research.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for predictive energy analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML software for predictive modeling.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+Visual AI workflow platform for energy analytics.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics platform.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud platform for AI model development.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+Cloud AI platform for building ML models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for training and deploying AI models.
+
+https://aws.amazon.com/sagemaker

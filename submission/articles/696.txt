@@ -1,0 +1,89 @@
+Payroll Analytics
+
+The Problem
+
+In a shifting market, organizations often lose focus on their long-term strategies in favor of the practical business tactics necessary for maintaining daily operations. Many organizations are concerned about meeting their future staffing needs, due to an aging workforce or factors such as planned investments in a clinical capacity. Organizations that use a data-driven approach to decision making are more likely to achieve their strategic objectives. The value proposition of metrics and analytics can be substantial, consisting of both hard dollar and strategic savings. By optimizing data stored in the Blackcoffer data management solution, the Payroll Analytics tool uses existing daily processes to provide invaluable analytics intelligence across the industry spectrum. Analytics are most meaningful when delivered as part of regular business practices.
+
+Gain Immediate Access to Critical Data
+
+Payroll Analytics delivers immediate access to precise data, helping managers quickly answer – and act upon – key questions:
+
+How can we ensure that our labor expense is within the allocated budget?
+
+When we have a variance in labor expense, how can we determine which detail has created the variance?
+
+What is the employee turnover rate in the organization as a whole, and what departments are most impacted?
+
+How do we determine the reasons for voluntary employee separation to improve employee satisfaction and retention?
+
+Make Informed Decisions
+
+Payroll Analytics provides secure, web-based access to the labor and workforce data required to make sound business decisions. The solution supplies trending information associated with key business drivers to directors, managers, and human resource and financial executives.
+
+Payroll Analytics provides relevant, actionable workforce measures to help focus managers’ attention on important business goals. The solution:
+
+Helps leaders accurately trend and forecast to better manage employee pay and salary budgets
+
+Presents information in a graphic and summary level that managers can drill into to analyze and understand key drivers
+
+Provides the ability to establish alerts and dashboards in order to track important milestones and proactively manage workforce trends
+
+Detail Employee Pay/Labor Distribution
+
+With each pay period, Payroll Analytics updates earnings information in real time, improving the salary management process. Managers are able to quickly provide an analysis of the dollars paid and hours worked by pay type, department and employee.
+
+Understand Employee Separation Trends
+
+By providing critical employee separation trending data, Payroll Analytics helps managers enact effective, proactive programs designed to improve employee satisfaction and reduce separations.
+
+Managers can view scorecards sorted by:
+
+Year-to-year comparisons
+
+Department
+
+Reason
+
+Employee
+
+Percentage comparison
+
+Job type
+
+Average headcount
+
+Voluntary/involuntary separations
+
+Hire date
+
+Analyze Turnover and Retention
+
+Decision-makers can trend data over time to help identify areas which need attention. Payroll Analytics helps managers easily:
+
+Trend employee retention Average length of service Average headcount Number of employees Drill down by Year/month Department Job Employee
+
+Trend employee turnover Turnover rate Hire date Average turnover rate Voluntary/involuntary separations Drill down by Department Year/Month Employee
+
+Benefits
+
+Comprehensive employee pay analysis allows managers to control costs and manage labor
+
+Labor reporting allows the electronic distribution of reports to managers
+
+Employee pay comparison features a drill-down view to improve labor expense management
+
+Employee separation trending allows managers to analyze reasons for employee turnover in the organization
+
+Labor turnover analysis provides insight into employee satisfaction scores and reasons for employee separation
+
+Features
+
+Detailed earnings information enables analysis of labor distribution details
+
+Voluntary and involuntary separation trending data provides insight into reasons for employee turnover
+
+Drill-down capabilities provide various sorting options to allow managers to quickly understand cumulative data
+
+Employee separation scorecards highlight improvement opportunities in hiring practices
+
+Retention analysis illuminates employee motivations and suggests opportunities for retaining top performers

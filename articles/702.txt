@@ -1,0 +1,29 @@
+Ikiga Data, a Global Careers Data and Insights Platform
+
+Project Description for Ikiga Data
+
+We built data, insights, and solutions for training providers to measure, manage and market their Returns on Education.
+
+And we put data, guidance, and networks in the hands of students and alumni, helping them manage resilient career lives.
+
+Working in partnership with career advisors, we have been developing Job Fit: a data-driven tool to explore, pilot, and land new jobs or entirely fresh careers.
+
+Data Visualization Deliverables
+
+Presentation
+
+Dashboard
+
+Map
+
+API Integration
+
+Data Visualization Tools for Ikiga Data
+
+D3.js
+
+Data Visualization Languages
+
+JavaScript
+
+Project Website

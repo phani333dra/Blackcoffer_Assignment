@@ -1,0 +1,1005 @@
+Complete List of Travel & Airlines AI Tools & AI Software
+
+1. AI Restaurant Management Systems (RMS)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Toast POS
+
+AI-powered restaurant management and POS system.
+
+https://pos.toasttab.com
+
+Square for Restaurants
+
+AI-enabled POS and restaurant operations.
+
+https://squareup.com
+
+Lightspeed Restaurant
+
+AI-powered restaurant management platform.
+
+https://www.lightspeedhq.com
+
+Oracle MICROS Simphony
+
+AI-driven restaurant POS and operations.
+
+https://www.oracle.com/food-beverage
+
+Revel Systems
+
+AI-powered restaurant management software.
+
+https://revelsystems.com
+
+TouchBistro
+
+AI-assisted restaurant POS platform.
+
+https://www.touchbistro.com
+
+2. AI Online Ordering & Delivery
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Deliverect
+
+AI connects restaurants with delivery platforms.
+
+https://www.deliverect.com
+
+ChowNow
+
+AI-powered online ordering system.
+
+https://get.chownow.com
+
+Flipdish
+
+AI manages online food ordering and delivery.
+
+https://www.flipdish.com
+
+GloriaFood
+
+AI-powered restaurant ordering platform.
+
+https://www.gloriafood.com
+
+Restroworks
+
+AI automates restaurant ordering and delivery.
+
+https://www.restroworks.com
+
+Otter
+
+AI manages multiple delivery apps from one dashboard.
+
+https://www.tryotter.com
+
+3. AI Table Reservation & Guest Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+OpenTable
+
+AI-powered restaurant reservations.
+
+https://www.opentable.com
+
+SevenRooms
+
+AI manages reservations and guest experiences.
+
+https://sevenrooms.com
+
+Resy
+
+AI-enabled table booking platform.
+
+https://resy.com
+
+Yelp Guest Manager
+
+AI simplifies reservations and waitlists.
+
+https://business.yelp.com
+
+Quandoo
+
+AI-powered restaurant booking platform.
+
+https://www.quandoo.com
+
+Eat App
+
+AI automates restaurant reservations.
+
+https://restaurant.eatapp.co
+
+4. AI Kitchen Operations & Inventory
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Crunchtime
+
+AI optimizes inventory and kitchen operations.
+
+https://www.crunchtime.com
+
+MarketMan
+
+AI-powered restaurant inventory management.
+
+https://www.marketman.com
+
+MarginEdge
+
+AI automates restaurant accounting and inventory.
+
+https://www.marginedge.com
+
+Restaurant365
+
+AI manages restaurant finances and inventory.
+
+https://www.restaurant365.com
+
+xtraCHEF
+
+AI automates invoice and inventory processing.
+
+https://www.xtrachef.com
+
+Craftable
+
+AI streamlines restaurant purchasing and inventory.
+
+https://craftable.com
+
+5. AI Customer Engagement & Chatbots
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+HiJiffy
+
+AI chatbot for restaurant customer support.
+
+https://www.hijiffy.com
+
+Intercom Fin AI
+
+AI customer support assistant.
+
+https://www.intercom.com
+
+Zendesk AI
+
+AI automates customer service.
+
+https://www.zendesk.com
+
+Tidio AI
+
+AI chatbot for restaurant websites.
+
+https://www.tidio.com
+
+Drift AI
+
+AI-powered conversational marketing.
+
+https://www.drift.com
+
+Freshworks Freddy AI
+
+AI customer engagement platform.
+
+https://www.freshworks.com
+
+6. AI Marketing & Loyalty Programs
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Punchh
+
+AI-powered restaurant loyalty platform.
+
+https://punchh.com
+
+Thanx
+
+AI manages restaurant loyalty and rewards.
+
+https://thanx.com
+
+Como Sense
+
+AI personalizes customer engagement.
+
+https://www.comosense.com
+
+Salesforce Einstein
+
+AI-powered restaurant CRM and marketing.
+
+https://www.salesforce.com
+
+HubSpot AI
+
+AI automates restaurant marketing campaigns.
+
+https://www.hubspot.com
+
+Zoho CRM Zia
+
+AI-powered customer relationship management.
+
+https://www.zoho.com/crm
+
+7. AI Catering & Event Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Caterease
+
+AI-powered catering management software.
+
+https://caterease.com
+
+Better Cater
+
+AI manages catering orders and events.
+
+https://bettercater.com
+
+Total Party Planner
+
+AI supports catering business management.
+
+https://totalpartyplanner.com
+
+Curate
+
+AI simplifies catering proposals and event planning.
+
+https://www.curate.co
+
+Event Temple
+
+AI automates catering and event bookings.
+
+https://www.eventtemple.com
+
+Tripleseat
+
+AI-powered event and catering management platform.
+
+https://tripleseat.com
+
+8. AI Analytics & Business Intelligence
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered restaurant analytics dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven restaurant analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered restaurant business intelligence.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven restaurant insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered restaurant analytics platform.
+
+https://www.sas.com
+
+DataRobot
+
+AI predicts restaurant sales and demand.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for restaurant analytics.
+
+https://www.knime.com
+
+Alteryx AI Platform
+
+AI automates restaurant reporting.
+
+https://www.alteryx.com
+
+9. AI Content Creation & Productivity
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI creates menus, marketing content, and customer replies.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for restaurant documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for restaurant research and planning.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI creates reports and business documents.
+
+https://copilot.microsoft.com
+
+Canva Magic Studio
+
+AI designs menus and promotional materials.
+
+https://www.canva.com
+
+Gamma
+
+AI creates presentations and proposals.
+
+https://gamma.app
+
+Synthesia
+
+AI generates restaurant training videos.
+
+https://www.synthesia.io
+
+HeyGen
+
+AI creates multilingual promotional videos.
+
+https://www.heygen.com
+
+10. AI Machine Learning Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source AI framework for restaurant analytics.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for AI applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for business analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for demand forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for restaurant solutions.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI model development platform.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for predictive analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered restaurant analytics platform.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for restaurant intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for AI deployment.
+
+https://www.dominodatalab.com
+
+Meta Title
+
+Complete List of Restaurants & Catering AI Tools & AI Software (2026)
+
+Meta Description
+
+Explore the best Restaurants & Catering AI tools and software for POS systems, online ordering, reservations, inventory management, catering, customer engagement, marketing, analytics, content creation, and AI-powered restaurant operations.
+
+Create a Complete list of Travel & Airlines AI Tools & AI Software
+
+Complete List of Travel & Airlines AI Tools & AI Software
+
+1. AI Travel Booking & Reservation Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Amadeus Travel AI
+
+AI-powered travel booking and reservation platform.
+
+https://amadeus.com
+
+Sabre Travel AI
+
+AI automates airline and travel bookings.
+
+https://www.sabre.com
+
+Travelport+
+
+AI-powered global travel retail platform.
+
+https://www.travelport.com
+
+Expedia AI
+
+AI recommends flights, hotels, and travel packages.
+
+https://www.expedia.com
+
+Booking.com AI
+
+AI-powered hotel and travel booking assistant.
+
+https://www.booking.com
+
+Hopper
+
+AI predicts flight and hotel prices.
+
+https://hopper.com
+
+Skyscanner AI
+
+AI finds the best travel deals.
+
+https://www.skyscanner.com
+
+Kayak AI
+
+AI-powered travel search and comparison.
+
+https://www.kayak.com
+
+2. AI Airline Operations & Flight Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Lufthansa Systems
+
+AI optimizes airline operations and scheduling.
+
+https://www.lhsystems.com
+
+GE Aerospace FlightPulse
+
+AI analyzes flight performance and fuel efficiency.
+
+https://www.geaerospace.com
+
+Honeywell Forge
+
+AI improves airline operational performance.
+
+https://www.honeywell.com
+
+Airbus Skywise
+
+AI-powered aviation analytics platform.
+
+https://skywise.airbus.com
+
+Boeing AnalytX
+
+AI optimizes fleet and flight operations.
+
+https://www.boeing.com
+
+SITA OptiFlight
+
+AI reduces fuel consumption and emissions.
+
+https://www.sita.aero
+
+3. AI Revenue Management & Dynamic Pricing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+PROS Revenue Management
+
+AI optimizes airline ticket pricing.
+
+https://www.pros.com
+
+Amadeus Revenue Management
+
+AI forecasts demand and pricing.
+
+https://amadeus.com
+
+Sabre AirVision Revenue Optimizer
+
+AI maximizes airline revenue.
+
+https://www.sabre.com
+
+FLYR
+
+AI-powered pricing and revenue optimization.
+
+https://flyr.com
+
+Accelya FLX Revenue
+
+AI improves airline pricing strategies.
+
+https://w3.accelya.com
+
+IDeaS Revenue Solutions
+
+AI supports travel pricing optimization.
+
+https://ideas.com
+
+4. AI Customer Service & Virtual Assistants
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Amelia
+
+AI virtual agent for airlines and travel companies.
+
+https://amelia.ai
+
+Zendesk AI
+
+AI-powered travel customer support.
+
+https://www.zendesk.com
+
+Intercom Fin AI
+
+AI chatbot for travel businesses.
+
+https://www.intercom.com
+
+Drift AI
+
+AI conversational assistant for bookings.
+
+https://www.drift.com
+
+Freshworks Freddy AI
+
+AI automates customer service.
+
+https://www.freshworks.com
+
+Tidio AI
+
+AI chatbot for travel websites.
+
+https://www.tidio.com
+
+5. AI Travel Planning & Itinerary Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Google Gemini
+
+AI generates personalized travel plans.
+
+https://gemini.google.com
+
+ChatGPT
+
+AI creates travel itineraries and trip guides.
+
+https://chatgpt.com
+
+GuideGeek AI
+
+AI-powered travel planning assistant.
+
+https://guidegeek.com
+
+Wonderplan
+
+AI generates customized travel itineraries.
+
+https://wonderplan.ai
+
+Roam Around
+
+AI builds personalized travel schedules.
+
+https://www.roamaround.io
+
+Mindtrip
+
+AI-powered end-to-end trip planner.
+
+https://mindtrip.ai
+
+6. AI Airport Operations & Passenger Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+SITA Smart Path
+
+AI enables biometric passenger processing.
+
+https://www.sita.aero
+
+Collins Aerospace ARINC
+
+AI supports airport operations and passenger services.
+
+https://www.collinsaerospace.com
+
+Vision-Box
+
+AI-powered biometric passenger management.
+
+https://www.vision-box.com
+
+NEC I:Delight
+
+AI facial recognition for airport security.
+
+https://www.nec.com
+
+Thales Fly to Gate
+
+AI improves passenger identity verification.
+
+https://www.thalesgroup.com
+
+IDEMIA Travel & Transport
+
+AI-powered biometric travel solutions.
+
+https://www.idemia.com
+
+7. AI Fleet Maintenance & Predictive Analytics
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+IBM Maximo
+
+AI predicts aircraft maintenance needs.
+
+https://www.ibm.com/maximo
+
+Airbus Skywise Predictive Maintenance
+
+AI forecasts aircraft component failures.
+
+https://skywise.airbus.com
+
+Boeing AnalytX Maintenance
+
+AI optimizes aircraft maintenance schedules.
+
+https://www.boeing.com
+
+Honeywell Forge
+
+AI monitors aircraft health.
+
+https://www.honeywell.com
+
+Siemens Senseye
+
+AI-powered predictive maintenance.
+
+https://senseye.io
+
+AVEVA Predictive Analytics
+
+AI detects equipment failures early.
+
+https://www.aveva.com
+
+8. AI Analytics & Business Intelligence
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered airline analytics dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven travel analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered airline business intelligence.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven travel insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered aviation analytics.
+
+https://www.sas.com
+
+DataRobot
+
+AI predicts passenger demand and revenue.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for travel analytics.
+
+https://www.knime.com
+
+Alteryx AI Platform
+
+AI automates travel reporting.
+
+https://www.alteryx.com
+
+9. AI Marketing & Productivity
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Claude
+
+AI creates travel documents and reports.
+
+https://claude.ai
+
+Microsoft Copilot
+
+AI assists with travel business productivity.
+
+https://copilot.microsoft.com
+
+Canva Magic Studio
+
+AI designs travel marketing materials.
+
+https://www.canva.com
+
+Gamma
+
+AI creates travel presentations.
+
+https://gamma.app
+
+Synthesia
+
+AI develops airline training videos.
+
+https://www.synthesia.io
+
+HeyGen
+
+AI creates multilingual travel videos.
+
+https://www.heygen.com
+
+Jasper AI
+
+AI generates travel marketing content.
+
+https://www.jasper.ai
+
+Copy.ai
+
+AI writes travel blogs and promotional content.
+
+https://www.copy.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source AI framework for aviation analytics.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for travel AI.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for predictive analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for travel forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for travel solutions.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for airline model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for aviation analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered travel analytics platform.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for airline intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,45 @@
+Networking Platform – Have a look
+
+Project Description for Networking Platform
+
+The client wanted to develop a networking platform/application driven by AI, ML, and data visualizations. The goal was to connect the unconnected to meet their needs.
+
+Delivered a scalable web application driven by AI, ML, and data visualization
+
+Delivered a mobile app (Android and iOS)
+
+Delivered a scalable infra for the technology stack
+
+Delivered ready-to-use technology in the MERN stack.
+
+Data Visualization Deliverables
+
+Map
+
+Presentation
+
+Dashboard
+
+API Integration
+
+Data Visualization Tools
+
+Google Sheets
+
+D3.js
+
+Google Data Studio
+
+Microsoft Power BI
+
+Data Visualization Languages
+
+JavaScript
+
+Python
+
+Project Snapshots for Networking Platform
+
+Project Website
+
+https://netclan.com/

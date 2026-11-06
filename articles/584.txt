@@ -1,0 +1,41 @@
+Entertainment Music Player User Analytics and Recommendations
+
+Client Background
+
+Client: A leading entertainment tech firm worldwide
+
+Industry Type: Entertainment
+
+Services: Apps, advertisement
+
+Organization Size: 100+
+
+Project Objective for Entertainment Music Player
+
+Perform analytics on big data taken from the android application – aurify music player using google’s big query and data proc platforms.
+
+Project Description
+
+Using big data processing and querying platforms like big query and data proc, performing analytics, and finding key features that could be used to improve the application in case of ads and anything else. Also provides suggestions for improving the said application.
+
+Our Solution for Entertainment Music Player
+
+Using a big query to do analytics on firebase, predictions, ads, google analytics-related data. Doing the same later on using the data proc platform.
+
+Also giving out ideas for what could be done for the application, users leaving the application, doing individual tracking of what users do inside the application, and ad interaction.
+
+Project Deliverables
+
+Showing analytics on data present in database/google cloud platform using big query and data proc (coding/data mining using apache spark).
+
+Providing suggestions for the app.
+
+Language/Tools used
+
+SQL-like language for the big queries.
+
+Apache spark and anaconda for coding on data from the google cloud platform.
+
+Excel for checking data.
+
+GCP used for storing final data.

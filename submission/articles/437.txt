@@ -1,0 +1,523 @@
+Complete List of Nanotechnology Engineering AI Tools & AI Software
+
+1. AI Materials Discovery & Materials Informatics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Citrine Platform
+
+AI platform for accelerated materials discovery and optimization.
+
+https://citrine.io
+
+Kebotix
+
+Autonomous AI platform for materials research and experimentation.
+
+https://www.kebotix.com
+
+MatterGen
+
+Generative AI model for designing novel materials.
+
+https://www.microsoft.com/en-us/research/project/mattergen
+
+GNoME
+
+DeepMind AI model for discovering millions of stable inorganic materials.
+
+https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning
+
+Polymer Genome
+
+AI predicts polymer and nanocomposite properties.
+
+https://www.polymergenome.org
+
+AFLOW
+
+AI-assisted high-throughput materials discovery platform.
+
+https://aflow.org
+
+OQMD
+
+AI-powered database for computational materials discovery.
+
+https://oqmd.org
+
+Materials Project
+
+AI-enabled database of crystal structures and material properties.
+
+https://materialsproject.org
+
+NOMAD AI Toolkit
+
+AI platform for analyzing materials science datasets.
+
+https://nomad-lab.eu
+
+Exabyte.io
+
+Cloud platform for AI-driven computational materials engineering.
+
+https://exabyte.io
+
+2. AI Molecular Modeling & Quantum Chemistry
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Materials Studio
+
+AI-assisted molecular modeling and nanomaterial simulation software.
+
+https://www.3ds.com/products/biovia/materials-studio
+
+Schrödinger Materials Science Suite
+
+AI-powered molecular and materials modeling platform.
+
+https://www.schrodinger.com
+
+BIOVIA Discovery Studio
+
+AI-based molecular modeling for biomaterials and nanomedicine.
+
+https://www.3ds.com/products/biovia/discovery-studio
+
+Gaussian
+
+Computational chemistry software for molecular simulations.
+
+https://gaussian.com
+
+ORCA
+
+Quantum chemistry software for nanoscale molecular analysis.
+
+https://orcaforum.kofo.mpg.de
+
+CP2K
+
+Atomistic simulation software with AI-compatible workflows.
+
+https://www.cp2k.org
+
+Quantum ESPRESSO
+
+Open-source suite for quantum material simulations.
+
+https://www.quantum-espresso.org
+
+VASP
+
+First-principles simulation software for nanostructures.
+
+https://www.vasp.at
+
+QuantumATK
+
+AI-powered nanoscale semiconductor and material simulation platform.
+
+https://www.synopsys.com/silicon/quantumatk.html
+
+NanoEngineer-1
+
+Software for designing and simulating nanoscale molecular structures.
+
+http://www.nanoengineer-1.com
+
+3. AI Molecular Dynamics Simulation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+LAMMPS
+
+Molecular dynamics simulator supporting AI-generated force fields.
+
+https://www.lammps.org
+
+GROMACS
+
+High-performance molecular dynamics simulation software.
+
+https://www.gromacs.org
+
+DeepMD-kit
+
+Deep learning framework for molecular dynamics potentials.
+
+https://deepmd.org
+
+DeePMD
+
+AI framework for atomistic molecular simulations.
+
+https://github.com/deepmodeling/deepmd-kit
+
+OVITO
+
+AI-assisted visualization and analysis of atomistic simulations.
+
+https://www.ovito.org
+
+ASE (Atomic Simulation Environment)
+
+Python framework for AI-compatible atomistic simulations.
+
+https://wiki.fysik.dtu.dk/ase
+
+4. AI Materials Property Prediction
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+M3GNet
+
+Graph neural network for predicting material properties.
+
+https://github.com/materialsvirtuallab/m3gnet
+
+CHGNet
+
+AI model for crystal and material property prediction.
+
+https://chgnet.lbl.gov
+
+ALIGNN
+
+Deep learning model for crystal structure analysis.
+
+https://github.com/usnistgov/alignn
+
+MatDeepLearn
+
+AI framework for materials property prediction.
+
+https://github.com/Fung-Lab/MatDeepLearn
+
+MatGL
+
+Graph learning toolkit for computational materials science.
+
+https://matgl.ai
+
+Matminer
+
+Machine learning toolkit for extracting material features.
+
+https://hackingmaterials.lbl.gov/matminer
+
+Pymatgen
+
+Python library for computational materials analysis.
+
+https://pymatgen.org
+
+OrbNet
+
+AI-powered quantum chemistry prediction platform.
+
+https://orbitalmaterials.com
+
+5. AI Computational Nanotechnology
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+nanoHUB
+
+Cloud platform offering AI-enabled nanotechnology simulations.
+
+https://nanohub.org
+
+COMSOL Multiphysics
+
+AI-assisted multiphysics simulation for nanoscale systems.
+
+https://www.comsol.com
+
+NVIDIA Omniverse
+
+Digital twin platform for nanotechnology visualization.
+
+https://www.nvidia.com/omniverse
+
+MATLAB AI Toolbox
+
+AI development tools for nanotechnology research.
+
+https://www.mathworks.com
+
+6. AI Chemistry & Molecular Design
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM RXN for Chemistry
+
+AI predicts chemical reactions and synthesis pathways.
+
+https://rxn.res.ibm.com
+
+DeepChem
+
+Open-source deep learning framework for chemistry research.
+
+https://deepchem.io
+
+Chemprop
+
+AI platform for molecular property prediction.
+
+https://chemprop.readthedocs.io
+
+MolGX
+
+AI software for molecular design and optimization.
+
+https://www.molgx.com
+
+7. AI Nanobiotechnology & Biomaterials
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+AlphaFold
+
+AI predicts protein structures for nanobiotechnology.
+
+https://alphafold.ebi.ac.uk
+
+ESMFold
+
+AI model for rapid protein structure prediction.
+
+https://esmatlas.com
+
+RosettaFold
+
+AI-assisted protein modeling platform.
+
+https://rosettacommons.org
+
+Cradle AI
+
+Generative AI platform for protein engineering.
+
+https://www.cradle.bio
+
+NVIDIA BioNeMo
+
+AI platform for biomolecular research and drug discovery.
+
+https://www.nvidia.com/en-us/clara/bionemo
+
+8. AI & Machine Learning Development Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for scientific AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework widely used in nanotechnology research.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for predictive analytics.
+
+https://scikit-learn.org
+
+XGBoost
+
+AI algorithm for materials optimization and prediction.
+
+https://xgboost.ai
+
+LightGBM
+
+High-performance machine learning framework.
+
+https://lightgbm.readthedocs.io
+
+CatBoost
+
+Gradient boosting library for scientific datasets.
+
+https://catboost.ai
+
+H2O.ai
+
+Automated machine learning platform.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML software for predictive modeling.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+Visual AI workflow platform for scientific analytics.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics platform.
+
+https://altair.com/rapidminer
+
+9. AI Cloud Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Google Vertex AI
+
+Cloud platform for developing AI models.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+Microsoft’s cloud AI platform for ML development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for training and deploying AI models.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+Unified platform for AI and big data analytics.
+
+https://www.databricks.com
+
+Snowflake Cortex AI
+
+AI-powered analytics platform for enterprise data.
+
+https://www.snowflake.com
+
+Palantir Foundry
+
+AI platform for integrating research and engineering data.
+
+https://www.palantir.com/platforms/foundry
+
+10. AI Research Assistants & Scientific Literature
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for research, coding, and technical documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for scientific writing and literature review.
+
+https://claude.ai
+
+Google Gemini
+
+Multimodal AI assistant for engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for coding, reports, and data analysis.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered search engine for scientific research.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for scientific research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for reading and understanding research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering and organizing scientific literature.
+
+https://www.researchrabbit.ai
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

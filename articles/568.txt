@@ -1,0 +1,37 @@
+Elastic Kibana Specialist to Create Dashboard & Visualization
+
+Client Background
+
+Client: A leading IT firm in the USA
+
+Industry Type: IT
+
+Services: IT Services
+
+Organization Size: 100+
+
+Project Description
+
+This will be the first page of the dashboard to be developed. It will be integrated into a wordpress site and placed behind a password.
+
+The dashboard shall be integrated and deployed with the client website. The server and hosting details shall be shared by the client.
+
+Your job:
+
+Build a Dashboard to organize data from a blockchain and from Google Sheet with a database using Elastic Kibana.
+
+Integrate the Cardano DB Sync Data to this dashboard (see example)
+
+Note: The Cardano DB Sync Data is a component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+
+Data Visualization Deliverables
+
+API Integration Dashboard Map Presentation
+
+Data Visualization Tools
+
+Microsoft Power BI Tableau Microsoft Excel Google Data Studio Kibana
+
+Data Visualization Languages
+
+Python JavaScript R DAX

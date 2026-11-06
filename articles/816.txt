@@ -1,0 +1,61 @@
+New Jersey Based Micro Business Sentiment Analysis
+
+Client Background
+
+Client: A leading research lab in the USA
+
+Industry Type: Research, Retail
+
+Services: Decision support to businesses, retail owners, micro-businesses, retail businesses, and merchants
+
+Organization Size: 1000+
+
+Challenges for Micro Business Sentiment Analysis
+
+The client was intended to help the Micro Business Sentiment Analysis in New Jersey city with the help of the social media and social media awareness programs. The micro-business was facing difficulties to make their presence on the social platforms and engage their customers in the platforms themselves.
+
+The client wanted Blackcoffer to help them with their digital marketing solutions by creating their social media presence, engaging their customers on the social platforms, and increasing the customer experiences by performing social analytics and analyzing the customer sentiments towards their brands and products that they sell.
+
+Solution for Micro Business Sentiment Analysis
+
+Blackcoffer studied the business cases of the micro-businesses and CASID businesses based in the New Jersey city. The customer experience platform was designed and developed for each of the micro and CASID businesses in the New Jersey city.
+
+NLTK’s VADER module was utilized to get the sentiment score for the reviews, comments, and tweets. In the case of tweets, all tweets by the Business’s twitter handle as well as those hash-tagging the business or addressed to the business (#Business and @Business) were included. The sentiment score which was obtained was continuous in the range of -1 to 1 with -1 being most negative and 1 being most positive. It was then segmented into five equal sentiment classes equally spaced from -2 to 2 in order to lump nearby sentiment scores. The final observations have been drawn on both these scores. Furthermore, some of the reviews and tweets were found to have improbable dates such as in the future or long past, and hence they were omitted from the trend analysis.
+
+Business Impact
+
+Blackcoffer delivered the following business impacts:
+
+The micro and CASID businesses in New Jersey city became more active on social platforms.
+
+The businesses started realizing the value of customer feedback in social platforms.
+
+The businesses found the social analytics platform a tool to increase the customer experience.
+
+The businesses started getting more customer calls to buy their products and brands.
+
+The businesses had a huge increase in their sales and revenue growth.
+
+The sentiments of the customers were so helpful that the businesses started realizing what their customers want.
+
+The social analytics platform delivered with 96% accuracy.
+
+The models were performed on 1M+ textual data points.
+
+The businesses with more brands and safety measures were getting more customer traction.
+
+USD 10M+ revenue was added in the businesses combined per quarter
+
+A realtime social analytics tool was delivered to each business
+
+Technology Stack
+
+Python
+
+Web tech stack
+
+GCE
+
+Compute engines
+
+App Engines

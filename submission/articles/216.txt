@@ -1,0 +1,33 @@
+The 8 Steps of AI/ML Project
+
+Frame the problem
+
+This first step is where the objective is defined. This step is also where comparable scenarios and current workarounds to a given problem are discussed, as well as assumptions being contemplated, and the degree of need for human expertise determined. Other key technical items to frame in this step include determining which type of machine learning problem (supervised, unsupervised, etc.) applies and adopting an appropriate performance metric(s).
+
+Get the data
+
+This step is data-centric: determine how much data is needed, what type of data is needed, where to get the data, assess legal obligations surrounding data acquisition… and get the data. Once you have the data, ensure it is appropriately anonymized, make certain you know what type of data it actually is (time series, observations, images, etc.), convert the data to a format you require of it, and create training, validation, and testing sets as warranted.
+
+Explore the data
+
+This step in the checklist is akin to what is often referred to as Exploratory Data Analysis (EDA). The goal is to try and gain insights from the data prior to modeling. Recall that in the first step assumptions about the data were to be identified and explored; this is a good time to more deeply investigate these assumptions. Human experts can be of particular use in this step, answering questions about correlations that may not be obvious to the machine learning practitioner. Studying features and their characteristics are done here, as is general visualization of features and their values (think of how much easier it is, for example, to quickly identify outliers by box plot than by numerical interrogation). Documenting the findings of your exploration for later use is good practice.
+
+Prepare the data
+
+In this step, apply data transformations you identified as being worthy in the previous step. This step also includes any data cleaning you would perform, as well as both feature selection and engineering. Any feature scaling for value standardization and/or normalization would occur here as well.
+
+Model the data
+
+In this step, model the data, and whittle the initial set of models down to what appears to be the most promising bunch. Such attempts may involve using samples of the full dataset to facilitate training times for preliminary models, models that should cut across a wide spectrum of categories (trees, neural networks, linear, etc.). Models should be built, measured, and compared to one another, and the types of errors made for each model should be investigated, as should the most significant features for each algorithm used. The best performing models should be shortlisted, which can then be fine-tuned afterward.
+
+Fine-tune the models
+
+The shortlisted models should now have their hyperparameters fine-tuned, and ensemble methods should be investigated at this stage. Full datasets should be used during this step, should dataset samples have been used in the previous modeling phase; no fine-tuned model should be selected as the “winner” without having been exposed to all training data or compared with other models which have also been exposed to all training data. Also, you didn’t overfit, right?
+
+Present the solution
+
+Be a good seller. This step requires presentation skills and how a good story can be driven by the model results. Answer questions for interested parties: Do interested parties understand the big picture? Does the solution achieve the objective? Have you conveyed assumptions and limitations? This is essentially a sales pitch, so ensure the takeaway is confidence in the system. Why do all this work if the result isn’t understood and adopted? Especially, create an outstanding report or a deck to tell the data story, and how ML models results can help the business leaders to address their business problems. Explain the driving forces, key drivers, risks, growth, ROI, and the most important is future strategy.
+
+Launch the ML system
+
+Get the machine learning system ready for production; it will need to be plugged into some wider production system or strategy. As a software solution, it will be exposed to unit testing prior and should be adequately monitored once up and running. Retraining models on fresh or updated data is part of this process and should be taken into account here, even if the thought had been given to this in an earlier step.

@@ -1,0 +1,517 @@
+Complete List of Biotechnology AI Tools & AI Software
+
+1. AI Drug Discovery & Molecular Design
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Insilico Medicine
+
+AI accelerates drug discovery and target identification.
+
+https://insilico.com
+
+BenevolentAI
+
+AI discovers novel drug candidates.
+
+https://www.benevolent.com
+
+Exscientia
+
+AI designs precision medicines using AI.
+
+https://www.exscientia.ai
+
+Atomwise
+
+AI predicts drug-target interactions.
+
+https://www.atomwise.com
+
+Schrödinger
+
+AI-powered molecular modeling and drug design.
+
+https://www.schrodinger.com
+
+Recursion
+
+AI-driven drug discovery using biological data.
+
+https://www.recursion.com
+
+Generate:Biomedicines
+
+AI designs therapeutic proteins and biologics.
+
+https://generatebiomedicines.com
+
+XtalPi
+
+AI platform for pharmaceutical and biotech research.
+
+https://www.xtalpi.com
+
+2. AI Genomics & Bioinformatics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+DeepVariant
+
+AI identifies genetic variants from DNA sequencing.
+
+https://github.com/google/deepvariant
+
+Illumina Connected Analytics
+
+AI analyzes genomic sequencing data.
+
+https://www.illumina.com
+
+DNAnexus
+
+AI-powered genomic data management platform.
+
+https://www.dnanexus.com
+
+SOPHiA DDM
+
+AI supports genomic diagnostics and precision medicine.
+
+https://www.sophiagenetics.com
+
+Seven Bridges
+
+AI platform for genomic research and bioinformatics.
+
+https://www.sevenbridges.com
+
+Fabric Genomics
+
+AI interprets genomic and clinical data.
+
+https://fabricgenomics.com
+
+3. AI Protein Structure & Protein Engineering
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+AlphaFold
+
+AI predicts 3D protein structures.
+
+https://alphafold.ebi.ac.uk
+
+ESMFold
+
+AI predicts protein folding from amino acid sequences.
+
+https://esmatlas.com
+
+RoseTTAFold
+
+AI models protein structures with high accuracy.
+
+https://robetta.bakerlab.org
+
+Profluent
+
+AI designs novel proteins for biotechnology.
+
+https://www.profluent.bio
+
+Generate:Biomedicines
+
+AI develops protein therapeutics.
+
+https://generatebiomedicines.com
+
+Basecamp Research
+
+AI discovers proteins using biodiversity data.
+
+https://www.basecamp-research.com
+
+4. AI Laboratory Management & Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Benchling
+
+AI-powered laboratory management platform.
+
+https://www.benchling.com
+
+Dotmatics
+
+AI supports scientific research workflows.
+
+https://www.dotmatics.com
+
+Labguru
+
+AI-enabled laboratory information management.
+
+https://www.labguru.com
+
+SciNote
+
+AI-powered electronic laboratory notebook.
+
+https://www.scinote.net
+
+LabVantage
+
+AI laboratory information management system (LIMS).
+
+https://www.labvantage.com
+
+STARLIMS
+
+AI automates laboratory data management.
+
+https://www.starlims.com
+
+5. AI Clinical Trials & Precision Medicine
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Medidata AI
+
+AI improves clinical trial management.
+
+https://www.medidata.com
+
+IQVIA Connected Intelligence
+
+AI optimizes clinical research.
+
+https://www.iqvia.com
+
+Saama AI
+
+AI automates clinical trial analytics.
+
+https://www.saama.com
+
+Deep 6 AI
+
+AI matches patients to clinical trials.
+
+https://deep6.ai
+
+Tempus
+
+AI supports precision medicine research.
+
+https://www.tempus.com
+
+TriNetX
+
+AI-powered healthcare research platform.
+
+https://www.trinetx.com
+
+6. AI Biotechnology Manufacturing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter
+
+AI optimizes biotech manufacturing operations.
+
+https://www.siemens.com/opcenter
+
+Emerson DeltaV
+
+AI automates biopharmaceutical production.
+
+https://www.emerson.com
+
+ABB Ability
+
+AI improves biotech manufacturing efficiency.
+
+https://new.abb.com/ability
+
+Honeywell Forge
+
+AI optimizes production performance.
+
+https://www.honeywell.com
+
+AspenTech AI
+
+AI enhances bioprocess optimization.
+
+https://www.aspentech.com
+
+Seeq
+
+AI analyzes industrial biotechnology process data.
+
+https://www.seeq.com
+
+7. AI Healthcare Analytics & Business Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered biotechnology dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven biotech analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered biotechnology analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven biotechnology insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered biotech analytics platform.
+
+https://www.sas.com
+
+DataRobot
+
+AI platform for biotechnology forecasting.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for biotechnology data analysis.
+
+https://www.knime.com
+
+Alteryx AI Platform
+
+AI automates biotech reporting.
+
+https://www.alteryx.com
+
+8. AI Quality Management & Regulatory Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Veeva Vault QMS
+
+AI manages biotech quality documentation.
+
+https://www.veeva.com
+
+MasterControl
+
+AI automates quality and compliance management.
+
+https://www.mastercontrol.com
+
+Sparta TrackWise Digital
+
+AI supports quality management systems.
+
+https://www.spartasystems.com
+
+Dot Compliance
+
+AI-powered electronic quality management.
+
+https://www.dotcompliance.com
+
+Qualio
+
+AI simplifies biotech compliance.
+
+https://www.qualio.com
+
+Arena PLM
+
+AI manages biotech product lifecycle.
+
+https://www.arenasolutions.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for biotechnology research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for scientific writing and reports.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for biotechnology research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports and presentations.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered biotechnology research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing biotechnology documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review for biotechnology research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains biotechnology research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers biotechnology publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for biotechnology AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for biotechnology applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for biotechnology analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for biotechnology forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for biotechnology solutions.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for biotechnology model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for biotechnology analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for biotechnology datasets.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for biotechnology intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for biotechnology AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

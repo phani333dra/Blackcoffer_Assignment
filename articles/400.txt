@@ -1,0 +1,487 @@
+Complete List of Food Technology Engineering AI Tools & AI Software
+
+1. AI Food Product Development & Formulation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Tastewise
+
+AI-powered consumer insights and food product innovation.
+
+https://www.tastewise.io
+
+Spoonshot
+
+AI predicts food trends and develops new recipes.
+
+https://www.spoonshot.com
+
+NotCo Giuseppe AI
+
+AI platform for plant-based food formulation.
+
+https://notco.com
+
+Foodpairing®
+
+AI suggests ingredient combinations and flavor pairings.
+
+https://www.foodpairing.com
+
+Escoffier Flavor AI
+
+AI-assisted recipe and flavor development.
+
+https://www.escoffier.edu
+
+Brightseed Forager®
+
+AI discovers bioactive compounds in food ingredients.
+
+https://brightseedbio.com
+
+2. AI Food Quality Inspection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TOMRA Insight
+
+AI-powered food sorting and quality inspection.
+
+https://www.tomra.com
+
+Key Technology VERYX
+
+AI-enabled food sorting and defect detection.
+
+https://www.key.net
+
+Bühler SORTEX AI
+
+AI-powered optical sorting for food processing.
+
+https://www.buhlergroup.com
+
+Cognex VisionPro
+
+AI machine vision for food quality inspection.
+
+https://www.cognex.com
+
+MVTec HALCON
+
+AI-powered machine vision for food manufacturing.
+
+https://www.mvtec.com
+
+Inspekto
+
+AI-assisted automated visual inspection platform.
+
+https://www.inspekto.com
+
+3. AI Food Processing & Manufacturing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens SIMATIC AI
+
+AI-powered industrial automation for food production.
+
+https://www.siemens.com/simatic
+
+ABB Ability
+
+AI platform for smart food manufacturing.
+
+https://global.abb/ability
+
+Rockwell FactoryTalk
+
+AI-assisted food processing and production control.
+
+https://www.rockwellautomation.com
+
+Schneider EcoStruxure
+
+AI-powered food manufacturing optimization.
+
+https://www.se.com
+
+Emerson DeltaV
+
+AI-enabled process automation for food plants.
+
+https://www.emerson.com
+
+Honeywell Forge
+
+AI optimizes food processing operations.
+
+https://www.honeywell.com
+
+4. AI Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Senseye
+
+AI predicts failures in food processing equipment.
+
+https://senseye.io
+
+IBM Maximo Application Suite
+
+AI-powered food plant asset management.
+
+https://www.ibm.com/products/maximo
+
+GE Digital APM
+
+AI platform for food manufacturing equipment monitoring.
+
+https://www.gevernova.com/software
+
+AVEVA Predictive Analytics
+
+AI monitors equipment health and performance.
+
+https://www.aveva.com
+
+Aspen Mtell
+
+AI-powered predictive maintenance software.
+
+https://www.aspentech.com
+
+SparkCognition
+
+AI-driven equipment reliability platform.
+
+https://sparkcognition.com
+
+5. AI Food Safety & Traceability
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Food Trust
+
+AI and blockchain platform for food traceability.
+
+https://www.ibm.com/products/food-trust
+
+FoodLogiQ
+
+AI-powered food safety and compliance platform.
+
+https://www.foodlogiq.com
+
+SafetyChain
+
+AI platform for food quality and compliance management.
+
+https://safetychain.com
+
+Trustwell Genesis
+
+AI-assisted food labeling and regulatory compliance.
+
+https://www.trustwell.com
+
+SGS Digicomply
+
+AI monitors food regulations and compliance.
+
+https://www.sgs.com
+
+TraceGains
+
+AI-powered ingredient sourcing and supplier management.
+
+https://www.tracegains.com
+
+6. AI Supply Chain & Demand Forecasting
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Blue Yonder
+
+AI-powered food supply chain optimization.
+
+https://blueyonder.com
+
+o9 Solutions
+
+AI demand forecasting for food manufacturers.
+
+https://o9solutions.com
+
+SAP Integrated Business Planning
+
+AI-enabled food supply chain planning.
+
+https://www.sap.com
+
+Oracle SCM Cloud
+
+AI-powered food logistics and inventory management.
+
+https://www.oracle.com
+
+Kinaxis Maestro
+
+AI-driven supply chain orchestration platform.
+
+https://www.kinaxis.com
+
+RELEX Solutions
+
+AI optimizes food retail demand forecasting.
+
+https://www.relexsolutions.com
+
+7. AI Digital Twins & Smart Factories
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Omniverse
+
+AI-powered digital twins for food factories.
+
+https://www.nvidia.com/omniverse
+
+Azure Digital Twins
+
+AI platform for food production modeling.
+
+https://azure.microsoft.com/products/digital-twins
+
+AWS IoT TwinMaker
+
+AI-enabled digital twins for food processing plants.
+
+https://aws.amazon.com/iot-twinmaker
+
+Siemens Digital Twin
+
+AI-assisted manufacturing simulation platform.
+
+https://www.siemens.com
+
+Dassault 3DEXPERIENCE
+
+AI-powered product lifecycle and factory simulation.
+
+https://www.3ds.com
+
+8. AI Industrial IoT & Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+PTC ThingWorx
+
+AI-powered Industrial IoT platform for food factories.
+
+https://www.ptc.com
+
+Siemens Insights Hub
+
+AI platform for connected food manufacturing.
+
+https://www.siemens.com/insights-hub
+
+AWS IoT Core
+
+AI platform for connected food production equipment.
+
+https://aws.amazon.com/iot-core
+
+Azure IoT
+
+AI-enabled Industrial IoT for food manufacturing.
+
+https://azure.microsoft.com/products/iot
+
+Bosch IoT Suite
+
+AI-powered Industrial IoT connectivity platform.
+
+https://bosch-iot-suite.com
+
+IBM Watson IoT
+
+AI platform for monitoring food production assets.
+
+https://www.ibm.com
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for food technology research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and food analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for food technology research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, coding, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered food science research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing food technology papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for food science.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding food technology publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering food science research papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for food technology AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for food engineering research.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for food data analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for food analytics.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for food industry predictions.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for food data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics for food manufacturing.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for food technology applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for food AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for building food technology AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

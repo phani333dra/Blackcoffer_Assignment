@@ -1,0 +1,31 @@
+ETL Pipeline
+
+An ETL Pipeline refers to a set of processes extracting data from an input source, transforming the data, and loading into an output destination such as a database, data mart, or a data warehouse for reporting, analysis, and data synchronization.
+
+ETL
+
+Extract, Transform, and Load.
+
+Extract
+
+First, data has to be extracted from various sources that are usually heterogeneous such as business systems, APIs, sensor data, marketing tools, and transaction databases, among others. As you can see, some of these data types are likely to be the structured outputs of widely used systems, while others are semi-structured JSON server logs.
+
+Transform
+
+The second step consists of transforming the data into a format that can be can be used by different applications. This could mean a change from the format the data is stored into the format needed by the application that will use the data. Successful extraction converts data into a single format for standardized processing. There are a number of tools that can assist with the ETL process, such as DataStage, Informatica, or SQL Server Integration Services (SSIS).
+
+Load
+
+Finally, the information which is now available in a consistent format gets loaded. From now one you can obtain any specific piece of data and compare it in relation to any other pieces of data.
+
+Data warehouses can either be automatically updated or manually triggered.
+
+How these steps are performed varies widely between warehouses based on requirements. Typically, however, data is temporarily stored in at least one set of staging tables as part of the process.
+
+Furthermore, the data pipeline doesn’t have to end when the data gets loaded to a database or a data warehouse; it can also trigger business processes by setting off webhooks on other systems
+
+ETL is currently evolving so it is able to support integration across transactional systems, operational data stores, BI platforms, MDM hubs, the cloud, and Hadoop platforms.
+
+The process of data transformation is made far more complex because of the astonishing growth in the amount of unstructured data. For example, modern data processes often include real-time data -such as web analytics data from very large e-commerce websites.
+
+As Hadoop is almost synonymous with big data, several Hadoop-based tools have been developed to handle different aspects of the ETL process. The tools you can use vary depending on how the data is structured, in batches or if you are dealing with streams of data. As a result, you’ll either be working with a combination of Sqoop and MapReduce, or Flume and Spark.

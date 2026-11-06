@@ -1,0 +1,43 @@
+Automation, ETL, Data Pipeline from MongoDB to Kibana, Elasticsearch
+
+Client Background
+
+Client: A leading healthtech firm in the USA
+
+Industry Type: IT Services
+
+Services: Healthcare services
+
+Organization Size: 100+
+
+Project Objective
+
+Needed to implement scripts to move Data from MongoDB to elastic Search for visualization on Kibana.
+
+Project Description
+
+Implemented a script in python to Upload 1. Newly created documents
+
+2. Modified documents
+
+From Section Instance and file instance to Kibana (elastic search) .
+
+Our Solution
+
+We query documents from mongo using last modified data (for modified documents) and Instance created date (for created documents), comparing them against last run time stored and updated on mongo DB , from section instance and file instance, and merge both of them and push in onto Kibana using bulk api. Also logged the errors on a separate elastic search index for errors.
+
+Tools used
+
+Python Azure functions
+
+Language/techniques used
+
+Python
+
+Databases used
+
+MongoDB Elastic search (Kibana)
+
+Web Cloud Servers used
+
+Microsoft Azure

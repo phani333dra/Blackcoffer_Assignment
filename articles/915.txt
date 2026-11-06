@@ -1,0 +1,33 @@
+Sentiment Analysis Bot for Price Prediction
+
+1 The Problem
+
+To develop a price prediction AI, that would go through Tweets and predicting future price movement based on a sentiment of a tweet. Besides Twitter, it should also be analysing news that are crypto-related, and predicting the price based on the sentiment in the article.
+
+2 Data Sources
+
+www.twitter.com Require keywords to search tweets [Client input] To extract tweets
+
+News Websites Require websites [Client input] To collect news for bitcoins
+
+Bitcoin Historical Prices Require website [Client input] To collect historical bitcoin prices
+
+3 Methodology
+
+Data Collection Collect data from all source Clean and transform data for analytics ready
+
+NLP Perform NLP to extract keywords from the tweets and news articles Extract key drivers / topics Compute and save NER, topics over time Prepare independent variables from both sources
+
+Hypothesis Independent variables are variables computed from tweets, sentiments, news articles, NER, and deep learning models Dependent variable is Historical Bitcoin Prices
+
+Predictive AI Train the models with independent variables and dependent variables Test the model Validate the model
+
+Predictive AI Tool Prepare functions to collect, clean and process the data to build the independent variables in real time Predict the bitcoin prices in Realtime
+
+4 Deliverable
+
+Predictive AI tool
+
+5 Programming
+
+Python

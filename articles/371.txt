@@ -1,0 +1,475 @@
+Complete List of Automotive AI Tools & AI Software
+
+1. AI Autonomous Driving & ADAS
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA DRIVE
+
+AI platform for autonomous vehicles and ADAS development.
+
+https://www.nvidia.com/en-us/self-driving-cars
+
+Mobileye Drive
+
+AI-powered autonomous driving technology.
+
+https://www.mobileye.com
+
+Waymo Driver
+
+AI self-driving system for autonomous vehicles.
+
+https://waymo.com
+
+Applied Intuition
+
+AI platform for autonomous vehicle simulation and validation.
+
+https://www.appliedintuition.com
+
+Foretellix
+
+AI-driven autonomous vehicle verification platform.
+
+https://www.foretellix.com
+
+Parallel Domain
+
+AI generates synthetic data for autonomous driving.
+
+https://paralleldomain.com
+
+2. AI Vehicle Design & Engineering
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens NX AI
+
+AI-powered automotive CAD and engineering.
+
+https://www.siemens.com/nx
+
+Dassault CATIA
+
+AI-assisted vehicle design and product development.
+
+https://www.3ds.com/products/catia
+
+PTC Creo
+
+AI-powered 3D automotive design platform.
+
+https://www.ptc.com
+
+Autodesk Fusion
+
+AI-assisted product design and prototyping.
+
+https://www.autodesk.com/products/fusion-360
+
+Altair Inspire
+
+AI-driven generative vehicle design.
+
+https://altair.com
+
+Ansys Discovery
+
+AI-assisted engineering simulation.
+
+https://www.ansys.com
+
+3. AI Manufacturing & Smart Factory
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter
+
+AI-powered automotive manufacturing execution system.
+
+https://www.siemens.com/opcenter
+
+Rockwell FactoryTalk
+
+AI automates automotive production lines.
+
+https://www.rockwellautomation.com
+
+ABB Ability
+
+AI platform for factory automation and robotics.
+
+https://new.abb.com/ability
+
+Schneider Electric EcoStruxure
+
+AI optimizes automotive manufacturing operations.
+
+https://www.se.com
+
+Honeywell Forge
+
+AI improves factory productivity and quality.
+
+https://www.honeywell.com
+
+Emerson DeltaV
+
+AI automates industrial manufacturing processes.
+
+https://www.emerson.com
+
+4. AI Quality Inspection & Computer Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+LandingLens
+
+AI visual inspection for automotive defects.
+
+https://landing.ai
+
+Cognex VisionPro
+
+AI-powered machine vision quality inspection.
+
+https://www.cognex.com
+
+Instrumental AI
+
+AI detects manufacturing defects automatically.
+
+https://instrumental.com
+
+MVTec HALCON
+
+AI machine vision software for automotive inspection.
+
+https://www.mvtec.com
+
+Keyence Vision Systems
+
+AI-powered visual inspection platform.
+
+https://www.keyence.com
+
+Robovision
+
+AI computer vision for manufacturing quality.
+
+https://robovision.ai
+
+5. AI Predictive Maintenance & Fleet Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts maintenance for vehicles and equipment.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance platform.
+
+https://senseye.io
+
+Samsara
+
+AI monitors fleet performance and safety.
+
+https://www.samsara.com
+
+Geotab
+
+AI-powered fleet management and telematics.
+
+https://www.geotab.com
+
+Motive
+
+AI platform for fleet tracking and driver safety.
+
+https://gomotive.com
+
+Verizon Connect
+
+AI-enabled fleet and vehicle management.
+
+https://www.verizonconnect.com
+
+6. AI Connected Vehicles & Telematics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cerence AI
+
+AI voice assistant for connected vehicles.
+
+https://www.cerence.com
+
+BlackBerry QNX
+
+AI platform for intelligent automotive software.
+
+https://blackberry.qnx.com
+
+Elektrobit EB Assist
+
+AI software for connected vehicle systems.
+
+https://www.elektrobit.com
+
+HERE Technologies
+
+AI-powered automotive mapping and navigation.
+
+https://www.here.com
+
+TomTom Orbis Maps
+
+AI-enhanced digital maps for vehicles.
+
+https://www.tomtom.com
+
+AWS IoT FleetWise
+
+AI platform for connected vehicle data.
+
+https://aws.amazon.com/iot-fleetwise
+
+7. AI Supply Chain & Inventory Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Blue Yonder
+
+AI optimizes automotive supply chains.
+
+https://blueyonder.com
+
+Kinaxis Maestro
+
+AI-powered automotive supply chain planning.
+
+https://www.kinaxis.com
+
+o9 Solutions
+
+AI predicts demand and inventory requirements.
+
+https://o9solutions.com
+
+SAP Integrated Business Planning
+
+AI-driven supply chain optimization.
+
+https://www.sap.com
+
+Oracle Fusion Cloud SCM
+
+AI-powered logistics and inventory management.
+
+https://www.oracle.com
+
+Infor Nexus
+
+AI manages global automotive supply chains.
+
+https://www.infor.com
+
+8. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered automotive dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven automotive analytics platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered automotive data analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven automotive insights.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive automotive analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for automotive data analysis.
+
+https://www.knime.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for automotive research, documentation, and technical writing.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for engineering reports and documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for automotive research and analysis.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and presentations.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered automotive research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing automotive documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review for automotive research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains automotive engineering papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for automotive AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for automotive applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for automotive analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for automotive forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for automotive applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for automotive model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for automotive analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for automotive datasets.
+
+https://www.databricks.com Are you looking for a team? Post your project here: https://workcroft.com/ Are you looking for projects? Find projects here: https://workcroft.com/
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

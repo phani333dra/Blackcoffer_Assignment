@@ -1,0 +1,469 @@
+Complete List of Internet Service Providers (ISP) AI Tools & AI Software
+
+1. AI Network Management & Optimization
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Juniper Mist AI
+
+AI-powered wired and wireless network management.
+
+https://www.juniper.net
+
+Cisco Crosswork
+
+AI automates ISP network operations.
+
+https://www.cisco.com
+
+Nokia AVA
+
+AI optimizes broadband and fiber networks.
+
+https://www.nokia.com
+
+Ericsson Intelligent Automation Platform
+
+AI automates ISP network management.
+
+https://www.ericsson.com
+
+Huawei NetMaster AI
+
+AI-driven network optimization and monitoring.
+
+https://www.huawei.com
+
+Ciena Blue Planet
+
+AI-powered network orchestration platform.
+
+https://www.ciena.com
+
+2. AI Broadband & Fiber Network Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Calix Cloud
+
+AI optimizes broadband subscriber experiences.
+
+https://www.calix.com
+
+Adtran Mosaic AI
+
+AI manages fiber broadband services.
+
+https://www.adtran.com
+
+Nokia Altiplano
+
+AI automates fiber access network management.
+
+https://www.nokia.com
+
+Huawei iMaster NCE
+
+AI-powered broadband network controller.
+
+https://www.huawei.com
+
+Plume WorkPass
+
+AI optimizes Wi-Fi and smart home services.
+
+https://www.plume.com
+
+Cambium cnMaestro X
+
+AI-powered wireless ISP network management.
+
+https://www.cambiumnetworks.com
+
+3. AI Network Monitoring & AIOps
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Dynatrace Davis AI
+
+AI monitors ISP infrastructure performance.
+
+https://www.dynatrace.com
+
+Datadog AI
+
+AI-powered network observability platform.
+
+https://www.datadoghq.com
+
+IBM Instana
+
+AI monitors network applications and services.
+
+https://www.ibm.com/products/instana
+
+Splunk AI Assistant
+
+AI analyzes ISP network logs and events.
+
+https://www.splunk.com
+
+LogicMonitor Edwin AI
+
+AI automates infrastructure monitoring.
+
+https://www.logicmonitor.com
+
+New Relic AI
+
+AI detects service disruptions automatically.
+
+https://newrelic.com
+
+4. AI Customer Support & Virtual Assistants
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Salesforce Einstein AI
+
+AI-powered ISP customer service.
+
+https://www.salesforce.com
+
+Microsoft Copilot
+
+AI assists customer support teams.
+
+https://copilot.microsoft.com
+
+Google Gemini
+
+AI chatbot for ISP customer interactions.
+
+https://gemini.google.com
+
+ChatGPT
+
+AI-powered customer support and documentation.
+
+https://chatgpt.com
+
+Cognigy AI
+
+AI automates customer conversations.
+
+https://www.cognigy.com
+
+Kore.ai
+
+AI virtual assistants for ISP help desks.
+
+https://kore.ai
+
+5. AI Cybersecurity & Threat Detection
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Security Copilot
+
+AI-powered security operations assistant.
+
+https://www.microsoft.com/security
+
+Darktrace
+
+AI detects network threats in real time.
+
+https://www.darktrace.com
+
+CrowdStrike Falcon
+
+AI-powered endpoint protection platform.
+
+https://www.crowdstrike.com
+
+Palo Alto Cortex XSIAM
+
+AI-driven security operations platform.
+
+https://www.paloaltonetworks.com
+
+SentinelOne Purple AI
+
+AI-powered endpoint detection and response.
+
+https://www.sentinelone.com
+
+Fortinet FortiAI
+
+AI enhances network security and threat analysis.
+
+https://www.fortinet.com
+
+6. AI Predictive Maintenance & Asset Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts failures in ISP infrastructure.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye Predictive Maintenance
+
+AI predicts equipment maintenance needs.
+
+https://www.siemens.com
+
+ABB Ability
+
+AI monitors telecom and ISP assets.
+
+https://global.abb
+
+Hitachi Lumada
+
+AI-driven asset performance management.
+
+https://www.hitachivantara.com
+
+SAP Asset Performance Management
+
+AI improves network equipment reliability.
+
+https://www.sap.com
+
+GE Vernova APM
+
+AI-powered infrastructure asset management.
+
+https://www.gevernova.com
+
+7. AI Business Intelligence & Customer Analytics
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered ISP business dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven customer and network analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered business intelligence platform.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven analytics platform.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered predictive customer analytics.
+
+https://www.sas.com
+
+DataRobot
+
+AI forecasts subscriber behavior and churn.
+
+https://www.datarobot.com
+
+Databricks AI
+
+AI-powered broadband data analytics.
+
+https://www.databricks.com
+
+Snowflake Cortex AI
+
+AI cloud analytics for ISP data.
+
+https://www.snowflake.com
+
+8. AI Automation & Workflow Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+UiPath AI Center
+
+AI automates ISP business operations.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered workflow automation.
+
+https://www.automationanywhere.com
+
+Microsoft Power Automate AI
+
+AI automates service requests and approvals.
+
+https://powerautomate.microsoft.com
+
+ABBYY Vantage
+
+AI-powered document processing automation.
+
+https://www.abbyy.com
+
+WorkFusion
+
+AI intelligent process automation.
+
+https://www.workfusion.com
+
+Rossum
+
+AI automates invoice and document processing.
+
+https://rossum.ai
+
+9. AI Cloud & Edge Computing Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Azure AI
+
+AI services for ISP cloud infrastructure.
+
+https://azure.microsoft.com
+
+Google Vertex AI
+
+AI platform for broadband applications.
+
+https://cloud.google.com/vertex-ai
+
+Amazon SageMaker
+
+Machine learning platform for ISPs.
+
+https://aws.amazon.com/sagemaker
+
+IBM watsonx
+
+Enterprise AI platform for cloud operations.
+
+https://www.ibm.com/watsonx
+
+Oracle AI Services
+
+AI-powered cloud applications.
+
+https://www.oracle.com/artificial-intelligence
+
+Red Hat OpenShift AI
+
+AI platform for hybrid cloud deployments.
+
+https://www.redhat.com
+
+10. AI Machine Learning & Development Frameworks
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source machine learning framework.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning framework for ISP AI solutions.
+
+https://pytorch.org
+
+Hugging Face
+
+AI models for networking and NLP applications.
+
+https://huggingface.co
+
+LangChain
+
+Framework for AI assistants and automation.
+
+https://www.langchain.com
+
+LlamaIndex
+
+Framework for Retrieval-Augmented Generation (RAG).
+
+https://www.llamaindex.ai
+
+MLflow
+
+AI model lifecycle management platform.
+
+https://mlflow.org
+
+Weights & Biases
+
+AI experiment tracking and collaboration.
+
+https://wandb.ai
+
+Dataiku
+
+Enterprise AI platform for ISP analytics.
+
+https://www.dataiku.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

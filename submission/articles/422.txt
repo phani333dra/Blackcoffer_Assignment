@@ -1,0 +1,597 @@
+Complete List of Machinery & Equipment AI Tools & AI Software
+
+1. AI Product Design & Mechanical CAD
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Autodesk Fusion 360
+
+AI-powered CAD, CAM, and generative mechanical design.
+
+https://www.autodesk.com/products/fusion-360
+
+SolidWorks
+
+AI-enhanced 3D CAD software for machinery design.
+
+https://www.solidworks.com
+
+Siemens NX
+
+AI-assisted mechanical engineering and product development.
+
+https://www.siemens.com/nx
+
+PTC Creo
+
+AI-driven CAD platform for machinery and equipment design.
+
+https://www.ptc.com
+
+Autodesk Inventor
+
+AI-assisted mechanical design and simulation software.
+
+https://www.autodesk.com/products/inventor
+
+CATIA
+
+AI-powered product engineering and mechanical design platform.
+
+https://www.3ds.com/products/catia
+
+Onshape AI
+
+Cloud CAD software with AI-assisted design tools.
+
+https://www.onshape.com
+
+BricsCAD Mechanical
+
+AI-powered mechanical CAD software.
+
+https://www.bricsys.com
+
+nTop
+
+AI-driven generative engineering and lightweight part design.
+
+https://www.ntop.com
+
+Rhino + Grasshopper
+
+AI-supported parametric mechanical design software.
+
+https://www.rhino3d.com
+
+2. AI Engineering Simulation & CAE
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Ansys Mechanical
+
+AI-assisted structural analysis and simulation.
+
+https://www.ansys.com
+
+Ansys Discovery
+
+AI-powered real-time engineering simulation.
+
+https://www.ansys.com
+
+Siemens Simcenter
+
+AI-driven simulation for machinery performance analysis.
+
+https://www.siemens.com
+
+Altair HyperWorks
+
+AI-powered engineering simulation and optimization suite.
+
+https://altair.com
+
+COMSOL Multiphysics
+
+AI-assisted multiphysics modeling and simulation.
+
+https://www.comsol.com
+
+MSC Nastran
+
+AI-supported finite element analysis (FEA).
+
+https://hexagon.com
+
+Abaqus
+
+AI-enabled structural and mechanical simulation software.
+
+https://www.3ds.com/products/simulia
+
+MATLAB Simulink
+
+AI-based control system modeling and simulation.
+
+https://www.mathworks.com
+
+3. AI Smart Manufacturing & Factory Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter
+
+AI-powered manufacturing execution system (MES).
+
+https://www.siemens.com/opcenter
+
+ABB Ability
+
+AI platform for industrial automation and production optimization.
+
+https://global.abb
+
+Rockwell FactoryTalk
+
+AI software for manufacturing monitoring and analytics.
+
+https://www.rockwellautomation.com
+
+Honeywell Forge
+
+AI-powered manufacturing optimization platform.
+
+https://www.honeywell.com
+
+SAP Digital Manufacturing
+
+AI-driven factory management software.
+
+https://www.sap.com
+
+Schneider EcoStruxure
+
+AI-enabled smart factory automation platform.
+
+https://www.se.com
+
+AVEVA Insight
+
+AI platform for industrial performance monitoring.
+
+https://www.aveva.com
+
+C3 AI Manufacturing
+
+AI platform for manufacturing optimization and analytics.
+
+https://c3.ai
+
+4. AI Predictive Maintenance & Asset Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts machinery failures and maintenance schedules.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance software.
+
+https://senseye.io
+
+Aspen Mtell
+
+AI platform for predictive equipment maintenance.
+
+https://www.aspentech.com
+
+SparkCognition
+
+AI monitors industrial equipment health.
+
+https://sparkcognition.com
+
+Falkonry
+
+AI detects equipment anomalies and operational issues.
+
+https://falkonry.com
+
+C3 AI Reliability
+
+AI predicts industrial equipment failures.
+
+https://c3.ai
+
+Uptake
+
+AI-powered equipment performance optimization.
+
+https://www.uptake.com
+
+5. AI Computer Vision & Quality Inspection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cognex VisionPro
+
+AI-powered industrial quality inspection platform.
+
+https://www.cognex.com
+
+LandingLens
+
+AI visual inspection software for defect detection.
+
+https://landing.ai
+
+MVTec HALCON
+
+AI-powered machine vision platform.
+
+https://www.mvtec.com
+
+Keyence Vision Systems
+
+AI-enabled industrial inspection software.
+
+https://www.keyence.com
+
+Instrumental AI
+
+AI visual inspection for manufacturing quality control.
+
+https://instrumental.com
+
+Roboflow
+
+AI platform for industrial computer vision model training.
+
+https://roboflow.com
+
+OpenCV
+
+Open-source computer vision library.
+
+https://opencv.org
+
+Ultralytics YOLO
+
+AI object detection for machinery inspection.
+
+https://ultralytics.com
+
+6. AI Robotics & Industrial Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABB RobotStudio
+
+AI-powered robot programming and simulation.
+
+https://new.abb.com/products/robotics/robotstudio
+
+FANUC FIELD System
+
+AI platform for industrial robotics.
+
+https://www.fanucamerica.com
+
+Universal Robots
+
+AI-assisted collaborative robot programming.
+
+https://www.universal-robots.com
+
+KUKA iiQKA
+
+AI software for industrial robot control.
+
+https://www.kuka.com
+
+NVIDIA Isaac
+
+AI robotics development platform.
+
+https://developer.nvidia.com/isaac
+
+Siemens SIMATIC Robot Library
+
+AI-enabled robot integration platform.
+
+https://www.siemens.com
+
+ROS 2
+
+Open-source robotics framework with AI support.
+
+https://www.ros.org
+
+7. AI Digital Twins & Industrial IoT
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Xcelerator
+
+AI-powered digital twin platform for machinery.
+
+https://www.siemens.com/xcelerator
+
+NVIDIA Omniverse
+
+AI platform for digital twins and industrial simulation.
+
+https://www.nvidia.com/omniverse
+
+Bentley iTwin
+
+AI-powered digital twin platform for industrial equipment.
+
+https://www.bentley.com
+
+PTC ThingWorx
+
+AI-enabled Industrial IoT platform.
+
+https://www.ptc.com
+
+Litmus
+
+Edge AI platform for Industrial IoT connectivity.
+
+https://litmus.io
+
+AVEVA PI System
+
+AI-powered industrial data monitoring platform.
+
+https://www.aveva.com
+
+8. AI Supply Chain & Production Planning
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Blue Yonder
+
+AI-powered production and supply chain optimization.
+
+https://blueyonder.com
+
+Kinaxis RapidResponse
+
+AI platform for supply chain planning.
+
+https://www.kinaxis.com
+
+SAP Integrated Business Planning
+
+AI-driven production and inventory planning.
+
+https://www.sap.com
+
+Oracle SCM Cloud
+
+AI-powered supply chain management software.
+
+https://www.oracle.com/scm
+
+o9 Solutions
+
+AI platform for demand forecasting and production planning.
+
+https://o9solutions.com
+
+9. AI Sustainability & ESG
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Watershed
+
+AI-powered carbon accounting and ESG reporting.
+
+https://watershed.com
+
+Persefoni
+
+AI software for sustainability reporting.
+
+https://persefoni.com
+
+Sphera
+
+AI platform for environmental compliance and risk management.
+
+https://sphera.com
+
+Ecochain
+
+AI-powered lifecycle and carbon footprint analysis.
+
+https://ecochain.com
+
+One Click LCA
+
+AI software for sustainability assessment.
+
+https://oneclicklca.com
+
+10. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for mechanical engineering research, documentation, and coding.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and engineering analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for machinery engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered research engine for machinery innovations.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing engineering documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for mechanical engineering research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding technical papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering engineering research publications.
+
+https://www.researchrabbit.ai
+
+11. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for industrial AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for industrial analytics and vision.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for machinery analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for predictive manufacturing analytics.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AI platform for industrial analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+Visual AI workflows for industrial data analysis.
+
+https://www.knime.com
+
+Google Vertex AI
+
+Cloud AI platform for industrial machine learning.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for developing industrial AI models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for machinery analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for industrial datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,493 @@
+Complete List of Forestry & Logging AI Tools & AI Software
+
+1. AI Forest Monitoring & Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+SilviaTerra
+
+AI-powered forest inventory and management platform.
+
+https://silviaterra.com
+
+CollectiveCrunch
+
+AI predicts forest growth and timber value.
+
+https://www.collectivecrunch.com
+
+Trimble Forestry
+
+AI-assisted forest planning and asset management.
+
+https://forestry.trimble.com
+
+Remsoft
+
+AI-powered forest planning and optimization software.
+
+https://www.remsoft.com
+
+Forest Metrix
+
+AI-enabled forest inventory and analytics platform.
+
+https://forestmetrix.com
+
+ForestHQ
+
+AI-powered forest intelligence and monitoring.
+
+https://foresthq.com
+
+2. AI Remote Sensing & Satellite Monitoring
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Planet Labs
+
+AI-powered satellite forest monitoring.
+
+https://www.planet.com
+
+EOSDA Forest Monitoring
+
+AI analyzes forest health using satellite imagery.
+
+https://eos.com
+
+Global Forest Watch
+
+AI-powered forest change monitoring platform.
+
+https://www.globalforestwatch.org
+
+UP42
+
+AI-enabled geospatial imagery analytics platform.
+
+https://up42.com
+
+Descartes Labs
+
+AI-powered satellite intelligence for forests.
+
+https://www.descarteslabs.com
+
+Satellogic
+
+AI-driven Earth observation for forestry.
+
+https://satellogic.com
+
+3. AI Logging & Harvest Planning
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+John Deere TimberMatic Maps
+
+AI-powered logging route optimization.
+
+https://www.deere.com
+
+Komatsu MaxiFleet
+
+AI monitors logging equipment and harvesting.
+
+https://www.komatsu.com
+
+Ponsse Manager
+
+AI-powered forestry machine fleet management.
+
+https://www.ponsse.com
+
+Tigercat RemoteLog
+
+AI-enabled logging equipment monitoring.
+
+https://www.tigercat.com
+
+EcoLog FollowUp
+
+AI-assisted forestry machine performance analytics.
+
+https://www.ecologforestry.com
+
+Trimble LIMS
+
+AI-powered timber logistics and inventory management.
+
+https://forestry.trimble.com
+
+4. AI Wildfire Detection & Risk Prediction
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Dryad Silvanet
+
+AI-powered early wildfire detection system.
+
+https://www.dryad.net
+
+Pano AI
+
+AI detects wildfires using cameras and sensors.
+
+https://www.pano.ai
+
+OroraTech
+
+AI-powered satellite wildfire monitoring platform.
+
+https://ororatech.com
+
+FireScout
+
+AI predicts wildfire spread and risk.
+
+https://firescout.ai
+
+AlertWildfire
+
+AI-assisted wildfire monitoring network.
+
+https://www.alertwildfire.org
+
+Esri ArcGIS GeoAI
+
+AI analyzes wildfire risk and forest health.
+
+https://www.esri.com/arcgis
+
+5. AI Drones & Aerial Forest Inspection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+DJI Enterprise
+
+AI-powered drone mapping for forestry.
+
+https://enterprise.dji.com
+
+Pix4Dmapper
+
+AI creates forest maps from drone imagery.
+
+https://www.pix4d.com
+
+DroneDeploy
+
+AI-powered aerial forest inspections.
+
+https://www.dronedeploy.com
+
+Delair.ai
+
+AI-enabled drone analytics for forestry.
+
+https://delair.aero
+
+Flyability Elios 3
+
+AI-powered drone inspection in difficult terrain.
+
+https://www.flyability.com
+
+AgEagle
+
+AI-driven drone imaging for forestry operations.
+
+https://ageagle.com
+
+6. AI Environmental Monitoring & Conservation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Pachama
+
+AI verifies forest carbon and restoration projects.
+
+https://pachama.com
+
+Terraformation AI
+
+AI supports forest restoration and reforestation.
+
+https://www.terraformation.com
+
+Restor
+
+AI-powered ecosystem restoration platform.
+
+https://restor.eco
+
+OpenForests
+
+AI monitors forest conservation projects.
+
+https://openforests.com
+
+WWF Forests Forward
+
+AI-assisted forest sustainability platform.
+
+https://forestsforward.panda.org
+
+NatureMetrics
+
+AI-powered biodiversity monitoring platform.
+
+https://www.naturemetrics.com
+
+7. AI IoT & Smart Forestry
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+AWS IoT Core
+
+AI platform for connected forestry sensors.
+
+https://aws.amazon.com/iot-core
+
+Azure IoT
+
+AI-powered smart forestry IoT platform.
+
+https://azure.microsoft.com/products/iot
+
+Siemens Insights Hub
+
+AI-enabled Industrial IoT for forestry operations.
+
+https://www.siemens.com/insights-hub
+
+Bosch IoT Suite
+
+AI platform for environmental sensor monitoring.
+
+https://bosch-iot-suite.com
+
+PTC ThingWorx
+
+AI-powered IoT platform for forestry equipment.
+
+https://www.ptc.com
+
+IBM Watson IoT
+
+AI monitors forestry assets and equipment.
+
+https://www.ibm.com
+
+8. AI GIS & Geospatial Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ArcGIS GeoAI
+
+AI-powered GIS analysis for forestry.
+
+https://www.esri.com/arcgis
+
+QGIS with AI Plugins
+
+Open-source GIS with AI capabilities.
+
+https://qgis.org
+
+Google Earth Engine
+
+AI-powered geospatial analysis platform.
+
+https://earthengine.google.com
+
+ENVI
+
+AI-assisted remote sensing image analysis.
+
+https://www.nv5geospatialsoftware.com
+
+ERDAS IMAGINE
+
+AI-powered geospatial image processing.
+
+https://hexagon.com
+
+Mapbox
+
+AI-enabled mapping and location intelligence.
+
+https://www.mapbox.com
+
+9. AI Research & Forestry Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for forestry research and reporting.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for forest management documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for forestry research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for forestry reports and analysis.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered forestry research search engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing forestry studies.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for forestry.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding forestry publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering forestry research papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for forestry AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for forest analytics.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for forestry data analysis.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for forestry predictions.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AI platform for forestry analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for forestry data science.
+
+https://www.knime.com
+
+Altair RapidMiner
+
+AI-powered predictive analytics for forestry.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for forestry applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for forestry AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for building forestry AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

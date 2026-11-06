@@ -1,0 +1,469 @@
+Complete List of Real Estate & Property Management AI Tools & AI Software
+
+1. AI Property Search & Real Estate Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Zillow AI
+
+AI-powered property search and home value estimates.
+
+https://www.zillow.com
+
+Realtor.com AI
+
+AI-driven property recommendations.
+
+https://www.realtor.com
+
+Redfin AI
+
+AI-powered home search and market insights.
+
+https://www.redfin.com
+
+Homes.com AI
+
+AI-assisted property discovery platform.
+
+https://www.homes.com
+
+Compass AI
+
+AI-powered real estate buying and selling platform.
+
+https://www.compass.com
+
+HouseCanary
+
+AI-powered property valuation and forecasting.
+
+https://www.housecanary.com
+
+2. AI Property Valuation & Market Analysis
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+HouseCanary
+
+AI estimates property values and market trends.
+
+https://www.housecanary.com
+
+CoreLogic AI
+
+AI-powered real estate analytics and valuation.
+
+https://www.corelogic.com
+
+Altus Group ARGUS Intelligence
+
+AI for commercial property valuation.
+
+https://www.altusgroup.com
+
+Cherre
+
+AI-powered real estate data intelligence platform.
+
+https://cherre.com
+
+Skyline AI
+
+AI analyzes commercial real estate investments.
+
+https://www.jll.com
+
+Reonomy
+
+AI-powered commercial property intelligence.
+
+https://www.reonomy.com
+
+3. AI Property Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+AppFolio Realm-X
+
+AI automates property management tasks.
+
+https://www.appfolio.com
+
+Buildium AI
+
+AI-powered rental property management.
+
+https://www.buildium.com
+
+Yardi AI
+
+AI manages residential and commercial properties.
+
+https://www.yardi.com
+
+MRI Software AI
+
+AI automates lease and facility management.
+
+https://www.mrisoftware.com
+
+Entrata AI
+
+AI-powered multifamily property management.
+
+https://www.entrata.com
+
+DoorLoop AI
+
+AI simplifies property operations and accounting.
+
+https://www.doorloop.com
+
+4. AI Leasing & Tenant Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+EliseAI
+
+AI leasing assistant and tenant communication.
+
+https://www.eliseai.com
+
+MeetElise
+
+AI automates leasing conversations.
+
+https://www.meetelise.com
+
+Knock CRM AI
+
+AI improves leasing and tenant engagement.
+
+https://www.knockcrm.com
+
+Funnel Leasing AI
+
+AI automates leasing workflows.
+
+https://www.funnelleasing.com
+
+RealPage AI
+
+AI-powered leasing and revenue management.
+
+https://www.realpage.com
+
+HappyCo AI
+
+AI supports inspections and tenant services.
+
+https://www.happy.co
+
+5. AI Building Operations & Smart Buildings
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+BrainBox AI
+
+AI optimizes HVAC energy consumption.
+
+https://brainboxai.com
+
+Facilio
+
+AI-powered smart building management.
+
+https://facilio.com
+
+Siemens Building X
+
+AI manages intelligent building operations.
+
+https://www.siemens.com
+
+Honeywell Forge
+
+AI optimizes building performance.
+
+https://buildings.honeywell.com
+
+Johnson Controls OpenBlue
+
+AI-powered smart building platform.
+
+https://www.johnsoncontrols.com
+
+Schneider Electric EcoStruxure
+
+AI enhances energy efficiency and automation.
+
+https://www.se.com
+
+6. AI Construction & Facility Maintenance
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts maintenance requirements.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye Predictive Maintenance
+
+AI predicts equipment failures.
+
+https://www.siemens.com
+
+UpKeep AI
+
+AI-powered maintenance management.
+
+https://upkeep.com
+
+MaintainX AI
+
+AI automates maintenance operations.
+
+https://www.getmaintainx.com
+
+Fiix AI
+
+AI-driven computerized maintenance management.
+
+https://www.fiixsoftware.com
+
+Limble CMMS AI
+
+AI optimizes facility maintenance.
+
+https://limblecmms.com
+
+7. AI Document Processing & Contracts
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+DocuSign Intelligent Agreement Management
+
+AI automates contracts and agreements.
+
+https://www.docusign.com
+
+Ironclad AI
+
+AI-powered contract lifecycle management.
+
+https://ironcladapp.com
+
+Juro AI
+
+AI manages lease agreements and contracts.
+
+https://juro.com
+
+ABBYY Vantage
+
+AI extracts data from property documents.
+
+https://www.abbyy.com
+
+Rossum
+
+AI automates document processing.
+
+https://rossum.ai
+
+Google Document AI
+
+AI extracts information from real estate documents.
+
+https://cloud.google.com/document-ai
+
+8. AI Customer Service & Virtual Assistants
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for customer support and property information.
+
+https://chatgpt.com
+
+Claude
+
+AI-powered leasing and document assistant.
+
+https://claude.ai
+
+Google Gemini
+
+AI supports real estate customer interactions.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI improves property management productivity.
+
+https://copilot.microsoft.com
+
+Salesforce Einstein AI
+
+AI-powered CRM for real estate businesses.
+
+https://www.salesforce.com
+
+Kore.ai
+
+AI virtual assistants for property services.
+
+https://kore.ai
+
+9. AI Analytics & Business Intelligence
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered real estate dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven property analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered business intelligence platform.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven real estate insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI predictive analytics for property markets.
+
+https://www.sas.com
+
+Databricks AI
+
+AI-powered property data analytics.
+
+https://www.databricks.com
+
+Snowflake Cortex AI
+
+AI cloud analytics for real estate data.
+
+https://www.snowflake.com
+
+DataRobot
+
+AI predicts property prices and tenant behavior.
+
+https://www.datarobot.com
+
+10. AI Machine Learning & Development Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source framework for real estate AI models.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning framework for property analytics.
+
+https://pytorch.org
+
+Hugging Face
+
+AI models for NLP and document processing.
+
+https://huggingface.co
+
+LangChain
+
+Framework for AI-powered property assistants.
+
+https://www.langchain.com
+
+LlamaIndex
+
+Framework for Retrieval-Augmented Generation (RAG).
+
+https://www.llamaindex.ai
+
+MLflow
+
+AI model lifecycle management platform.
+
+https://mlflow.org
+
+Weights & Biases
+
+AI experiment tracking and collaboration.
+
+https://wandb.ai
+
+Dataiku
+
+Enterprise AI platform for real estate analytics.
+
+https://www.dataiku.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

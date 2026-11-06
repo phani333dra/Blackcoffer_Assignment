@@ -1,0 +1,493 @@
+Complete List of Geotechnical Engineering AI Tools & AI Software
+
+1. AI Geotechnical Analysis & Foundation Design
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+PLAXIS 2D/3D
+
+AI-assisted finite element analysis for soil and foundation engineering.
+
+https://www.bentley.com/software/plaxis
+
+GeoStudio
+
+AI-powered geotechnical modeling for slope stability and seepage.
+
+https://www.seequent.com/products-solutions/geostudio
+
+Rocscience RS2
+
+AI-assisted stress and deformation analysis for soil and rock.
+
+https://www.rocscience.com
+
+Rocscience Settle3
+
+AI-powered settlement analysis for foundations.
+
+https://www.rocscience.com
+
+MIDAS GTS NX
+
+AI-enabled geotechnical and tunnel analysis software.
+
+https://www.midasoft.com
+
+OptumG2
+
+AI-assisted finite element limit analysis for geotechnics.
+
+https://optumce.com
+
+FLAC3D
+
+AI-powered geotechnical and underground excavation analysis.
+
+https://www.itascacg.com
+
+ABAQUS
+
+AI-assisted structural and geotechnical simulation platform.
+
+https://www.3ds.com/products/simulia/abaqus
+
+2. AI Site Investigation & Geological Modeling
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Leapfrog Works
+
+AI-powered 3D geological and geotechnical modeling.
+
+https://www.seequent.com
+
+gINT
+
+AI-assisted geotechnical data management and borehole logging.
+
+https://www.bentley.com
+
+OpenGround
+
+AI platform for geotechnical investigation data management.
+
+https://www.seequent.com
+
+RockWorks
+
+AI-powered geological visualization and subsurface modeling.
+
+https://www.rockware.com
+
+Geo5
+
+AI-assisted geotechnical design and verification software.
+
+https://www.finesoftware.eu
+
+PetraSim
+
+AI-enabled geothermal and subsurface simulation software.
+
+https://www.thunderheadeng.com/petrasim
+
+3. AI Slope Stability & Landslide Analysis
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+GeoStudio SLOPE/W
+
+AI-powered slope stability analysis software.
+
+https://www.seequent.com
+
+Rocscience Slide2
+
+AI-assisted 2D slope stability analysis.
+
+https://www.rocscience.com
+
+Rocscience Slide3
+
+AI-powered 3D slope stability modeling.
+
+https://www.rocscience.com
+
+SVSLOPE
+
+AI-enabled slope stability and seepage analysis.
+
+https://www.soilvision.com
+
+HYRCAN Slope AI
+
+AI platform for landslide risk prediction.
+
+https://www.hyrcan.com
+
+Terra Insight
+
+AI-powered geohazard monitoring and slope analysis.
+
+https://www.terradatuk.com
+
+4. AI Tunnel & Underground Engineering
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+FLAC3D
+
+AI-powered tunnel excavation and underground modeling.
+
+https://www.itascacg.com
+
+Rocscience RS3
+
+AI-assisted 3D rock and tunnel analysis.
+
+https://www.rocscience.com
+
+MIDAS GTS NX
+
+AI platform for tunnel and underground structure design.
+
+https://www.midasoft.com
+
+PLAXIS 3D
+
+AI-powered tunnel, excavation, and soil interaction analysis.
+
+https://www.bentley.com/software/plaxis
+
+RSData
+
+AI-assisted rock and soil parameter estimation.
+
+https://www.rocscience.com
+
+5. AI Geotechnical Monitoring & Asset Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Bentley iTwin
+
+AI-powered digital twin platform for geotechnical assets.
+
+https://www.bentley.com/software/itwin
+
+Trimble WorksOS
+
+AI platform for construction and site monitoring.
+
+https://construction.trimble.com
+
+Leica GeoMoS
+
+AI-powered deformation monitoring software.
+
+https://leica-geosystems.com
+
+GeoSIG
+
+AI-enabled geotechnical and seismic monitoring platform.
+
+https://www.geosig.com
+
+Sensemetrics
+
+AI-powered infrastructure and geotechnical monitoring.
+
+https://sensemetrics.com
+
+Worldsensing Loadsensing
+
+AI platform for remote geotechnical sensor monitoring.
+
+https://www.worldsensing.com
+
+6. AI GIS, Surveying & Remote Sensing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ArcGIS GeoAI
+
+AI-powered GIS analysis for geotechnical engineering.
+
+https://www.esri.com/arcgis
+
+QGIS with AI Plugins
+
+Open-source GIS platform with AI capabilities.
+
+https://qgis.org
+
+Pix4Dmapper
+
+AI-powered drone mapping and terrain modeling.
+
+https://www.pix4d.com
+
+DroneDeploy
+
+AI-assisted aerial surveying and site inspection.
+
+https://www.dronedeploy.com
+
+DJI Terra
+
+AI-powered drone mapping for construction sites.
+
+https://enterprise.dji.com/dji-terra
+
+Planet Labs
+
+AI satellite imagery for terrain and land analysis.
+
+https://www.planet.com
+
+7. AI Predictive Maintenance & Infrastructure Inspection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Senseye
+
+AI predicts failures in geotechnical infrastructure.
+
+https://senseye.io
+
+IBM Maximo Application Suite
+
+AI-powered infrastructure asset management.
+
+https://www.ibm.com/products/maximo
+
+AVEVA Predictive Analytics
+
+AI monitors infrastructure health and risks.
+
+https://www.aveva.com
+
+Bentley AssetWise
+
+AI-powered infrastructure lifecycle management.
+
+https://www.bentley.com
+
+SparkCognition
+
+AI platform for infrastructure reliability.
+
+https://sparkcognition.com
+
+Uptake
+
+AI-powered predictive maintenance for engineering assets.
+
+https://www.uptake.com
+
+8. AI Digital Twins & Simulation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Omniverse
+
+AI-powered digital twins for civil and geotechnical projects.
+
+https://www.nvidia.com/omniverse
+
+Azure Digital Twins
+
+AI platform for infrastructure and geotechnical modeling.
+
+https://azure.microsoft.com/products/digital-twins
+
+AWS IoT TwinMaker
+
+AI-powered digital twin platform for construction assets.
+
+https://aws.amazon.com/iot-twinmaker
+
+Bentley iTwin
+
+AI-enabled digital twin for infrastructure management.
+
+https://www.bentley.com/software/itwin
+
+Dassault 3DEXPERIENCE
+
+AI-powered engineering simulation and digital twins.
+
+https://www.3ds.com
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for geotechnical research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for geotechnical engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for coding, reports, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered search engine for geotechnical research.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing geotechnical papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for engineering research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding technical publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering geotechnical research papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for geotechnical AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for geotechnical modeling.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for soil and terrain analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for geotechnical data.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for predictive geotechnical models.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for geotechnical data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics platform.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for geotechnical engineering applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for geotechnical AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for training geotechnical AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

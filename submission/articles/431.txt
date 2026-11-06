@@ -1,0 +1,501 @@
+Complete List of Medical Devices AI Tools & AI Software
+
+1. AI Medical Device Design & Development
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens NX AI
+
+AI-powered medical device design and engineering.
+
+https://www.siemens.com/nx
+
+Autodesk Fusion
+
+AI-assisted medical device product design.
+
+https://www.autodesk.com/products/fusion-360
+
+Dassault Systèmes SOLIDWORKS
+
+AI-enabled CAD for medical device development.
+
+https://www.solidworks.com
+
+PTC Creo
+
+AI-powered 3D medical device design platform.
+
+https://www.ptc.com
+
+Altair Inspire
+
+AI-driven generative design for medical devices.
+
+https://altair.com
+
+Ansys Discovery
+
+AI-assisted simulation for medical device development.
+
+https://www.ansys.com
+
+2. AI Medical Imaging & Diagnostic Devices
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aidoc
+
+AI analyzes CT, MRI, and X-ray images.
+
+https://www.aidoc.com
+
+Qure.ai
+
+AI-powered diagnostic imaging software.
+
+https://www.qure.ai
+
+Viz.ai
+
+AI detects strokes and critical medical conditions.
+
+https://www.viz.ai
+
+Lunit INSIGHT
+
+AI platform for radiology and cancer detection.
+
+https://www.lunit.io
+
+Gleamer
+
+AI-assisted radiology diagnosis software.
+
+https://www.gleamer.ai
+
+Subtle Medical
+
+AI improves MRI and CT image quality.
+
+https://subtlemedical.com
+
+Arterys
+
+AI-powered cloud imaging platform.
+
+https://www.arterys.com
+
+3. AI Computer Vision & Medical Image Analysis
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Clara
+
+AI platform for medical imaging and healthcare AI.
+
+https://developer.nvidia.com/clara
+
+MONAI
+
+Open-source AI framework for medical imaging.
+
+https://monai.io
+
+OpenCV
+
+Computer vision library for medical imaging applications.
+
+https://opencv.org
+
+Roboflow
+
+AI platform for training medical image detection models.
+
+https://roboflow.com
+
+Ultralytics YOLO
+
+AI object detection for medical imaging.
+
+https://ultralytics.com
+
+MVTec HALCON
+
+AI machine vision software for medical devices.
+
+https://www.mvtec.com
+
+4. AI Quality Inspection & Manufacturing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cognex VisionPro
+
+AI-powered medical device quality inspection.
+
+https://www.cognex.com
+
+LandingLens
+
+AI visual inspection for manufacturing defects.
+
+https://landing.ai
+
+Keyence Vision Systems
+
+AI-assisted medical device inspection.
+
+https://www.keyence.com
+
+Instrumental AI
+
+AI detects manufacturing defects automatically.
+
+https://instrumental.com
+
+Siemens Opcenter
+
+AI-powered manufacturing execution system (MES).
+
+https://www.siemens.com/opcenter
+
+Rockwell FactoryTalk
+
+AI software for production monitoring.
+
+https://www.rockwellautomation.com
+
+5. AI Predictive Maintenance & Asset Monitoring
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts equipment maintenance needs.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance platform.
+
+https://senseye.io
+
+Aspen Mtell
+
+AI predicts equipment failures before breakdowns.
+
+https://www.aspentech.com
+
+SparkCognition
+
+AI monitors medical manufacturing equipment health.
+
+https://sparkcognition.com
+
+Falkonry
+
+AI detects equipment anomalies in real time.
+
+https://falkonry.com
+
+6. AI Digital Twins & Simulation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Xcelerator
+
+AI-powered digital twin platform.
+
+https://www.siemens.com/xcelerator
+
+Dassault 3DEXPERIENCE
+
+AI platform for digital engineering and simulation.
+
+https://www.3ds.com
+
+Ansys Twin Builder
+
+AI-driven digital twin simulation software.
+
+https://www.ansys.com
+
+PTC ThingWorx
+
+AI-enabled Industrial IoT and digital twins.
+
+https://www.ptc.com
+
+NVIDIA Omniverse
+
+AI platform for simulation and digital twins.
+
+https://www.nvidia.com/omniverse
+
+Bentley iTwin
+
+AI-powered engineering digital twin platform.
+
+https://www.bentley.com
+
+7. AI Regulatory Compliance & Documentation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+MasterControl
+
+AI-powered quality and regulatory management.
+
+https://www.mastercontrol.com
+
+Greenlight Guru
+
+AI software for medical device quality management.
+
+https://www.greenlight.guru
+
+Veeva Vault Quality
+
+AI-assisted quality and compliance management.
+
+https://www.veeva.com
+
+Arena QMS
+
+AI-enabled quality management system.
+
+https://www.arenasolutions.com
+
+Qualio
+
+AI-powered electronic quality management system (eQMS).
+
+https://www.qualio.com
+
+ETQ Reliance
+
+AI platform for compliance and quality processes.
+
+https://www.etq.com
+
+8. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-assisted manufacturing dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-powered business intelligence platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-driven manufacturing analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI-powered analytics search platform.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive manufacturing analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for medical device data analysis.
+
+https://www.knime.com
+
+9. AI Research & Scientific Discovery
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Elicit
+
+AI literature review for medical device research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains biomedical research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers medical technology research.
+
+https://www.researchrabbit.ai
+
+Semantic Scholar AI
+
+AI-powered scientific literature search.
+
+https://www.semanticscholar.org
+
+Connected Papers
+
+AI visualizes scientific paper relationships.
+
+https://www.connectedpapers.com
+
+10. AI Productivity & Documentation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for documentation, research, and technical writing.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for reports, SOPs, and regulatory documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for medical technology research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and presentations.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered research engine for medical innovations.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing technical documents.
+
+https://notebooklm.google.com
+
+11. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for medical AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for medical device applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for predictive analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for medical device analytics.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for medical device applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for healthcare AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for medical analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for medical datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

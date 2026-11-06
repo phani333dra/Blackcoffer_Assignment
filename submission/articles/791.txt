@@ -1,0 +1,251 @@
+MCP Weather Intelligence Application
+
+1. Project Description
+
+This project is a locally-running intelligent weather assistant built using the Model Context Protocol (MCP). Users ask weather questions in plain English and receive real-time answers powered by AI — no manual API calls, no hardcoded logic.
+
+The application connects three components: an MCP Server exposing weather tools, a Groq-powered AI client for natural language understanding, and the National Weather Service API as the live data source. Everything runs locally at zero cost using free-tier APIs.
+
+Capability
+
+Technology
+
+Cost
+
+Natural language weather queries
+
+MCP + Python + SSE
+
+Free
+
+AI reasoning and tool selection
+
+Groq LLaMA 3.3 70B
+
+Free tier
+
+Live weather data and alerts
+
+National Weather Service API
+
+Free, no key needed
+
+2. System Architecture
+
+The system follows a clean three-layer architecture with MCP as the communication backbone between the AI model and the weather tools.
+
+┌────────────────────────────────────────────────────┐│ USER ││ Types query in terminal (CLI) │└───────────────────────┬────────────────────────────┘ │ plain English query┌───────────────────────▼────────────────────────────┐│ MCP CLIENT (client.py) ││ • Discovers tools from MCP Server ││ • Sends query + tools to Groq AI ││ • Executes tool calls AI requests │└──────┬──────────────────────────────┬─────────────┘ │ SSE (port 8080) │ HTTPS┌──────▼───────────────┐ ┌───────▼──────────────────┐│ MCP SERVER │ │ GROQ AI (LLaMA 3.3 70B) ││ (weather.py) │ │ • Understands language ││ • get_forecast() │ │ • Picks correct tool ││ • get_alerts() │ │ • Formats final answer │└──────┬───────────────┘ └──────────────────────────┘ │ HTTPS┌──────▼──────────────────────────────────────────┐│ NATIONAL WEATHER SERVICE API (api.weather.gov)││ Live forecasts and alerts — Free, no key │└─────────────────────────────────────────────────┘
+
+3. How a Query Flows Through the System
+
+When a user types ‘What is the weather in New York?’ — here is exactly what happens:
+
+#
+
+Layer
+
+What Happens
+
+1
+
+User → Client
+
+User types: ‘What is the weather in New York?’
+
+2
+
+Client → MCP Server
+
+Client connects via SSE and requests list of available tools
+
+3
+
+MCP Server → Client
+
+Server responds: tools available are get_forecast and get_alerts
+
+4
+
+Client → Groq AI
+
+Client sends user query + tool definitions to Groq LLaMA AI
+
+5
+
+Groq AI → Client
+
+AI decides: call get_forecast with latitude=40.71, longitude=-74.00
+
+6
+
+Client → MCP Server
+
+Client forwards the tool call to MCP Server via SSE
+
+7
+
+Server → NWS API
+
+Server calls api.weather.gov with coordinates, fetches live JSON
+
+8
+
+NWS → Server → Client
+
+Raw weather data returned through MCP Server back to Client
+
+9
+
+Client → Groq AI
+
+Client sends raw data to Groq AI for summarisation
+
+10
+
+Groq AI → User
+
+AI returns clean human-readable answer. User sees it in terminal.
+
+4. How MCP is Being Used
+
+MCP is the core framework bridging the AI model and the real-world weather tools. It provides tool registration, discovery, and execution as a standardised protocol.
+
+MCP Feature
+
+In Code
+
+What It Does
+
+@mcp.tool() decorator
+
+weather.py
+
+Registers get_forecast and get_alerts as callable tools
+
+session.list_tools()
+
+client.py
+
+Discovers available tools at startup — no hardcoding
+
+session.call_tool()
+
+client.py
+
+Executes chosen tool on the MCP server remotely
+
+sse_client()
+
+client.py
+
+Connects to server via SSE transport on port 8080
+
+ClientSession
+
+client.py
+
+Manages full MCP session lifecycle
+
+5. Setup & Installation Guide
+
+Prerequisites
+
+Requirement
+
+Version
+
+Check Command
+
+Python
+
+3.11 or higher
+
+python –version
+
+uv package manager
+
+Latest
+
+pip install uv
+
+Groq API Key
+
+Free tier
+
+console.groq.com
+
+Git
+
+Any
+
+git –version
+
+Step 1 — Get Free Groq API Key
+
+Go to console.groq.com and sign up (free, no credit card)
+
+Navigate to API Keys → Create API Key
+
+Copy the key — you will need it in Step 3
+
+Step 2 — Clone the Repository
+
+git clone https://github.com/shivamrawat2002/mcp-weather-assistant
+
+cd mcp-sse
+
+Step 3 — Add API Key to .env file
+
+Open the .env file in the project folder and add:
+
+GROQ_API_KEY=your_groq_api_key_here
+
+Step 4 — Install Dependencies
+
+uv sync
+
+uv add groq
+
+Step 5 — Replace client.py
+
+Replace the existing client.py with the Groq-compatible version from this submission. Key changes made:
+
+Replaced Anthropic SDK with Groq SDK
+
+Updated model to llama-3.3-70b-versatile
+
+Updated tool format to OpenAI-compatible function calling
+
+Fixed cleanup() method with hasattr() to prevent AttributeError
+
+Step 6 — Run the Server (Terminal 1)
+
+uv run weather.py
+
+Wait until you see:
+
+INFO: Uvicorn running on http://0.0.0.0:8080
+
+INFO: Application startup complete.
+
+Step 7 — Run the Client (New Terminal 2)
+
+.venv\Scripts\Activate.ps1
+
+uv run client.py http://localhost:8080/sse
+
+You should see:
+
+Connected to server with tools: [‘get_alerts’, ‘get_forecast’]
+
+MCP Client Started! Type your queries or ‘quit’ to exit.
+
+Step 8 — Try These Queries
+
+Query: What is the weather in New York?
+
+Query: Any weather alerts in California?
+
+Query: Storm warnings in Texas?
+
+Query: quit Demo Video

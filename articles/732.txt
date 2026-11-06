@@ -1,0 +1,61 @@
+Integration of Python and Power BI, Python as an External Tool for Power BI Desktop
+
+Client Background
+
+Client: A leading tech firm in Asia
+
+Industry Type: IT Services
+
+Services: SAAS services
+
+Organization Size: 100+
+
+Project Objective
+
+The main objective of this project is to integration of python program in Power BI. And create proof of concept using that integration. Integration of Python as an External Tool for Power BI Desktop.
+
+Project Description
+
+PowerBI User Interface development. The objective of this task was to create a desktop application using Python for the client that could be connected to PowerBI in the future. Proof of concept might sound like a prototype, but there are differences, and each has its own function. The POC is a sort of small test prior to the project to test the idea. It exists solely to show that a product concept is both functional and can be developed. Creating prototypes is another important exercise.
+
+Our Solution
+
+Python Desktop application using Python Tkinter library according to UI specified by the client.
+
+Step 1: setup python external tool in power bi.
+
+Step 2: setup ssas master file in path where external tool is setup
+
+and then setup TOM server in jupyter notebook.
+
+Step 3: after that run notebook and run TOM server.
+
+Step 4: Now fetch data model using dax query and also you can run dax query in terminal.
+
+Project Deliverables
+
+Python desktop application according to the UI submitted by the client. This desktop application will be used as a platform by client after integration with PowerBI. After integration of python code as external to in power bi we come up with Power BI file, python code, json file and explanation of model in documentation.
+
+Tools used
+
+Power BI, Microsoft Word, juypter notebook.
+
+Language/techniques used
+
+Python Tkinter for desktop application development. Power BI report techniques used. Python code run in juypter notebook.
+
+Models used
+
+POC model used using SSAS file.
+
+Skills used
+
+Advanced Python Programming
+
+Application Development
+
+Power BI Dashboard and report development and python development.
+
+Databases used
+
+SQL Database

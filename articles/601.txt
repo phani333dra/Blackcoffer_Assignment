@@ -1,0 +1,55 @@
+Financial Modeling of the Investment Management Professionals
+
+Client Background
+
+Client: A leading financial institution in Europe
+
+Industry Type: Research, Finance
+
+Services: Financial Services
+
+Organization Size: 200+
+
+Challenges
+
+The client was having a huge dataset mostly textual information, and complex information was managed in the database. The dataset was a combination of online responses, texts, and numerical values. The client wanted to
+
+Analyze the response database
+
+Analyze textual database
+
+Generate insights by combining the analysis of response data and the textual data
+
+Visualize and report the outcomes for further data-driven decision-making processes
+
+Solution for Financial Modeling
+
+Blackcoffer provided a decision support framework with the analysis of the response data, textual data and triangulation of the response and the textual datasets. The analytical outcomes was driven by the cutting edge algorithms, financial models and scalable tools.
+
+Blackcoffer developed analytical solutions using the following process:
+
+Descriptive analytics Data cleaning and imputations summary statistics graphics Cross tabulations
+
+Statistical analysis Hypothesis Model creation Model testing Predictive modeling Testing and validations
+
+Analysis of textual data sets, NLP
+
+Triangulation
+
+Business Impact for Financial Modeling
+
+Blackcoffer delivered the following business impacts:
+
+Blackcoffer delivered the decision support framework took with 95% accuracy
+
+The financial models were efficient up to 96%
+
+Blackcoffer conducted empirical research on European Equities and the European Investment Management industry by examining the interplay between portfolio managers and investment analysts.
+
+Technology Stack used by Financial Modeling
+
+R
+
+Stata
+
+NVIVO

@@ -1,0 +1,493 @@
+Complete List of Financial Engineering AI Tools & AI Software
+
+1. AI Quantitative Trading & Algorithmic Trading
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+QuantConnect
+
+AI-powered algorithmic trading and backtesting platform.
+
+https://www.quantconnect.com
+
+Alpaca AI
+
+AI-enabled stock trading API and automation platform.
+
+https://alpaca.markets
+
+Numerai
+
+AI-driven crowdsourced quantitative hedge fund platform.
+
+https://numer.ai
+
+Kavout
+
+AI-powered stock ranking and investment analytics.
+
+https://www.kavout.com
+
+Trade Ideas
+
+AI-assisted stock scanning and trading signals.
+
+https://www.trade-ideas.com
+
+Tickeron
+
+AI-powered trading bots and market predictions.
+
+https://tickeron.com
+
+2. AI Risk Management & Portfolio Optimization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+MSCI RiskMetrics
+
+AI-powered portfolio risk analysis platform.
+
+https://www.msci.com
+
+BlackRock Aladdin
+
+AI-enabled investment and risk management platform.
+
+https://www.blackrock.com/aladdin
+
+Bloomberg PORT
+
+AI-assisted portfolio analytics and optimization.
+
+https://www.bloomberg.com/professional
+
+FactSet AI
+
+AI-powered portfolio analysis and financial insights.
+
+https://www.factset.com
+
+Refinitiv Workspace
+
+AI-driven financial risk and market analytics.
+
+https://www.lseg.com
+
+SimCorp Dimension
+
+AI platform for investment management and risk control.
+
+https://www.simcorp.com
+
+3. AI Financial Forecasting & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+DataRobot
+
+AI-powered financial forecasting and predictive analytics.
+
+https://www.datarobot.com
+
+H2O.ai
+
+Automated machine learning for financial modeling.
+
+https://h2o.ai
+
+SAS Viya
+
+AI platform for financial analytics and forecasting.
+
+https://www.sas.com
+
+IBM watsonx.ai
+
+AI-powered financial decision intelligence platform.
+
+https://www.ibm.com/watsonx
+
+Altair RapidMiner
+
+AI-driven financial data mining and prediction.
+
+https://altair.com/rapidminer
+
+KNIME Analytics Platform
+
+AI workflow platform for financial data analysis.
+
+https://www.knime.com
+
+4. AI Fraud Detection & Financial Security
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Feedzai
+
+AI-powered fraud detection and financial crime prevention.
+
+https://feedzai.com
+
+Featurespace
+
+AI detects payment fraud and financial anomalies.
+
+https://www.featurespace.com
+
+NICE Actimize
+
+AI-powered AML and fraud prevention platform.
+
+https://www.niceactimize.com
+
+FICO Falcon Fraud Manager
+
+AI-assisted fraud detection for banking.
+
+https://www.fico.com
+
+SAS Fraud Management
+
+AI-powered fraud analytics platform.
+
+https://www.sas.com
+
+IBM Trusteer
+
+AI platform for fraud prevention and cyber protection.
+
+https://www.ibm.com
+
+5. AI Banking & Financial Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Personetics
+
+AI-powered personalized banking platform.
+
+https://personetics.com
+
+Kasisto KAI
+
+AI virtual assistant for banking services.
+
+https://kasisto.com
+
+Kore.ai Banking AI
+
+AI chatbot platform for financial institutions.
+
+https://kore.ai
+
+Amelia AI
+
+AI-powered customer service automation for banking.
+
+https://amelia.ai
+
+Salesforce Einstein AI
+
+AI-powered CRM and financial customer insights.
+
+https://www.salesforce.com
+
+Microsoft Copilot for Finance
+
+AI assistant for financial workflows and reporting.
+
+https://www.microsoft.com
+
+6. AI Credit Scoring & Lending
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Zest AI
+
+AI-powered credit underwriting and risk assessment.
+
+https://www.zest.ai
+
+Upstart AI
+
+AI platform for loan approval and credit analysis.
+
+https://www.upstart.com
+
+Ocrolus
+
+AI automates financial document verification.
+
+https://www.ocrolus.com
+
+Provenir AI
+
+AI-powered credit decisioning platform.
+
+https://www.provenir.com
+
+Scienaptic AI
+
+AI-driven lending and credit analytics platform.
+
+https://www.scienaptic.ai
+
+FICO Platform
+
+AI-powered credit scoring and lending analytics.
+
+https://www.fico.com
+
+7. AI Financial Document Processing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABBYY Vantage
+
+AI-powered intelligent financial document processing.
+
+https://www.abbyy.com
+
+Rossum
+
+AI automates invoice and financial document extraction.
+
+https://rossum.ai
+
+Hyperscience
+
+AI-powered financial document automation platform.
+
+https://www.hyperscience.com
+
+Amazon Textract
+
+AI extracts data from financial documents.
+
+https://aws.amazon.com/textract
+
+Google Document AI
+
+AI-powered document understanding for finance.
+
+https://cloud.google.com/document-ai
+
+Azure AI Document Intelligence
+
+AI automates financial document processing.
+
+https://azure.microsoft.com/products/ai-services
+
+8. AI Financial Research & Market Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+BloombergGPT
+
+AI-powered financial research assistant.
+
+https://www.bloomberg.com
+
+AlphaSense
+
+AI-powered financial market intelligence platform.
+
+https://www.alpha-sense.com
+
+Kensho
+
+AI platform for financial analytics and research.
+
+https://kensho.com
+
+Sentieo
+
+AI-powered equity research and financial analysis.
+
+https://www.sentieo.com
+
+Perplexity AI
+
+AI-powered financial research search engine.
+
+https://www.perplexity.ai
+
+AlphaSense Generative Search
+
+AI-assisted investment research platform.
+
+https://www.alpha-sense.com
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for financial engineering research and coding.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for financial modeling and documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for financial engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for spreadsheets, reports, and coding.
+
+https://copilot.microsoft.com
+
+NotebookLM
+
+AI notebook for summarizing finance papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for finance research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding finance publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering financial research papers.
+
+https://www.researchrabbit.ai
+
+GitHub Copilot
+
+AI coding assistant for financial software development.
+
+https://github.com/features/copilot
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for financial AI models.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for quantitative finance.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for financial analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for financial predictions.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AI platform for financial forecasting.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for financial data science.
+
+https://www.knime.com
+
+Altair RapidMiner
+
+AI-powered predictive analytics for finance.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for financial applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for financial AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for building financial AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,287 @@
+Replacing existing pavement roads, parking lots and sidewalks with pavement made of LED solar smart panels
+
+Mission
+
+Solar panel electricity systems, also known as solar photovoltaics (PV), capture the sun’s energy using photovoltaic cells. The cells convert the sunlight into electricity, which can be used to run household appliances and lighting roads parking lots and sidewalks.
+
+Objectives
+
+To utilize solar energy that reaches the earth use them to produce electricity or heat through the use of solar collectors.
+
+A large amount of vacant land in the form of roads on which sunlight falls directly most of the time. To use these roads to collect solar energy by replacing the existing asphalt roads with intelligent, modular and robust solar panel roads.
+
+With the dropping prices in solar panels, it is the perfect time to shift to a more modern method of producing electricity.
+
+Watt way Solar Panels
+
+Approach
+
+Installation – These panels can be readily installed over existing road surfaces without any need to restructure.
+
+Speed – The panels can be installed very fast when compared to solar roadways since infrastructure need not be destroyed.
+
+Techniques
+
+Roads need not be rebuilt. The solar panels can be placed upon the existing roads.
+
+The interconnections between panels and to the grid are specialized and complicated.
+
+Panels themselves have high efficiency and have proven to work in diffused sunlight (for example, a 0.6 mile stretch in Normandy, France).
+
+The panels are coated with a special resin to provide durability that can withstand heavy vehicle loads.
+
+Solar Roadways
+
+Approach
+
+Self-sustenance – The LEDs will draw power from the solar array during the day and from the grid at night.
+
+Surplus – Any extra electricity produced can be fed back to the grid using net metering concept.
+
+Smart – The panels are smart and decentralized, improving ruggedness and immunity to total failure.
+
+Suitability – The early tests show that the specially designed surface is more durable and performs better than traditional asphalt.
+
+Aesthetics – The LEDs come in a wide range of colors and can be used to light up in different colors to celebrate different occasions.
+
+Heating – The solar panels have an inbuilt heating element to prevent the accumulation of snow and ice.
+
+Signals – The LEDs can be configured to display various signals to drivers to inform them of any possible dangers.
+
+Techniques
+
+The existing needs to torn down to install the solar panels. The reason for that is solar roadways have specialized circuits and wiring systems which need to be placed beneath the solar panels.
+
+It will involve work from Civil Engineering, Electrical Engineering as well as Mechanical Engineering.
+
+LEDs are used to supplement the use of paint and to display signs.
+
+Panels (model – SR3) are available in hexagonal shape, in full, half and quarter proportions having ratings of 48, 24 and 12 watts respectively.
+
+The panels are power independent, meaning that they recharge themselves. But the excess energy can be exported directly to the electrical power grid.
+
+Are the Solar Panels practical?
+
+Isn’t glass softer than asphalt ? The answer is “no”
+
+This table shows the object ranked according to Mohs’ Scale of Hardness.
+
+0,7
+
+Graphite
+
+1,3
+
+Asphalt
+
+3,0
+
+Copper Penny
+
+5,5-6
+
+Knife Blade
+
+5,5-6
+
+Plate Glass
+
+By comparison, it is asphalt that is soft.
+
+Solar Road Panels are made of tempered glass and tempered glass is 4-5 times stronger than non-tempered glass.
+
+Further testing has revealed that the surface of the panel road is less slippery than a normal road.
+
+And they are easy to maintain. During winter, they melt the snow off them, making it safe for driving but also possible to collect sunlight.
+
+Solar Panels
+
+Using electric cars would eliminate most of the other half of the cause of global warming and could virtually wean the world off oil entirely.
+
+The smart road can give instructions
+
+The smart road can warn drivers of obstacles on the road
+
+Electric Cars
+
+The panels are power independent, meaning that they recharge themselves.
+
+The excess energy can be exported directly to the electrical power grid.
+
+They can be used to charge electric cars at rest stop, or at any business places that incorporate Solar Roadways Panels in their parking lots for.
+
+Using electric cars would eliminate most of the other half of the cause of global warming and could virtually wean the world off oil entirely.
+
+Business Models
+
+There can be enumerated a number of benefits for developing smart business models. As the panels can generate not only their own electricity but their own money as well, their implementation will depend largely on government regulations and public support.
+
+The road incomes can be generated through:
+
+Through the generation of electricity
+
+By transporting cleaned stormwater to municipalities or agricultural centers
+
+By leasing the roadside conduit (Cable Corridor) to entities such as utility companies, telephone, high-speed internet, cable TV, etc.
+
+By selling advertising in parking lots with the configurable LEDs
+
+By charging people or companies to recharge their electric vehicles
+
+Savings and Optimization
+
+No need to put up road signs as LEDs will take care of putting up signals in real-time.
+
+The cost of painting the road will be removed through the use of LEDs.
+
+It won’t require the inbuilt heating elements, more electricity can be stored.
+
+The roads will have a very low maintenance cost and it will continuously pay for itself by producing electricity.
+
+Repair is much quicker and easier than our current maintenance system for asphalt roads. We’ve learned that in the U.S., over $160 billion is lost each year in lost productivity from people sitting in traffic due to road maintenance.
+
+Cost of Establishing
+
+Asphalt Roads (Current System)
+
+The average cost in 2006 was roughly 16$ per square foot which does not include maintenance (pothole repair, repainting, etc.). In 2017, it is likely to be around 20$.
+
+It has an average life span of seven years.
+
+Solar Roadways
+
+A 12 x 12 feet patch was estimated to cost around 10,000$ in the USA.
+
+The average cost would amount to around 70$ per square foot.
+
+The solar roadways are estimated to last for 41 years (6 times that of asphalt roads) and it also gives a return on investment.
+
+Wattway
+
+Test installation in Normandy, France cost 5 million euros for a one-kilometer stretch of road.
+
+The average cost would be 171$ per square foot.
+
+Budget Planning
+
+While this road is still very far from being, mass-produced, it’s also helpful to take a look at normal road costs to get a better idea. According to the American Road & Transportation Builders Association, cost models for roads in some states are as follows:
+
+Cost of 12×12 Solar Panel
+
+Width of road (foot)
+
+Length of road (foot)
+
+Total area, width*length (foot2)
+
+Price per foot 2 (USD)
+
+Installation cost per foot2 (USD)
+
+Total cost per foot2 (solar panel + installation) (USD)
+
+Total cost (USD)
+
+12
+
+12
+
+144
+
+70
+
+7
+
+77
+
+12x12x(70+7) = 11,088
+
+Cost of 12×12 solar panel = USD 11,088
+
+Cost of 1 km 2-lane undivided road
+
+Width of road (foot)
+
+Length of road (foot)
+
+Total area, width*length (foot2)
+
+Price per foot 2 (USD)
+
+Installation cost per foot2 (USD)
+
+Total cost per foot2 (solar panel + installation) (USD)
+
+Total cost (USD)
+
+23
+
+3280.9 (1km)
+
+75460.7
+
+70
+
+7
+
+77
+
+23×3280.9x(70+7) = 5,810,473.9
+
+Cost of 1 km 2-lane undivided road = USD 5.81 Million
+
+Cost of 1 km 2-lane divided road
+
+Width of road (foot)
+
+Length of road (foot)
+
+Total area, width*length (foot2)
+
+Price per foot 2 (USD)
+
+Installation cost per foot2 (USD)
+
+Total cost per foot2 (solar panel + installation) (USD)
+
+Total cost (USD)
+
+23.5
+
+3280.9(1km)
+
+77101.1
+
+70
+
+7
+
+77
+
+5,936,788.6
+
+Cost of 1 km 2-lane divided road = USD 5.93 Million
+
+Notes
+
+Size of solar panel 12×12 in foot2
+
+Price of solar panel 12×12 is USD 10,080
+
+Installation cost per panel USD 1008
+
+1km = 3280.9 foot
+
+Conclusion
+
+The solar panel road panels and the smart roads that come with them can make a major environmental as well as social difference.
+
+They can offer a new major source of clean energy which on its own will greatly impact the climate in a positive way.
+
+But smart roads can also optimize our traffic so that work productivity is not lost, fuel is preserved and many accidents are avoided.
+
+These panels may be a big investment at first but they will, without a doubt, pay off in the long term, not only financially but environmentally as well.
+
+Everyone has power. No more power shortages, no more roaming power outages, no more need to burn coal (50% of greenhouse gases). Less need for fossil fuels and less dependency upon foreign oil. Much less pollution. How about this for a long term advantage: an electric road allows all-electric vehicles to recharge anywhere: rest stops, parking lots, etc. They would then have the same range as a gasoline-powered vehicle. Internal combustion engines would become obsolete. Our dependence on oil would come to an abrupt end.
+
+It’s time to upgrade our infrastructure – roads and power grid – to the 21st century.

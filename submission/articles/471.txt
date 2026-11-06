@@ -1,0 +1,61 @@
+Construction Accounts Payable / Payroll Analytics in POWER BI
+
+Project Description for Payroll Analytics in POWER BI
+
+The client wanted to process the real estate construction operations data and needed Payroll Analytics in Power BI for their management decisions.
+
+Designed and developed the following BI Reports:
+
+Spending categories
+
+Scaffold hire and purchase
+
+Framework hire and purchase
+
+Tools and equipment hire and purchase
+
+Total invoice by companies
+
+invoice by companies
+
+Amount payable
+
+Vendor payment history
+
+Influencers of framework
+
+Influencers of scaffold
+
+Influencers of tools and equipment
+
+Forecast, total amount, and balance
+
+Forecast
+
+Description amount balance
+
+Developed data pipeline to load data from the data source to the POWER BI so that the reports can be automatically updated and graphs populated whenever there is a change in the data at the data center.
+
+Data Visualization Deliverables
+
+Presentation
+
+Dashboard
+
+Map
+
+API Integration
+
+Data Visualization Tools
+
+Microsoft Power BI
+
+Data Visualization Languages
+
+JavaScript
+
+Python
+
+Project Website
+
+https://app.powerbi.com/groups/me/reports/2f171dd4-7f5d-470d-a240-6ea14f00d7e6/ReportSectione6f3f43fe1439f1911cb

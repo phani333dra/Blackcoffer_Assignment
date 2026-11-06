@@ -1,0 +1,493 @@
+Complete List of Fire and Safety Engineering AI Tools & AI Software
+
+1. AI Fire Detection & Prevention
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Honeywell Connected Life Safety Services
+
+AI-powered fire alarm monitoring and diagnostics.
+
+https://buildings.honeywell.com
+
+Johnson Controls OpenBlue
+
+AI platform for intelligent fire safety management.
+
+https://www.johnsoncontrols.com/openblue
+
+Siemens Cerberus Cloud
+
+AI-assisted fire detection and building safety platform.
+
+https://www.siemens.com
+
+Bosch AVIOTEC
+
+AI-powered video-based fire and smoke detection.
+
+https://www.boschsecurity.com
+
+Hikvision Fire Detection AI
+
+AI-enabled thermal imaging and fire detection.
+
+https://www.hikvision.com
+
+FLIR Thermal Studio
+
+AI-assisted thermal imaging for fire prevention.
+
+https://www.flir.com
+
+2. AI Safety Monitoring & Hazard Detection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+viAct
+
+AI-powered workplace safety and PPE monitoring.
+
+https://www.viact.ai
+
+Intenseye
+
+AI detects unsafe behaviors and workplace hazards.
+
+https://www.intenseye.com
+
+Everguard.ai
+
+AI platform for industrial safety monitoring.
+
+https://www.everguard.ai
+
+Protex AI
+
+AI-powered real-time safety and risk detection.
+
+https://protex.ai
+
+Smartvid.io (Newmetrix)
+
+AI identifies safety risks from site images and videos.
+
+https://www.newmetrix.com
+
+SafetyIQ
+
+AI-driven worker safety and compliance monitoring.
+
+https://www.safetyiq.com
+
+3. AI CCTV & Computer Vision Safety
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Metropolis
+
+AI-powered intelligent video analytics platform.
+
+https://www.nvidia.com/metropolis
+
+Axis Object Analytics
+
+AI detects people, vehicles, and safety violations.
+
+https://www.axis.com
+
+BriefCam
+
+AI-powered video analytics for safety monitoring.
+
+https://www.briefcam.com
+
+Avigilon Unity
+
+AI-assisted video surveillance and incident detection.
+
+https://www.avigilon.com
+
+Milestone XProtect AI Bridge
+
+AI-powered security video analytics integration.
+
+https://www.milestonesys.com
+
+Genetec Security Center
+
+AI-enabled video surveillance and access control.
+
+https://www.genetec.com
+
+4. AI Emergency Response & Incident Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Everbridge
+
+AI-powered emergency communication and incident response.
+
+https://www.everbridge.com
+
+RapidSOS
+
+AI-enabled emergency response data platform.
+
+https://www.rapidsos.com
+
+Noggin
+
+AI platform for crisis and emergency management.
+
+https://www.noggin.io
+
+AlertMedia
+
+AI-powered emergency notification software.
+
+https://www.alertmedia.com
+
+Crisis24 Horizon
+
+AI-assisted global risk monitoring and incident response.
+
+https://www.crisis24.com
+
+OnSolve
+
+AI-driven critical event management platform.
+
+https://www.onsolve.com
+
+5. AI Risk Assessment & Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Enablon
+
+AI-powered EHS and risk management platform.
+
+https://www.enablon.com
+
+Cority
+
+AI-enabled health, safety, and compliance software.
+
+https://www.cority.com
+
+Intelex
+
+AI-powered environmental, health, and safety management.
+
+https://www.intelex.com
+
+SpheraCloud
+
+AI platform for operational risk and safety compliance.
+
+https://www.sphera.com
+
+EcoOnline
+
+AI-assisted workplace safety and compliance platform.
+
+https://www.ecoonline.com
+
+VelocityEHS
+
+AI-powered EHS management and risk assessment.
+
+https://www.ehs.com
+
+6. AI Predictive Maintenance & Asset Safety
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Senseye
+
+AI predicts failures in safety-critical equipment.
+
+https://senseye.io
+
+IBM Maximo Application Suite
+
+AI-powered asset management and maintenance.
+
+https://www.ibm.com/products/maximo
+
+GE Digital APM
+
+AI platform for equipment reliability and safety.
+
+https://www.gevernova.com/software
+
+AVEVA Predictive Analytics
+
+AI monitors equipment health and anomalies.
+
+https://www.aveva.com
+
+ABB Ability Asset Manager
+
+AI-powered industrial asset monitoring.
+
+https://global.abb/ability
+
+Aspen Mtell
+
+AI-assisted predictive maintenance software.
+
+https://www.aspentech.com
+
+7. AI Digital Twins & Smart Buildings
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Omniverse
+
+AI-powered digital twins for safety simulations.
+
+https://www.nvidia.com/omniverse
+
+Azure Digital Twins
+
+AI platform for building and safety infrastructure modeling.
+
+https://azure.microsoft.com/products/digital-twins
+
+AWS IoT TwinMaker
+
+AI-enabled digital twin platform for facilities.
+
+https://aws.amazon.com/iot-twinmaker
+
+Siemens Digital Twin
+
+AI-assisted building safety and operational simulation.
+
+https://www.siemens.com
+
+Bentley iTwin
+
+AI-powered infrastructure and facility digital twins.
+
+https://www.bentley.com/software/itwin
+
+Dassault 3DEXPERIENCE
+
+AI-powered engineering lifecycle and safety simulations.
+
+https://www.3ds.com
+
+8. AI Industrial IoT & Smart Safety
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+PTC ThingWorx
+
+AI-powered Industrial IoT platform for safety monitoring.
+
+https://www.ptc.com
+
+Siemens Insights Hub
+
+AI platform for industrial safety analytics.
+
+https://www.siemens.com/insights-hub
+
+AWS IoT Core
+
+AI-powered connected safety device management.
+
+https://aws.amazon.com/iot-core
+
+Azure IoT
+
+AI-enabled Industrial IoT for workplace safety.
+
+https://azure.microsoft.com/products/iot
+
+Bosch IoT Suite
+
+AI platform for connected safety systems.
+
+https://bosch-iot-suite.com
+
+IBM Watson IoT
+
+AI-assisted monitoring of industrial safety assets.
+
+https://www.ibm.com
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for fire and safety engineering research.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and safety analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for fire and safety engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, documentation, and coding.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered search engine for fire safety research.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing fire safety papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for safety engineering.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding fire safety publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering fire safety research papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for fire and safety AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for safety engineering research.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for safety analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for safety data.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for safety risk prediction.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for safety data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics for safety engineering.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for fire and safety applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for fire safety AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for building fire safety AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

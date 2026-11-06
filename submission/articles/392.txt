@@ -1,0 +1,537 @@
+Complete List of Financial Services AI Tools & AI Software
+
+1. AI Banking & Digital Finance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Temenos AI
+
+AI-powered core banking and digital banking platform.
+
+https://www.temenos.com
+
+Finastra Fusion
+
+AI platform for banking operations and financial services.
+
+https://www.finastra.com
+
+Oracle Financial Services
+
+AI software for banking analytics and operations.
+
+https://www.oracle.com/financial-services
+
+FIS AI Solutions
+
+AI-powered banking and payment processing platform.
+
+https://www.fisglobal.com
+
+Fiserv AI
+
+AI platform for digital banking and financial institutions.
+
+https://www.fiserv.com
+
+Mambu
+
+AI-enabled cloud banking platform.
+
+https://mambu.com
+
+Thought Machine Vault
+
+AI-ready cloud-native core banking platform.
+
+https://www.thoughtmachine.net
+
+2. AI Fraud Detection & Risk Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Feedzai
+
+AI detects fraud and financial crime in real time.
+
+https://feedzai.com
+
+Featurespace
+
+AI-powered fraud prevention and anomaly detection.
+
+https://www.featurespace.com
+
+SAS Fraud Management
+
+AI platform for fraud detection and prevention.
+
+https://www.sas.com
+
+NICE Actimize
+
+AI software for financial crime detection and AML.
+
+https://www.niceactimize.com
+
+IBM Safer Payments
+
+AI-powered payment fraud detection platform.
+
+https://www.ibm.com
+
+Hawk AI
+
+AI platform for anti-money laundering (AML) monitoring.
+
+https://hawk.ai
+
+DataVisor
+
+AI detects payment fraud and identity fraud.
+
+https://www.datavisor.com
+
+3. AI Credit Scoring & Lending
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Zest AI
+
+AI-powered credit underwriting and lending decisions.
+
+https://www.zest.ai
+
+Upstart AI
+
+AI platform for consumer lending and credit evaluation.
+
+https://www.upstart.com
+
+Scienaptic AI
+
+AI automates credit decision-making.
+
+https://www.scienaptic.ai
+
+Experian Ascend AI
+
+AI-driven credit risk analytics platform.
+
+https://www.experian.com
+
+FICO Platform
+
+AI-powered credit scoring and risk assessment.
+
+https://www.fico.com
+
+Provenir AI
+
+AI software for lending decision automation.
+
+https://www.provenir.com
+
+4. AI Investment & Wealth Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+BlackRock Aladdin
+
+AI-powered investment and portfolio management platform.
+
+https://www.blackrock.com/aladdin
+
+Bloomberg Terminal AI
+
+AI assists financial analysis and market insights.
+
+https://www.bloomberg.com
+
+AlphaSense
+
+AI-powered financial research and market intelligence.
+
+https://www.alpha-sense.com
+
+Kavout
+
+AI platform for stock analysis and investment research.
+
+https://www.kavout.com
+
+Magnifi
+
+AI-powered investment search engine.
+
+https://www.magnifi.com
+
+SigFig
+
+AI-driven digital wealth management platform.
+
+https://www.sigfig.com
+
+Betterment
+
+AI-assisted robo-advisory investment platform.
+
+https://www.betterment.com
+
+5. AI Compliance, AML & Regulatory Reporting
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ComplyAdvantage
+
+AI platform for AML and sanctions screening.
+
+https://complyadvantage.com
+
+Quantexa
+
+AI-powered financial crime and risk intelligence.
+
+https://www.quantexa.com
+
+SymphonyAI Sensa
+
+AI detects suspicious financial activities.
+
+https://www.symphonyai.com
+
+LexisNexis Risk Solutions
+
+AI-powered compliance and fraud prevention.
+
+https://risk.lexisnexis.com
+
+Fenergo
+
+AI automates KYC and regulatory compliance.
+
+https://www.fenergo.com
+
+Refinitiv World-Check
+
+AI-powered customer due diligence platform.
+
+https://www.lseg.com
+
+6. AI Customer Service & Virtual Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Salesforce Einstein
+
+AI-powered CRM and financial customer insights.
+
+https://www.salesforce.com
+
+IBM watsonx Assistant
+
+AI chatbot for banking customer support.
+
+https://www.ibm.com/watsonx
+
+Zendesk AI
+
+AI automates financial customer service.
+
+https://www.zendesk.com
+
+Intercom Fin AI
+
+AI customer support assistant for financial services.
+
+https://www.intercom.com
+
+Microsoft Copilot
+
+AI assistant for finance documentation and productivity.
+
+https://copilot.microsoft.com
+
+Amelia
+
+AI-powered conversational banking platform.
+
+https://amelia.ai
+
+7. AI Financial Planning & Accounting
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Intuit Assist
+
+AI-powered accounting and bookkeeping assistant.
+
+https://www.intuit.com
+
+Xero AI
+
+AI software for accounting automation.
+
+https://www.xero.com
+
+Sage Intacct AI
+
+AI-powered cloud financial management platform.
+
+https://www.sage.com
+
+Zoho Books Zia
+
+AI assistant for accounting and finance.
+
+https://www.zoho.com/books
+
+Vic.ai
+
+AI automates invoice processing and accounts payable.
+
+https://www.vic.ai
+
+AppZen
+
+AI-powered expense auditing and financial compliance.
+
+https://www.appzen.com
+
+8. AI Business Intelligence & Financial Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-assisted financial dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-powered business intelligence platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-driven financial analytics and visualization.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI-powered search analytics for finance.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive financial analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for financial data analysis.
+
+https://www.knime.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for financial research, documentation, and analysis.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for financial reports and business analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for finance research and data insights.
+
+https://gemini.google.com
+
+Perplexity AI
+
+AI-powered financial research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing financial reports.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for finance research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding finance research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering finance publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for financial AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for financial modeling.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for financial analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for financial forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for financial machine learning.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for developing finance AI models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for financial analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for financial datasets.
+
+https://www.databricks.com
+
+11. AI Document Processing & Intelligent Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABBYY Vantage
+
+AI-powered intelligent document processing (IDP).
+
+https://www.abbyy.com
+
+UiPath AI Center
+
+AI automates banking and financial workflows.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered robotic process automation (RPA).
+
+https://www.automationanywhere.com
+
+Hyperscience
+
+AI extracts data from financial documents.
+
+https://www.hyperscience.com
+
+Rossum
+
+AI automates invoice and document processing.
+
+https://rossum.ai
+
+Kofax TotalAgility
+
+AI-powered document capture and workflow automation.
+
+https://www.tungstenautomation.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

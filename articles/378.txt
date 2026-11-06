@@ -1,0 +1,577 @@
+Complete List of Chemicals & Petrochemicals AI Tools & AI Software
+
+1. AI Process Simulation & Process Optimization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aspen HYSYS
+
+AI-powered chemical process simulation and optimization.
+
+https://www.aspentech.com
+
+Aspen Plus
+
+AI optimizes chemical plant design and production.
+
+https://www.aspentech.com
+
+AVEVA Process Simulation
+
+AI-driven process modeling for chemical plants.
+
+https://www.aveva.com
+
+Honeywell Forge
+
+AI improves plant efficiency and operations.
+
+https://www.honeywell.com
+
+Siemens Simit
+
+AI-enabled industrial process simulation.
+
+https://www.siemens.com
+
+Emerson DeltaV
+
+AI automates chemical production processes.
+
+https://www.emerson.com
+
+Yokogawa OpreX
+
+AI optimizes industrial process control.
+
+https://www.yokogawa.com
+
+Schneider Electric EcoStruxure
+
+AI improves chemical plant performance.
+
+https://www.se.com
+
+2. AI Plant Monitoring & Industrial Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABB Ability
+
+AI-powered industrial automation platform.
+
+https://new.abb.com/ability
+
+Siemens Opcenter
+
+AI monitors chemical manufacturing operations.
+
+https://www.siemens.com/opcenter
+
+Rockwell FactoryTalk
+
+AI automates production and plant monitoring.
+
+https://www.rockwellautomation.com
+
+Honeywell Experion
+
+AI-based distributed control system (DCS).
+
+https://www.honeywell.com
+
+Emerson Ovation
+
+AI manages industrial plant operations.
+
+https://www.emerson.com
+
+GE Digital Proficy
+
+AI-powered manufacturing operations platform.
+
+https://www.ge.com/digital
+
+Mitsubishi ICONICS
+
+AI-enabled industrial automation software.
+
+https://iconics.com
+
+Hitachi Lumada
+
+AI optimizes industrial production workflows.
+
+https://www.hitachi.com/lumada
+
+3. AI Predictive Maintenance & Asset Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts equipment failures and maintenance needs.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance platform.
+
+https://senseye.io
+
+Aspen Mtell
+
+AI forecasts equipment failures before downtime.
+
+https://www.aspentech.com
+
+AVEVA Predictive Analytics
+
+AI predicts equipment performance issues.
+
+https://www.aveva.com
+
+GE Vernova APM
+
+AI monitors industrial asset health.
+
+https://www.gevernova.com
+
+SparkCognition
+
+AI detects equipment anomalies in real time.
+
+https://sparkcognition.com
+
+ABB Ability Asset Performance Management
+
+AI improves equipment reliability.
+
+https://new.abb.com
+
+PTC ThingWorx Asset Advisor
+
+AI monitors plant assets continuously.
+
+https://www.ptc.com
+
+4. AI Quality Control & Computer Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+LandingLens
+
+AI visual inspection for chemical manufacturing.
+
+https://landing.ai
+
+Cognex VisionPro
+
+AI-powered industrial quality inspection.
+
+https://www.cognex.com
+
+MVTec HALCON
+
+AI machine vision software for defect detection.
+
+https://www.mvtec.com
+
+Instrumental AI
+
+AI detects manufacturing defects automatically.
+
+https://instrumental.com
+
+Keyence Vision Systems
+
+AI-based automated quality inspection.
+
+https://www.keyence.com
+
+Robovision
+
+AI computer vision for industrial quality control.
+
+https://robovision.ai
+
+Zebra Aurora Vision
+
+AI-powered industrial image processing.
+
+https://www.zebra.com
+
+Qualcomm AI Vision
+
+AI-enabled embedded visual inspection.
+
+https://www.qualcomm.com
+
+5. AI Laboratory Research & Material Discovery
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Schrödinger
+
+AI accelerates molecular and material discovery.
+
+https://www.schrodinger.com
+
+Chematica (Synthia)
+
+AI plans chemical synthesis pathways.
+
+https://www.merckgroup.com
+
+IBM RXN for Chemistry
+
+AI predicts chemical reactions and synthesis.
+
+https://rxn.res.ibm.com
+
+DeepMatter
+
+AI-driven chemistry research platform.
+
+https://www.deepmatter.io
+
+Citrine Platform
+
+AI discovers new materials faster.
+
+https://citrine.io
+
+MaterialsZone
+
+AI-powered materials R&D platform.
+
+https://materialszone.com
+
+Benchling
+
+AI-enabled laboratory and research management.
+
+https://www.benchling.com
+
+Dotmatics
+
+AI supports scientific research and laboratory workflows.
+
+https://www.dotmatics.com
+
+6. AI Supply Chain & Production Planning
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Blue Yonder
+
+AI optimizes chemical supply chains.
+
+https://blueyonder.com
+
+Kinaxis Maestro
+
+AI-powered production planning platform.
+
+https://www.kinaxis.com
+
+o9 Solutions
+
+AI forecasts demand and inventory.
+
+https://o9solutions.com
+
+SAP Integrated Business Planning
+
+AI-driven supply chain optimization.
+
+https://www.sap.com
+
+Oracle Fusion Cloud SCM
+
+AI-powered logistics and inventory management.
+
+https://www.oracle.com
+
+Infor Nexus
+
+AI manages global chemical supply chains.
+
+https://www.infor.com
+
+E2open
+
+AI optimizes end-to-end supply chain visibility.
+
+https://www.e2open.com
+
+Logility
+
+AI-powered demand planning platform.
+
+https://www.logility.com
+
+7. AI Environmental, Safety & Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Enablon
+
+AI manages EHS and regulatory compliance.
+
+https://www.enablon.com
+
+SpheraCloud
+
+AI-powered sustainability and risk management.
+
+https://sphera.com
+
+EcoOnline
+
+AI supports workplace safety and compliance.
+
+https://www.ecoonline.com
+
+Intelex
+
+AI automates environmental and safety management.
+
+https://www.intelex.com
+
+VelocityEHS
+
+AI monitors industrial health and safety.
+
+https://www.velocityehs.com
+
+Benchmark Gensuite
+
+AI-powered ESG and compliance platform.
+
+https://www.benchmarkgensuite.com
+
+8. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered chemical manufacturing dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven industrial analytics platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered chemical production analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven operational insights.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive manufacturing analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for industrial data analysis.
+
+https://www.knime.com
+
+SAS Viya
+
+AI-powered industrial analytics platform.
+
+https://www.sas.com
+
+Alteryx AI Platform
+
+AI automates industrial data preparation and analytics.
+
+https://www.alteryx.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for chemical research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and reports.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for chemistry research and analysis.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and presentations.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered chemistry research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing scientific documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review for chemistry research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains chemistry and material science papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers relevant scientific publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for chemical AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for chemical applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for industrial analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for process optimization.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for industrial applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for chemical model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for industrial analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for chemical datasets.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for manufacturing intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for industrial AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

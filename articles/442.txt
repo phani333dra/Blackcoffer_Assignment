@@ -1,0 +1,481 @@
+Complete List of Professional Services (Consulting, Accounting, Marketing) AI Tools & AI Software
+
+1. AI Consulting & Business Strategy
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for consulting, research, and strategy.
+
+https://chatgpt.com
+
+Claude
+
+AI-powered business analysis and documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI for business insights and strategic planning.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for productivity and consulting tasks.
+
+https://copilot.microsoft.com
+
+IBM watsonx
+
+Enterprise AI platform for consulting solutions.
+
+https://www.ibm.com/watsonx
+
+Salesforce Einstein AI
+
+AI-driven customer and business intelligence.
+
+https://www.salesforce.com
+
+2. AI Accounting & Bookkeeping
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Intuit QuickBooks AI
+
+AI-powered bookkeeping and financial management.
+
+https://quickbooks.intuit.com
+
+Xero AI
+
+AI automates accounting and reconciliation.
+
+https://www.xero.com
+
+Sage Intacct AI
+
+AI-powered cloud accounting platform.
+
+https://www.sage.com
+
+Zoho Books AI (Zia)
+
+AI automates accounting workflows.
+
+https://www.zoho.com/books
+
+FreshBooks AI
+
+AI assists invoicing and expense management.
+
+https://www.freshbooks.com
+
+Oracle Fusion Cloud ERP AI
+
+AI-powered enterprise financial management.
+
+https://www.oracle.com
+
+3. AI Financial Planning & Audit
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+MindBridge AI
+
+AI detects accounting anomalies and audit risks.
+
+https://www.mindbridge.ai
+
+Caseware AiDA
+
+AI supports financial auditing.
+
+https://www.caseware.com
+
+Diligent AI
+
+AI-powered governance and risk management.
+
+https://www.diligent.com
+
+IBM OpenPages
+
+AI for governance, risk, and compliance.
+
+https://www.ibm.com/products/openpages
+
+Wolters Kluwer CCH AI
+
+AI-powered tax and audit solutions.
+
+https://www.wolterskluwer.com
+
+BlackLine AI
+
+AI automates financial close and reconciliation.
+
+https://www.blackline.com
+
+4. AI Marketing Automation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+HubSpot AI
+
+AI automates marketing and CRM activities.
+
+https://www.hubspot.com
+
+Salesforce Marketing Cloud AI
+
+AI-powered customer engagement.
+
+https://www.salesforce.com
+
+Adobe Experience Cloud AI
+
+AI optimizes digital marketing campaigns.
+
+https://business.adobe.com
+
+Mailchimp AI
+
+AI-powered email marketing automation.
+
+https://mailchimp.com
+
+ActiveCampaign AI
+
+AI automates customer journeys.
+
+https://www.activecampaign.com
+
+Brevo AI
+
+AI-powered email and SMS marketing.
+
+https://www.brevo.com
+
+5. AI Content Creation & Copywriting
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Jasper AI
+
+AI creates marketing content and blogs.
+
+https://www.jasper.ai
+
+Copy.ai
+
+AI generates advertising and sales copy.
+
+https://www.copy.ai
+
+Writesonic
+
+AI-powered content generation platform.
+
+https://writesonic.com
+
+Rytr
+
+AI writing assistant for marketing teams.
+
+https://rytr.me
+
+Grammarly
+
+AI writing enhancement and proofreading.
+
+https://www.grammarly.com
+
+Notion AI
+
+AI creates documentation and business content.
+
+https://www.notion.so
+
+6. AI SEO & Digital Marketing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Surfer SEO
+
+AI optimizes website content for search engines.
+
+https://surferseo.com
+
+Clearscope
+
+AI improves SEO content quality.
+
+https://www.clearscope.io
+
+Semrush AI
+
+AI-powered SEO and competitive analysis.
+
+https://www.semrush.com
+
+Ahrefs AI
+
+AI keyword research and backlink analysis.
+
+https://ahrefs.com
+
+Frase
+
+AI content optimization for SEO.
+
+https://www.frase.io
+
+MarketMuse
+
+AI-driven content planning and optimization.
+
+https://www.marketmuse.com
+
+7. AI Social Media Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Hootsuite OwlyWriter AI
+
+AI creates and schedules social media posts.
+
+https://www.hootsuite.com
+
+Buffer AI Assistant
+
+AI generates social media content.
+
+https://buffer.com
+
+Sprout Social AI
+
+AI-powered social media management.
+
+https://sproutsocial.com
+
+Predis.ai
+
+AI creates posts, ads, and creatives.
+
+https://predis.ai
+
+Flick AI
+
+AI generates captions and hashtags.
+
+https://flick.social
+
+Lately AI
+
+AI converts long-form content into social posts.
+
+https://www.lately.ai
+
+8. AI Customer Relationship Management (CRM)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Salesforce Einstein AI
+
+AI-powered CRM and sales forecasting.
+
+https://www.salesforce.com
+
+Microsoft Dynamics 365 Copilot
+
+AI automates CRM and customer insights.
+
+https://www.microsoft.com
+
+Zoho CRM Zia
+
+AI sales assistant and CRM analytics.
+
+https://www.zoho.com/crm
+
+HubSpot AI
+
+AI-powered CRM and customer engagement.
+
+https://www.hubspot.com
+
+Freshsales Freddy AI
+
+AI sales assistant and lead scoring.
+
+https://www.freshworks.com
+
+Pipedrive AI
+
+AI automates sales pipeline management.
+
+https://www.pipedrive.com
+
+9. AI Business Intelligence & Analytics
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven business analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered business intelligence platform.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven analytics platform.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI predictive analytics and forecasting.
+
+https://www.sas.com
+
+DataRobot
+
+AI-powered predictive analytics.
+
+https://www.datarobot.com
+
+Databricks AI
+
+AI platform for enterprise analytics.
+
+https://www.databricks.com
+
+Snowflake Cortex AI
+
+AI-powered cloud analytics platform.
+
+https://www.snowflake.com
+
+10. AI Automation & Machine Learning Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+UiPath AI Center
+
+AI-powered robotic process automation (RPA).
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI automates repetitive business processes.
+
+https://www.automationanywhere.com
+
+TensorFlow
+
+Open-source machine learning framework.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning framework for AI development.
+
+https://pytorch.org
+
+Hugging Face
+
+AI models for NLP and automation.
+
+https://huggingface.co
+
+LangChain
+
+Framework for AI assistants and enterprise automation.
+
+https://www.langchain.com
+
+LlamaIndex
+
+Framework for Retrieval-Augmented Generation (RAG).
+
+https://www.llamaindex.ai
+
+MLflow
+
+AI model lifecycle management platform.
+
+https://mlflow.org
+
+Weights & Biases
+
+AI experiment tracking and collaboration.
+
+https://wandb.ai
+
+Dataiku
+
+Enterprise AI platform for consulting and analytics.
+
+https://www.dataiku.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,537 @@
+Complete List of Fintech AI Tools & AI Software
+
+1. AI Digital Banking & Banking-as-a-Service (BaaS)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Mambu
+
+AI-enabled cloud-native digital banking platform.
+
+https://mambu.com
+
+Thought Machine Vault
+
+AI-ready core banking platform for fintechs.
+
+https://www.thoughtmachine.net
+
+Finastra Fusion
+
+AI-powered banking and financial services platform.
+
+https://www.finastra.com
+
+Temenos AI
+
+AI platform for digital banking and core banking.
+
+https://www.temenos.com
+
+Synctera
+
+AI-powered Banking-as-a-Service platform.
+
+https://synctera.com
+
+Unit
+
+AI-enabled Banking-as-a-Service infrastructure.
+
+https://www.unit.co
+
+Treasury Prime
+
+AI-ready embedded banking platform.
+
+https://www.treasuryprime.com
+
+2. AI Payments & Payment Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Stripe Radar
+
+AI-powered payment fraud detection.
+
+https://stripe.com/radar
+
+Adyen AI
+
+AI platform for payment optimization and fraud prevention.
+
+https://www.adyen.com
+
+PayPal AI
+
+AI-powered payment protection and fraud monitoring.
+
+https://www.paypal.com
+
+Checkout.com Intelligent Acceptance
+
+AI improves payment approval rates.
+
+https://www.checkout.com
+
+Visa Advanced Authorization
+
+AI analyzes card transactions in real time.
+
+https://www.visa.com
+
+Mastercard Decision Intelligence
+
+AI detects suspicious payment activity.
+
+https://www.mastercard.com
+
+Sardine AI
+
+AI-powered fraud prevention for fintech.
+
+https://www.sardine.ai
+
+3. AI Fraud Detection & AML
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Feedzai
+
+AI detects financial fraud and suspicious transactions.
+
+https://feedzai.com
+
+Featurespace
+
+AI-powered anomaly detection for fintech.
+
+https://www.featurespace.com
+
+Hawk AI
+
+AI platform for anti-money laundering (AML).
+
+https://hawk.ai
+
+NICE Actimize
+
+AI software for AML and fraud detection.
+
+https://www.niceactimize.com
+
+ComplyAdvantage
+
+AI-powered AML and sanctions screening.
+
+https://complyadvantage.com
+
+SEON
+
+AI fraud prevention and digital identity verification.
+
+https://seon.io
+
+DataVisor
+
+AI detects fraud using behavioral analytics.
+
+https://www.datavisor.com
+
+4. AI Lending & Credit Scoring
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Zest AI
+
+AI-powered credit underwriting platform.
+
+https://www.zest.ai
+
+Upstart AI
+
+AI platform for consumer lending decisions.
+
+https://www.upstart.com
+
+Scienaptic AI
+
+AI automates credit risk assessment.
+
+https://www.scienaptic.ai
+
+Provenir AI
+
+AI-powered lending decision engine.
+
+https://www.provenir.com
+
+FICO Platform
+
+AI-based credit scoring and analytics.
+
+https://www.fico.com
+
+Experian Ascend AI
+
+AI-driven credit analytics platform.
+
+https://www.experian.com
+
+5. AI Personal Finance & WealthTech
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Betterment
+
+AI-powered robo-advisory platform.
+
+https://www.betterment.com
+
+Wealthfront
+
+AI-driven digital investment management.
+
+https://www.wealthfront.com
+
+SigFig
+
+AI-assisted investment portfolio management.
+
+https://www.sigfig.com
+
+Magnifi
+
+AI investment research assistant.
+
+https://www.magnifi.com
+
+Plum
+
+AI-powered automated savings and investing.
+
+https://withplum.com
+
+Cleo AI
+
+AI personal finance and budgeting assistant.
+
+https://web.meetcleo.com
+
+6. AI Compliance & RegTech
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ComplyAdvantage
+
+AI automates AML and compliance monitoring.
+
+https://complyadvantage.com
+
+Fenergo
+
+AI-powered KYC and client lifecycle management.
+
+https://www.fenergo.com
+
+LexisNexis Risk Solutions
+
+AI identity verification and compliance platform.
+
+https://risk.lexisnexis.com
+
+Trulioo
+
+AI-powered digital identity verification.
+
+https://www.trulioo.com
+
+Persona
+
+AI identity verification for fintech applications.
+
+https://withpersona.com
+
+Alloy
+
+AI automates fintech onboarding and fraud prevention.
+
+https://www.alloy.com
+
+7. AI Customer Service & Chatbots
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Salesforce Einstein
+
+AI-powered CRM and fintech customer engagement.
+
+https://www.salesforce.com
+
+IBM watsonx Assistant
+
+AI chatbot for fintech customer support.
+
+https://www.ibm.com/watsonx
+
+Zendesk AI
+
+AI automates customer support workflows.
+
+https://www.zendesk.com
+
+Intercom Fin AI
+
+AI-powered customer service assistant.
+
+https://www.intercom.com
+
+Amelia
+
+AI virtual financial assistant.
+
+https://amelia.ai
+
+Microsoft Copilot
+
+AI assistant for documentation and productivity.
+
+https://copilot.microsoft.com
+
+8. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-assisted fintech dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-powered business intelligence platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-driven fintech analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI-powered analytics search platform.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive fintech analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for financial data analysis.
+
+https://www.knime.com
+
+9. AI Intelligent Document Processing (IDP)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABBYY Vantage
+
+AI-powered financial document processing.
+
+https://www.abbyy.com
+
+Rossum
+
+AI extracts data from invoices and financial documents.
+
+https://rossum.ai
+
+Hyperscience
+
+AI automates fintech document processing.
+
+https://www.hyperscience.com
+
+UiPath AI Center
+
+AI automates financial workflows.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered robotic process automation (RPA).
+
+https://www.automationanywhere.com
+
+Kofax TotalAgility
+
+AI automates document capture and workflows.
+
+https://www.tungstenautomation.com
+
+10. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for fintech research, coding, documentation, and analysis.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for financial reports and technical writing.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for fintech research and insights.
+
+https://gemini.google.com
+
+Perplexity AI
+
+AI-powered financial research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing fintech reports.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for fintech research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding finance research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering fintech publications.
+
+https://www.researchrabbit.ai
+
+11. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for fintech AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for fintech analytics.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for financial prediction.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for fintech analytics.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for fintech applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for fintech AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for financial analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for fintech datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

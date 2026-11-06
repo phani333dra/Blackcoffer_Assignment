@@ -1,0 +1,85 @@
+AI, ML, and IoT driven Entry Management and Monitoring
+
+Client Background
+
+Client: A leading business school in Asia
+
+Industry Type: Research and Academia
+
+Services: Higher education, research, business school
+
+Organization Size: 5000+
+
+Challenges
+
+The client was facing challenges with unauthorized access in their premises provided all security personnel deployed at the checkpoints. The client wanted an automated human detection system in place that can replace the security personnel and detect the humans in and out with their gender and other specific information. The client expected to design an IoT solution to monitor person entry at the gate(s) with specifics such as gender, in-counts, out-counts, and related information.
+
+Solution For AI ML and IoT driven Entry Management
+
+An AI ML and IoT -driven automated system was designed and implemented to detect humans, monitor person entry at the gate(s) with specifics such as gender, in-counts, out-counts, and related information. Further, a dashboard was created for the decision-maker to live to monitor and controlling of their premises and centers.
+
+Blackcoffer delivered an IoT solution to monitor person entry at the gate(s) with specifics such as gender, in-counts, out-counts, and related information.
+
+Business Impact
+
+Increase safety of the residence, hostlers by 99%
+
+The risk was reduced by 98%
+
+A 40% increase in the hostelers was seen after the IoT driven system integration
+
+The utilization of the school facilities such as hostels, staff quarters, and the activity centers was an increase from 50% to 90%.
+
+The cases and unexpected incidents reduced by 90%
+
+Methodology
+
+A training data set shall be collected in a good amount to cover all possible scenarios.
+
+Design and implementation of the AI-IOT algorithm
+
+Training of the collected data set with the implemented AI-IOT algorithm
+
+Testing of the implemented AI-IOT algorithm
+
+Validation of the implemented AI-IOT algorithm
+
+Iterations and revisions in the AI-IOT algorithm to minimize the average loss of less than 1.0.
+
+Installation of the designed solution-software with the devices
+
+Deployment of the solution
+
+Technology used for AI ML and IoT
+
+Programming Language: Python
+
+Algorithm: CNN (convolution neural network)
+
+Framework: Tensorflow, pytorch
+
+Computing Power:
+
+GPU Nvidia 2060 minimum (6 GB)
+
+8 GB RAM Machine
+
+100+ GB Storage
+
+2+ Ghz
+
+Hardware for Deployment:
+
+Rasberry Pi 4b
+
+4 GB RAM
+
+Camera Module
+
+100+ GB Storage for processing
+
+WiFi
+
+PORTS
+
+Sound System

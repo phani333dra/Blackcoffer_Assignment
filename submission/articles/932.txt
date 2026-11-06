@@ -1,0 +1,27 @@
+Steps to Meta-Analysis
+
+Meta-analysis refers to a process of integration of the results of many studies to arrive at evidence synthesis. Meta-analysis is essentially systematic review; however, in addition to a narrative summary that is conducted in a systematic review, in the meta-analysis, the analysts also numerically pool the results of the studies and arrive at a summary estimate.
+
+Nine Steps to Meta-Analyses
+
+The following nine steps of meta-analysis. These nine steps are in general applicable to all meta-analyses.
+
+Frame a question (based on a theory)
+
+Run a search (on Pubmed/Medline, Google Scholar, other sources)
+
+Read the abstract and title of the individual papers.
+
+Abstract information from the selected set of final articles.
+
+Determine the quality of the information in these articles. This is done using a judgment of their internal validity but also using the GRADE criteria
+
+Determine the extent to which these articles are heterogeneous
+
+Estimate the summary effect size in the form of Odds Ratio and using both fixed and random effects models and construct a forest plot
+
+Determine the extent to which these articles have publication bias and run a funnel plot
+
+Conduct subgroup analyses and meta-regression to test if there are subsets of research that capture the summary effects
+
+For more detail, contact us at hello@blackcoffer.com or +91 9717367468.

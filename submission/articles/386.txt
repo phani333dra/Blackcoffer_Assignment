@@ -1,0 +1,481 @@
+Complete List of Education & Training AI Tools & AI Software
+
+1. AI Learning Management Systems (LMS)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Moodle AI
+
+AI-powered open-source learning management system.
+
+https://moodle.org
+
+Canvas LMS
+
+AI-enhanced online learning platform.
+
+https://www.instructure.com/canvas
+
+Blackboard Learn
+
+AI-powered digital learning management.
+
+https://www.blackboard.com
+
+D2L Brightspace
+
+AI personalizes learning experiences.
+
+https://www.d2l.com
+
+TalentLMS
+
+AI-enabled corporate training platform.
+
+https://www.talentlms.com
+
+Docebo
+
+AI-powered enterprise learning platform.
+
+https://www.docebo.com
+
+Cornerstone Learning
+
+AI-driven employee learning and development.
+
+https://www.cornerstoneondemand.com
+
+Absorb LMS
+
+AI automates training management.
+
+https://www.absorblms.com
+
+2. AI Personalized Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Khanmigo
+
+AI tutor powered by Khan Academy.
+
+https://www.khanacademy.org/khan-labs
+
+Century Tech
+
+AI personalizes student learning paths.
+
+https://www.century.tech
+
+Squirrel AI
+
+AI-driven adaptive learning platform.
+
+https://squirrelai.com
+
+DreamBox Learning
+
+AI personalizes mathematics education.
+
+https://www.dreambox.com
+
+Carnegie Learning
+
+AI-powered math and language learning.
+
+https://www.carnegielearning.com
+
+Knewton Alta
+
+AI adapts learning content to students.
+
+https://www.knewton.com
+
+3. AI Tutoring & Virtual Teaching Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI tutor for learning, explanations, and assignments.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for study support and writing.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for research and learning.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for learning and productivity.
+
+https://copilot.microsoft.com
+
+Quizlet Q-Chat
+
+AI-powered interactive study assistant.
+
+https://quizlet.com
+
+Socratic by Google
+
+AI homework help and concept explanations.
+
+https://socratic.org
+
+4. AI Content Creation & Course Development
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Canva Magic Studio
+
+AI creates educational presentations and graphics.
+
+https://www.canva.com
+
+Gamma
+
+AI generates presentations from text.
+
+https://gamma.app
+
+Tome
+
+AI creates interactive educational presentations.
+
+https://tome.app
+
+Synthesia
+
+AI creates training videos with avatars.
+
+https://www.synthesia.io
+
+HeyGen
+
+AI generates educational videos.
+
+https://www.heygen.com
+
+Beautiful.ai
+
+AI designs professional presentations.
+
+https://www.beautiful.ai
+
+5. AI Assessment & Exam Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Gradescope
+
+AI-assisted grading and assessment.
+
+https://www.gradescope.com
+
+Turnitin AI
+
+AI detects plagiarism and supports grading.
+
+https://www.turnitin.com
+
+ExamSoft
+
+AI-powered online examination platform.
+
+https://examsoft.com
+
+Questionmark
+
+AI automates assessments and testing.
+
+https://www.questionmark.com
+
+TAO Testing
+
+AI-enabled digital assessment platform.
+
+https://www.taotesting.com
+
+Proctorio
+
+AI-powered online exam proctoring.
+
+https://proctorio.com
+
+6. AI Language Learning & Communication
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Duolingo Max
+
+AI-powered personalized language learning.
+
+https://www.duolingo.com
+
+ELSA Speak
+
+AI improves English pronunciation.
+
+https://elsaspeak.com
+
+Speak
+
+AI conversational language tutor.
+
+https://speak.com
+
+Memrise AI
+
+AI-assisted language learning platform.
+
+https://www.memrise.com
+
+LingQ
+
+AI supports language reading and listening practice.
+
+https://www.lingq.com
+
+Busuu AI
+
+AI-powered language learning app.
+
+https://www.busuu.com
+
+7. AI Research & Academic Writing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Perplexity AI
+
+AI-powered academic research engine.
+
+https://www.perplexity.ai
+
+Elicit
+
+AI literature review and research assistant.
+
+https://elicit.com
+
+SciSpace
+
+AI explains research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers academic publications.
+
+https://www.researchrabbit.ai
+
+Connected Papers
+
+AI visualizes research paper relationships.
+
+https://www.connectedpapers.com
+
+8. AI Classroom Analytics & Administration
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered education dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven education analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered student performance analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven educational insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered learning analytics.
+
+https://www.sas.com
+
+DataRobot
+
+AI predicts student performance.
+
+https://www.datarobot.com
+
+9. AI Productivity & Collaboration
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Notion AI
+
+AI assists with notes and lesson planning.
+
+https://www.notion.so
+
+Grammarly
+
+AI improves writing and grammar.
+
+https://www.grammarly.com
+
+Otter.ai
+
+AI transcribes lectures and meetings.
+
+https://otter.ai
+
+Fireflies.ai
+
+AI records and summarizes online classes.
+
+https://fireflies.ai
+
+Zoom AI Companion
+
+AI summarizes online classes and meetings.
+
+https://www.zoom.com
+
+Google NotebookLM
+
+AI summarizes study materials and documents.
+
+https://notebooklm.google.com
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for education AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for educational applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for education analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for education forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for educational applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for education model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for educational analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for education datasets.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for education intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for education AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

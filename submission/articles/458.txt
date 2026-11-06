@@ -1,0 +1,501 @@
+Complete List of Telemedicine AI Tools & AI Software
+
+1. AI Telemedicine Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Teladoc Health AI
+
+AI-powered virtual healthcare and telemedicine platform.
+
+https://www.teladochealth.com
+
+Amwell Converge
+
+AI-enabled telehealth platform for virtual care.
+
+https://business.amwell.com
+
+Doxy.me
+
+AI-supported secure telemedicine platform.
+
+https://doxy.me
+
+HealthTap
+
+AI-powered virtual doctor consultations.
+
+https://www.healthtap.com
+
+MDLIVE
+
+AI-assisted online healthcare platform.
+
+https://www.mdlive.com
+
+Sesame Care
+
+AI-powered online healthcare marketplace.
+
+https://sesamecare.com
+
+2. AI Virtual Health Assistants & Symptom Checkers
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Ada Health
+
+AI symptom checker and health assessment.
+
+https://ada.com
+
+Buoy Health
+
+AI-powered health guidance platform.
+
+https://www.buoyhealth.com
+
+K Health AI
+
+AI-driven virtual primary care assistant.
+
+https://khealth.com
+
+Babylon AI
+
+AI virtual healthcare assistant.
+
+https://www.babylonhealth.com
+
+Infermedica
+
+AI-powered symptom assessment platform.
+
+https://infermedica.com
+
+Sensely
+
+AI virtual nurse and patient assistant.
+
+https://www.sensely.com
+
+3. AI Clinical Documentation & Medical Scribes
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Nuance Dragon Medical One
+
+AI speech recognition for clinicians.
+
+https://www.nuance.com
+
+Suki AI
+
+AI medical voice assistant and documentation tool.
+
+https://www.suki.ai
+
+DeepScribe
+
+AI generates clinical notes automatically.
+
+https://www.deepscribe.ai
+
+Abridge
+
+AI converts patient conversations into clinical notes.
+
+https://www.abridge.com
+
+Nabla Copilot
+
+AI medical scribe for healthcare professionals.
+
+https://www.nabla.com
+
+Augmedix
+
+AI-assisted medical documentation platform.
+
+https://www.augmedix.com
+
+4. AI Remote Patient Monitoring (RPM)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Biofourmis
+
+AI monitors patients remotely and predicts health risks.
+
+https://www.biofourmis.com
+
+Current Health
+
+AI-powered remote patient monitoring platform.
+
+https://www.currenthealth.com
+
+CareSimple
+
+AI-enabled chronic care monitoring.
+
+https://caresimple.com
+
+Validic
+
+AI platform for integrating wearable health data.
+
+https://validic.com
+
+Health Recovery Solutions
+
+AI remote patient engagement platform.
+
+https://www.healthrecoverysolutions.com
+
+Withings Health Solutions
+
+AI-powered remote health monitoring devices.
+
+https://www.withings.com
+
+5. AI Medical Imaging & Diagnostics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aidoc
+
+AI analyzes medical imaging for diagnosis.
+
+https://www.aidoc.com
+
+Qure.ai
+
+AI-powered radiology image interpretation.
+
+https://www.qure.ai
+
+Viz.ai
+
+AI detects stroke and other critical conditions.
+
+https://www.viz.ai
+
+Lunit INSIGHT
+
+AI platform for cancer screening.
+
+https://www.lunit.io
+
+Gleamer
+
+AI-assisted radiology diagnosis.
+
+https://www.gleamer.ai
+
+Subtle Medical
+
+AI improves MRI and CT scan quality.
+
+https://subtlemedical.com
+
+6. AI Patient Engagement & Communication
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Salesforce Health Cloud Einstein
+
+AI-powered patient engagement platform.
+
+https://www.salesforce.com
+
+IBM watsonx Assistant
+
+AI healthcare chatbot for patient support.
+
+https://www.ibm.com/watsonx
+
+Zendesk AI
+
+AI automates patient service requests.
+
+https://www.zendesk.com
+
+Intercom Fin AI
+
+AI chatbot for healthcare communication.
+
+https://www.intercom.com
+
+Amelia
+
+AI virtual healthcare assistant.
+
+https://amelia.ai
+
+Microsoft Copilot
+
+AI assistant for documentation and communication.
+
+https://copilot.microsoft.com
+
+7. AI Electronic Health Records (EHR)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Epic AI
+
+AI-powered EHR and telemedicine integration.
+
+https://www.epic.com
+
+Oracle Health AI
+
+AI-enabled healthcare information platform.
+
+https://www.oracle.com/health
+
+eClinicalWorks AI
+
+AI automates electronic medical records.
+
+https://www.eclinicalworks.com
+
+MEDITECH Expanse AI
+
+AI-powered hospital information system.
+
+https://www.meditech.com
+
+athenahealth AI
+
+AI-assisted EHR and practice management.
+
+https://www.athenahealth.com
+
+NextGen Healthcare AI
+
+AI-powered ambulatory healthcare platform.
+
+https://www.nextgen.com
+
+8. AI Healthcare Analytics & Business Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered healthcare dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven healthcare analytics platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered healthcare analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven healthcare intelligence.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive healthcare analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for healthcare data analysis.
+
+https://www.knime.com
+
+9. AI Medical Research & Knowledge Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Elicit
+
+AI literature review for healthcare research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains medical research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers healthcare research publications.
+
+https://www.researchrabbit.ai
+
+Semantic Scholar AI
+
+AI-powered scientific literature search.
+
+https://www.semanticscholar.org
+
+Connected Papers
+
+AI visualizes research relationships.
+
+https://www.connectedpapers.com
+
+10. AI Productivity & Documentation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for telemedicine documentation and research.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for clinical writing and reports.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for healthcare research and analysis.
+
+https://gemini.google.com
+
+Perplexity AI
+
+AI-powered medical research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing medical documents.
+
+https://notebooklm.google.com
+
+Microsoft Copilot
+
+AI assistant for productivity and document creation.
+
+https://copilot.microsoft.com
+
+11. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for telemedicine AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for healthcare AI.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for healthcare analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for predictive healthcare models.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for telemedicine applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for healthcare AI development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for telemedicine analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for healthcare datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

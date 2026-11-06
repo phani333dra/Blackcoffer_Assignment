@@ -1,0 +1,81 @@
+Prediction Model for Online Casino
+
+Client Background
+
+Client: A leading IT firm in the USA
+
+Industry Type: Gambling
+
+Services: Online casinos and Gambling
+
+Organization Size: 100+
+
+Project Objective
+
+Trying to predict the popular Online Crypto Casino game crash on Roobet.com.
+
+Project Description of Online Casino
+
+Predict multiplier values of a popular game “crash” on roobet.com. Each turn, multiple users bet money on the rocket. Rocket starts from 0x and can go up to a very high multiplier, but can also instantly crash to 0x on any round. The task is to find a way to predict what the next multiplier values might be and automate a betting process.
+
+Data can be extracted from roobet.com/crash by using any hash of a certain rocket launch. To get all data, hash of any launch can be used to get the multiplier value of the previous hash. And since the first hash of the rocket is provided by roobet, hashes and consequently multiplier count of all rocket launches can be extracted.
+
+An already existing dataset containing 1 Million+ points, that shows a crash history of all launches with a minimum crash value of 1.00x was provided.
+
+Our solution
+
+Multiple tasks were performed when trying to get an optimal way of predicting results.
+
+Using the existing dataset, a deep learning model (LSTM) was made in order to find if there is any pattern that could be used to predict future values. However, the model fails to find any meaningful pattern even though a very large dataset.
+
+An external dataset was taken later on and analysis/models were made on that. Although the second model works well, the website is itself biased so data needed for predicting values can only be guessed and cannot be taken from anywhere else.
+
+Project Deliverables
+
+Generated multiple machine/deep learning models on a given dataset.
+
+Used external dataset to show biasness of a given website.
+
+Tried to automate using OCR but the automation result is very unreliable as the website uses canvas to draw dark text animations on a dark background (also, ocr is never completely accurate).
+
+Documentation/reports related to given tasks.
+
+Tools used for Online Casino
+
+Python – for analyzing data and performing machine/deep learning.
+
+Looked into the javascript code of the website and used some for automation with python.
+
+Google’s OCR tool.
+
+Leon Bet Portugal
+
+Beautifulsoup for scraping.
+
+Selenium for automation.
+
+Language/ Techniques used
+
+Python for coding.
+
+Javascript and google’s OCR tool with python.
+
+Models used for Online Casino
+
+Considering deep learning model based on LSTM, we started with LSTM
+
+(Training & testing data)
+
+The result however was not good as a model couldn’t find any meaningful pattern.
+
+Models on the newer dataset
+
+Multiple Linear Regression
+
+Random Forest
+
+XGBoost
+
+Artificial Neural Networks
+
+Predictions

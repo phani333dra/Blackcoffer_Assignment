@@ -1,0 +1,57 @@
+Online Barometer Dashboard for Smart Schools System
+
+Client Background
+
+Client: SEEDS India
+
+Industry Type: Think Tank
+
+Services: Works towards helping society in various ways.
+
+Organization Background: Setup in 1994, Organization in working towards protecting the lives and livelihoods of people exposed to disasters.
+
+Challenges
+
+SEEDS wanted a website to enable the schools they work with to communicate with their students, teachers, and students. They were building a novel program of personalized school safety. They needed to coordinate engineers and architects in evaluating disaster preparedness and estimating the risk faced by children, teachers, and parents.
+
+Solution
+
+SEEDS partnered with Blackcoffer to create a website with:
+
+Public pages open to all to communicate:
+
+Updates on what has been done
+
+What’s currently happening in the projects.
+
+What is planned to be done by SEEDS.
+
+Scheduled and upcoming events.
+
+Metrics of schools safety
+
+Impact on metrics of current & planned projects.
+
+Private (login protected) pages that enabled members to;
+
+A dashboard of progress with multiple metrics.
+
+Compare the school’s safety scores and help discuss what can be done to improve the metrics
+
+Business Impact
+
+The website is now a real-time safety rating barometer. It helps
+
+schools key management or principal to discover how they are performing in their various safety measures at the school.
+
+enable discussions in a channel between schools and program managers to brainstorm and come up with ideas faster.
+
+the school’s communicating activity to parents, children and the safety score program managers.
+
+program managers to evaluate the school’s activity and plan further improvements.
+
+key stakeholders compare schools performance across regions, states, and countries.
+
+Technologies Used: PHP, Javascript, CSS, HTML, MySql, CMS-WordPress
+
+Models Used: Descriptive Analytics, Scoring Models, Forecasting and Timeseries Models

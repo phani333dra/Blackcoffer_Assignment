@@ -1,0 +1,521 @@
+Complete List of Fishing & Aquaculture AI Tools & AI Software
+
+1. AI Fish Farm Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Innovasea
+
+AI-powered platform for monitoring fish health, feeding, and farm performance.
+
+https://www.innovasea.com
+
+eFishery
+
+AI automates fish and shrimp feeding to improve growth and reduce feed waste.
+
+https://efishery.com
+
+Aquabyte
+
+Uses computer vision and AI to monitor fish size, health, and biomass.
+
+https://aquabyte.ai
+
+ReelData AI
+
+AI platform for fish behavior analysis and feeding optimization.
+
+https://reeldata.ai
+
+Observe Technologies
+
+AI software for aquaculture farm management and operational insights.
+
+https://www.observe.farm
+
+2. AI Smart Feeding Systems
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+eFishery Smart Feeder
+
+AI-controlled automatic feeder for fish and shrimp farms.
+
+https://efishery.com
+
+AKVA Smart Feeding
+
+AI optimizes feeding schedules using underwater sensors and cameras.
+
+https://www.akvagroup.com
+
+Innovasea Feeding Intelligence
+
+AI predicts optimal feeding times and quantities.
+
+https://www.innovasea.com
+
+Tidal Smart Feeding
+
+AI-based feeding automation for commercial aquaculture.
+
+https://www.tidalaquaculture.com
+
+CageEye
+
+AI monitors fish behavior to improve feeding efficiency.
+
+https://www.cageeye.com
+
+3. AI Fish Health & Disease Detection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aquabyte Health AI
+
+AI detects fish diseases, sea lice, and growth patterns.
+
+https://aquabyte.ai
+
+ReelData Vision AI
+
+Uses AI cameras to identify fish health issues in real time.
+
+https://reeldata.ai
+
+Fishency Innovation
+
+AI analyzes fish welfare and detects abnormal behavior.
+
+https://fishency.com
+
+AquaCloud
+
+AI predicts disease outbreaks using environmental and biological data.
+
+https://aquacloud.ai
+
+BioFishency AI
+
+AI-powered water treatment and fish health monitoring platform.
+
+https://biofishency.com
+
+4. AI Water Quality Monitoring
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Xylem Vue
+
+AI monitors dissolved oxygen, pH, and water quality parameters.
+
+https://www.xylem.com
+
+YSI AquaManager
+
+AI-supported water quality monitoring for aquaculture systems.
+
+https://www.ysi.com
+
+AquaEasy
+
+AI predicts water quality changes and farm performance.
+
+https://www.aquaeasy.com
+
+Libelium Smart Water
+
+AI-enabled IoT platform for real-time water monitoring.
+
+https://www.libelium.com
+
+AquaManager AI
+
+AI software for monitoring pond and tank environments.
+
+https://www.aquamanager.com
+
+5. AI Underwater Imaging & Computer Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aquabyte Vision
+
+AI computer vision platform for fish measurement and monitoring.
+
+https://aquabyte.ai
+
+OpenCV
+
+Computer vision library for underwater image processing.
+
+https://opencv.org
+
+Ultralytics YOLO
+
+AI object detection model for fish counting and species identification.
+
+https://ultralytics.com
+
+Roboflow
+
+AI platform for training fish detection and classification models.
+
+https://roboflow.com
+
+NVIDIA Metropolis
+
+AI vision platform for underwater monitoring and analytics.
+
+https://www.nvidia.com/metropolis
+
+6. AI Fisheries Monitoring & Stock Assessment
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Global Fishing Watch
+
+AI analyzes vessel activity to monitor global fishing operations.
+
+https://globalfishingwatch.org
+
+OceanMind
+
+AI detects illegal, unreported, and unregulated fishing activities.
+
+https://oceanmind.global
+
+Skylight
+
+AI satellite monitoring platform for fisheries compliance.
+
+https://skytruth.org/skylight
+
+Picterra
+
+AI detects fishing activities from satellite imagery.
+
+https://picterra.ch
+
+Planet AI
+
+AI-powered satellite monitoring for marine environments.
+
+https://www.planet.com
+
+7. AI Marine Robotics & Autonomous Systems
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Saildrone
+
+AI-powered autonomous ocean monitoring vehicles.
+
+https://www.saildrone.com
+
+Kongsberg Maritime AI
+
+AI solutions for autonomous marine operations.
+
+https://www.kongsberg.com
+
+Blue Ocean Robotics
+
+AI-powered robotic inspection for aquaculture facilities.
+
+https://www.blue-ocean-robotics.com
+
+Ocean Infinity
+
+AI-enabled autonomous marine data collection platform.
+
+https://oceaninfinity.com
+
+Greensea IQ
+
+AI software for underwater robotic navigation and inspection.
+
+https://greensea.com
+
+8. AI Weather & Ocean Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Windy AI
+
+AI-assisted weather forecasting for fishing operations.
+
+https://www.windy.com
+
+Tomorrow.io
+
+AI-powered marine weather prediction platform.
+
+https://www.tomorrow.io
+
+Spire Maritime
+
+AI analyzes satellite and weather data for maritime operations.
+
+https://spire.com
+
+Ocean Data Platform
+
+AI-driven oceanographic data analysis and forecasting.
+
+https://oceandataplatform.com
+
+IBM Environmental Intelligence
+
+AI platform for weather and climate risk forecasting.
+
+https://www.ibm.com/products/environmental-intelligence-suite
+
+9. AI Sustainability & Traceability
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Where Food Comes From
+
+AI-enabled seafood traceability and certification platform.
+
+https://www.wherefoodcomesfrom.com
+
+Provenance
+
+AI-powered supply chain transparency for seafood products.
+
+https://www.provenance.org
+
+Wholechain
+
+AI and blockchain platform for seafood traceability.
+
+https://wholechain.com
+
+OpenSC
+
+AI platform for sustainable seafood supply chain monitoring.
+
+https://opensc.org
+
+Fishcoin
+
+AI-supported blockchain platform for fisheries traceability.
+
+https://fishcoin.co
+
+10. AI Data Analytics & Decision Support
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+DataRobot
+
+AI platform for predictive aquaculture analytics.
+
+https://www.datarobot.com
+
+H2O.ai
+
+AutoML platform for fisheries and aquaculture datasets.
+
+https://h2o.ai
+
+KNIME Analytics Platform
+
+Visual AI workflows for aquaculture data analysis.
+
+https://www.knime.com
+
+Dataiku
+
+AI platform for predictive modeling and operational insights.
+
+https://www.dataiku.com
+
+RapidMiner
+
+AI-powered analytics platform for fisheries management.
+
+https://altair.com/rapidminer
+
+11. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for aquaculture research, documentation, and reporting.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and scientific research.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for marine research and environmental analysis.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and operational analysis.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered research engine for fisheries and aquaculture.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing aquaculture research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for scientific research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for reading and summarizing scientific papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering fisheries and aquaculture research.
+
+https://www.researchrabbit.ai
+
+12. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for fisheries AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for aquaculture research and computer vision.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for predictive fisheries analytics.
+
+https://scikit-learn.org
+
+OpenCV
+
+AI computer vision library for underwater image processing.
+
+https://opencv.org
+
+Google Vertex AI
+
+Cloud AI platform for fisheries machine learning projects.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+Cloud platform for building and deploying AI models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS machine learning platform for aquaculture analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+Unified AI platform for processing large fisheries datasets.
+
+https://www.databricks.com
+
+Snowflake Cortex AI
+
+AI-powered analytics for aquaculture and marine data.
+
+https://www.snowflake.com
+
+Palantir Foundry
+
+AI platform for integrating fisheries and aquaculture data.
+
+https://www.palantir.com/platforms/foundry
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

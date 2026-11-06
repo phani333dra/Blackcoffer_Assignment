@@ -1,0 +1,493 @@
+Complete List of Railway Engineering AI Tools & AI Software
+
+1. AI Railway Design & Infrastructure Engineering
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Bentley OpenRail
+
+AI-powered railway design and infrastructure modeling.
+
+https://www.bentley.com/software/openrail
+
+Autodesk Civil 3D
+
+AI-assisted railway corridor and track design.
+
+https://www.autodesk.com/products/civil-3d
+
+OpenRail Designer
+
+AI-enabled rail alignment and track engineering software.
+
+https://www.bentley.com
+
+Siemens Railigent X
+
+AI platform for railway infrastructure optimization.
+
+https://www.mobility.siemens.com
+
+Trimble Quadri
+
+AI-powered infrastructure design and collaboration platform.
+
+https://geospatial.trimble.com
+
+Dassault 3DEXPERIENCE
+
+AI-assisted railway engineering and lifecycle management.
+
+https://www.3ds.com
+
+2. AI Train Operations & Traffic Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Railigent X
+
+AI optimizes train operations and scheduling.
+
+https://www.mobility.siemens.com
+
+Alstom HealthHub
+
+AI-powered railway fleet and operations management.
+
+https://www.alstom.com
+
+Hitachi Rail Lumada
+
+AI platform for smart rail operations and analytics.
+
+https://www.hitachirail.com
+
+Wabtec RailConnect 360
+
+AI-driven train performance monitoring platform.
+
+https://www.wabteccorp.com
+
+Thales TMS
+
+AI-assisted railway traffic management system.
+
+https://www.thalesgroup.com
+
+Huawei Smart Railway
+
+AI-powered intelligent railway operation platform.
+
+https://www.huawei.com
+
+3. AI Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Senseye
+
+AI predicts failures in railway assets.
+
+https://senseye.io
+
+IBM Maximo Application Suite
+
+AI-powered railway asset management platform.
+
+https://www.ibm.com/products/maximo
+
+GE Digital APM
+
+AI platform for railway asset performance management.
+
+https://www.gevernova.com/software
+
+AVEVA Predictive Analytics
+
+AI monitors railway equipment health.
+
+https://www.aveva.com
+
+ABB Ability Asset Manager
+
+AI-powered railway asset monitoring platform.
+
+https://global.abb/ability
+
+SparkCognition
+
+AI-driven predictive maintenance for railway systems.
+
+https://sparkcognition.com
+
+4. AI Signaling & Train Control
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Trainguard MT
+
+AI-powered CBTC and train control system.
+
+https://www.mobility.siemens.com
+
+Alstom Urbalis
+
+AI-enabled communications-based train control platform.
+
+https://www.alstom.com
+
+Hitachi Rail Digital Signalling
+
+AI-assisted railway signaling solution.
+
+https://www.hitachirail.com
+
+Thales SelTrac
+
+AI-powered automatic train control system.
+
+https://www.thalesgroup.com
+
+Wabtec Interoperable Train Control
+
+AI-driven railway signaling platform.
+
+https://www.wabteccorp.com
+
+CAF AURIGA
+
+AI-powered signaling and railway automation solution.
+
+https://www.caf.net
+
+5. AI Digital Twins & Smart Railways
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Bentley iTwin
+
+AI-powered digital twin for railway infrastructure.
+
+https://www.bentley.com/software/itwin
+
+NVIDIA Omniverse
+
+AI platform for railway digital twins and simulation.
+
+https://www.nvidia.com/omniverse
+
+Azure Digital Twins
+
+AI-enabled railway infrastructure modeling.
+
+https://azure.microsoft.com/products/digital-twins
+
+AWS IoT TwinMaker
+
+AI-powered digital twin platform for railway assets.
+
+https://aws.amazon.com/iot-twinmaker
+
+Siemens Digital Twin
+
+AI-assisted railway engineering simulation.
+
+https://www.siemens.com
+
+Dassault 3DEXPERIENCE
+
+AI-powered lifecycle management and digital twins.
+
+https://www.3ds.com
+
+6. AI Inspection, Drones & Computer Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+DJI Terra
+
+AI-powered railway inspection and mapping.
+
+https://enterprise.dji.com/dji-terra
+
+DroneDeploy
+
+AI-assisted railway corridor inspection.
+
+https://www.dronedeploy.com
+
+Pix4D
+
+AI-powered drone mapping for railway infrastructure.
+
+https://www.pix4d.com
+
+Rail Vision
+
+AI computer vision platform for obstacle detection.
+
+https://www.railvision.io
+
+OpenSpace.ai
+
+AI-powered construction and railway site documentation.
+
+https://www.openspace.ai
+
+viAct
+
+AI-based safety monitoring for railway construction.
+
+https://www.viact.ai
+
+7. AI Railway Cybersecurity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Security Copilot
+
+AI assistant for railway cybersecurity operations.
+
+https://www.microsoft.com/security
+
+Darktrace
+
+AI-powered cyber threat detection for railway systems.
+
+https://www.darktrace.com
+
+CrowdStrike Falcon
+
+AI endpoint protection for railway infrastructure.
+
+https://www.crowdstrike.com
+
+SentinelOne
+
+AI-driven cybersecurity platform for railway networks.
+
+https://www.sentinelone.com
+
+Nozomi Networks
+
+AI monitors railway OT and industrial control systems.
+
+https://www.nozominetworks.com
+
+IBM QRadar Suite
+
+AI-powered SIEM for railway cybersecurity.
+
+https://www.ibm.com/qradar
+
+8. AI Passenger Analytics & Smart Stations
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cisco Spaces
+
+AI-powered passenger flow and station analytics.
+
+https://spaces.cisco.com
+
+Huawei Smart Station
+
+AI platform for intelligent railway station management.
+
+https://www.huawei.com
+
+NEC Smart Transport
+
+AI-powered passenger analytics and security.
+
+https://www.nec.com
+
+Axis Communications AI
+
+AI-based video surveillance for railway stations.
+
+https://www.axis.com
+
+BriefCam
+
+AI-powered video analytics for railway security.
+
+https://www.briefcam.com
+
+Genetec Security Center
+
+AI-assisted station monitoring and access control.
+
+https://www.genetec.com
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for railway engineering research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and railway analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for railway engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for coding, reports, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered railway engineering research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing railway research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for railway engineering.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding railway publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering railway engineering papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for railway AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for railway analytics.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for railway data analysis.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for railway engineering.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for predictive railway models.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for railway data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics platform.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for railway engineering applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for railway AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for building railway AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

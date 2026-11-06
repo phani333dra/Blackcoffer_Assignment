@@ -1,0 +1,493 @@
+Complete List of Information Technology & Software AI Tools & AI Software
+
+1. AI Coding Assistants & Software Development
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+GitHub Copilot
+
+AI pair programmer for writing code.
+
+https://github.com/features/copilot
+
+Amazon Q Developer
+
+AI coding assistant for AWS development.
+
+https://aws.amazon.com/q
+
+Google Gemini Code Assist
+
+AI assistant for software development.
+
+https://cloud.google.com/products/gemini/code-assist
+
+Tabnine
+
+AI code completion and generation.
+
+https://www.tabnine.com
+
+Codeium
+
+AI-powered code generation and completion.
+
+https://codeium.com
+
+Sourcegraph Cody
+
+AI assistant for large codebases.
+
+https://sourcegraph.com/cody
+
+Replit AI
+
+AI coding and application development.
+
+https://replit.com
+
+Continue.dev
+
+Open-source AI coding assistant.
+
+https://continue.dev
+
+2. AI DevOps & MLOps
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+GitLab Duo
+
+AI-powered DevOps assistant.
+
+https://about.gitlab.com
+
+Harness AI
+
+AI automates CI/CD and deployments.
+
+https://www.harness.io
+
+JFrog ML
+
+AI-powered DevSecOps platform.
+
+https://jfrog.com
+
+MLflow
+
+AI model lifecycle management.
+
+https://mlflow.org
+
+Kubeflow
+
+AI workflow orchestration on Kubernetes.
+
+https://www.kubeflow.org
+
+Weights & Biases
+
+AI experiment tracking and MLOps.
+
+https://wandb.ai
+
+3. AI Cloud Computing Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Azure AI
+
+AI services for cloud applications.
+
+https://azure.microsoft.com
+
+Google Vertex AI
+
+AI platform for model development.
+
+https://cloud.google.com/vertex-ai
+
+Amazon SageMaker
+
+AWS AI and machine learning platform.
+
+https://aws.amazon.com/sagemaker
+
+IBM watsonx
+
+Enterprise AI platform.
+
+https://www.ibm.com/watsonx
+
+Oracle AI Services
+
+AI-powered cloud applications.
+
+https://www.oracle.com/artificial-intelligence
+
+Alibaba Cloud AI
+
+AI solutions for enterprise cloud.
+
+https://www.alibabacloud.com
+
+4. AI Cybersecurity Tools
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Security Copilot
+
+AI-powered cyber defense assistant.
+
+https://www.microsoft.com/security
+
+CrowdStrike Charlotte AI
+
+AI for threat detection and response.
+
+https://www.crowdstrike.com
+
+Darktrace
+
+AI-powered autonomous cybersecurity.
+
+https://www.darktrace.com
+
+SentinelOne Purple AI
+
+AI-driven endpoint security.
+
+https://www.sentinelone.com
+
+Palo Alto Cortex XSIAM
+
+AI-powered security operations.
+
+https://www.paloaltonetworks.com
+
+Splunk AI Assistant
+
+AI for security monitoring and analytics.
+
+https://www.splunk.com
+
+5. AI Testing & Quality Assurance
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Testim
+
+AI-powered automated software testing.
+
+https://www.testim.io
+
+Functionize
+
+AI automates software testing.
+
+https://www.functionize.com
+
+Applitools
+
+AI visual testing platform.
+
+https://applitools.com
+
+Mabl
+
+AI-powered test automation.
+
+https://www.mabl.com
+
+ACCELQ
+
+AI-driven codeless test automation.
+
+https://www.accelq.com
+
+Tricentis Tosca AI
+
+AI enhances enterprise software testing.
+
+https://www.tricentis.com
+
+6. AI Data Analytics & Business Intelligence
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered business analytics.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven data insights.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered business intelligence.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-based analytics.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI analytics platform.
+
+https://www.sas.com
+
+DataRobot
+
+AI-powered predictive analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for data science.
+
+https://www.knime.com
+
+Alteryx AI Platform
+
+AI-powered analytics automation.
+
+https://www.alteryx.com
+
+7. AI Database & Data Engineering
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Snowflake Cortex AI
+
+AI-powered cloud data platform.
+
+https://www.snowflake.com
+
+Databricks AI
+
+AI platform for big data analytics.
+
+https://www.databricks.com
+
+MongoDB Atlas AI
+
+AI-enhanced cloud database.
+
+https://www.mongodb.com
+
+Google BigQuery ML
+
+AI directly within SQL analytics.
+
+https://cloud.google.com/bigquery
+
+Dataiku
+
+AI-powered enterprise data science.
+
+https://www.dataiku.com
+
+Apache Airflow
+
+AI-ready workflow orchestration platform.
+
+https://airflow.apache.org
+
+8. AI Productivity & Collaboration
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for coding, documentation, and research.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for IT productivity.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI productivity across Microsoft 365.
+
+https://copilot.microsoft.com
+
+Notion AI
+
+AI-powered documentation and knowledge management.
+
+https://www.notion.so
+
+ClickUp AI
+
+AI project and task management.
+
+https://clickup.com
+
+Grammarly AI
+
+AI writing and documentation assistant.
+
+https://www.grammarly.com
+
+Canva Magic Studio
+
+AI-powered technical presentations and designs.
+
+https://www.canva.com
+
+9. AI Automation & RPA
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+UiPath AI Center
+
+AI-powered robotic process automation.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-driven enterprise automation.
+
+https://www.automationanywhere.com
+
+Microsoft Power Automate AI
+
+AI workflow automation platform.
+
+https://powerautomate.microsoft.com
+
+ABBYY Vantage
+
+AI document processing automation.
+
+https://www.abbyy.com
+
+Rossum
+
+AI automates document data extraction.
+
+https://rossum.ai
+
+WorkFusion
+
+AI-powered intelligent automation.
+
+https://www.workfusion.com
+
+10. AI Machine Learning Frameworks
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source machine learning framework.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning and AI development framework.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for Python.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Enterprise AutoML platform.
+
+https://h2o.ai
+
+Keras
+
+High-level deep learning API.
+
+https://keras.io
+
+Hugging Face
+
+Open-source AI models and NLP platform.
+
+https://huggingface.co
+
+LangChain
+
+Framework for building LLM applications.
+
+https://www.langchain.com
+
+LlamaIndex
+
+AI framework for retrieval-augmented generation (RAG).
+
+https://www.llamaindex.ai
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

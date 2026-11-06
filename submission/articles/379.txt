@@ -1,0 +1,541 @@
+Complete List of Chemicals & Petrochemicals AI Tools & AI Software
+
+1. AI Process Simulation & Chemical Engineering
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aspen Plus
+
+AI-assisted process simulation for chemical plants.
+
+https://www.aspentech.com
+
+Aspen HYSYS
+
+AI-powered simulation for oil, gas, and petrochemical processes.
+
+https://www.aspentech.com
+
+AVEVA Process Simulation
+
+AI platform for chemical process design and optimization.
+
+https://www.aveva.com
+
+Honeywell UniSim Design
+
+AI software for process modeling and simulation.
+
+https://www.honeywell.com
+
+DWSIM
+
+Open-source AI-compatible chemical process simulator.
+
+https://dwsim.org
+
+gPROMS
+
+AI-driven process modeling and optimization platform.
+
+https://www.psenterprise.com
+
+CHEMCAD
+
+AI-assisted steady-state and dynamic process simulation.
+
+https://www.chemstations.com
+
+ProSimPlus
+
+AI-enabled process simulation software.
+
+https://www.prosim.net
+
+COMSOL Multiphysics
+
+AI-supported chemical and multiphysics simulation.
+
+https://www.comsol.com
+
+MATLAB Simulink
+
+AI-based modeling and control system simulation.
+
+https://www.mathworks.com
+
+2. AI Process Optimization & Digital Twins
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aspen Hybrid Models
+
+AI combines machine learning with process simulation.
+
+https://www.aspentech.com
+
+Aspen AIoT Hub
+
+AI platform for industrial process optimization.
+
+https://www.aspentech.com
+
+AVEVA PI System
+
+AI-powered real-time plant monitoring and analytics.
+
+https://www.aveva.com
+
+Siemens Xcelerator
+
+AI digital twin platform for chemical plants.
+
+https://www.siemens.com/xcelerator
+
+NVIDIA Omniverse
+
+AI platform for industrial digital twins.
+
+https://www.nvidia.com/omniverse
+
+Bentley iTwin
+
+AI-powered digital twin platform for process industries.
+
+https://www.bentley.com
+
+Honeywell Forge
+
+AI software for plant performance optimization.
+
+https://www.honeywell.com
+
+3. AI Manufacturing & Plant Operations
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter
+
+AI-powered manufacturing execution system (MES).
+
+https://www.siemens.com/opcenter
+
+ABB Ability
+
+AI platform for chemical plant automation.
+
+https://global.abb
+
+Emerson DeltaV
+
+AI-assisted distributed control system (DCS).
+
+https://www.emerson.com
+
+Yokogawa OpreX
+
+AI platform for plant operations and automation.
+
+https://www.yokogawa.com
+
+Schneider EcoStruxure
+
+AI-enabled industrial automation platform.
+
+https://www.se.com
+
+Rockwell FactoryTalk
+
+AI software for production monitoring and optimization.
+
+https://www.rockwellautomation.com
+
+SAP Digital Manufacturing
+
+AI-powered manufacturing management platform.
+
+https://www.sap.com
+
+4. AI Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts equipment failures and maintenance schedules.
+
+https://www.ibm.com/maximo
+
+Aspen Mtell
+
+AI platform for predictive equipment maintenance.
+
+https://www.aspentech.com
+
+Siemens Senseye
+
+AI-powered predictive maintenance software.
+
+https://senseye.io
+
+C3 AI Reliability
+
+AI predicts failures in industrial assets.
+
+https://c3.ai
+
+SparkCognition
+
+AI monitors equipment health and predicts faults.
+
+https://sparkcognition.com
+
+Falkonry
+
+AI detects anomalies in industrial processes.
+
+https://falkonry.com
+
+Uptake
+
+AI platform for equipment performance optimization.
+
+https://www.uptake.com
+
+5. AI Quality Control & Computer Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cognex VisionPro
+
+AI-powered inspection for chemical manufacturing.
+
+https://www.cognex.com
+
+LandingLens
+
+AI visual inspection platform for product quality.
+
+https://landing.ai
+
+MVTec HALCON
+
+AI machine vision software for industrial inspection.
+
+https://www.mvtec.com
+
+Keyence Vision Systems
+
+AI-powered quality inspection platform.
+
+https://www.keyence.com
+
+Roboflow
+
+AI platform for training industrial vision models.
+
+https://roboflow.com
+
+OpenCV
+
+Computer vision library for industrial AI applications.
+
+https://opencv.org
+
+Ultralytics YOLO
+
+AI object detection for plant inspection and safety.
+
+https://ultralytics.com
+
+6. AI Laboratory & Chemical Research
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Benchling
+
+AI-powered laboratory and R&D management platform.
+
+https://www.benchling.com
+
+Dotmatics
+
+AI software for scientific data and research management.
+
+https://www.dotmatics.com
+
+CDD Vault
+
+AI-assisted chemical and pharmaceutical data management.
+
+https://www.collaborativedrug.com
+
+Schrödinger
+
+AI platform for molecular modeling and materials discovery.
+
+https://www.schrodinger.com
+
+BIOVIA Pipeline Pilot
+
+AI workflow automation for chemical research.
+
+https://www.3ds.com/products/biovia
+
+Materials Studio
+
+AI-powered molecular simulation platform.
+
+https://www.3ds.com/products/biovia/materials-studio
+
+ChemDraw AI
+
+AI-assisted chemical structure drawing and analysis.
+
+https://revvitysignals.com
+
+7. AI Supply Chain & Inventory
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+SAP Integrated Business Planning
+
+AI-powered demand forecasting and supply planning.
+
+https://www.sap.com
+
+Oracle SCM Cloud
+
+AI platform for supply chain optimization.
+
+https://www.oracle.com/scm
+
+Blue Yonder
+
+AI-driven inventory and logistics management.
+
+https://blueyonder.com
+
+Kinaxis RapidResponse
+
+AI platform for end-to-end supply chain planning.
+
+https://www.kinaxis.com
+
+o9 Solutions
+
+AI-powered production and inventory optimization.
+
+https://o9solutions.com
+
+8. AI Sustainability & ESG
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Watershed
+
+AI-powered carbon accounting and ESG reporting.
+
+https://watershed.com
+
+Persefoni
+
+AI software for sustainability reporting.
+
+https://persefoni.com
+
+Sphera
+
+AI platform for environmental compliance and risk management.
+
+https://sphera.com
+
+Ecochain
+
+AI-powered lifecycle and carbon footprint analysis.
+
+https://ecochain.com
+
+One Click LCA
+
+AI software for lifecycle sustainability assessment.
+
+https://oneclicklca.com
+
+GHGSat
+
+AI satellite monitoring for industrial greenhouse gas emissions.
+
+https://www.ghgsat.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for chemical engineering research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and scientific analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for chemical engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered research engine for chemical innovations.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing chemical research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for chemistry research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding scientific papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering chemistry research publications.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for chemical AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for chemical process AI.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for chemical analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for chemical process optimization.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AI platform for predictive chemical analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+Visual AI workflows for chemical data analysis.
+
+https://www.knime.com
+
+Google Vertex AI
+
+Cloud AI platform for chemical machine learning.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for developing industrial AI models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for chemical analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for chemical datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

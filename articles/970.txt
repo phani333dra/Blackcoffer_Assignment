@@ -1,0 +1,75 @@
+Turning the Professional Networking Data into Actionable Insights
+
+Client Background
+
+Client: A leading business school in the USA
+
+Industry Type: Research & Academia
+
+Services: Higher Studies, Research, R&D
+
+Organization Size: 10,000+
+
+Challenges for turning Professional Networking Data into Actionable Insights
+
+The client had envisioned collecting, process, transform, manage, and analyze the professional networking website’s data from various sources and on a massive scale. The client was struggling with automated data collection, data management, data processing, data transformation, and data analysis. The main challenges were the sparsity and complex data generally found in professional networking websites. It was huge, it was complex, it had noise, data had no relations, and the most difficult part was to manage it so that analysis and insights can be performed on it.
+
+The client was facing difficulties in storing and managing the data in the analytics-ready format. The data was available in so many different formats, in so many labels, in so many categories, and the most difficult part was textual in nature. It was also difficult to manage its labeling, its dates, its categories, and huge texts.
+
+The client wanted an automated solution to collect data, process data, transform data, manage the data, and analyze the data. The tool wanted should be capable to collect and process historical data in terms of jobs, titles, positions, industries, locations, biographies, summaries, education, degrees, schools, universities, colleges, start date, end dates, employer information such as job title, job location, job categories, job function, job description, employer name, start date, end date, and much more.
+
+Solution for turning the Professional Networking Data into Actionable Insights
+
+The client partnered with Blackcoffer to design and develop a tool to collect, process, transform, manage, and analyze the professional networking websites’ data. Blackcoffer developed an automated tool to meet all the needs by solving all bottlenecks, challenges, and complex unstructured data.
+
+Blackcoffer developed the tool that was capable to handle complex data, clean the noise, establish relations among data, and make it analytics-ready for further processing and analysis on the textual dataset.
+
+Furthermore, the tool was developed by blackcoffer to transform the unstructured textual data to structured textual data and in an analytics-ready format. The tool was capable to handle various data labels, their categories, and the huge texts.
+
+The designed tool was able to collect and process historical data from social networking websites. The tool was able to collect and process data as follows:
+
+Demographic information such as name, age, connections, title, current location, universities, job function, industry, biography, photo, job title, and much more.
+
+Historical educational information such as degree, college, university, school names, specialization, description, activities, start date, end date, location, and much more.
+
+Historical career information such as employer name, job title, job function, job description, job location, activities, start date, end date, and much more.
+
+Publications information such as title, journal, date, descriptions, authors, etc.
+
+Patent information such as invention title, invention description, inventors, date, country, and much more.
+
+Skils
+
+Certifications,
+
+and much more.
+
+Business Impact
+
+The data was made in analytics-ready formation for further processing and for insights and interpretations. Relations data was developed and delivered with the following business impacts:
+
+Solved and delivered unstructured data to structured data
+
+The data was used for business insights and strategic decisions among the management peoples
+
+The analysis was published in a journal publication.
+
+The data delivered was 100% accurate and clean.
+
+Over 40,000+ individuals’ data was managed smoothly with data relations and historical patterns.
+
+Over 10M+ rows of data were delivered historically such as education, career, and much more.
+
+The processed data has helped the business manages to understand a person’s background behind their success, and patterns.
+
+The processed data has helped R&D to understand common skills, common inventions, common universities, schools, etc. behind inventions, unicorn, and fortune companies.
+
+Technology Stack
+
+Python
+
+APIs
+
+Google Cloud Platform
+
+Excel

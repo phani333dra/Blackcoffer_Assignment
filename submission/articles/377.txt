@@ -1,0 +1,547 @@
+Complete List of Blockchain Engineering AI Tools & AI Software
+
+1. AI Blockchain Development Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+GitHub Copilot
+
+AI coding assistant for blockchain and smart contract development.
+
+https://github.com/features/copilot
+
+Cursor AI
+
+AI-powered code editor for blockchain developers.
+
+https://www.cursor.com
+
+Codeium
+
+AI coding assistant for Web3 and blockchain applications.
+
+https://codeium.com
+
+Amazon CodeWhisperer
+
+AI assistant for blockchain coding and AWS development.
+
+https://aws.amazon.com/codewhisperer
+
+Tabnine
+
+AI code completion tool for blockchain programming.
+
+https://www.tabnine.com
+
+Replit AI
+
+AI-assisted cloud IDE for blockchain application development.
+
+https://replit.com
+
+Windsurf AI
+
+AI-powered IDE for blockchain and decentralized application development.
+
+https://codeium.com/windsurf
+
+Continue.dev
+
+Open-source AI coding assistant for blockchain developers.
+
+https://continue.dev
+
+2. AI Smart Contract Development & Auditing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Audit Wizard AI
+
+AI tool for reviewing and auditing smart contracts.
+
+https://auditwizard.io
+
+CertiK SkyNet
+
+AI-powered blockchain security monitoring platform.
+
+https://www.certik.com
+
+ChainGPT Smart Contract Generator
+
+Generates Solidity smart contracts using AI.
+
+https://www.chaingpt.org
+
+ChainGPT Auditor
+
+AI-powered smart contract security auditing tool.
+
+https://www.chaingpt.org
+
+OpenZeppelin Defender AI
+
+AI-assisted monitoring and management of smart contracts.
+
+https://openzeppelin.com/defender
+
+Slither AI
+
+AI-supported static analysis for Solidity smart contracts.
+
+https://github.com/crytic/slither
+
+Mythril
+
+AI-assisted security analysis for Ethereum smart contracts.
+
+https://github.com/ConsenSysDiligence/mythril
+
+Securify
+
+AI-powered smart contract vulnerability detection.
+
+https://github.com/eth-sri/securify2
+
+3. AI Blockchain Security & Threat Detection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Chainalysis
+
+AI-powered blockchain investigation and fraud detection platform.
+
+https://www.chainalysis.com
+
+TRM Labs
+
+AI-driven blockchain intelligence and risk monitoring.
+
+https://www.trmlabs.com
+
+Elliptic
+
+AI platform for crypto compliance and transaction monitoring.
+
+https://www.elliptic.co
+
+Crystal Blockchain
+
+AI-powered blockchain analytics and investigation platform.
+
+https://crystalintelligence.com
+
+CipherTrace
+
+AI software for cryptocurrency security and compliance.
+
+https://mastercard.com/ciphertrace
+
+Forta
+
+AI-powered decentralized threat detection network.
+
+https://forta.org
+
+BlockSec
+
+AI platform for blockchain security monitoring.
+
+https://blocksec.com
+
+Hexagate
+
+AI-powered real-time Web3 threat detection.
+
+https://hexagate.com
+
+4. AI Blockchain Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Nansen AI
+
+AI-powered blockchain analytics and wallet intelligence.
+
+https://www.nansen.ai
+
+Dune AI
+
+AI-assisted blockchain data analytics platform.
+
+https://dune.com
+
+Arkham Intelligence
+
+AI platform for blockchain transaction analysis.
+
+https://arkhamintelligence.com
+
+Glassnode
+
+AI-powered on-chain market intelligence platform.
+
+https://glassnode.com
+
+IntoTheBlock
+
+AI-driven crypto market and blockchain analytics.
+
+https://app.intotheblock.com
+
+Token Terminal
+
+AI analytics for blockchain protocols and Web3 projects.
+
+https://tokenterminal.com
+
+Messari AI
+
+AI-powered crypto research and blockchain insights.
+
+https://messari.io
+
+Flipside Crypto
+
+AI platform for blockchain data analytics.
+
+https://flipsidecrypto.xyz
+
+5. AI Web3 & DeFi Development
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChainGPT
+
+AI platform for blockchain development and Web3 applications.
+
+https://www.chaingpt.org
+
+Moralis AI
+
+AI-powered Web3 backend and blockchain APIs.
+
+https://moralis.io
+
+Thirdweb AI
+
+AI tools for building decentralized applications (dApps).
+
+https://thirdweb.com
+
+Alchemy AI
+
+AI-enhanced blockchain infrastructure platform.
+
+https://www.alchemy.com
+
+QuickNode AI
+
+AI-powered blockchain APIs and node infrastructure.
+
+https://www.quicknode.com
+
+Tenderly AI
+
+AI-assisted smart contract monitoring and debugging.
+
+https://tenderly.co
+
+Blocknative
+
+AI platform for blockchain transaction monitoring.
+
+https://www.blocknative.com
+
+Covalent AI
+
+AI-powered blockchain data indexing and APIs.
+
+https://www.covalenthq.com
+
+6. AI NFT & Digital Asset Tools
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChainGPT NFT Generator
+
+Generates NFT artwork using generative AI.
+
+https://www.chaingpt.org
+
+Midjourney
+
+AI image generation for NFT collections.
+
+https://www.midjourney.com
+
+DALL·E
+
+AI-generated digital artwork for NFT creation.
+
+https://openai.com/dall-e
+
+Stable Diffusion
+
+Open-source AI image generation for NFTs.
+
+https://stability.ai
+
+Leonardo AI
+
+AI artwork generation for NFT projects.
+
+https://leonardo.ai
+
+Adobe Firefly
+
+AI image generation for digital collectibles.
+
+https://firefly.adobe.com
+
+7. AI Blockchain Research Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for blockchain research and technical documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for smart contract analysis and documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for blockchain engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for blockchain coding and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered blockchain research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing blockchain papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for blockchain research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding blockchain publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering blockchain research papers.
+
+https://www.researchrabbit.ai
+
+8. AI Machine Learning & Analytics Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for blockchain AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for blockchain analytics.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for blockchain data analysis.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for blockchain analytics.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for blockchain prediction models.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for blockchain analytics.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics for blockchain datasets.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for blockchain applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for blockchain machine learning models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for AI model development in blockchain.
+
+https://aws.amazon.com/sagemaker
+
+9. AI Fraud Detection & Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Sardine AI
+
+AI-powered fraud prevention for crypto transactions.
+
+https://www.sardine.ai
+
+Feedzai
+
+AI platform for financial crime and fraud detection.
+
+https://feedzai.com
+
+Unit21
+
+AI-powered AML and fraud detection platform.
+
+https://www.unit21.ai
+
+ComplyAdvantage
+
+AI software for AML, KYC, and transaction monitoring.
+
+https://complyadvantage.com
+
+Sumsub
+
+AI-powered identity verification and compliance.
+
+https://sumsub.com
+
+Persona
+
+AI-based identity verification for Web3 platforms.
+
+https://withpersona.com
+
+10. AI Blockchain Infrastructure & Cloud
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Google Cloud Blockchain Node Engine
+
+Managed blockchain node hosting with AI integration.
+
+https://cloud.google.com/blockchain-node-engine
+
+Amazon Managed Blockchain
+
+AWS-managed blockchain infrastructure platform.
+
+https://aws.amazon.com/managed-blockchain
+
+Microsoft Azure Blockchain Solutions
+
+AI-enabled cloud services for blockchain workloads.
+
+https://azure.microsoft.com
+
+IBM Blockchain Platform
+
+Enterprise blockchain platform with AI capabilities.
+
+https://www.ibm.com/blockchain
+
+Oracle Blockchain Platform
+
+AI-powered enterprise blockchain solution.
+
+https://www.oracle.com/blockchain
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

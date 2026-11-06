@@ -1,0 +1,469 @@
+Complete List of Legal Services AI Tools & AI Software
+
+1. AI Legal Research
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Lexis+ AI
+
+AI-powered legal research and case analysis.
+
+https://www.lexisnexis.com
+
+Westlaw Precision AI
+
+AI-assisted legal research and case law search.
+
+https://legal.thomsonreuters.com
+
+vLex Vincent AI
+
+AI legal research across global legal databases.
+
+https://vlex.com
+
+Casetext CoCounsel
+
+AI legal assistant for research and drafting.
+
+https://casetext.com
+
+Fastcase AI
+
+AI-powered legal research platform.
+
+https://www.fastcase.com
+
+Descrybe.ai
+
+AI simplifies legal opinions and case law.
+
+https://descrybe.ai
+
+2. AI Contract Review & Contract Lifecycle Management (CLM)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Ironclad AI
+
+AI automates contract creation and management.
+
+https://ironcladapp.com
+
+DocuSign Intelligent Agreement Management
+
+AI-powered agreement lifecycle platform.
+
+https://www.docusign.com
+
+Juro AI
+
+AI contract drafting, review, and approvals.
+
+https://juro.com
+
+Evisort
+
+AI contract analysis and lifecycle management.
+
+https://www.evisort.com
+
+LinkSquares AI
+
+AI reviews contracts and extracts legal data.
+
+https://linksquares.com
+
+ContractPodAi
+
+AI-powered enterprise contract management.
+
+https://contractpodai.com
+
+3. AI Document Review & eDiscovery
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Relativity aiR
+
+AI-powered eDiscovery and legal review.
+
+https://www.relativity.com
+
+DISCO AI
+
+AI automates document review and litigation.
+
+https://www.csdisco.com
+
+Everlaw AI
+
+AI-assisted litigation and eDiscovery platform.
+
+https://www.everlaw.com
+
+Reveal Brainspace
+
+AI analyzes legal documents and evidence.
+
+https://www.revealdata.com
+
+Logikcull
+
+AI-powered legal document management.
+
+https://www.logikcull.com
+
+OpenText Axcelerate
+
+AI accelerates legal document review.
+
+https://www.opentext.com
+
+4. AI Legal Writing & Drafting
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI drafts legal documents and summaries.
+
+https://chatgpt.com
+
+Claude
+
+AI assists with legal writing and document review.
+
+https://claude.ai
+
+Google Gemini
+
+AI supports legal research and drafting.
+
+https://gemini.google.com
+
+Harvey AI
+
+AI legal assistant built for law firms.
+
+https://www.harvey.ai
+
+Spellbook AI
+
+AI contract drafting inside Microsoft Word.
+
+https://www.spellbook.legal
+
+Paxton AI
+
+AI legal drafting and compliance assistant.
+
+https://www.paxton.ai
+
+5. AI Compliance & Regulatory Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Thomson Reuters Regulatory Intelligence
+
+AI monitors regulatory changes.
+
+https://legal.thomsonreuters.com
+
+IBM OpenPages
+
+AI-powered governance, risk, and compliance.
+
+https://www.ibm.com/products/openpages
+
+MetricStream AI
+
+AI automates compliance management.
+
+https://www.metricstream.com
+
+OneTrust AI
+
+AI manages privacy and regulatory compliance.
+
+https://www.onetrust.com
+
+NAVEX One AI
+
+AI-powered ethics and compliance platform.
+
+https://www.navex.com
+
+Diligent AI
+
+AI supports governance and compliance.
+
+https://www.diligent.com
+
+6. AI Intellectual Property (IP) Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+PatSnap
+
+AI-powered patent search and innovation analytics.
+
+https://www.patsnap.com
+
+Anaqua AQX
+
+AI manages patents and trademarks.
+
+https://www.anaqua.com
+
+IP.com
+
+AI patent search and IP management.
+
+https://ip.com
+
+Questel Orbit Intelligence
+
+AI patent analytics and IP research.
+
+https://www.questel.com
+
+Derwent Innovation
+
+AI-assisted patent intelligence platform.
+
+https://www.derwentinnovation.com
+
+Cipher
+
+AI portfolio and IP analytics.
+
+https://cipher.ai
+
+7. AI Legal Practice Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Clio Duo AI
+
+AI-powered legal practice management.
+
+https://www.clio.com
+
+MyCase IQ
+
+AI automates law firm workflows.
+
+https://www.mycase.com
+
+PracticePanther AI
+
+AI manages legal cases and billing.
+
+https://practicepanther.com
+
+Smokeball AI
+
+AI-powered law office management.
+
+https://www.smokeball.com
+
+Filevine AI
+
+AI case management and legal workflow automation.
+
+https://www.filevine.com
+
+LEAP Legal AI
+
+AI-powered legal practice platform.
+
+https://www.leap.us
+
+8. AI OCR & Legal Document Processing
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ABBYY Vantage
+
+AI extracts legal document data.
+
+https://www.abbyy.com
+
+Google Document AI
+
+AI processes contracts and legal forms.
+
+https://cloud.google.com/document-ai
+
+Microsoft Azure AI Document Intelligence
+
+AI extracts structured legal information.
+
+https://azure.microsoft.com
+
+Amazon Textract
+
+AI captures text from legal documents.
+
+https://aws.amazon.com/textract
+
+Rossum
+
+AI automates legal document processing.
+
+https://rossum.ai
+
+Nanonets
+
+AI OCR for legal records and forms.
+
+https://nanonets.com
+
+9. AI Legal Analytics & Business Intelligence
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Lex Machina
+
+AI-powered litigation analytics.
+
+https://lexmachina.com
+
+Premonition AI
+
+AI analyzes litigation outcomes.
+
+https://premonition.ai
+
+Microsoft Power BI Copilot
+
+AI legal dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-powered legal analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI business intelligence for legal teams.
+
+https://www.qlik.com
+
+DataRobot
+
+AI predicts legal trends and risks.
+
+https://www.datarobot.com
+
+Databricks AI
+
+AI analyzes legal datasets at scale.
+
+https://www.databricks.com
+
+Snowflake Cortex AI
+
+AI cloud analytics for legal operations.
+
+https://www.snowflake.com
+
+10. AI Machine Learning & Development Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source framework for legal AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning framework for legal analytics.
+
+https://pytorch.org
+
+Hugging Face
+
+AI models for legal NLP and document analysis.
+
+https://huggingface.co
+
+LangChain
+
+Framework for AI-powered legal assistants.
+
+https://www.langchain.com
+
+LlamaIndex
+
+Framework for Retrieval-Augmented Generation (RAG).
+
+https://www.llamaindex.ai
+
+MLflow
+
+AI model lifecycle management platform.
+
+https://mlflow.org
+
+Weights & Biases
+
+AI experiment tracking and collaboration.
+
+https://wandb.ai
+
+Dataiku
+
+Enterprise AI platform for legal analytics.
+
+https://www.dataiku.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

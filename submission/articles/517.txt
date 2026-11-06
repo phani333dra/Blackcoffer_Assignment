@@ -1,0 +1,43 @@
+Data security Protect a major enterprise asset
+
+A lot of personal data is no longer private and consumers are finding it a lot harder to protect themselves when their data is out in the open.
+
+Securing devices will Make it harder for hackers to breach your data/device by keeping your software up to date. If you have your web browser, operating system and other software kept up to date, then you can prevent hackers from massively using publicly known exploits to attack your computer.
+
+Install good Antivirus software capable of scanning also HTTPS traffic to protect you against some phishing attacks. antivirus scanning your encrypted web communication will analyze the content of websites you visit and try to match them to signatures of behavioral patterns of potentially malicious websites. This will protect you from downloading files from unknown sources. Modern antivirus software is also capable of defending you against some types of ransomware attacks, so keeping this software up to date and using a renowned vendor is highly important.
+
+A steganography program is a great method of hiding data inside other data. For instance, one can conceal a text message within JPG files, MP3 music files, or even within another text file. It’s widely used in combination with encryption software. “The data is first encrypted and then concealed inside another document or file using steganography software.
+
+Use common sense while browsing the Internet or plugging something into your computer, because antivirus and other defensive software is just an additional layer of protection to your sanity. This includes being cautious while following links in unexpectedly received emails, not downloading pirated software, accessing only those e-commerce websites that support HTTPS , and so on. Learn how to use strong passwords.
+
+Use Two-Factor Authentication wherever possible, so in case your password somehow leaks or gets guessed you still have a second layer of protection. This significantly increases the effort of a successful attack when an attacker must steal your mobile device or a YubiKey to access the service.
+
+One with sniffer software can hack your data while it is traveling over the network. In order to save your data while it is in transit apply Internet Protocol Security (IPsec)—however, both the sending as well as the receiving systems must support it.
+
+Encrypt your hard drive , so when your laptop is stolen thieves cannot access the data inside. All modern operating systems and hardware support have some sort of default and safe encryption mechanisms that no longer slow down your computer. So, feel free to use it anywhere you can, including your mobile devices.
+
+Data transmitted over wireless networks is more exposed to interception than the one sent through the Ethernet network. “One does not require direct access to network or device and armed with just a wireless-enabled portable computer and a high gain antenna a hacker can capture data and enter the network to access data provided the wireless access point isn’t configured strongly and safely. Data should be stored or sent solely on wireless networks with encryption, if possible, with Wi-Fi Protected Access (WPA), as it is tougher than Wired Equivalent Protocol (WEP).
+
+Don’t let anyone near your devices if you’re not watching. It takes only a couple of seconds to plug in a malicious USB device which will compromise the security of your computer. Remember to always lock your devices when you leave them alone, so no one can jump in front of the screen and look into your emails or stored passwords.
+
+If concerned about protecting data after it leaves the computer, employ Windows Rights Management Services (RMS) to have control over the recipients in their handling of the data. “It is possible to set rights which enable the recipient only to read the document but not change, copy, or save it. Restrictions on forwarding emails can also be put and documents or messages can be made to expire after a specified time-period stopping the recipient from accessing it any further,”
+
+In terms of keeping your online data safe, the security hygiene practices mentioned above are some of the fundamentals to consider. You should govern access to your online data by a strong password with enabled Two-Factor Authentication as well as connect to data repositories only from secured devices you control and can trust.
+
+It is very important to wisely choose the appropriate platform used to store your data, because we have many of them, and some of them may not provide the security protections you expected them to be. Concerns you have and follow:
+
+Is this company known in the market and has it been stable for at least 5 years? You’re better off passing your data to a company that has been battle tested for years, rather than go with a new start-up with shiny features that appear to be exactly what you always wanted.
+
+Has the company processed my data experienced any security breaches in the past? And if so, how did they handle it? Security breaches may happen, but that’s not really how we judge the security maturity of companies. The most important part is how a company responds to the breach, how it was communicated to customers, how much time it took them to recognize the breach, how much data was lost, was it properly secured, and what’s the scale and severity of the damage?
+
+Is the vendor compliant with relevant industry standards such as HIPAA or GDPR? You want to make sure that they comply with industry best practices and invest in continuous security improvements that had been actually verified by an external auditing entity.
+
+Does the platform have relevant security features? You want to know if granular permissions are allowed and if there are: 2-factor authentication supported, cases are well documented, and support to use the product safely, etc?
+
+How is my data processed and stored by the company? If a vendor can’t answer these questions in a clear form, then I don’t trust them, because they must know what they’re doing internally with my data. If they can’t answer it, then it’s a good indicator they don’t have sufficient protective parameters in place. This type of compliance will be also regulated by GDPR.
+
+How many other people use this solution? Although it may not be the best predictor of how good the product actually is, in general, you’re better off using a solution used by a few hundred of known companies rather than software created in your neighbors’ garage.
+
+Does this company have a dedicated security team? With the number of risks and demands companies are facing nowadays, there is no chance they are secure without investing in internal or outsourced security operations.
+
+Data privacy and safety are hard to get right , so once you’ve found a company you trust and you’ve learned how to use their product — don’t get easily deluded into switching to another small company that claims they’re doing it all better.

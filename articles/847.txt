@@ -1,0 +1,67 @@
+Power BI integration with RestAPI, and SAML Integration
+
+Client Background
+
+Client: A leading IT Firm in the USA
+
+Industry Type: IT
+
+Services: Marketing, B2B
+
+Organization Size: 1000+
+
+Customers: World Wide
+
+Project Objective
+
+The main objective of the project was to fetch or retrieve the data from an API source to Power BI.
+
+Project Description
+
+The client has provided the url of three API i.e. Login API and data source API.
+
+We have to get the authentication from the first URL for the access of the rest two urls and get data back and make a report for their Ratings data.
+
+Our Solution
+
+We built a Power BI app which cask the user for ID/Pswd and returns the Users and Declaration table.
+
+We have coded this in M Language which asks the access token from Login API and provides that token to user data API and declaration data API and get the data table back from these API.
+
+Project Deliverables
+
+Working PBIX file
+
+M Language code
+
+Another PBIX file that offers the SAML option also (which is just a prototype or recommendation)
+
+Video Explanation.
+
+Tools used
+
+Microsoft Power BI
+
+Microsoft Query Editor
+
+Language/techniques used
+
+M Language
+
+DAX
+
+Skills used
+
+Extraction from Rest API
+
+Data Analytics
+
+Databases used
+
+NoSql
+
+PostgreSQL
+
+Web Cloud Servers used
+
+Azure

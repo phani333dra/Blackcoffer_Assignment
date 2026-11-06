@@ -1,0 +1,517 @@
+Complete List of Instrumentation and Control Engineering AI Tools & AI Software
+
+1. AI Industrial Automation & Control Systems
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens SIMATIC AI
+
+AI-powered PLC programming and industrial automation.
+
+https://www.siemens.com/simatic
+
+Siemens TIA Portal
+
+AI-assisted automation engineering and control system design.
+
+https://www.siemens.com/tia-portal
+
+ABB Ability
+
+AI platform for industrial automation and process optimization.
+
+https://global.abb/ability
+
+Emerson DeltaV
+
+AI-enabled distributed control system (DCS).
+
+https://www.emerson.com
+
+Honeywell Experion PKS
+
+AI-powered process automation and plant control platform.
+
+https://www.honeywell.com
+
+Yokogawa CENTUM VP
+
+AI-assisted distributed control system for process industries.
+
+https://www.yokogawa.com
+
+Schneider EcoStruxure Automation Expert
+
+AI platform for industrial automation and smart manufacturing.
+
+https://www.se.com
+
+Rockwell FactoryTalk
+
+AI-powered industrial control and manufacturing software.
+
+https://www.rockwellautomation.com
+
+2. AI SCADA & HMI Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+AVEVA System Platform
+
+AI-powered SCADA and industrial visualization software.
+
+https://www.aveva.com
+
+Ignition SCADA
+
+AI-enabled industrial automation and monitoring platform.
+
+https://inductiveautomation.com
+
+Siemens WinCC
+
+AI-assisted SCADA and HMI development platform.
+
+https://www.siemens.com
+
+GE Digital iFIX
+
+AI-powered SCADA system for industrial operations.
+
+https://www.gevernova.com/software
+
+ICONICS GENESIS64
+
+AI-driven SCADA and HMI software platform.
+
+https://iconics.com
+
+FactoryTalk View
+
+AI-powered HMI visualization for industrial control.
+
+https://www.rockwellautomation.com
+
+3. AI Process Control & Optimization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aspen DMC3
+
+AI-powered advanced process control software.
+
+https://www.aspentech.com
+
+Aspen AIoT Hub
+
+AI platform for industrial process optimization.
+
+https://www.aspentech.com
+
+AVEVA Predictive Analytics
+
+AI predicts process anomalies and failures.
+
+https://www.aveva.com
+
+Honeywell Forge
+
+AI-powered industrial performance optimization.
+
+https://www.honeywell.com
+
+Siemens Industrial Edge
+
+AI-enabled edge computing for process control.
+
+https://www.siemens.com
+
+Yokogawa OpreX
+
+AI platform for process optimization and automation.
+
+https://www.yokogawa.com
+
+4. AI Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Senseye
+
+AI predicts equipment failures before breakdowns.
+
+https://senseye.io
+
+IBM Maximo Application Suite
+
+AI-powered predictive maintenance platform.
+
+https://www.ibm.com/products/maximo
+
+GE Digital APM
+
+AI software for industrial asset performance management.
+
+https://www.gevernova.com/software
+
+ABB Ability Asset Manager
+
+AI monitors equipment health and reliability.
+
+https://global.abb/ability
+
+Aspen Mtell
+
+AI-powered predictive maintenance software.
+
+https://www.aspentech.com
+
+Uptake
+
+AI-driven industrial equipment monitoring.
+
+https://www.uptake.com
+
+SparkCognition
+
+AI platform for industrial asset reliability.
+
+https://sparkcognition.com
+
+Schneider EcoStruxure Asset Advisor
+
+AI-powered remote asset monitoring.
+
+https://www.se.com
+
+5. AI Industrial IoT (IIoT)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+PTC ThingWorx
+
+AI-enabled Industrial IoT application platform.
+
+https://www.ptc.com
+
+Siemens Insights Hub
+
+AI-powered Industrial IoT analytics platform.
+
+https://www.siemens.com/insights-hub
+
+AWS IoT Core
+
+AI platform for connecting and managing industrial devices.
+
+https://aws.amazon.com/iot-core
+
+Azure IoT
+
+AI-powered Industrial IoT cloud platform.
+
+https://azure.microsoft.com/products/iot
+
+IBM Watson IoT
+
+AI platform for connected industrial assets.
+
+https://www.ibm.com
+
+Bosch IoT Suite
+
+AI-powered Industrial IoT connectivity platform.
+
+https://bosch-iot-suite.com
+
+6. AI Digital Twin & Simulation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Omniverse
+
+AI-powered digital twin platform for industrial systems.
+
+https://www.nvidia.com/omniverse
+
+Azure Digital Twins
+
+AI platform for modeling industrial environments.
+
+https://azure.microsoft.com/products/digital-twins
+
+AWS IoT TwinMaker
+
+AI-powered industrial digital twin platform.
+
+https://aws.amazon.com/iot-twinmaker
+
+Siemens Digital Twin
+
+AI-assisted industrial simulation platform.
+
+https://www.siemens.com
+
+Dassault 3DEXPERIENCE
+
+AI-powered product lifecycle and digital twin platform.
+
+https://www.3ds.com
+
+Bentley iTwin
+
+AI-enabled digital twin platform for industrial assets.
+
+https://www.bentley.com/software/itwin
+
+7. AI Industrial Robotics & Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABB Robotics AI
+
+AI-powered industrial robot automation platform.
+
+https://new.abb.com/products/robotics
+
+FANUC FIELD AI
+
+AI platform for industrial robot optimization.
+
+https://www.fanucamerica.com
+
+KUKA iiQKA
+
+AI-assisted industrial robotics platform.
+
+https://www.kuka.com
+
+Universal Robots AI
+
+AI-powered collaborative robot platform.
+
+https://www.universal-robots.com
+
+Cognex VisionPro
+
+AI-powered machine vision inspection software.
+
+https://www.cognex.com
+
+MVTec HALCON
+
+AI machine vision software for industrial automation.
+
+https://www.mvtec.com
+
+8. AI Industrial Cybersecurity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Security Copilot
+
+AI assistant for industrial cybersecurity operations.
+
+https://www.microsoft.com/security
+
+Darktrace
+
+AI-powered industrial threat detection platform.
+
+https://www.darktrace.com
+
+Nozomi Networks
+
+AI monitors OT and industrial control system security.
+
+https://www.nozominetworks.com
+
+Claroty
+
+AI-powered industrial cybersecurity platform.
+
+https://claroty.com
+
+Dragos Platform
+
+AI detects cyber threats in industrial environments.
+
+https://www.dragos.com
+
+IBM QRadar Suite
+
+AI-powered SIEM for industrial security monitoring.
+
+https://www.ibm.com/qradar
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for instrumentation and control engineering research.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical documentation and analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for instrumentation engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for coding, reports, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered engineering research search engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing engineering papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for engineering research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding technical publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering engineering research papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Development Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for industrial AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for automation and control systems.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for industrial analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for industrial data.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for predictive maintenance.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for industrial data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics platform.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for industrial automation models.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for industrial AI development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for building industrial AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

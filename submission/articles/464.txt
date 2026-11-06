@@ -1,0 +1,553 @@
+Complete List of Utilities (Electricity, Water Supply, Gas Distribution) AI Tools & AI Software
+
+1. AI Smart Grid & Energy Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Grid Software
+
+AI optimizes electricity transmission and distribution.
+
+https://www.siemens.com/gridsoftware
+
+Schneider Electric EcoStruxure Grid
+
+AI-powered smart grid management platform.
+
+https://www.se.com
+
+GE Vernova GridOS
+
+AI improves grid reliability and operations.
+
+https://www.gevernova.com
+
+ABB Ability Energy Management
+
+AI monitors and optimizes power networks.
+
+https://new.abb.com/ability
+
+Hitachi Energy Lumada APM
+
+AI enhances grid performance and asset management.
+
+https://www.hitachienergy.com
+
+Oracle Utilities
+
+AI-powered utility operations and customer management.
+
+https://www.oracle.com/utilities
+
+Itron Intelligent Utilities
+
+AI platform for smart energy and water networks.
+
+https://www.itron.com
+
+Landis+Gyr Gridstream
+
+AI-enabled smart metering and grid analytics.
+
+https://www.landisgyr.com
+
+2. AI Water Supply & Wastewater Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Xylem Vue
+
+AI optimizes water treatment and distribution.
+
+https://www.xylem.com
+
+Bentley OpenFlows
+
+AI-powered water network modeling.
+
+https://www.bentley.com
+
+Innovyze InfoWorks WS Pro
+
+AI analyzes water distribution systems.
+
+https://www.innovyze.com
+
+Autodesk InfoDrainage
+
+AI assists stormwater and drainage design.
+
+https://www.autodesk.com
+
+Aquasight
+
+AI predicts water demand and detects leaks.
+
+https://aquasight.io
+
+Idrica GoAigua
+
+AI platform for smart water utilities.
+
+https://www.go-aigua.com
+
+Trimble Unity
+
+AI manages water and wastewater assets.
+
+https://www.trimble.com
+
+SUEZ AQUADVANCED
+
+AI-powered real-time water network monitoring.
+
+https://www.suezwatertechnologies.com
+
+3. AI Gas Distribution & Pipeline Monitoring
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Emerson Pipeline Manager
+
+AI optimizes gas pipeline operations.
+
+https://www.emerson.com
+
+Honeywell Forge
+
+AI monitors gas infrastructure and operations.
+
+https://www.honeywell.com
+
+Siemens Pipeline Management
+
+AI-powered gas transmission optimization.
+
+https://www.siemens.com
+
+AVEVA PI System
+
+AI collects and analyzes pipeline data.
+
+https://www.aveva.com
+
+Schneider EcoStruxure Pipeline
+
+AI improves gas network performance.
+
+https://www.se.com
+
+Atmos International
+
+AI detects pipeline leaks and anomalies.
+
+https://www.atmosi.com
+
+4. AI Predictive Maintenance & Asset Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts utility equipment failures.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance platform.
+
+https://senseye.io
+
+GE Vernova APM
+
+AI optimizes utility asset reliability.
+
+https://www.gevernova.com
+
+AVEVA Predictive Analytics
+
+AI forecasts equipment failures.
+
+https://www.aveva.com
+
+Aspen Mtell
+
+AI detects equipment issues before breakdowns.
+
+https://www.aspentech.com
+
+SparkCognition
+
+AI identifies anomalies in utility assets.
+
+https://sparkcognition.com
+
+ABB Ability Asset Performance Management
+
+AI improves infrastructure reliability.
+
+https://new.abb.com
+
+PTC ThingWorx Asset Advisor
+
+AI monitors utility assets in real time.
+
+https://www.ptc.com
+
+5. AI Industrial Automation & SCADA
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens SIMATIC
+
+AI-powered industrial automation platform.
+
+https://www.siemens.com
+
+Schneider Electric EcoStruxure Automation
+
+AI automates utility operations.
+
+https://www.se.com
+
+ABB Ability System 800xA
+
+AI-enabled SCADA and process automation.
+
+https://new.abb.com
+
+Emerson DeltaV
+
+AI automates utility plant operations.
+
+https://www.emerson.com
+
+Honeywell Experion
+
+AI-based distributed control system (DCS).
+
+https://www.honeywell.com
+
+Yokogawa OpreX
+
+AI-powered industrial control platform.
+
+https://www.yokogawa.com
+
+Rockwell FactoryTalk
+
+AI monitors utility production processes.
+
+https://www.rockwellautomation.com
+
+Mitsubishi ICONICS
+
+AI-powered SCADA and automation software.
+
+https://iconics.com
+
+6. AI Renewable Energy & Sustainability
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+AutoGrid Flex
+
+AI balances renewable energy demand and supply.
+
+https://www.auto-grid.com
+
+C3 AI Energy Management
+
+AI optimizes renewable energy operations.
+
+https://c3.ai
+
+Enel X AI Solutions
+
+AI manages smart energy systems.
+
+https://www.enelx.com
+
+BrainBox AI
+
+AI optimizes building energy consumption.
+
+https://brainboxai.com
+
+GridBeyond
+
+AI manages distributed energy resources.
+
+https://gridbeyond.com
+
+Fluence Mosaic
+
+AI optimizes battery energy storage systems.
+
+https://fluenceenergy.com
+
+7. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered utility dashboards and reports.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven utility analytics platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered energy and utility analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven utility insights.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for utility forecasting and analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for utility data analysis.
+
+https://www.knime.com
+
+SAS Viya
+
+AI-powered utility analytics platform.
+
+https://www.sas.com
+
+Alteryx AI Platform
+
+AI automates utility reporting and analytics.
+
+https://www.alteryx.com
+
+8. AI Environmental Monitoring & Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Enablon
+
+AI manages environmental and regulatory compliance.
+
+https://www.enablon.com
+
+SpheraCloud
+
+AI-powered ESG and sustainability management.
+
+https://sphera.com
+
+EcoOnline
+
+AI supports workplace safety and compliance.
+
+https://www.ecoonline.com
+
+Intelex
+
+AI automates environmental management.
+
+https://www.intelex.com
+
+Benchmark Gensuite
+
+AI-powered ESG reporting platform.
+
+https://www.benchmarkgensuite.com
+
+VelocityEHS
+
+AI monitors environmental health and safety.
+
+https://www.velocityehs.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for utility research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical reports and SOPs.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for utility analysis and research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports and spreadsheets.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered utility research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing technical documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review for utility research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains engineering and energy papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers utility and energy publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for utility AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for energy applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for utility analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for utility forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for utility applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for utility model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for utility analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for utility datasets.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for utility intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for utility AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,517 @@
+Complete List of Agricultural Engineering AI Tools & AI Software
+
+1. AI Precision Agriculture Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+John Deere Operations Center
+
+AI-powered farm management and precision agriculture platform.
+
+https://operationscenter.deere.com
+
+Climate FieldView
+
+AI platform for crop monitoring and field analytics.
+
+https://climatefieldview.com
+
+Trimble Agriculture
+
+AI-enabled precision farming and farm management solution.
+
+https://agriculture.trimble.com
+
+Ag Leader SMS
+
+AI-powered field mapping and precision agriculture software.
+
+https://www.agleader.com
+
+Topcon Agriculture
+
+AI platform for precision farming and machine guidance.
+
+https://www.topconpositioning.com
+
+Raven Slingshot
+
+AI-enabled farm connectivity and equipment management.
+
+https://www.ravenslingshot.com
+
+CropX
+
+AI-driven soil monitoring and irrigation optimization.
+
+https://cropx.com
+
+Agremo
+
+AI platform for drone-based crop analysis and field monitoring.
+
+https://www.agremo.com
+
+2. AI Crop Monitoring & Plant Health
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Plantix
+
+AI detects crop diseases and nutrient deficiencies.
+
+https://plantix.net
+
+OneSoil
+
+AI-powered satellite monitoring for crop performance.
+
+https://onesoil.ai
+
+Taranis
+
+AI platform for crop intelligence using aerial imagery.
+
+https://www.taranis.com
+
+EOSDA Crop Monitoring
+
+AI-powered satellite crop monitoring platform.
+
+https://eos.com/products/crop-monitoring
+
+xarvio Field Manager
+
+AI provides crop health insights and yield optimization.
+
+https://www.xarvio.com
+
+Prospera
+
+AI-driven crop monitoring and greenhouse management.
+
+https://prospera.ag
+
+Greeneye Technology
+
+AI identifies weeds for precision spraying.
+
+https://greeneye.ag
+
+See & Spray (John Deere)
+
+AI-powered targeted weed detection and spraying.
+
+https://www.deere.com
+
+3. AI Smart Irrigation & Water Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+CropX
+
+AI optimizes irrigation using real-time soil data.
+
+https://cropx.com
+
+HydroPoint WeatherTRAK
+
+AI-powered irrigation scheduling platform.
+
+https://www.hydropoint.com
+
+Netafim GrowSphere
+
+AI-based smart irrigation and fertigation management.
+
+https://www.netafim.com
+
+AquaSpy
+
+AI monitors soil moisture for irrigation optimization.
+
+https://aquaspy.com
+
+IrriWatch
+
+AI uses satellite data for irrigation recommendations.
+
+https://irriwatch.com
+
+Jain Logic
+
+AI-enabled irrigation automation platform.
+
+https://www.jains.com
+
+4. AI Agricultural Drones & Remote Sensing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+DJI Terra
+
+AI-powered drone mapping and agricultural surveying.
+
+https://enterprise.dji.com/dji-terra
+
+Pix4Dfields
+
+AI software for crop mapping using drone imagery.
+
+https://www.pix4d.com
+
+DroneDeploy
+
+AI-powered aerial mapping and crop inspection.
+
+https://www.dronedeploy.com
+
+Agremo
+
+AI analyzes drone images for crop health and yield.
+
+https://www.agremo.com
+
+Sentera FieldAgent
+
+AI platform for aerial crop analytics.
+
+https://sentera.com
+
+PrecisionHawk
+
+AI-powered drone analytics for precision farming.
+
+https://www.precisionhawk.com
+
+5. AI Farm Machinery & Robotics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+John Deere Autonomous Tractor
+
+AI-powered autonomous farming equipment.
+
+https://www.deere.com
+
+Blue River Technology
+
+AI-enabled precision spraying and crop management.
+
+https://www.bluerivertechnology.com
+
+Carbon Robotics LaserWeeder
+
+AI-powered robotic weed control system.
+
+https://carbonrobotics.com
+
+Naïo Technologies
+
+AI agricultural robots for weeding and cultivation.
+
+https://www.naio-technologies.com
+
+FarmWise
+
+AI-powered autonomous weeding robots.
+
+https://farmwise.io
+
+Monarch Tractor
+
+AI-enabled electric autonomous tractor.
+
+https://www.monarchtractor.com
+
+6. AI Livestock Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Connecterra Ida
+
+AI monitors livestock health and productivity.
+
+https://www.connecterra.io
+
+Cainthus
+
+AI-powered livestock monitoring using computer vision.
+
+https://www.cainthus.com
+
+CattleEye
+
+AI platform for cattle behavior and mobility analysis.
+
+https://cattleeye.com
+
+Moocall
+
+AI-enabled livestock health and calving monitoring.
+
+https://www.moocall.com
+
+Nedap CowControl
+
+AI platform for dairy herd management.
+
+https://www.nedap-livestockmanagement.com
+
+HerdDogg
+
+AI-powered livestock tracking and health monitoring.
+
+https://herddogg.com
+
+7. AI Yield Prediction & Farm Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Granular
+
+AI-powered farm management and yield analytics.
+
+https://www.granular.ag
+
+FarmLogs
+
+AI platform for field performance and crop analytics.
+
+https://farmlogs.com
+
+Farmers Edge
+
+AI-driven predictive farm analytics platform.
+
+https://www.farmersedge.ca
+
+Agmatix
+
+AI-powered agronomic decision support platform.
+
+https://www.agmatix.com
+
+AgroScout
+
+AI crop scouting and predictive analytics platform.
+
+https://agroscout.ai
+
+Trace Genomics
+
+AI analyzes soil microbiome for crop optimization.
+
+https://tracegenomics.com
+
+8. AI Sustainability & Climate Agriculture
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Regrow Ag
+
+AI platform for regenerative agriculture and carbon farming.
+
+https://www.regrow.ag
+
+Arable
+
+AI-powered weather and crop monitoring platform.
+
+https://www.arable.com
+
+Tomorrow.io
+
+AI weather forecasting for agricultural planning.
+
+https://www.tomorrow.io
+
+Watershed
+
+AI platform for carbon footprint management in agriculture.
+
+https://watershed.com
+
+Persefoni
+
+AI-powered sustainability and ESG reporting.
+
+https://persefoni.com
+
+Ecochain
+
+AI software for environmental impact assessment.
+
+https://ecochain.com
+
+9. AI Research & Agricultural Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for agricultural research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and farm analytics.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for agricultural engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, coding, and data analysis.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered agricultural research search engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing agricultural research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for agriculture research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding agricultural publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering agricultural research papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for agricultural AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for smart farming applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for crop prediction and analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for agriculture.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for farm analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+Visual AI workflow platform for agricultural data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics for agriculture.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for agricultural applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+Cloud AI platform for agricultural engineering models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for training and deploying agricultural AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

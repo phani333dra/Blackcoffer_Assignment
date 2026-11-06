@@ -1,0 +1,481 @@
+Complete List of Software Development AI Tools & AI Software
+
+1. AI Coding Assistants
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+GitHub Copilot
+
+AI pair programmer for code generation and completion.
+
+https://github.com/features/copilot
+
+Amazon Q Developer
+
+AI coding assistant for AWS development.
+
+https://aws.amazon.com/q
+
+Google Gemini Code Assist
+
+AI-powered coding assistant for developers.
+
+https://cloud.google.com/products/gemini/code-assist
+
+Tabnine
+
+AI code completion and intelligent suggestions.
+
+https://www.tabnine.com
+
+Codeium
+
+AI-powered code generation and autocomplete.
+
+https://codeium.com
+
+Sourcegraph Cody
+
+AI assistant for navigating and writing code.
+
+https://sourcegraph.com/cody
+
+Replit AI
+
+AI-powered coding and application development.
+
+https://replit.com
+
+Continue.dev
+
+Open-source AI coding assistant for IDEs.
+
+https://continue.dev
+
+2. AI Integrated Development Environments (IDEs)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Cursor
+
+AI-first code editor for developers.
+
+https://www.cursor.com
+
+Windsurf Editor
+
+AI-powered IDE for software engineering.
+
+https://codeium.com/windsurf
+
+Visual Studio IntelliCode
+
+AI-assisted coding recommendations.
+
+https://visualstudio.microsoft.com
+
+JetBrains AI Assistant
+
+AI support for JetBrains IDEs.
+
+https://www.jetbrains.com
+
+Eclipse Che AI
+
+Cloud-based AI development workspace.
+
+https://www.eclipse.org/che
+
+AWS Cloud9
+
+Cloud IDE with AI development support.
+
+https://aws.amazon.com/cloud9
+
+3. AI Code Review & Quality
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+DeepCode (Snyk Code)
+
+AI analyzes code for security and quality.
+
+https://snyk.io
+
+SonarQube AI
+
+AI-assisted code quality inspection.
+
+https://www.sonarsource.com
+
+Codacy
+
+AI automates code review and quality checks.
+
+https://www.codacy.com
+
+CodeScene
+
+AI identifies technical debt and code health.
+
+https://codescene.com
+
+Semgrep
+
+AI-assisted static code analysis.
+
+https://semgrep.dev
+
+Qodo (formerly CodiumAI)
+
+AI-powered code testing and review.
+
+https://www.qodo.ai
+
+4. AI Testing & QA Automation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Testim
+
+AI-powered automated software testing.
+
+https://www.testim.io
+
+Functionize
+
+AI-driven functional testing platform.
+
+https://www.functionize.com
+
+Applitools
+
+AI visual UI testing solution.
+
+https://applitools.com
+
+Mabl
+
+AI-powered test automation platform.
+
+https://www.mabl.com
+
+ACCELQ
+
+AI-based codeless test automation.
+
+https://www.accelq.com
+
+Tricentis Tosca AI
+
+AI-powered enterprise software testing.
+
+https://www.tricentis.com
+
+5. AI DevOps & CI/CD
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+GitLab Duo
+
+AI assistant for DevOps workflows.
+
+https://about.gitlab.com
+
+Harness AI
+
+AI automates CI/CD pipelines.
+
+https://www.harness.io
+
+JFrog ML
+
+AI-powered DevSecOps platform.
+
+https://jfrog.com
+
+CircleCI AI
+
+AI optimizes software delivery pipelines.
+
+https://circleci.com
+
+Azure DevOps with Copilot
+
+AI-enhanced DevOps automation.
+
+https://azure.microsoft.com
+
+Jenkins AI Plugins
+
+AI extensions for CI/CD automation.
+
+https://www.jenkins.io
+
+6. AI Documentation & Knowledge Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Notion AI
+
+AI generates technical documentation.
+
+https://www.notion.so
+
+Confluence AI
+
+AI-powered software documentation.
+
+https://www.atlassian.com/software/confluence
+
+GitBook AI
+
+AI documentation platform for developers.
+
+https://www.gitbook.com
+
+Mintlify
+
+AI creates developer documentation.
+
+https://mintlify.com
+
+ReadMe AI
+
+AI-powered API documentation.
+
+https://readme.com
+
+Slab AI
+
+AI knowledge management for engineering teams.
+
+https://slab.com
+
+7. AI Project Management & Collaboration
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Jira AI
+
+AI-powered software project management.
+
+https://www.atlassian.com/software/jira
+
+ClickUp AI
+
+AI task and sprint management.
+
+https://clickup.com
+
+Asana AI
+
+AI assists with project planning.
+
+https://asana.com
+
+Monday AI
+
+AI-powered work management platform.
+
+https://monday.com
+
+Trello AI
+
+AI automates project workflows.
+
+https://trello.com
+
+Linear AI
+
+AI-enhanced software issue tracking.
+
+https://linear.app
+
+8. AI Productivity & Content Creation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for coding, debugging, and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI for technical writing and software design.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for software development.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI productivity for developers.
+
+https://copilot.microsoft.com
+
+Grammarly AI
+
+AI improves technical writing quality.
+
+https://www.grammarly.com
+
+Canva Magic Studio
+
+AI designs presentations and documentation.
+
+https://www.canva.com
+
+9. AI Data Science & Machine Learning Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework.
+
+https://www.tensorflow.org
+
+PyTorch
+
+AI framework for machine learning applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for Python.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Enterprise AutoML platform.
+
+https://h2o.ai
+
+Hugging Face
+
+AI models and NLP development platform.
+
+https://huggingface.co
+
+Keras
+
+High-level deep learning API.
+
+https://keras.io
+
+MLflow
+
+AI experiment tracking and model management.
+
+https://mlflow.org
+
+Weights & Biases
+
+AI experiment monitoring and collaboration.
+
+https://wandb.ai
+
+10. AI Backend, APIs & LLM Frameworks
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+LangChain
+
+Framework for building LLM applications.
+
+https://www.langchain.com
+
+LlamaIndex
+
+Framework for Retrieval-Augmented Generation (RAG).
+
+https://www.llamaindex.ai
+
+Haystack
+
+Open-source framework for AI search systems.
+
+https://haystack.deepset.ai
+
+CrewAI
+
+Multi-agent AI workflow framework.
+
+https://www.crewai.com
+
+AutoGen
+
+Framework for multi-agent AI applications.
+
+https://microsoft.github.io/autogen
+
+Semantic Kernel
+
+AI orchestration SDK from Microsoft.
+
+https://learn.microsoft.com/semantic-kernel
+
+DSPy
+
+Framework for programming language model pipelines.
+
+https://dspy.ai
+
+Vercel AI SDK
+
+AI toolkit for building web applications.
+
+https://sdk.vercel.ai
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

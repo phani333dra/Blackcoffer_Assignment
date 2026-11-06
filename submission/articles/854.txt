@@ -1,0 +1,63 @@
+Python Automation tool, API, Cronjob
+
+Client Background
+
+Client: A leading tech firm in the USA
+
+Industry Type: IT Services
+
+Services: Finanncial services and Softwares
+
+Organization Size: 100+
+
+Objective
+
+To Extract SEC filings data under 13-F holdings and use that data from a SQL server to create dashboards.
+
+Project Description
+
+To Extract the content between the <XML> and </XML> tags from the file
+
+Parse the XML. It will have a tabular format like the following HTML representation: https://www.sec.gov/Archives/edgar/data/1039807/000103980721000004/xslForm13F_X01/bfo0321.xml
+
+To insert this standardized XML into a new table called “thirteenf_holdings”. using pandas.to _sql with append=T to automatically create and insert to the table as needed. We had to use exception handling because there will be a primary key added to avoid duplicates.
+
+Wrap the above python code in a function.
+
+Our Solution
+
+Designed and developed:
+
+Python tool
+
+Python API
+
+Python cronjob
+
+SQL Database
+
+Project Deliverables
+
+A MySQL database uploaded to the server hosted by the client after achieving the final target.
+
+Tools used
+
+Python
+
+Jupyter Notebook
+
+BeautifulSoup
+
+XML.etree
+
+numpy
+
+Panda
+
+Itertools
+
+MySQL
+
+pymySQL
+
+SqlAlchemy

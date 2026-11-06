@@ -1,0 +1,49 @@
+Statistical Simulation
+
+Machine Learning Deliverables
+
+Recommendation System
+
+Model Tuning
+
+Model Optimization
+
+Machine Learning Model
+
+Data Science Consultation
+
+Machine Learning Methods
+
+Reinforcement Learning
+
+Unsupervised Learning
+
+Neural Networks
+
+Knowledge Representation
+
+Machine Learning Techniques
+
+Classification
+
+Bayesian Statistics
+
+Machine Learning Tools for statistical simulation
+
+pandas
+
+XGBoost
+
+Machine Learning Languages
+
+Python
+
+Project Description
+
+The client needed a tool to perform a statistical simulation to drive business strategic decisions.
+
+The simulation description was as follows:
+
+For all 4 cases, use a random number generator that will give you numbers between 1 & a million [1,000,000]. Whatever generator you use, make sure to adjust the numbers so that they are between 1 & 1,000,000 distributed randomly.
+
+Website

@@ -1,0 +1,57 @@
+SurveyMonkey Business Questioner Report using Power BI
+
+Client Background
+
+Client: A leading tech firm in the USA
+
+Industry Type: IT Services
+
+Services: SAAS services, Marketing services, Business consultant
+
+Organization Size: 100+
+
+Project Objective
+
+The main objective of this project is to create business awareness report using power bi. And from this report we find out business awareness regarding business.
+
+Project Description
+
+Create data models, visually represent your survey data with charts and graphs, create reports, and share reports with client.
+
+Our Solution
+
+Step 1: First create sample question in surveymonkey and get some sample response regarding that survey.
+
+Step 2: After that download that response in excel or CSV format
+
+Step 3: Connect that data (Excel or CSV) in Power BI.
+
+Step 4: After that create report using that data in response and format the report properly.
+
+Project Deliverables
+
+After reporting we come up with Power BI report file and access credential and explanation of model in video.
+
+Tools used
+
+Power BI, Microsoft Excel, surveymonkey website.
+
+Language/techniques used
+
+Power BI report techniques used.
+
+Models used
+
+surveymonkey integration model used.
+
+Skills used
+
+Power BI Dashboard and report development.
+
+Databases used
+
+CSV or Excel file.
+
+Web Cloud Servers used
+
+Google Cloud Platform

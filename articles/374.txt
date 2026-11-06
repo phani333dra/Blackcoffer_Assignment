@@ -1,0 +1,543 @@
+Complete List of Banking AI Tools & AI Software
+
+1. AI Core Banking Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Temenos AI
+
+AI-powered core banking and digital banking platform.
+
+https://www.temenos.com
+
+Finastra Fusion
+
+AI platform for banking operations and financial services.
+
+https://www.finastra.com
+
+Oracle Banking Platform
+
+AI-powered core banking and customer management.
+
+https://www.oracle.com/financial-services
+
+FIS AI Solutions
+
+AI platform for banking, payments, and financial operations.
+
+https://www.fisglobal.com
+
+Fiserv AI
+
+AI-powered banking and payment processing software.
+
+https://www.fiserv.com
+
+Mambu
+
+AI-enabled cloud-native banking platform.
+
+https://mambu.com
+
+Thought Machine Vault
+
+AI-ready cloud core banking platform.
+
+https://www.thoughtmachine.net
+
+Backbase AI
+
+AI-powered digital banking engagement platform.
+
+https://www.backbase.com
+
+2. AI Fraud Detection & Financial Crime Prevention
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Feedzai
+
+AI detects payment fraud and financial crime in real time.
+
+https://feedzai.com
+
+Featurespace
+
+AI-powered fraud detection and anomaly monitoring.
+
+https://www.featurespace.com
+
+NICE Actimize
+
+AI software for fraud detection, AML, and compliance.
+
+https://www.niceactimize.com
+
+SAS Fraud Management
+
+AI platform for banking fraud prevention.
+
+https://www.sas.com
+
+IBM Safer Payments
+
+AI-powered payment fraud detection software.
+
+https://www.ibm.com
+
+DataVisor
+
+AI detects account takeover and payment fraud.
+
+https://www.datavisor.com
+
+Hawk AI
+
+AI platform for anti-money laundering (AML).
+
+https://hawk.ai
+
+Quantexa
+
+AI-powered financial crime and risk intelligence.
+
+https://www.quantexa.com
+
+3. AI Credit Scoring & Loan Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Zest AI
+
+AI-powered credit underwriting and loan approval.
+
+https://www.zest.ai
+
+Upstart AI
+
+AI evaluates borrower creditworthiness.
+
+https://www.upstart.com
+
+Scienaptic AI
+
+AI automates loan and credit decisions.
+
+https://www.scienaptic.ai
+
+FICO Platform
+
+AI-powered credit scoring and risk analysis.
+
+https://www.fico.com
+
+Experian Ascend AI
+
+AI-driven credit risk analytics platform.
+
+https://www.experian.com
+
+Provenir AI
+
+AI software for lending and decision automation.
+
+https://www.provenir.com
+
+4. AI AML, KYC & Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ComplyAdvantage
+
+AI platform for AML monitoring and sanctions screening.
+
+https://complyadvantage.com
+
+Fenergo
+
+AI automates Know Your Customer (KYC) compliance.
+
+https://www.fenergo.com
+
+LexisNexis Risk Solutions
+
+AI-powered compliance and identity verification.
+
+https://risk.lexisnexis.com
+
+Refinitiv World-Check
+
+AI platform for customer due diligence.
+
+https://www.lseg.com
+
+SymphonyAI Sensa
+
+AI detects suspicious financial activities.
+
+https://www.symphonyai.com
+
+SEON
+
+AI-powered fraud prevention and identity verification.
+
+https://seon.io
+
+5. AI Customer Service & Virtual Banking
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Salesforce Einstein
+
+AI-powered CRM and customer engagement.
+
+https://www.salesforce.com
+
+IBM watsonx Assistant
+
+AI chatbot for banking customer support.
+
+https://www.ibm.com/watsonx
+
+Amelia
+
+AI-powered virtual banking assistant.
+
+https://amelia.ai
+
+Zendesk AI
+
+AI automates banking customer service.
+
+https://www.zendesk.com
+
+Intercom Fin AI
+
+AI customer support assistant.
+
+https://www.intercom.com
+
+Microsoft Copilot
+
+AI assistant for banking productivity and documentation.
+
+https://copilot.microsoft.com
+
+6. AI Payments & Transaction Intelligence
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Stripe Radar
+
+AI-powered payment fraud prevention.
+
+https://stripe.com/radar
+
+Visa Advanced Authorization
+
+AI analyzes card transactions for fraud.
+
+https://www.visa.com
+
+Mastercard Decision Intelligence
+
+AI improves payment authorization decisions.
+
+https://www.mastercard.com
+
+PayPal Fraud Protection
+
+AI-powered transaction monitoring.
+
+https://www.paypal.com
+
+Sardine AI
+
+AI platform for fraud prevention and payment security.
+
+https://www.sardine.ai
+
+Signifyd
+
+AI-powered e-commerce payment protection.
+
+https://www.signifyd.com
+
+7. AI Wealth Management & Investment Banking
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+BlackRock Aladdin
+
+AI-powered portfolio and investment management.
+
+https://www.blackrock.com/aladdin
+
+Bloomberg Terminal AI
+
+AI assists investment research and market analysis.
+
+https://www.bloomberg.com
+
+AlphaSense
+
+AI-powered financial intelligence platform.
+
+https://www.alpha-sense.com
+
+Magnifi
+
+AI investment search and advisory platform.
+
+https://www.magnifi.com
+
+SigFig
+
+AI-driven wealth management platform.
+
+https://www.sigfig.com
+
+Betterment
+
+AI-assisted digital investment platform.
+
+https://www.betterment.com
+
+8. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-assisted financial dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-powered business intelligence platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-driven banking analytics platform.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI-powered analytics search platform.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive banking analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for banking data analysis.
+
+https://www.knime.com
+
+9. AI Intelligent Document Processing (IDP)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABBYY Vantage
+
+AI extracts and processes banking documents.
+
+https://www.abbyy.com
+
+Rossum
+
+AI automates invoice and document processing.
+
+https://rossum.ai
+
+Hyperscience
+
+AI captures and processes banking forms.
+
+https://www.hyperscience.com
+
+Kofax TotalAgility
+
+AI-powered document automation platform.
+
+https://www.tungstenautomation.com
+
+UiPath AI Center
+
+AI automates banking workflows.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered robotic process automation (RPA).
+
+https://www.automationanywhere.com
+
+10. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for banking research, reports, and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for financial analysis and technical writing.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for banking research and insights.
+
+https://gemini.google.com
+
+Perplexity AI
+
+AI-powered research engine for banking trends.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing banking documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for banking research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding finance papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering finance publications.
+
+https://www.researchrabbit.ai
+
+11. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for banking AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for fraud detection and analytics.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for banking analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for banking analytics.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for banking machine learning.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for banking AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for banking analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for banking datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

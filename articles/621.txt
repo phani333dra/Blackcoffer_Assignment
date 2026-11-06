@@ -1,0 +1,69 @@
+Google Local Service Ads LSA API To Google BigQuery to Google Data Studio
+
+PROCESS INVOLVED FOR MAKING A GOOGLE DATA STUDIO DASHBOARD Get Data From LSA API Connect the data to the Big Query database or to the Google Sheets API. Calculate the metrics for other excel sheets like CPL/CLA, Dispute and Booked Leads and Lead Data combined. Then link the dataset to the dashboard.
+
+GET DATA FROM LSA API
+
+First, there should be a Manager account access from the client to you, as we need a manager account id while getting the data.
+
+Also, you need to have an access token to get the authentication correct to be able to fetch the data.
+
+Get the credentials for the account “localserviceads” i.e. the client ID, access token and client secret.
+
+Create a new sub account for the new client and create two databases for the same i.e. Historical Account Data and Historical Phone Lead.
+
+There are 2 types of data available to us while fetching the data from LSA API
+
+ACCOUNT REPORT API
+
+DETAILED LEAD REPORT API PHONE LEAD REPORT MESSAGE LEAD REPORT
+
+You may also refer to the official documentation from google for LSA API is
+
+https://services.google.com/fh/files/helpcenter/lsa_api_dev_guide.pdf
+
+CONNECTING DATA TO A DATABASE
+
+After getting the data from the LSA API, We need to connect this data to some database so that we can automate this process.
+
+So, You may connect it to the Big Query database or to a spreadsheet.
+
+[ Google Sheets API is way faster than Big query API]
+
+You may use that and then download it and upload it to Big Query Database FOR Historical data as in historical data is usually up to for 3-4 months
+
+*Added both ways in the LSA API *
+
+DATA FOR OTHER EXCEL SHEETS
+
+Using the data from Historical Phone lead, Historical Message lead and Historical Account Data other excel sheets are made to calculate the important metrics like cost per acquisition, cost per lead, disputed and booked leads etc.
+
+For this, other tools are made and are supposed to run after the Historical Account Data and Historical Lead Data(both message and phone) are stored.
+
+NOTE: The other excel files are not supposed to be added to Google Console Database.
+
+Now add the uploaded data to the Data Studio dashboard.
+
+Deploy on Heroku Server.
+
+Code Folder:
+
+https://github.com/AjayBidyarthy/LSA-API—Google-Local-Service-Ads-API-
+
+Connect
+
+Name: Ajay Bidyarthy
+
+Firm Name: Blackcoffer (OPC) Pvt. Ltd.
+
+Address: B-141/1, St. 18, phase 1, Shyam Vihar, New Delhi 110043
+
+Here are my contact details:
+
+email: ajay@blackcoffer.com
+
+Skype: asbidyarthy
+
+Whatsapp: +91 9717367468
+
+YouTube Explanation

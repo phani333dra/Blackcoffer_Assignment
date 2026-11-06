@@ -1,0 +1,493 @@
+Complete List of Production Engineering AI Tools & AI Software
+
+1. AI Production Planning & Scheduling
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter APS
+
+AI-powered production planning and scheduling.
+
+https://www.siemens.com/opcenter
+
+DELMIA Quintiq
+
+AI-assisted production scheduling and optimization.
+
+https://www.3ds.com/products/delmia
+
+PlanetTogether APS
+
+AI-powered advanced production scheduling software.
+
+https://www.planettogether.com
+
+Asprova APS
+
+AI-enabled manufacturing planning and scheduling.
+
+https://www.asprova.com
+
+Siemens Opcenter Execution
+
+AI platform for production execution management.
+
+https://www.siemens.com
+
+Plex Smart Manufacturing Platform
+
+AI-powered production planning and MES.
+
+https://www.plex.com
+
+2. AI Manufacturing Execution Systems (MES)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter MES
+
+AI-powered manufacturing execution platform.
+
+https://www.siemens.com/opcenter
+
+Rockwell FactoryTalk ProductionCentre
+
+AI-assisted manufacturing execution software.
+
+https://www.rockwellautomation.com
+
+AVEVA MES
+
+AI-powered production monitoring and control.
+
+https://www.aveva.com
+
+GE Digital Proficy MES
+
+AI-enabled manufacturing operations management.
+
+https://www.gevernova.com/software
+
+Critical Manufacturing MES
+
+AI-powered smart manufacturing platform.
+
+https://www.criticalmanufacturing.com
+
+SAP Digital Manufacturing
+
+AI-assisted cloud manufacturing execution.
+
+https://www.sap.com
+
+3. AI Industrial Automation & Robotics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABB Ability
+
+AI-powered industrial automation platform.
+
+https://global.abb/ability
+
+Siemens SIMATIC AI
+
+AI-assisted PLC programming and factory automation.
+
+https://www.siemens.com/simatic
+
+FANUC FIELD AI
+
+AI platform for industrial robot optimization.
+
+https://www.fanucamerica.com
+
+KUKA iiQKA
+
+AI-powered industrial robotics software.
+
+https://www.kuka.com
+
+Universal Robots AI
+
+AI-enabled collaborative robot platform.
+
+https://www.universal-robots.com
+
+Rockwell FactoryTalk
+
+AI-powered production automation software.
+
+https://www.rockwellautomation.com
+
+4. AI Quality Inspection & Computer Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cognex VisionPro
+
+AI-powered visual quality inspection software.
+
+https://www.cognex.com
+
+MVTec HALCON
+
+AI-assisted industrial machine vision platform.
+
+https://www.mvtec.com
+
+Landing AI
+
+AI-powered visual inspection for manufacturing defects.
+
+https://landing.ai
+
+Instrumental AI
+
+AI detects manufacturing quality issues automatically.
+
+https://www.instrumental.com
+
+Inspekto
+
+AI-enabled autonomous visual inspection system.
+
+https://www.inspekto.com
+
+Keyence Vision System
+
+AI-powered machine vision inspection solution.
+
+https://www.keyence.com
+
+5. AI Predictive Maintenance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Senseye
+
+AI predicts equipment failures before downtime.
+
+https://senseye.io
+
+IBM Maximo Application Suite
+
+AI-powered asset and maintenance management.
+
+https://www.ibm.com/products/maximo
+
+GE Digital APM
+
+AI platform for production asset performance.
+
+https://www.gevernova.com/software
+
+AVEVA Predictive Analytics
+
+AI monitors machinery health and anomalies.
+
+https://www.aveva.com
+
+Aspen Mtell
+
+AI-powered predictive maintenance software.
+
+https://www.aspentech.com
+
+SparkCognition
+
+AI-driven industrial equipment reliability platform.
+
+https://sparkcognition.com
+
+6. AI Digital Twins & Smart Manufacturing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Omniverse
+
+AI-powered digital twins for manufacturing plants.
+
+https://www.nvidia.com/omniverse
+
+Siemens Digital Twin
+
+AI-assisted factory simulation and optimization.
+
+https://www.siemens.com
+
+Azure Digital Twins
+
+AI platform for production facility modeling.
+
+https://azure.microsoft.com/products/digital-twins
+
+AWS IoT TwinMaker
+
+AI-powered manufacturing digital twin platform.
+
+https://aws.amazon.com/iot-twinmaker
+
+Bentley iTwin
+
+AI-enabled digital twin platform for industrial assets.
+
+https://www.bentley.com/software/itwin
+
+Dassault 3DEXPERIENCE
+
+AI-powered product lifecycle and factory simulation.
+
+https://www.3ds.com
+
+7. AI Industrial IoT (IIoT)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+PTC ThingWorx
+
+AI-powered Industrial IoT application platform.
+
+https://www.ptc.com
+
+Siemens Insights Hub
+
+AI-enabled Industrial IoT analytics platform.
+
+https://www.siemens.com/insights-hub
+
+AWS IoT Core
+
+AI platform for connected production equipment.
+
+https://aws.amazon.com/iot-core
+
+Azure IoT
+
+AI-powered Industrial IoT cloud platform.
+
+https://azure.microsoft.com/products/iot
+
+Bosch IoT Suite
+
+AI-enabled Industrial IoT connectivity platform.
+
+https://bosch-iot-suite.com
+
+IBM Watson IoT
+
+AI platform for monitoring production assets.
+
+https://www.ibm.com
+
+8. AI Supply Chain & Inventory Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+SAP Integrated Business Planning
+
+AI-powered supply chain planning platform.
+
+https://www.sap.com
+
+Blue Yonder
+
+AI-assisted production and inventory optimization.
+
+https://blueyonder.com
+
+Oracle SCM Cloud
+
+AI-powered manufacturing supply chain management.
+
+https://www.oracle.com
+
+Kinaxis Maestro
+
+AI-driven supply chain orchestration platform.
+
+https://www.kinaxis.com
+
+o9 Solutions
+
+AI platform for production demand forecasting.
+
+https://o9solutions.com
+
+Infor Supply Chain
+
+AI-assisted inventory and logistics management.
+
+https://www.infor.com
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for production engineering research.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and production analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for production engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, coding, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered manufacturing research search engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing production engineering papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for production engineering.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding manufacturing publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering production engineering papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for production AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for manufacturing analytics.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for production data analysis.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for production optimization.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for manufacturing predictions.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for production data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics for manufacturing.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for production engineering applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for manufacturing AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for developing production AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

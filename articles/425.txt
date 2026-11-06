@@ -1,0 +1,553 @@
+Complete List of Marine Engineering AI Tools & AI Software
+
+1. AI Ship Design & Naval Architecture
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NAPA Designer
+
+AI-powered ship design, stability, and performance analysis.
+
+https://www.napa.fi
+
+ShipConstructor
+
+AI-assisted 3D ship design and production engineering software.
+
+https://www.shipconstructor.com
+
+Maxsurf
+
+AI-enabled naval architecture and vessel design software.
+
+https://www.bentley.com/software/maxsurf
+
+Siemens Simcenter STAR-CCM+
+
+AI-assisted CFD simulation for ship hydrodynamics.
+
+https://plm.sw.siemens.com/simcenter-star-ccm
+
+ANSYS Fluent
+
+AI-powered computational fluid dynamics for marine engineering.
+
+https://www.ansys.com
+
+Orca3D
+
+AI-assisted naval architecture plugin for Rhino 3D.
+
+https://www.orca3d.com
+
+DNV Sesam
+
+AI-based offshore and marine structural analysis software.
+
+https://www.dnv.com/software
+
+MOSES
+
+AI-assisted offshore floating system simulation platform.
+
+https://hexagon.com
+
+2. AI Autonomous Ships & Smart Navigation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Orca AI
+
+AI-powered collision avoidance and autonomous navigation.
+
+https://www.orca-ai.io
+
+Wärtsilä Smart Marine
+
+AI platform for intelligent vessel operations.
+
+https://www.wartsila.com
+
+Sea Machines
+
+AI autonomous vessel control and navigation software.
+
+https://www.sea-machines.com
+
+ABB Ability Marine
+
+AI-powered marine automation and navigation platform.
+
+https://global.abb
+
+Kongsberg Kognifai
+
+AI digital platform for vessel navigation and operations.
+
+https://www.kongsberg.com
+
+Rolls-Royce Intelligent Awareness
+
+AI-assisted autonomous ship navigation system.
+
+https://www.rolls-royce.com
+
+Avikus HiNAS
+
+AI autonomous navigation solution for ships.
+
+https://www.avikus.ai
+
+Furuno AI Navigation
+
+AI-assisted marine radar and navigation system.
+
+https://www.furuno.com
+
+3. AI Fleet Management & Voyage Optimization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Nautilus Labs
+
+AI optimizes fuel efficiency and voyage planning.
+
+https://nautiluslabs.com
+
+DNV Veracity
+
+AI-powered fleet analytics and vessel performance platform.
+
+https://www.dnv.com/veracity
+
+StormGeo
+
+AI weather routing and voyage optimization software.
+
+https://www.stormgeo.com
+
+MarineTraffic Intelligence
+
+AI-powered vessel tracking and fleet analytics.
+
+https://www.marinetraffic.com
+
+Veson IMOS Platform
+
+AI-driven shipping and fleet management software.
+
+https://www.veson.com
+
+OrbitMI
+
+AI-powered maritime intelligence and voyage optimization.
+
+https://www.orbitmi.com
+
+Windward
+
+AI platform for maritime risk and fleet intelligence.
+
+https://windward.ai
+
+FleetMon Explorer
+
+AI-powered ship tracking and fleet monitoring.
+
+https://www.fleetmon.com
+
+4. AI Predictive Maintenance & Asset Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Senseye
+
+AI predicts failures in marine machinery.
+
+https://senseye.io
+
+IBM Maximo Application Suite
+
+AI-powered marine asset management platform.
+
+https://www.ibm.com/products/maximo
+
+GE Digital APM
+
+AI software for marine asset performance management.
+
+https://www.gevernova.com/software
+
+AVEVA Predictive Analytics
+
+AI monitors ship equipment health.
+
+https://www.aveva.com
+
+Aspen Mtell
+
+AI-powered predictive maintenance software.
+
+https://www.aspentech.com
+
+ABB Ability Asset Manager
+
+AI platform for monitoring marine assets.
+
+https://global.abb/ability
+
+Uptake
+
+AI predicts equipment failures in maritime operations.
+
+https://www.uptake.com
+
+SparkCognition
+
+AI platform for equipment reliability and maintenance.
+
+https://sparkcognition.com
+
+5. AI Marine Robotics & Underwater Systems
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Saildrone
+
+AI-powered autonomous ocean data collection platform.
+
+https://www.saildrone.com
+
+OceanAlpha
+
+AI-enabled autonomous surface vessels (ASVs).
+
+https://www.oceanalpha.com
+
+Greensea IQ
+
+AI software for autonomous underwater vehicles (AUVs).
+
+https://greensea.com
+
+Blue Robotics Ping
+
+AI-assisted sonar for underwater robotics.
+
+https://bluerobotics.com
+
+Kraken Robotics
+
+AI-powered subsea mapping and robotic inspection.
+
+https://krakenrobotics.com
+
+VideoRay Mission Specialist
+
+AI-enabled remotely operated underwater vehicle (ROV).
+
+https://videoray.com
+
+Sonardyne
+
+AI-powered underwater positioning and navigation.
+
+https://www.sonardyne.com
+
+ECA Group AUV Solutions
+
+AI-based autonomous underwater robotics.
+
+https://www.ecagroup.com
+
+6. AI Port Management & Digital Twins
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+NVIDIA Omniverse
+
+AI-powered digital twins for ports and vessels.
+
+https://www.nvidia.com/omniverse
+
+Azure Digital Twins
+
+AI-enabled digital twin platform for marine infrastructure.
+
+https://azure.microsoft.com/products/digital-twins
+
+AWS IoT TwinMaker
+
+Builds AI-powered digital twins for ports and ships.
+
+https://aws.amazon.com/iot-twinmaker
+
+Siemens Digital Twin
+
+AI platform for marine engineering simulations.
+
+https://www.siemens.com
+
+Bentley iTwin
+
+AI-powered infrastructure and port digital twins.
+
+https://www.bentley.com/software/itwin
+
+Dassault 3DEXPERIENCE
+
+AI-enabled marine lifecycle management platform.
+
+https://www.3ds.com
+
+7. AI Ocean Monitoring & Environmental Analysis
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Sofar Ocean
+
+AI-powered ocean intelligence and forecasting.
+
+https://www.sofarocean.com
+
+Tomorrow.io
+
+AI weather forecasting for maritime operations.
+
+https://www.tomorrow.io
+
+Planet Labs
+
+AI satellite monitoring for oceans and coastlines.
+
+https://www.planet.com
+
+Windy API
+
+AI-assisted marine weather forecasting platform.
+
+https://api.windy.com
+
+OceanWise
+
+AI platform for marine environmental monitoring.
+
+https://oceanwise.eu
+
+Saildrone
+
+AI-powered ocean climate and ecosystem monitoring.
+
+https://www.saildrone.com
+
+8. AI Maritime Cybersecurity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Security Copilot
+
+AI assistant for maritime cybersecurity operations.
+
+https://www.microsoft.com/security
+
+Darktrace
+
+AI-powered cyber threat detection for ships and ports.
+
+https://www.darktrace.com
+
+CrowdStrike Falcon
+
+AI endpoint protection for marine infrastructure.
+
+https://www.crowdstrike.com
+
+SentinelOne
+
+AI-driven cybersecurity platform for connected vessels.
+
+https://www.sentinelone.com
+
+IBM QRadar Suite
+
+AI-powered SIEM for maritime cybersecurity.
+
+https://www.ibm.com/qradar
+
+Vectra AI
+
+AI-based network detection for maritime systems.
+
+https://www.vectra.ai
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for marine engineering research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and marine analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for marine engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, coding, and engineering tasks.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered maritime research search engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing marine research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for marine engineering.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding marine publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering marine engineering papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for marine AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for marine engineering research.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for maritime analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for marine data analysis.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for predictive marine analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for marine data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics platform.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for marine engineering applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+Cloud AI platform for marine engineering models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for developing marine AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

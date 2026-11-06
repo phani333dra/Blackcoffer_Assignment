@@ -1,0 +1,83 @@
+Data Management Services
+
+Blackcoffer has been doing practice in the following data sources:
+
+EDGAR SEC
+
+Factiva
+
+Earning Transcripts
+
+CRSP
+
+Compustat
+
+WRDS
+
+IBES
+
+Annual Reports
+
+Fund manager reports
+
+Analyst reports
+
+Morningstar
+
+Other financial datasets
+
+Patent database
+
+Crowdfunding database
+
+Investment database
+
+M&A database
+
+Trade database
+
+Climate database
+
+Supply chain database
+
+Social media data
+
+Blackcoffer performs the following data management tasks on the above listed datasets:
+
+Data collection
+
+Data crawling
+
+Data cleaning
+
+Data transformation
+
+Data lake
+
+Data integration
+
+Data platform
+
+Data Mining
+
+Data Analytics
+
+Predictive modeling
+
+NLP
+
+Textual analytics
+
+Machine learning
+
+AI
+
+Deep learning
+
+Data tools
+
+Data visualization
+
+BI
+
+Do call (+91 9717367468) email us (ajay@blackcoffer.com) with your data management requirement.

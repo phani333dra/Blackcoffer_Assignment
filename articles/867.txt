@@ -1,0 +1,55 @@
+Easy Access to Performance Metrics – Realtime Dashboard
+
+Client Background
+
+Client: One of the leading financial firm in New York
+
+Industry Type: Banking, Financial, Securities and Insurance
+
+Services: Securities and Capital Markets, Trading, Financial Services, and Reporting
+
+Organization Size: SME
+
+Challenges for Realtime Dashboard for Analyst Performance
+
+The client was facing the problem of conducting historical data analysis to present interesting (statistically significant/non-significant) insights. The decision maker used to evaluate, rate, and train their analysis a hard way and they used to go through a rigorous and sophisticated process to discover and obtain better decisions.
+
+The client wanted to replace the manual, hard-coded and sophisticated process with an automated and scalable system that can evaluate their analysis and give their decision-maker a better decision using a data-driven approach and help them to analyze their analysts’ performance data statistically. The new system had to provide operational efficiency with a single source of reliable information.
+
+Solution for Realtime Dashboard for Analyst Performance
+
+The client embarked on an IT transformation journey with Blackcoffer, involving the implementation of a real-time data-driven dashboard and replacement of its disparate legacy systems.
+
+Blackcoffer studied the business process, expectations, pain points, and process dependencies in each of the client’s functional areas and benchmarked models to evaluate the performance of analysts, and developed dashboard as an initial step of powering not just with statistical insights but also with technology implementations.
+
+The scope of engagement included the following set of activities, which was implemented in 12 weeks:
+
+Study to business process, expectations, existing system, use cases, data infrastructure, attributes, and how the information is stored and managed in the existing infrastructure and solutions.
+
+Transformation of business problems into hypothesis and preparation of data inputs required to justify and prove/disprove the hypothesis.
+
+Perform descriptive, inquisitive, and predictive analytics to analyze what has been happening, how it has happened, and what is about to happen in the dataset.
+
+Development of a real-time data-driven dashboard of the analyst ratings performance metrics that should have the capability to generate a report in real-time and help key management with a better decision.
+
+Business Impact
+
+Technology transformed and removed the manual calculation and human judgment process.
+
+Delivered 95% accurate models and 100% efficient system
+
+Reduced analyst ratings performance metrics calculation cost by 70%.
+
+Helped client organization to identify underperforming and outperforming analysts efficiently.
+
+Helped client organizations to identify and train analysts in their lagging subjects.
+
+Helped client organization to compensate their analyst according to their performance.
+
+Helped Analysts to get trained well in where they should achieve goals.
+
+Helped client’s key management team to focus on analyst training that has helped them to increase their revenue by 30% minimum.
+
+Technologies Used: Python, R, Django, D3, AWS cloud
+
+Models Used: Power Analysis, Descriptive Statistics, Decision Trees, Statistical Tests, Time Series Models

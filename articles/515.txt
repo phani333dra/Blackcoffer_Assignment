@@ -1,0 +1,65 @@
+Data science – Create Tailored algorithms
+
+Blackcoffer artificial intelligence solutions are easy to use out-of-the-box and are custom tailored to each individual client’s needs. Our end-to-end AI enabled platforms speed time to delivery, save costs, reduce risk, and deliver optimized results to give you an immediate competitive advantage and bolster your bottom line.
+
+AI innovation enabled by faster processors, Big Data and novel algorithms
+
+AI is “an area of computer science that deals with giving machines the ability to seem like they have human intelligence”. Human intelligence encompasses a wide spectrum of cognitive tasks, which can range from simple rule-based logic to pattern recognition, to more complex communication-based “human work”.
+
+A new regulatory framework specifically tailored to promote the development of safe and effective medical devices that use advanced artificial intelligence algorithms.
+
+These types of algorithms are already being used to aid in screening for diseases and to provide treatment recommendations. Last year, the FDA authorized an artificial intelligence-based device for detecting diabetic retinopathy, an eye disease that can cause vision loss.
+
+We’re taking the first step toward developing a novel and tailored the approach to help developers bring artificial intelligence devices to market by releasing a discussion paper. Other steps in the future will include issuing draft guidance that will be informed by the input we receive. Our approach will focus on the continually-evolving nature of these promising technologies.
+
+The AI big bang can be attributed to three breakthroughs in technology in recent years.
+
+Cheap parallel computation technology : there have been significant advances in computing power, enabling the execution of highly complex calculations extremely fast. The high demand for better video games led to an acceleration in innovation for graphics processing technology. By combining a CPU and GPU together, leaving each to carry out tasks they are specialized in, a much more powerful computer is achieved, capable of running more complicated algorithms in parallel – say, like the human brain’s neural network.
+
+Explosion of big data : artificial intelligence, the same as people, need constant input and exposure to situations in order to learn and grow. This is why the explosion of big data (explained in detail in our previous blog post on Big Data) is an important reason why AI has started to grow so rapidly.
+
+“Teachable” and “self-learning” algorithms: while computation technology and big data are purely underlying key elements helping AI to flourish, algorithms form the engine that brings AI to life. If we were to compare AI to a human brain, computing power would be the basic brain functionality, big data the experiences and exposure to new things, and the algorithms would be the IQ. In other words, the algorithms ultimately determine how “smart” an AI will be.
+
+Artificial intelligence Services
+
+With a basic algorithm, a computer has to be “spoon-fed” data, and the output will be proportional to the effort people put in. However, with a cleverer algorithm that enables computers to “learn” as more data is entered (or as it goes through numerous trial-and-errors), one gets improved functionality (the program gets smarter with more data). Algorithms are the core of artificial intelligence work. In the following three of the main concepts are discussed; artificial neural networks, deep learning, and unsupervised learning.
+
+Artificial neural networks : algorithms for artificial intelligence have shown significant development in the past few years based on the new environment with better-than-ever processors and an abundance of data to test on. It started with the realization of “artificial neural networks”. True to their name, artificial neural networks are modeled after a human’s biological neural network, comprising of neurons connected together in an intricate net. Biological neural networks enable a higher level of abstraction in information processing compared to a traditional computer. For example, we can see a few images of a cat and recognize a cat next time we see a similar image. A similar process happens in artificial neural networks when presented with thousands of cat images. The concept of artificial neural networks has existed for several decades already, but only recently has this been enabled for practical application because of enhanced processing power and sufficient data sets available.
+
+Deep learning : to manage the extremely complicated network of different computations, developers came up with the concept of dividing this network into different layers and guide the flow of information through multiple layers. For example, in determining if a picture includes a cat, there would be different layers of questioning that the artificial brain has to go through before reaching that conclusion. The sequence of questions for identifying a cat could go “Does it have four legs?” → “Is it covered in fur?” → “Does it have long whiskers?” and so on. However, this process is never perfect from the beginning, as the logic may not be accurate all the time. Going back to the example, this algorithm may say that certain types of dogs are cats, and hairless cats would not be recognized as an image of a cat. “Deep learning” is the technique developed to overcome this type of limitation. In the AI world, the term ‘learning’ is basically a feedback process where the network gets feedback on the result it has produced, and has a self-correcting feature if the result is wrong. This is achieved by reassigning weights on the layers (individual questions asked) so that it gets a statistically optimized algorithm that will enhance the probability of getting the right answer
+
+For this type of deep learning to work, two conditions must be fulfilled: the network must be engineered so it is generalizable and applicable to new examples, and humans need to interfere by labeling the input data and determining whether the output result is right or wrong. For instance, when teaching a network to recognize a cat, the programmer will direct the network to look at certain attributes that will distinguish a cat image from other images. When the network returns a result, the programmer will supervise the training by telling the network if it was right or wrong. The network would learn right from wrong through adjusting the weights given to each attribute to minimize the possibility of getting the answer wrong. Because of this level of supervision, some argue that the current realization of artificial intelligence is not ‘real’ AI. These people argue that this technology is not really a machine that can think on its own like a human, but rather just advanced computation.
+
+Unsupervised learning : a new approach that is trying to overcome these shortcomings and get one step closer to ‘real’ AI, is called unsupervised learning. While supervised learning requires a dataset containing the correct answers (labels), unsupervised learning does not require the correct answers ahead of time. It’s like throwing an algorithm out in the wild and letting it figure out the correct answers for itself. A good comparison would be networks that recognize cat images (supervised learning, like the example above) versus networks that learn to play video-games (unsupervised learning). When teaching a network to ace a video game like Breakout through an unsupervised method, the programmer does not tell the algorithm to avoid dropping the ball, or that the goal is to eliminate all the bricks on the screen. Instead, the algorithm is simply directed to maximize the score. This method has the potential of finding new unconventional solutions that “think outside the box” as human bias is not used to guide the algorithm. This method is expected to be very useful once matured since most data is not structured or labeled. It is expected to open AI to new possibilities. Unsupervised learning could also be used to develop a general AI tool that solves complex “human” problems (also called “real AI”), instead of humans having to tediously assign specific tasks to an algorithm.
+
+Solution Offered
+
+After years of research and development by our team of expert, we are proud to present our suite of proprietary platforms focused on detection and analysis, prediction & forecasting, and yield optimization. Applicable across a wide range of industries and powered by a state of art AI technology, each of these platforms addresses a key area where business can utilize AI to drive growth and gain a significant competitive advantage.
+
+Data Science: With the mountain of data that businesses are generating today, there is an urgent need to transform it into viable business strategies.
+
+Our Data Science capabilities include:
+
+Data Analysis/Ad-hoc Analysis.
+
+Feature Engineering.
+
+Model Validation/Hypothesis Testing.
+
+Platforms –
+
+Jupyter Notebooks
+
+Apache Zeppelin Notebooks
+
+Developing Machine Learning Models : Models in accordance with various end results can be developed, including:
+
+Robotic Process Automation (RPA ): Through RPA you define clear governance structures around IT applications. This eliminates customer pain points and empowers you to know the progress of SLAs in real-time.
+
+Deep Learning: With the capability to learn unsupervised from unstructured data, Deep Learning offers even more value to businesses today. Deep Learning services help you leverage this potential by enabling you to cut costs and reduce the time frame of the required results, making it possible to execute repetitive work at the push of a button.
+
+Natural Language Processing (NLP Modelling): Master and implement any required human behaviour by mastering the physiology and beliefs that lie behind the behavior.
+
+Model Deployment, Training, and Testing: handholds you through the complete process of deploying the right NLP model for your organization, testing it for the required results, and training you to bring you to speed with the requisite expertise Knowledge about the resulting model is then transferred to the right stakeholders of your company.
+
+Whether you are just beginning to contemplate how to take advantage of artificial intelligence in your organization, or you have a specific plan in mind and are looking to execute, our solutions are designed to enable companies at any level of expertise with the streamlined ability to harness the power of industry-leading AI.

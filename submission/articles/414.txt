@@ -1,0 +1,525 @@
+Complete List of Insurance AI Tools & AI Software
+
+1. AI Insurance Core Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Guidewire Cloud Platform
+
+AI-powered policy, billing, and claims management.
+
+https://www.guidewire.com
+
+Duck Creek Technologies
+
+AI-enabled insurance core system platform.
+
+https://www.duckcreek.com
+
+Sapiens Insurance Platform
+
+AI software for policy administration and underwriting.
+
+https://www.sapiens.com
+
+Majesco
+
+AI-powered digital insurance platform.
+
+https://www.majesco.com
+
+Insurity
+
+AI platform for property and casualty insurance.
+
+https://insurity.com
+
+Socotra
+
+AI-ready cloud-native insurance core platform.
+
+https://www.socotra.com
+
+EIS Suite
+
+AI-powered insurance policy and claims management.
+
+https://www.eisgroup.com
+
+2. AI Claims Processing & Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Tractable
+
+AI automates vehicle and property damage assessment.
+
+https://tractable.ai
+
+CCC Intelligent Solutions
+
+AI-powered insurance claims management.
+
+https://www.cccis.com
+
+Shift Technology
+
+AI automates claims handling and fraud detection.
+
+https://www.shift-technology.com
+
+Sprout.ai
+
+AI-powered claims document processing.
+
+https://sprout.ai
+
+FRISS
+
+AI detects fraudulent insurance claims.
+
+https://www.friss.com
+
+EvolutionIQ
+
+AI prioritizes disability and health insurance claims.
+
+https://www.evolutioniq.com
+
+3. AI Underwriting & Risk Assessment
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Cytora
+
+AI automates commercial insurance underwriting.
+
+https://www.cytora.com
+
+Arturo AI
+
+AI analyzes property risk using geospatial imagery.
+
+https://www.arturo.ai
+
+ZestyAI
+
+AI predicts property risk for insurers.
+
+https://zesty.ai
+
+Gradient AI
+
+AI-powered underwriting and risk analytics.
+
+https://www.gradientai.com
+
+Akur8
+
+AI-driven insurance pricing and underwriting.
+
+https://www.akur8.com
+
+Earnix
+
+AI platform for insurance pricing and product optimization.
+
+https://earnix.com
+
+4. AI Fraud Detection & Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+FRISS
+
+AI detects insurance fraud in real time.
+
+https://www.friss.com
+
+Shift Claims Fraud Detection
+
+AI identifies suspicious claims and fraud patterns.
+
+https://www.shift-technology.com
+
+SAS Fraud Management
+
+AI platform for fraud prevention and analytics.
+
+https://www.sas.com
+
+NICE Actimize
+
+AI software for fraud and financial crime detection.
+
+https://www.niceactimize.com
+
+IBM Safer Payments
+
+AI-powered fraud detection platform.
+
+https://www.ibm.com
+
+Featurespace
+
+AI monitors fraud and anomalous customer behavior.
+
+https://www.featurespace.com
+
+5. AI Customer Service & Virtual Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Salesforce Einstein
+
+AI-powered CRM and insurance customer engagement.
+
+https://www.salesforce.com
+
+IBM watsonx Assistant
+
+AI chatbot for insurance customer support.
+
+https://www.ibm.com/watsonx
+
+Zendesk AI
+
+AI automates insurance customer service.
+
+https://www.zendesk.com
+
+Intercom Fin AI
+
+AI assistant for customer support automation.
+
+https://www.intercom.com
+
+Amelia
+
+AI-powered insurance virtual assistant.
+
+https://amelia.ai
+
+Microsoft Copilot
+
+AI assistant for documentation and productivity.
+
+https://copilot.microsoft.com
+
+6. AI Document Processing & OCR
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ABBYY Vantage
+
+AI-powered insurance document processing.
+
+https://www.abbyy.com
+
+Rossum
+
+AI automates claims and policy document extraction.
+
+https://rossum.ai
+
+Hyperscience
+
+AI captures data from insurance forms.
+
+https://www.hyperscience.com
+
+Kofax TotalAgility
+
+AI-powered document workflow automation.
+
+https://www.tungstenautomation.com
+
+UiPath AI Center
+
+AI automates insurance back-office workflows.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered robotic process automation (RPA).
+
+https://www.automationanywhere.com
+
+7. AI Pricing & Actuarial Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Earnix
+
+AI-powered pricing optimization for insurers.
+
+https://earnix.com
+
+Akur8
+
+AI automates actuarial pricing models.
+
+https://www.akur8.com
+
+Milliman Arius
+
+AI platform for actuarial reserving and analytics.
+
+https://www.milliman.com
+
+SAS Risk Modeling
+
+AI-driven insurance risk modeling.
+
+https://www.sas.com
+
+Moody’s RMS
+
+AI-powered catastrophe risk modeling.
+
+https://www.rms.com
+
+Verisk Analytics
+
+AI platform for insurance risk assessment.
+
+https://www.verisk.com
+
+8. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-assisted dashboards and insurance reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-powered business intelligence platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-driven insurance analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI-powered search-driven analytics.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive insurance analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for insurance data analysis.
+
+https://www.knime.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for insurance research, documentation, and policy drafting.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for underwriting analysis and technical writing.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for insurance research and insights.
+
+https://gemini.google.com
+
+Perplexity AI
+
+AI-powered research engine for insurance trends.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing insurance documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review tool for insurance research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding insurance and finance papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering insurance research publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for insurance AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for insurance analytics.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for insurance modeling.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for insurance analytics.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for insurance machine learning.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for insurance AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for insurance analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for insurance datasets.
+
+https://www.databricks.com
+
+11. AI Geospatial & Property Risk Assessment
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Betterview
+
+AI analyzes property conditions using aerial imagery.
+
+https://betterview.com
+
+Cape Analytics
+
+AI-powered property intelligence from geospatial imagery.
+
+https://capeanalytics.com
+
+Nearmap AI
+
+AI aerial imagery analysis for property insurance.
+
+https://www.nearmap.com
+
+Arturo AI
+
+AI assesses property risk using satellite and drone imagery.
+
+https://www.arturo.ai
+
+ICEYE
+
+AI-powered satellite flood and catastrophe monitoring.
+
+https://www.iceye.com
+
+Planet
+
+AI-enabled satellite imagery for catastrophe risk assessment.
+
+https://www.planet.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

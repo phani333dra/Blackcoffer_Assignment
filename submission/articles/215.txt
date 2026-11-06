@@ -1,0 +1,17 @@
+AI, ML, Deep Learning Python Tool Deliverables
+
+Here are the structures for the python tool deliverables. We deliver a Python tool in a directory that contains the following:
+
+Input. The folder name is “Input” which contains all input files to process and generate output.
+
+Output. The folder name is “Output” which contains all output files or files
+
+.py executable file. Which reads input from the input folder and output into the output folder
+
+Readme.txt. A readme file that explains how to execute the .py file
+
+Any other instructions or other required file or folder
+
+A video explaining the tool, how to run it, input and output, will any other instructions required.
+
+Here is an example of deliverable tool:

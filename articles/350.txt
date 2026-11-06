@@ -1,0 +1,105 @@
+Chatbot and conversation agent Transform the experience and engagement
+
+The chatbot is the first significative business application of artificial intelligence Its capacity to understand and communicate in natural language revolutionizes our perception and the usage of digital interfaces
+
+Self-learning, it feeds from data and from its own experience to perfect itself as time goes by
+
+From customer experience to support services, through access to information, its applications are multiple.
+
+Chatbots have taken the world by storm. These robots act as personal assistants, customer support representatives, marketing executives, and more.
+
+While chatbots can help make an online conversation between a brand and a consumer seem highly personal, these machines need to be trained similarly to a human representative.
+
+Understanding the goal of customer
+
+Before designing conversation for the chatbot, identify and understand the goals of the customer. To be more specific, understand why the client wants to build a chatbot and what does the customer want his chatbot to do. Finding answers to this query will guide the designer to create conversations aimed at meeting end goals. There’s a number of ways a chatbot could benefit your business, such as:
+
+Learning – more about your audience
+
+Providing – customer support through social media
+
+Driving – traffic to your website
+
+Increasing – sales
+
+Additionally, chatbots can help consumers by:
+
+Offering – easy access to information regarding services and products
+
+Providing – quick online support
+
+Entertaining – customers while they speak to a human representative of your brand
+
+Solving – a variety of problems regarding accounts and orders
+
+When the designer gets to know why the chatbot is being built he is better placed to design the conversation with the chatbot.
+
+Make Your Chatbot Proactive
+
+Your audience will not use your chatbot if they don’t know it exists or are unaware of how it could help them. It’s important that you make your chatbot proactive by telling your audience how they can start a conversation. Begin by creating an engaging welcome message that introduces your chatbot to your audience and explains how it can help them.
+
+Simulating conversations for inspiration
+
+The frontrunners that have used simulated conversations with systems or computers have given us an idea as to how these conversations are built. A company selling products trains employees to communicate with clients. Dialogue simulations to help employee communication with the client in different situations and prepare him to handle real-life situations.
+
+Take the case of a car salesman taking part in this simulated dialogue with the customer. This is one of the many scenarios created within a system prompting the salesman to communicate with the customer based on what the customer wants.
+
+Simulated dialogues with customers help the salesman grow in confidence to handle different situations. Designers can take a cue from simulated conversations created for systems that sound like normal conversations.
+
+Design Your Conversation Flow Carefully
+
+Designing a conversation flow is extremely challenging due to the language we use; therefore, the conversations we have can be unpredictable, and that’s not to mention the fact that we are prone to typos…something that some chatbots aren’t yet designed to understand.
+
+You need to design your bot to be able to ask and answer specific types of questions, some of which include:
+
+Alternative choice questions
+
+Who, what, where, when, why questions?
+
+Yes or no questions
+
+Tag questions that help the conversation flow naturally; for example, “California is beautiful, isn’t it?”
+
+Try to avoid rhetorical questions at all costs. Aside from the fact that they may come across as rude, humans have a tendency to answer them anyway, meaning that your bot may become confused and won’t fulfill its purpose.
+
+Use Buttons
+
+While buttons may be known to reduce an audience’s engagement when communicating with your chatbot, these may improve the conversation flow and help them to quickly receive answers to their questions. Use pre-suggested text in the form of buttons when you need or want to offer essential information, such as:
+
+Yes or no answers
+
+Contact Us buttons
+
+Feedback buttons
+
+Designing chatbot interactions
+
+The designer can model the conversation flow based on the type of interactions between the user and a chatbot, these are segmented into structured and unstructured interactions. As the name suggests, the structured type is more about the logical flow of information including menus, choices, and forms into account. For instance, a customer buying a product is prompted to fill an order form. Similarly, a buyer ordering item at a restaurant chooses the item from a list. The unstructured conversation flow includes freestyle plain text. Such as conversations with family, colleagues, friends and other acquaintances fall into this segment.
+
+Developing script
+
+Designing interactions for structured and unstructured messages is just the beginning. Developing scripts for these messages will follow suit. While developing the script for messages, it is important to keep the conversation topics close to the purpose served by the chatbot.
+
+The designer ought to keep the sole purpose at the core of scripting, think of all the possibilities before scripting conversations. Take the case of a designer scripting conversations for a chatbot built to assist hotel reservations.
+
+While you may feel like a complex chatbot with loads of features is what your customers want, it’s highly possible that it won’t have the capabilities to perfectly undertake multiple tasks. As a result, you’re better off keeping things simple to avoid overwhelming your audience.
+
+Think About the Microcopy
+
+While you should never lie to your audience and trick them into thinking they’re talking with a human representative, it’s important to follow a natural conversation flow…one that represents your brand image. Consider designing your micro-copy in a way that reflects that of a normal conversation. Additionally, you should:
+
+Avoid complicated grammar
+
+Keep conversations short and concise
+
+Stay away from gender-specific pronouns
+
+Add a level of humour or character to your chatbot
+
+Back Your Chatbot With a Human
+
+Last but not least, the technology that powers chatbots aren’t perfect, meaning you should back your chatbot with a human representative in order to avoid losing leads. Offer your audience the chance to speak with a human throughout the conversation to decrease the possibility of having an unsatisfied customer.
+
+This is how an open-ended conversation can develop between the customer and a chatbot.
+
+The designer is not short of ideas or inspiration even before he sets out to design conversation. The curious nature of designers can help them learn from observation, hearing, and experience. For one, simulated conversations can spark ideas in designers – like the conversation between the salesman and the customer. Designers now have a task at hand for the reason that conversation is going to be the future of design.

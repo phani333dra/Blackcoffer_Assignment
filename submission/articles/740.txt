@@ -1,0 +1,41 @@
+IOT, AI, ML for Machine Tracking
+
+Client Background
+
+Client: A leading Wine and Spirits Firm Worldwide
+
+Industry Type: Wine and Spirits
+
+Products: Wine & Spirits, Alcoholic Beverages, Seagrams, Blenders Pride, Royal Stag, Imperial Blue, Jameson, ABSOLUT, Ballentine’s, Chivas Regal, Jacob’s Creek, 100 Pipers, and Glenlivet
+
+Organization Size: 5000+
+
+Customers: Worldwide
+
+Challenges for Machine Tracking
+
+The client had a legacy-based system in place and a manual process to track the machines, their operations power, and when the machines are functioning, and when the machines are not functions. It was a very difficult and challenging process for the client how to make the entire process automated by minimizing the resource allocation with zero false positive or false negative.
+
+The client was looking for meaningful information in surveillance videos, such as how the machine works, how many hours does the machine, is machine work perfectly or having malfunctions. To achieve this goal, the client was looking to track machine and their characteristics. For the time being, the characteristics that the client wanted to explore is their working function. Further, the client wanted to understand the object association task, since it is required to associate the same machine in consecutive video frames.
+
+Solution
+
+Blackcoffer executed the team’s operations and understood the client’s need by observing operating machines, how it was operated, and how the machines were tracked. Blackcoffer designed and implemented an AI, ML, and IoT-based solution that replaced the legacy-based system, manual machine tracking, checks of machine functioning, and the machine performance.
+
+Blackcoffer solution was installed and integrated into the client’s production facility to get meaningful information in surveillance videos, including machine activity, active hours, inactive hours, machine speed, and overall performance of the machines.
+
+Blackcoffer designed a dashboard for the client’s stakeholders and decision-makers to monitor the machine’s tracking KPI, get machine’s activity over time and analyze the machine’s past activity, present activity, and predict machine’s efficiency and productions.
+
+Business Impact of Machine Tracking
+
+The automated machine tracking has helped the client to know the cause of inactive hours and find solutions for it
+
+The new system in place has helped the client to put strategy when to produce more and meet the demand
+
+The IoT system has reduced operating cost by 30%
+
+The AI and ML system has helped the client to produce more and overall the revenue has increased by 12%
+
+The new advanced system has helped the client to control the machine remotely and know the cause of its inactive hours so that a solution and be found for it.
+
+The risk of losing production reduced by 90%

@@ -1,0 +1,505 @@
+Complete List of Structural Engineering AI Tools & AI Software
+
+1. AI Structural Analysis & Design
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ETABS
+
+AI-assisted structural analysis and building design software.
+
+https://www.csiamerica.com/products/etabs
+
+SAP2000
+
+AI-powered structural analysis for civil engineering projects.
+
+https://www.csiamerica.com/products/sap2000
+
+SAFE
+
+AI-assisted slab and foundation design software.
+
+https://www.csiamerica.com/products/safe
+
+STAAD.Pro
+
+AI-enabled structural analysis and design platform.
+
+https://www.bentley.com/software/staad
+
+Robot Structural Analysis
+
+AI-powered structural modeling and simulation.
+
+https://www.autodesk.com/products/robot-structural-analysis
+
+MIDAS Gen
+
+AI-assisted structural design and finite element analysis.
+
+https://www.midasoft.com
+
+RFEM
+
+AI-powered finite element analysis for structural engineering.
+
+https://www.dlubal.com
+
+RSTAB
+
+AI-assisted frame and truss structural analysis.
+
+https://www.dlubal.com
+
+2. AI Building Information Modeling (BIM)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Autodesk Revit
+
+AI-powered BIM software for structural engineering.
+
+https://www.autodesk.com/products/revit
+
+Tekla Structures
+
+AI-assisted BIM platform for steel and concrete structures.
+
+https://www.tekla.com
+
+Bentley OpenBuildings
+
+AI-enabled BIM platform for infrastructure projects.
+
+https://www.bentley.com
+
+Graphisoft Archicad AI
+
+AI-powered BIM software for integrated building design.
+
+https://graphisoft.com
+
+Allplan Engineering
+
+AI-assisted BIM solution for structural engineers.
+
+https://www.allplan.com
+
+Autodesk Construction Cloud
+
+AI-powered construction collaboration and BIM management.
+
+https://construction.autodesk.com
+
+3. AI Finite Element Analysis (FEA)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ANSYS Mechanical
+
+AI-powered structural simulation and FEA software.
+
+https://www.ansys.com
+
+Abaqus
+
+AI-assisted nonlinear structural analysis platform.
+
+https://www.3ds.com/products/simulia/abaqus
+
+COMSOL Multiphysics
+
+AI-enabled multiphysics and structural simulation software.
+
+https://www.comsol.com
+
+SimScale
+
+AI-powered cloud-based structural simulation platform.
+
+https://www.simscale.com
+
+Altair HyperWorks
+
+AI-assisted structural optimization and simulation suite.
+
+https://altair.com/hyperworks
+
+MSC Nastran
+
+AI-powered finite element analysis software.
+
+https://hexagon.com
+
+4. AI Structural Health Monitoring
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Bentley AssetWise
+
+AI-powered infrastructure health monitoring platform.
+
+https://www.bentley.com
+
+Siemens Senseye
+
+AI predicts failures in structural assets.
+
+https://senseye.io
+
+IBM Maximo Application Suite
+
+AI-powered structural asset management software.
+
+https://www.ibm.com/products/maximo
+
+GeoSIG
+
+AI-enabled structural and seismic monitoring.
+
+https://www.geosig.com
+
+Leica GeoMoS
+
+AI-powered deformation and structural monitoring software.
+
+https://leica-geosystems.com
+
+Sensemetrics
+
+AI platform for real-time infrastructure monitoring.
+
+https://sensemetrics.com
+
+5. AI Construction & Project Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Procore
+
+AI-powered construction project management platform.
+
+https://www.procore.com
+
+Autodesk Build
+
+AI-assisted construction management and collaboration.
+
+https://construction.autodesk.com
+
+Oracle Primavera P6
+
+AI-enabled project planning and scheduling software.
+
+https://www.oracle.com/construction-engineering
+
+Oracle Aconex
+
+AI-powered construction document management platform.
+
+https://www.oracle.com/construction-engineering
+
+PlanRadar
+
+AI-assisted construction site management software.
+
+https://www.planradar.com
+
+Buildots
+
+AI-powered construction progress tracking platform.
+
+https://buildots.com
+
+6. AI Digital Twins & Smart Infrastructure
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Bentley iTwin
+
+AI-powered digital twin platform for infrastructure.
+
+https://www.bentley.com/software/itwin
+
+NVIDIA Omniverse
+
+AI-powered digital twins for structural engineering.
+
+https://www.nvidia.com/omniverse
+
+Azure Digital Twins
+
+AI-enabled structural infrastructure modeling.
+
+https://azure.microsoft.com/products/digital-twins
+
+AWS IoT TwinMaker
+
+AI platform for creating infrastructure digital twins.
+
+https://aws.amazon.com/iot-twinmaker
+
+Dassault 3DEXPERIENCE
+
+AI-powered digital engineering and lifecycle platform.
+
+https://www.3ds.com
+
+Siemens Digital Twin
+
+AI-assisted structural simulation and digital twins.
+
+https://www.siemens.com
+
+7. AI Inspection, Drones & Computer Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+DJI Terra
+
+AI-powered drone mapping and structural inspection.
+
+https://enterprise.dji.com/dji-terra
+
+DroneDeploy
+
+AI-assisted aerial inspection and site mapping.
+
+https://www.dronedeploy.com
+
+Pix4D
+
+AI-powered photogrammetry and infrastructure inspection.
+
+https://www.pix4d.com
+
+OpenSpace.ai
+
+AI platform for automated construction site capture.
+
+https://www.openspace.ai
+
+Buildots
+
+AI-powered computer vision for construction monitoring.
+
+https://buildots.com
+
+viAct
+
+AI-based safety and structural inspection platform.
+
+https://www.viact.ai
+
+8. AI Generative Design & Optimization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Autodesk Forma
+
+AI-powered generative building and structural design.
+
+https://www.autodesk.com/products/forma
+
+Autodesk Fusion
+
+AI-assisted generative engineering and optimization.
+
+https://www.autodesk.com/products/fusion-360
+
+Altair Inspire
+
+AI-powered structural optimization software.
+
+https://altair.com/inspire
+
+nTopology
+
+AI-driven generative structural design platform.
+
+https://www.ntop.com
+
+Siemens NX
+
+AI-assisted engineering design and optimization.
+
+https://plm.sw.siemens.com/nx
+
+Grasshopper AI Plugins
+
+AI-enhanced parametric and structural design workflows.
+
+https://www.rhino3d.com
+
+9. AI Research & Engineering Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for structural engineering research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and engineering analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for structural engineering research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, coding, and documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered structural engineering research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing structural engineering papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for engineering research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding structural publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering structural engineering papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for structural AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for structural analysis.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for structural data analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for structural engineering.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for predictive structural models.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for structural data science.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics for structural engineering.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for structural engineering applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for structural AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for developing structural AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

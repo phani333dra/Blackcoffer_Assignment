@@ -1,0 +1,493 @@
+Complete List of Agriculture (Farming, Animal Husbandry, Horticulture) AI Tools & AI Software
+
+1. AI Precision Farming & Smart Agriculture
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Climate FieldView
+
+AI-powered precision farming and field analytics.
+
+https://climatefieldview.com
+
+John Deere Operations Center
+
+AI-driven farm management and machinery optimization.
+
+https://www.deere.com
+
+CropX
+
+AI-powered soil monitoring and irrigation optimization.
+
+https://cropx.com
+
+OneSoil
+
+AI-assisted satellite-based crop monitoring.
+
+https://onesoil.ai
+
+Farmers Edge
+
+AI-powered precision agriculture platform.
+
+https://farmersedge.ca
+
+Taranis
+
+AI detects crop health issues using aerial imagery.
+
+https://www.taranis.com
+
+2. AI Crop Monitoring & Disease Detection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Plantix
+
+AI identifies crop diseases from plant images.
+
+https://plantix.net
+
+PEAT Plantix Vision
+
+AI-powered pest and nutrient deficiency detection.
+
+https://peat.technology
+
+Agrio
+
+AI detects crop diseases and pest outbreaks.
+
+https://agrio.app
+
+SeeTree
+
+AI-powered tree health monitoring platform.
+
+https://www.seetree.ai
+
+Prospera
+
+AI monitors crop growth and greenhouse performance.
+
+https://www.prospera.ag
+
+EarthOptics
+
+AI-powered soil and crop health analytics.
+
+https://earthoptics.com
+
+3. AI Farm Management Software
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Granular
+
+AI-powered farm business management platform.
+
+https://www.granular.ag
+
+Agworld
+
+AI-assisted farm planning and record management.
+
+https://www.agworld.com
+
+FarmERP
+
+AI-enabled farm management and traceability platform.
+
+https://www.farmerp.com
+
+Trimble Ag Software
+
+AI-powered farm operations management.
+
+https://agriculture.trimble.com
+
+AgriWebb
+
+AI platform for livestock and farm management.
+
+https://www.agriwebb.com
+
+Conservis
+
+AI-powered agricultural operations management.
+
+https://www.conservis.ag
+
+4. AI Livestock & Animal Husbandry
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Connecterra Ida
+
+AI monitors dairy cow health and behavior.
+
+https://www.connecterra.io
+
+CattleEye
+
+AI-powered cattle health and mobility monitoring.
+
+https://www.cattleeye.com
+
+Cainthus
+
+AI uses computer vision for livestock monitoring.
+
+https://www.cainthus.com
+
+Allflex Livestock Intelligence
+
+AI tracks animal health and productivity.
+
+https://www.allflex.global
+
+Moocall
+
+AI predicts calving and monitors cattle health.
+
+https://www.moocall.com
+
+smaXtec
+
+AI-powered animal health and rumen monitoring.
+
+https://www.smaxtec.com
+
+5. AI Horticulture & Greenhouse Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Source.ag
+
+AI optimizes greenhouse crop production.
+
+https://www.source.ag
+
+Priva
+
+AI-powered greenhouse climate control.
+
+https://www.priva.com
+
+Ridder
+
+AI-assisted greenhouse automation platform.
+
+https://www.ridder.com
+
+Grodan e-Gro
+
+AI monitors greenhouse irrigation and crop growth.
+
+https://www.grodan.com
+
+Blue Radix Crop Controller
+
+AI autonomously manages greenhouse operations.
+
+https://blue-radix.com
+
+Aranet
+
+AI-enabled greenhouse environmental monitoring.
+
+https://aranet.com
+
+6. AI Agricultural Drones & Remote Sensing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+DJI Agriculture
+
+AI-powered agricultural drone mapping and spraying.
+
+https://ag.dji.com
+
+Pix4Dfields
+
+AI creates crop maps from drone imagery.
+
+https://www.pix4d.com
+
+DroneDeploy
+
+AI-powered aerial farm inspection and mapping.
+
+https://www.dronedeploy.com
+
+Sentera
+
+AI analyzes crop health using drone imagery.
+
+https://sentera.com
+
+AgEagle
+
+AI-driven drone analytics for agriculture.
+
+https://ageagle.com
+
+EOSDA Crop Monitoring
+
+AI-powered satellite crop monitoring platform.
+
+https://eos.com
+
+7. AI Irrigation & Water Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+CropX
+
+AI optimizes irrigation using soil sensor data.
+
+https://cropx.com
+
+Netafim GrowSphere
+
+AI-powered smart irrigation management.
+
+https://www.netafim.com
+
+AquaSpy
+
+AI monitors soil moisture and irrigation needs.
+
+https://aquaspy.com
+
+Hydrosat
+
+AI-powered satellite irrigation insights.
+
+https://hydrosat.com
+
+Jain Logic
+
+AI-enabled irrigation automation platform.
+
+https://www.jains.com
+
+Hortau
+
+AI monitors field water stress and irrigation.
+
+https://hortau.com
+
+8. AI Supply Chain & Agricultural Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Food Trust
+
+AI and blockchain for agricultural traceability.
+
+https://www.ibm.com/products/food-trust
+
+Agmatix
+
+AI-powered agronomic data analytics platform.
+
+https://agmatix.com
+
+AgShift
+
+AI automates crop quality grading and inspection.
+
+https://agshift.com
+
+xFarm Technologies
+
+AI-powered digital farming and analytics platform.
+
+https://xfarm.ag
+
+AgroStar
+
+AI-powered digital agriculture advisory platform.
+
+https://www.agrostar.in
+
+Farmonaut
+
+AI satellite-based farm intelligence platform.
+
+https://farmonaut.com
+
+9. AI Research & Agricultural Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for agricultural research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for farming analysis and reports.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for agriculture research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for farm documentation and analysis.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered agricultural research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing agricultural papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for agriculture.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding agricultural publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering agriculture research papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for agricultural AI applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for smart farming solutions.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for agricultural analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for agricultural predictions.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AI platform for agricultural forecasting.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflow platform for agricultural data science.
+
+https://www.knime.com
+
+Altair RapidMiner
+
+AI-powered predictive analytics for agriculture.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for agriculture applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for agricultural AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for building agricultural AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

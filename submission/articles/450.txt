@@ -1,0 +1,565 @@
+Complete List of Retail & Wholesale Trade AI Tools & AI Software
+
+1. AI E-commerce & Retail Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Shopify Magic
+
+AI generates product descriptions and store content.
+
+https://www.shopify.com/magic
+
+Adobe Commerce AI
+
+AI personalizes shopping experiences and recommendations.
+
+https://business.adobe.com/products/magento/magento-commerce.html
+
+Salesforce Commerce Cloud Einstein
+
+AI-powered product recommendations and personalization.
+
+https://www.salesforce.com/products/commerce-cloud
+
+SAP Commerce Cloud
+
+AI optimizes digital commerce operations.
+
+https://www.sap.com
+
+Oracle CX Commerce
+
+AI improves online shopping experiences.
+
+https://www.oracle.com
+
+BigCommerce AI
+
+AI-powered e-commerce management platform.
+
+https://www.bigcommerce.com
+
+VTEX
+
+AI-driven digital commerce and marketplace platform.
+
+https://vtex.com
+
+commercetools
+
+AI-enabled headless commerce platform.
+
+https://commercetools.com
+
+2. AI Inventory Management & Demand Forecasting
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Blue Yonder
+
+AI forecasts demand and optimizes inventory.
+
+https://blueyonder.com
+
+o9 Solutions
+
+AI-powered supply chain and inventory planning.
+
+https://o9solutions.com
+
+Kinaxis Maestro
+
+AI improves retail inventory planning.
+
+https://www.kinaxis.com
+
+RELEX Solutions
+
+AI optimizes retail replenishment and forecasting.
+
+https://www.relexsolutions.com
+
+Oracle Retail AI
+
+AI manages retail inventory and pricing.
+
+https://www.oracle.com
+
+SAP Integrated Business Planning
+
+AI-powered inventory optimization.
+
+https://www.sap.com
+
+E2open
+
+AI improves supply chain visibility.
+
+https://www.e2open.com
+
+Logility
+
+AI-powered demand forecasting platform.
+
+https://www.logility.com
+
+3. AI Pricing & Merchandising
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Competera
+
+AI optimizes retail pricing strategies.
+
+https://competera.ai
+
+Intelligence Node
+
+AI-powered pricing and assortment optimization.
+
+https://www.intelligencenode.com
+
+Revionics
+
+AI-driven retail pricing optimization.
+
+https://www.revionics.com
+
+EDITED
+
+AI analyzes fashion and retail trends.
+
+https://edited.com
+
+Lily AI
+
+AI improves product tagging and merchandising.
+
+https://www.lily.ai
+
+Vue.ai
+
+AI automates visual merchandising.
+
+https://vue.ai
+
+Dynamic Yield
+
+AI personalizes promotions and recommendations.
+
+https://www.dynamicyield.com
+
+Algolia AI Search
+
+AI-powered product search and discovery.
+
+https://www.algolia.com
+
+4. AI Customer Experience & Personalization
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Salesforce Einstein
+
+AI personalizes customer engagement.
+
+https://www.salesforce.com
+
+Zendesk AI
+
+AI automates customer support.
+
+https://www.zendesk.com
+
+Freshworks Freddy AI
+
+AI-powered retail customer service.
+
+https://www.freshworks.com
+
+Intercom AI
+
+AI chatbot for customer interactions.
+
+https://www.intercom.com
+
+Drift AI
+
+AI-powered conversational sales platform.
+
+https://www.drift.com
+
+LivePerson
+
+AI automates customer conversations.
+
+https://www.liveperson.com
+
+Ada CX
+
+AI customer support automation.
+
+https://www.ada.cx
+
+Tidio AI
+
+AI chatbot for retail websites.
+
+https://www.tidio.com
+
+5. AI Warehouse & Supply Chain Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Manhattan Active Supply Chain
+
+AI optimizes warehouse operations.
+
+https://www.manh.com
+
+Körber Supply Chain
+
+AI-powered warehouse management.
+
+https://www.koerber-supplychain.com
+
+SAP Extended Warehouse Management
+
+AI manages warehouse workflows.
+
+https://www.sap.com
+
+Oracle Warehouse Management
+
+AI optimizes warehouse operations.
+
+https://www.oracle.com
+
+Blue Yonder Warehouse Management
+
+AI automates warehouse planning.
+
+https://blueyonder.com
+
+Locus Robotics
+
+AI-powered warehouse robots.
+
+https://locusrobotics.com
+
+GreyOrange
+
+AI automates warehouse fulfillment.
+
+https://www.greyorange.com
+
+Geek+ Robotics
+
+AI-driven warehouse automation.
+
+https://www.geekplus.com
+
+6. AI Visual Search & Computer Vision
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Syte
+
+AI visual product search platform.
+
+https://www.syte.ai
+
+ViSenze
+
+AI-powered visual commerce solution.
+
+https://www.visenze.com
+
+Google Vision AI
+
+AI recognizes retail products and images.
+
+https://cloud.google.com/vision
+
+Amazon Rekognition
+
+AI image analysis for retail applications.
+
+https://aws.amazon.com/rekognition
+
+Clarifai
+
+AI-powered image recognition platform.
+
+https://www.clarifai.com
+
+LandingLens
+
+AI visual inspection for retail operations.
+
+https://landing.ai
+
+7. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered retail dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven retail analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered sales and inventory analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven retail insights.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for retail forecasting.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for retail data analysis.
+
+https://www.knime.com
+
+SAS Viya
+
+AI-powered retail analytics platform.
+
+https://www.sas.com
+
+Alteryx AI Platform
+
+AI automates retail reporting and analytics.
+
+https://www.alteryx.com
+
+8. AI Marketing & Sales Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+HubSpot AI
+
+AI automates retail marketing and CRM.
+
+https://www.hubspot.com
+
+Salesforce Marketing Cloud
+
+AI personalizes marketing campaigns.
+
+https://www.salesforce.com
+
+Klaviyo AI
+
+AI-powered email and SMS marketing.
+
+https://www.klaviyo.com
+
+Mailchimp AI
+
+AI creates marketing campaigns.
+
+https://mailchimp.com
+
+ActiveCampaign AI
+
+AI automates customer journeys.
+
+https://www.activecampaign.com
+
+Brevo AI
+
+AI-powered email marketing platform.
+
+https://www.brevo.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for retail research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for reports and business writing.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for retail analysis.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for spreadsheets and presentations.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered retail research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing business documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review and business research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains retail and business research papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers research publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for retail AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for retail applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for retail analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for retail forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for retail applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for retail model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for retail analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for retail datasets.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for retail intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for retail AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

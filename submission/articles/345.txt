@@ -1,0 +1,45 @@
+Central School System Logistics Optimization
+
+Project Name
+
+Central School System Logistics Optimization
+
+Business Requirement
+
+Sao Palo, Brazil school system wanted to use resources better. Teachers were underutilized. Students were spending a lot of time travelling. The school system needed to know how many schools to build based on the density of population in the location. School, demographics, and student data was provided by the client to plan a central schooling system nationwide.
+
+Metrics of Performance for Central School System Logistics Optimization
+
+A logistics optimization model based on a new hybrid model using Ant Colony Optimization and self-adaptive clustering technique was built. This beat CPLEX, Gurobi and LPSolve AND was faster. The newly built optimization model was accurate and performed better than 6 competing models.
+
+Latest News
+
+The implemented models are being used in Latin America to save more than $10 Million each year.
+
+Competitive Advantage
+
+We demoed the performance of our algorithm to the clients and impressed them with its results on a sample problem.
+
+Duration of Central School System Logistics Optimization project
+
+24 months
+
+Client
+
+A leading government agency in Latin America
+
+Industry
+
+Infrastructure
+
+Function domain (finance, CRM, HCM, R&D etc)
+
+CRM
+
+Technology Stack
+
+ACO, Gurobi, GA, BARACA, K-Means, Clustering, Matlab, Gurobi, R, Django, d3, Routing Algorithms, Approximation Algorithms, MILP, MINLP, LP, SDP.
+
+Success
+
+Built production level apps

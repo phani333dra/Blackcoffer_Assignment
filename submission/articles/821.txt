@@ -1,0 +1,51 @@
+OCR (Optical Character Recognition)
+
+Optical Character Recognition or OCR is a technology that enables you to convert different types of documents, such as scanned paper documents, PDF files or images captured by a digital camera into editable and searchable data. It converts these documents into machine coded text.
+
+In order to get it more closer to 100%, requires a lot of tuning and training. There is a lot of pre-processing work involved before the most accurate information could be retrieved.
+
+Open Source Frameworks
+
+There are a couple of open-source frameworks that can be used to build an OCR framework in house. They are effective too as long as you know how to train it for your requirements. Listed below are a couple of such frameworks.
+
+Python pyocr
+
+PyOCR( https://github.com/jflesch/pyocr ) is an optical character recognition (OCR) tool wrapper for python. That is, it helps using OCR tools from a Python program.It has been tested only on GNU/Linux systems. It should also work on similar systems (*BSD, etc). It may or may not work on Windows, MacOSX, etc.
+
+PyOCR can be used as a wrapper for google’s Tesseract-OCR or Cuneiform. It can read all image types supported by Pillow , including jpeg, png, gif, bmp, tiff, and others. It also supports bounding box data.
+
+Tesseract-OCR
+
+Tesseract is an optical character recognition engine for various operating systems.It is free software released under the Apache License, Version 2.0, and was originally developed at Hewlett-Packard Laboratories Bristol and at Hewlett-Packard Co, Greeley Colorado between 1985 and 1994, with some more changes made in 1996 to port to Windows, and some C++izing in 1998. In 2005 Tesseract was open sourced by HP. It was later developed and sponsored by Google since 2006. Tesseract is considered as one of the most accurate open-source OCR engines currently available.
+
+There were not many open source options for being able to build on your own. In this document, we will be do a deep dive into the Tesseract framework and how to have it setup and how good or bad would the outcomes be.
+
+Most OCR frameworks out there is probably built on top of Tesseract and it is the most popular among the bunch which has pretty good outcomes.
+
+Tesseract supports a whole slew of languages like no other framework. It supports English, Spanish, Thai all the way upto Tamil, Uzbec and Yiddish. It will be hard to find something that is not supported.
+
+Some popular OCR APIs
+
+Google vision api( https://cloud.google.com/vision/ ) is one of the most popular API’s available and it gets you the most accurate information. Vision API is more of an image processing framework than just an optical character recognition framework. If the intention is to just identify what characters are present in the image, this framework has a lot more to it. This framework is really expensive unless your base set of images are a few.
+
+Below is the pricing information.
+
+https://cloud.google.com/vision/pricing
+
+Amazon Rekognition ( https://aws.amazon.com/rekognition/ ) is again an image processing framework just like the Google’s Vision API.This framework uses deep learning technology to identify objects, image and faces. This is little less expensive than Vision API.
+
+Below is the pricing information.
+
+https://aws.amazon.com/rekognition/pricing/
+
+OCR Space ( https://ocr.space/ ) is a more of a budget friendly option compared to the first 2 options. This SDK does a neat job of getting the needed information but not to the level of Rekognition and Vision APIs. If your requirement is less than 25K request a month you can even get away for free.
+
+Below is the pricing information.
+
+https://ocr.space/ocrapi
+
+Useful links: http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1416&context=etd_projects https://en.wikipedia.org/wiki/Tesseract http://im4java.sourceforge.net/ https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/ https://github.com/tesseract-ocr/tesseract/wiki/APIExample http://www.programcreek.com/java-api-examples/index.php?api=org.im4java.core.ConvertCmd http://im4java.sourceforge.net/docs/dev-guide.html https://medium.com/@sathishvj/training-tesseract-ocr-for-a-new-font-and-input-set-on-mac-7622478cd3a1#.ju5p3mv47
+
+https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa
+
+https://medium.com/@balaajip/optical-character-recognition-99aba2dad314

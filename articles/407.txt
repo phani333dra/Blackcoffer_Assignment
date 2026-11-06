@@ -1,0 +1,513 @@
+Complete List of Healthcare & Pharmaceuticals AI Tools & AI Software
+
+1. AI Medical Imaging & Diagnostics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Aidoc
+
+AI-powered medical image analysis for faster diagnosis.
+
+https://www.aidoc.com
+
+Qure.ai
+
+AI analyzes X-rays, CT scans, and MRIs.
+
+https://www.qure.ai
+
+Viz.ai
+
+AI detects strokes and other critical conditions.
+
+https://www.viz.ai
+
+Lunit INSIGHT
+
+AI software for cancer screening and radiology.
+
+https://www.lunit.io
+
+Gleamer
+
+AI-assisted radiology diagnosis platform.
+
+https://www.gleamer.ai
+
+Subtle Medical
+
+AI enhances MRI and CT image quality.
+
+https://subtlemedical.com
+
+Arterys
+
+AI-powered cloud medical imaging platform.
+
+https://www.arterys.com
+
+2. AI Drug Discovery & Pharmaceutical Research
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Insilico Medicine
+
+AI accelerates drug discovery and development.
+
+https://insilico.com
+
+BenevolentAI
+
+AI identifies new drug candidates.
+
+https://www.benevolent.com
+
+Atomwise
+
+AI predicts molecule-drug interactions.
+
+https://www.atomwise.com
+
+Schrödinger
+
+AI-powered molecular modeling and drug design.
+
+https://www.schrodinger.com
+
+Exscientia
+
+AI-driven precision drug discovery platform.
+
+https://www.exscientia.ai
+
+Recursion
+
+AI combines biology and machine learning for drug research.
+
+https://www.recursion.com
+
+BioSymetrics Elion
+
+AI platform for biomedical data analysis.
+
+https://www.biosymetrics.com
+
+3. AI Clinical Decision Support
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Wolters Kluwer UpToDate AI
+
+AI-assisted clinical decision support.
+
+https://www.wolterskluwer.com
+
+Elsevier ClinicalKey AI
+
+AI-powered medical knowledge platform.
+
+https://www.elsevier.com
+
+IBM watsonx for Healthcare
+
+AI supports clinical insights and decision-making.
+
+https://www.ibm.com/watsonx
+
+PathAI
+
+AI improves pathology diagnosis.
+
+https://www.pathai.com
+
+Tempus AI
+
+AI-powered precision medicine platform.
+
+https://www.tempus.com
+
+Abridge
+
+AI converts doctor-patient conversations into clinical notes.
+
+https://www.abridge.com
+
+4. AI Electronic Health Records (EHR) & Documentation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Epic AI
+
+AI-assisted electronic health records and clinical workflows.
+
+https://www.epic.com
+
+Oracle Health AI
+
+AI-powered healthcare information management.
+
+https://www.oracle.com/health
+
+eClinicalWorks AI
+
+AI automates clinical documentation.
+
+https://www.eclinicalworks.com
+
+Nuance Dragon Medical One
+
+AI speech recognition for clinicians.
+
+https://www.nuance.com
+
+Suki AI
+
+AI medical voice assistant for doctors.
+
+https://www.suki.ai
+
+DeepScribe
+
+AI generates medical notes from conversations.
+
+https://www.deepscribe.ai
+
+5. AI Hospital Operations & Workflow Automation
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+LeanTaaS iQueue
+
+AI optimizes hospital operations and scheduling.
+
+https://leantaas.com
+
+Qventus
+
+AI automates patient flow and hospital workflows.
+
+https://www.qventus.com
+
+Olive AI
+
+AI automates healthcare administrative tasks.
+
+https://oliveai.com
+
+AKASA
+
+AI-powered healthcare revenue cycle automation.
+
+https://www.akasa.com
+
+UiPath AI Center
+
+AI automates hospital workflows and RPA.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered process automation for healthcare.
+
+https://www.automationanywhere.com
+
+6. AI Telemedicine & Virtual Healthcare
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Teladoc Health AI
+
+AI-powered virtual healthcare platform.
+
+https://www.teladochealth.com
+
+Amwell Converge
+
+AI-assisted telehealth solution.
+
+https://business.amwell.com
+
+Ada Health
+
+AI symptom checker and health assessment.
+
+https://ada.com
+
+Buoy Health
+
+AI-powered health guidance platform.
+
+https://www.buoyhealth.com
+
+Babylon AI
+
+AI-based virtual healthcare assistant.
+
+https://www.babylonhealth.com
+
+K Health AI
+
+AI-driven primary healthcare platform.
+
+https://khealth.com
+
+7. AI Genomics & Precision Medicine
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Illumina Connected Analytics
+
+AI-powered genomic analysis platform.
+
+https://www.illumina.com
+
+Deep Genomics
+
+AI predicts genetic disease treatments.
+
+https://www.deepgenomics.com
+
+Fabric Genomics
+
+AI platform for genomic interpretation.
+
+https://fabricgenomics.com
+
+SOPHiA GENETICS
+
+AI-driven genomic diagnostics platform.
+
+https://www.sophiagenetics.com
+
+DNAnexus
+
+AI platform for genomic data analysis.
+
+https://www.dnanexus.com
+
+Tempus AI
+
+AI-powered precision oncology platform.
+
+https://www.tempus.com
+
+8. AI Medical Research & Literature Review
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Elicit
+
+AI literature review for healthcare research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains medical and scientific papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers biomedical research papers.
+
+https://www.researchrabbit.ai
+
+Semantic Scholar AI
+
+AI-powered scientific research platform.
+
+https://www.semanticscholar.org
+
+Connected Papers
+
+AI visualizes research paper relationships.
+
+https://www.connectedpapers.com
+
+9. AI Business Intelligence & Healthcare Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-assisted healthcare dashboards and reporting.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-powered healthcare analytics platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-driven healthcare analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI-powered healthcare business intelligence.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive healthcare analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for healthcare data analysis.
+
+https://www.knime.com
+
+10. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for healthcare research, documentation, and education.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for medical writing and analysis.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for healthcare research and knowledge discovery.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, documentation, and productivity.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered medical research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing medical literature.
+
+https://notebooklm.google.com
+
+11. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for healthcare AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for medical AI applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for healthcare analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for medical predictive analytics.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for healthcare applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for medical AI model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for healthcare analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for healthcare datasets.
+
+https://www.databricks.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,505 @@
+Complete List of Transportation & Logistics AI Tools & AI Software
+
+1. AI Transportation Management Systems (TMS)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Oracle Transportation Management
+
+AI optimizes transportation planning and execution.
+
+https://www.oracle.com/scm/logistics/transportation-management
+
+SAP Transportation Management
+
+AI-powered transportation and freight management.
+
+https://www.sap.com
+
+Blue Yonder Transportation Management
+
+AI automates logistics planning and optimization.
+
+https://blueyonder.com
+
+MercuryGate TMS
+
+AI improves transportation visibility and routing.
+
+https://mercurygate.com
+
+Descartes TMS
+
+AI-powered transportation management platform.
+
+https://www.descartes.com
+
+Trimble TMS
+
+AI optimizes fleet and transportation operations.
+
+https://transportation.trimble.com
+
+2. AI Route Optimization & Fleet Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Samsara
+
+AI-powered fleet tracking and route optimization.
+
+https://www.samsara.com
+
+Motive
+
+AI monitors fleet safety and vehicle performance.
+
+https://gomotive.com
+
+Geotab
+
+AI analyzes fleet operations and driver behavior.
+
+https://www.geotab.com
+
+Verizon Connect
+
+AI optimizes fleet productivity and routes.
+
+https://www.verizonconnect.com
+
+Fleet Complete
+
+AI-powered fleet and asset management.
+
+https://www.fleetcomplete.com
+
+OptimoRoute
+
+AI optimizes delivery routes and schedules.
+
+https://optimoroute.com
+
+Routific
+
+AI automates route planning for deliveries.
+
+https://routific.com
+
+Onfleet
+
+AI-powered last-mile delivery management.
+
+https://onfleet.com
+
+3. AI Supply Chain & Logistics Planning
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Blue Yonder Supply Chain
+
+AI predicts demand and optimizes supply chains.
+
+https://blueyonder.com
+
+Kinaxis Maestro
+
+AI enhances supply chain planning.
+
+https://www.kinaxis.com
+
+o9 Solutions
+
+AI-powered integrated business planning.
+
+https://o9solutions.com
+
+Coupa Supply Chain Design
+
+AI optimizes logistics networks.
+
+https://www.coupa.com
+
+E2open
+
+AI improves end-to-end supply chain visibility.
+
+https://www.e2open.com
+
+Logility
+
+AI forecasts inventory and demand.
+
+https://www.logility.com
+
+4. AI Warehouse Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Manhattan Active WM
+
+AI-powered warehouse management system.
+
+https://www.manh.com
+
+SAP Extended Warehouse Management
+
+AI optimizes warehouse operations.
+
+https://www.sap.com
+
+Oracle Warehouse Management Cloud
+
+AI automates warehouse processes.
+
+https://www.oracle.com
+
+Körber Warehouse Management
+
+AI improves warehouse productivity.
+
+https://www.koerber-supplychain.com
+
+Softeon WMS
+
+AI-driven warehouse optimization.
+
+https://www.softeon.com
+
+Tecsys Elite WMS
+
+AI supports warehouse automation.
+
+https://www.tecsys.com
+
+5. AI Last-Mile Delivery Solutions
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+FarEye
+
+AI optimizes last-mile deliveries.
+
+https://fareye.com
+
+Bringg
+
+AI automates delivery management.
+
+https://www.bringg.com
+
+DispatchTrack
+
+AI improves delivery scheduling.
+
+https://www.dispatchtrack.com
+
+Circuit
+
+AI plans efficient delivery routes.
+
+https://getcircuit.com
+
+Tookan
+
+AI-powered delivery management platform.
+
+https://www.jungleworks.com/tookan
+
+Elastic Route
+
+AI optimizes delivery planning.
+
+https://www.elasticroute.com
+
+6. AI Freight & Shipment Visibility
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+project44
+
+AI provides real-time shipment tracking.
+
+https://www.project44.com
+
+FourKites
+
+AI-powered supply chain visibility.
+
+https://www.fourkites.com
+
+Shippeo
+
+AI predicts shipment arrival times.
+
+https://www.shippeo.com
+
+Overhaul
+
+AI enhances cargo security and monitoring.
+
+https://www.over-haul.com
+
+Everstream Analytics
+
+AI predicts logistics disruptions.
+
+https://www.everstream.ai
+
+IntelliTrans
+
+AI monitors freight transportation.
+
+https://www.intellitrans.com
+
+7. AI Predictive Maintenance & Asset Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+IBM Maximo
+
+AI predicts fleet and asset maintenance.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance platform.
+
+https://senseye.io
+
+AVEVA Predictive Analytics
+
+AI detects equipment failures.
+
+https://www.aveva.com
+
+Aspen Mtell
+
+AI forecasts machinery breakdowns.
+
+https://www.aspentech.com
+
+GE Vernova APM
+
+AI optimizes transportation assets.
+
+https://www.gevernova.com
+
+Uptake
+
+AI predicts heavy equipment maintenance.
+
+https://www.uptake.com
+
+8. AI Logistics Analytics & Business Intelligence
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered logistics dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven transportation analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered logistics business intelligence.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven logistics insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered logistics analytics platform.
+
+https://www.sas.com
+
+DataRobot
+
+AI predicts transportation demand.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for logistics analysis.
+
+https://www.knime.com
+
+Alteryx AI Platform
+
+AI automates transportation reporting.
+
+https://www.alteryx.com
+
+9. AI Productivity & Automation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assists with logistics planning and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI creates logistics reports and documentation.
+
+https://claude.ai
+
+Google Gemini
+
+AI supports logistics research and planning.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI automates logistics workflows.
+
+https://copilot.microsoft.com
+
+UiPath AI Center
+
+AI automates logistics processes.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered logistics automation.
+
+https://www.automationanywhere.com
+
+ABBYY Vantage
+
+AI extracts logistics document data.
+
+https://www.abbyy.com
+
+Rossum
+
+AI automates freight invoice processing.
+
+https://rossum.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source AI framework for logistics solutions.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for transportation AI.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for logistics analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for transportation forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for logistics applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI model development for transportation.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for logistics analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered transportation analytics platform.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for logistics intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

@@ -1,0 +1,117 @@
+Big Data Analytic in Construction & Real Estate
+
+Problems
+
+The construction industry still relies heavily on paper to collect field data and manage its processes. More and more companies are now realizing just how much access to the right data improves productivity and job site performance.
+
+Data Quality: A continuing challenge in leveraging data from the job site is data quality. In many cases, there is a “chicken and egg” problem, where nobody cares about getting correct data entered because nobody looks at it, but nobody looks at it because the data quality is bad so the reports aren’t meaningful. Technology can play a significant role in driving data quality, with mobile tools that enable easier data entry and visual feedback to help give the numbers immediate meaning for those entering them.
+
+Data Standards: Many larger construction companies are looking at how big data has changed other industries and are starting internal initiatives to do the same. One piece of this strategy is digging into historical project data.
+
+Data Overload: More data isn’t necessarily better. Overloading workers with additional data entry tasks or dumping more data on project managers who already have a long list of tasks to tend to isn’t going to make anyone popular. In many cases, digital tools can lower the time spent on data capture and administration. It can also facilitate the delivery of data to the right person at the right time. Ultimately, AI-driven tools will help workers in the field and the office by prioritizing key metrics that need attention and suggesting possible courses of action.
+
+Main key areas where the problem occurs in the project are Insight into future, past analysis, construction planning modeling and tracking, finding talent, Transportation Infrastructure, implementing AI into a unified knowledge base, labor maintenance, wastage, Implementing new technology (3D, VR, Green), Accurate Predictions and many other.
+
+Solutions
+
+Analytics and data are the core of future growth, productivity, and efficiency. Better data is the foundation for productivity and performance improvements in the construction industry. At Blackcoffer, we improve the quality, quantity, and accessibility of data by automating workflows. Empowered with better data, firms are equipped to make actionable insights and maintain visibility into project performance to be more profitable.
+
+Sustainable construction through AI & 3D modeling. These can include buildings with ways for natural light to reach the middle of the building, thereby reducing electrical costs or buildings that reuse water from the sinks in the toilets and observing through drone for better observation.
+
+Your own modules for project management solutions it will help you in time solution, equipment rentals, change orders, and other more traditional project management options. These can keep all documents related to the project in one location, which can help subcontractors and contractors get paid at the end of a project.
+
+Developing Building information modeling (BIM), can help Architects and engineers can use the models to show how building materials will hold up over time. And owners can create maintenance schedules with BIM models. It not only can better predict job costs, but companies that use BIM can tell if the project is possible. Sometimes there isn’t enough space for HVAC needs, or predetermined pieces won’t fit and will need to be reordered. BIM can be used to build better projects.
+
+Better program and software design can collect quality data that will help in refining in Repetitive reporting, Multiple data systems, Unprioritized, and unorganized data. Reduce paper-based reporting an increase in system connectivity, material, labor & resources management lastly improve communication.
+
+Our Expertise
+
+We can resolve the variety of problems using BMI tools, DAG (Directed Acyclic Graphs) visualization tools, and CAD tools and by having a robust infrastructure. It is hard to say just one among them could solely resolve the problem or more than one is needed or there could be some algorithm which could synchronize the data varieties in a uniform format, it depends on particular case or problem.
+
+Experience with relational and non -relational database systems is a must. Examples Mysql, Oracle, DB2 and HBase, HDFS, MongoDB, CouchDB, Cassandra, Teradata, etc.
+
+We have flawless:
+
+understanding and familiarity with frameworks such as Apache Spark, Apache Storm, Apache Samza, Apache Flink and the classic MapReduce and Hadoop.
+
+Command over programming Languages like– R, Python, Java, C++, Ruby, SQL, Hive, SAS, SPSS, MATLAB, Weka, Julia, Scala. As you can not knowing a language should not be a barrier for a big data scientist
+
+IT infrastructure greatly enhances Big Data implementation
+
+Business Knowledge of domain.
+
+Our Services Include:
+
+Scalability: We need to take care of the storage capacity and the computing power to enhance scalability.
+
+Availability for 24 hours
+
+Performance
+
+Tailored, flexible and pragmatic solutions
+
+Full transparency
+
+High-quality documentation
+
+A healthy balance between speed and accuracy
+
+A team of experienced quantitative profiles
+
+Privacy
+
+Fair pricing
+
+Technology Stack:
+
+Big Data Tools and Technologies
+
+Big Data Processing Tools : Hadoop distributed file system (HDFS) and a number of related components such as Apache, Hive, HBase, Oozie, Pig, and Zookeeper and these components are explained as below:
+
+HDFS: A highly faults tolerant distributed file system that is responsible for storing data on the
+
+clusters.
+
+MapReduce: It is a parallel programming technique for distributed processing of huge amount of data on clusters.
+
+HBase: A column-oriented distributed NoSQL database for random read/write access.
+
+Pig: A high-level data programming language for analyzing data of Hadoop computation.
+
+Hive: A data warehousing application that provides SQL-like access and the relational model.
+
+Sqoop: A project for transferring/importing data between relational databases and Hadoop.
+
+Oozie: An orchestration and workflow management for dependent Hadoop jobs.
+
+Big Data Analysis Tools
+
+Hadoop and MapReduce
+
+It is a programming model for processing massive datasets and works on the principle of divide
+
+and conquer. It provides scalable and commercial machine learning techniques for big data and smart data analysis. Clustering, classification, pattern mining, regression, dimensionality reduction, evolutionary algorithms, and batch based collaborative filtering are core algorithms of the mahout. Apache Mahout is to provide a tool for attenuating big challenges.
+
+Apache Spark
+
+It is a framework that provides speed processing, and sophisticated analytics. It lets us write applications in Java, Scala, or python. It consists of three components which are driver program, cluster manager, and worker nodes. It supports iterative computation, enhances speed and does better resource utilization.
+
+Dryad
+
+It is a programming model for executing parallel and distributed programs for managing large databases. It has a cluster of computing nodes. It is an infrastructure for running data-parallel programs. Dryad uses various machines with different and several processors and performs concurrent programming.
+
+Storm
+
+It a distributed and computation system for processing unbounded streaming data. It is designed for real-time processing instead of batch processing. It is very handy and easy to operate and has great performance. It is a free and open source distributed real-time computation system.
+
+Apache Drill
+
+It is a distributed system for interactive analysis of big data. It supports many query languages, several data formats. It is specifically for exploiting nested data.
+
+Jaspersoft
+
+It is open source software that is mainly for producing reports from database columns. It’s basically, an analytical platform and provides data visualization for storage platforms, including MongoDB, Cassandra, and much more.
+
+Splunk
+
+It is a real-time and smart platform created for making the best use of machine-generated big data. It merges the up-to-the-moment cloud technologies and big data very swiftly and easily. It provides a web interface to help users monitor their machine-generated data.

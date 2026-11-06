@@ -1,0 +1,457 @@
+Complete List of Gaming & eSports AI Tools & AI Software
+
+1. AI Game Development & Game Engines
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Unity AI
+
+AI-powered game development and asset generation.
+
+https://unity.com
+
+Unreal Engine AI
+
+AI tools for game creation and NPC development.
+
+https://www.unrealengine.com
+
+Inworld AI
+
+AI creates intelligent NPCs with natural conversations.
+
+https://inworld.ai
+
+Scenario AI
+
+AI generates game assets and textures.
+
+https://www.scenario.com
+
+Leonardo AI
+
+AI creates concept art and game assets.
+
+https://leonardo.ai
+
+Promethean AI
+
+AI assists with 3D world building and level design.
+
+https://www.prometheanai.com
+
+2. AI NPCs & Character Intelligence
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Inworld AI
+
+AI-powered interactive game characters.
+
+https://inworld.ai
+
+Convai
+
+AI enables real-time conversational NPCs.
+
+https://convai.com
+
+Charisma AI
+
+AI storytelling and virtual characters.
+
+https://charisma.ai
+
+Replica Studios
+
+AI voice generation for game characters.
+
+https://replicastudios.com
+
+NVIDIA ACE
+
+AI-powered digital human technology.
+
+https://developer.nvidia.com/ace
+
+ElevenLabs
+
+AI voice generation for NPC dialogue.
+
+https://elevenlabs.io
+
+3. AI Art, Animation & Asset Creation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Adobe Firefly
+
+AI creates game artwork and textures.
+
+https://firefly.adobe.com
+
+Midjourney
+
+AI generates concept art for games.
+
+https://www.midjourney.com
+
+Stable Diffusion
+
+Open-source AI image generation.
+
+https://stability.ai
+
+DALL·E
+
+AI creates images from text prompts.
+
+https://chatgpt.com
+
+Blender AI Add-ons
+
+AI-assisted 3D modeling and animation.
+
+https://www.blender.org
+
+Cascadeur
+
+AI-powered character animation software.
+
+https://cascadeur.com
+
+4. AI Coding & Software Development
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+GitHub Copilot
+
+AI coding assistant for game developers.
+
+https://github.com/features/copilot
+
+Cursor
+
+AI-powered code editor.
+
+https://www.cursor.com
+
+Amazon Q Developer
+
+AI assistant for software development.
+
+https://aws.amazon.com/q
+
+Tabnine
+
+AI code completion and suggestions.
+
+https://www.tabnine.com
+
+Codeium
+
+AI code generation platform.
+
+https://codeium.com
+
+Sourcegraph Cody
+
+AI assistant for large game codebases.
+
+https://sourcegraph.com/cody
+
+5. AI Game Testing & Quality Assurance
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Modl.ai
+
+AI automates gameplay testing.
+
+https://modl.ai
+
+Applitools
+
+AI visual testing platform.
+
+https://applitools.com
+
+Testim
+
+AI-powered automated software testing.
+
+https://www.testim.io
+
+Functionize
+
+AI automates functional game testing.
+
+https://www.functionize.com
+
+ACCELQ
+
+AI-driven codeless testing platform.
+
+https://www.accelq.com
+
+Mabl
+
+AI-powered test automation solution.
+
+https://www.mabl.com
+
+6. AI eSports Analytics & Performance
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Mobalytics
+
+AI-powered gaming performance analytics.
+
+https://mobalytics.gg
+
+SenpAI
+
+AI coach for competitive gaming improvement.
+
+https://senpai.gg
+
+Omnic.AI
+
+AI analytics for eSports performance.
+
+https://omnic.ai
+
+Gosu AI
+
+AI game assistant and coaching platform.
+
+https://gosu.ai
+
+Blitz
+
+AI provides real-time game insights.
+
+https://blitz.gg
+
+Aim Lab
+
+AI-powered aim training and player analytics.
+
+https://aimlab.gg
+
+7. AI Voice, Streaming & Content Creation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+OBSBOT AI
+
+AI-powered camera tracking for streamers.
+
+https://www.obsbot.com
+
+NVIDIA Broadcast
+
+AI improves streaming audio and video.
+
+https://www.nvidia.com/broadcast-app
+
+Descript
+
+AI audio and video editing for creators.
+
+https://www.descript.com
+
+ElevenLabs
+
+AI voiceovers and dubbing for gaming content.
+
+https://elevenlabs.io
+
+Murf AI
+
+AI-generated narration for gaming videos.
+
+https://murf.ai
+
+Adobe Podcast AI
+
+AI enhances streaming audio quality.
+
+https://podcast.adobe.com
+
+8. AI Marketing & Community Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI creates gaming content and community posts.
+
+https://chatgpt.com
+
+Claude
+
+AI assists with documentation and marketing.
+
+https://claude.ai
+
+Google Gemini
+
+AI content generation for gaming brands.
+
+https://gemini.google.com
+
+Canva Magic Studio
+
+AI designs gaming banners and thumbnails.
+
+https://www.canva.com
+
+Predis.ai
+
+AI creates gaming social media posts.
+
+https://predis.ai
+
+Hootsuite OwlyWriter AI
+
+AI schedules and writes social content.
+
+https://www.hootsuite.com
+
+9. AI Analytics & Live Operations
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Unity Analytics
+
+AI-powered player behavior analytics.
+
+https://unity.com
+
+Google Analytics 4
+
+AI analyzes player engagement.
+
+https://analytics.google.com
+
+Microsoft Power BI Copilot
+
+AI-powered gaming dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven gaming analytics.
+
+https://www.tableau.com
+
+Databricks AI
+
+AI-powered game data analytics.
+
+https://www.databricks.com
+
+DataRobot
+
+AI predicts player behavior and retention.
+
+https://www.datarobot.com
+
+10. AI Machine Learning Frameworks
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source AI framework for gaming applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning framework for game AI.
+
+https://pytorch.org
+
+Hugging Face
+
+AI models for gaming, NLP, and vision.
+
+https://huggingface.co
+
+LangChain
+
+Framework for AI-powered gaming assistants.
+
+https://www.langchain.com
+
+LlamaIndex
+
+Framework for Retrieval-Augmented Generation (RAG).
+
+https://www.llamaindex.ai
+
+MLflow
+
+AI model lifecycle management.
+
+https://mlflow.org
+
+Weights & Biases
+
+AI experiment tracking and collaboration.
+
+https://wandb.ai
+
+Dataiku
+
+Enterprise AI platform for gaming analytics.
+
+https://www.dataiku.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

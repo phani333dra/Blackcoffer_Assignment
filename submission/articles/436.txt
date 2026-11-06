@@ -1,0 +1,469 @@
+Complete List of Music & Audio Streaming AI Tools & AI Software
+
+1. AI Music Generation & Composition
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Suno AI
+
+AI generates complete songs from text prompts.
+
+https://suno.com
+
+Udio
+
+AI creates studio-quality music and vocals.
+
+https://www.udio.com
+
+AIVA
+
+AI composes music for films, games, and media.
+
+https://www.aiva.ai
+
+Soundraw
+
+AI generates customizable royalty-free music.
+
+https://soundraw.io
+
+Mubert
+
+AI creates royalty-free music for streaming and creators.
+
+https://mubert.com
+
+Boomy
+
+AI produces original songs for publishing platforms.
+
+https://boomy.com
+
+Loudly AI Music
+
+AI generates music for creators and businesses.
+
+https://www.loudly.com
+
+Beatoven.ai
+
+AI creates background music for videos and podcasts.
+
+https://www.beatoven.ai
+
+2. AI Audio Editing & Enhancement
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Adobe Podcast AI
+
+AI enhances voice recordings and removes noise.
+
+https://podcast.adobe.com
+
+Descript
+
+AI-powered audio and podcast editing.
+
+https://www.descript.com
+
+Auphonic
+
+AI automatically optimizes audio quality.
+
+https://auphonic.com
+
+Krisp
+
+AI removes background noise during recording.
+
+https://krisp.ai
+
+Dolby.io
+
+AI-powered audio enhancement platform.
+
+https://dolby.io
+
+iZotope RX
+
+AI repairs and restores professional audio.
+
+https://www.izotope.com
+
+3. AI Voice Generation & Cloning
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ElevenLabs
+
+AI voice generation and multilingual dubbing.
+
+https://elevenlabs.io
+
+Murf AI
+
+AI creates realistic voiceovers.
+
+https://murf.ai
+
+Resemble AI
+
+AI voice cloning and synthetic speech.
+
+https://www.resemble.ai
+
+PlayHT
+
+AI text-to-speech with natural voices.
+
+https://play.ht
+
+WellSaid Labs
+
+AI voice generation for media content.
+
+https://wellsaidlabs.com
+
+Speechify Studio
+
+AI narration and voice production.
+
+https://speechify.com
+
+4. AI Podcast Creation & Production
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Riverside AI
+
+AI-powered podcast recording and editing.
+
+https://riverside.fm
+
+Descript
+
+AI edits podcasts using text-based editing.
+
+https://www.descript.com
+
+Podcastle
+
+AI platform for podcast production.
+
+https://podcastle.ai
+
+Cleanvoice AI
+
+AI removes filler words and silence.
+
+https://cleanvoice.ai
+
+Castmagic
+
+AI generates podcast summaries and show notes.
+
+https://www.castmagic.io
+
+Wondercraft AI
+
+AI creates podcasts from written content.
+
+https://www.wondercraft.ai
+
+5. AI Music Production & Mastering
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+LANDR
+
+AI music mastering platform.
+
+https://www.landr.com
+
+eMastered
+
+AI automatically masters audio tracks.
+
+https://emastered.com
+
+RoEx Automix
+
+AI mixing and mastering solution.
+
+https://www.roexaudio.com
+
+Cryo Mix
+
+AI-powered music mixing assistant.
+
+https://cryo-mix.com
+
+Orb Producer Suite
+
+AI assists with melody and chord creation.
+
+https://www.orbplugins.com
+
+Moises AI
+
+AI separates vocals and instruments.
+
+https://moises.ai
+
+6. AI Streaming Recommendations & Personalization
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Spotify AI DJ
+
+AI creates personalized music experiences.
+
+https://spotify.com
+
+Amazon Personalize
+
+AI recommendation engine for streaming apps.
+
+https://aws.amazon.com/personalize
+
+Google Recommendations AI
+
+AI personalizes music and content delivery.
+
+https://cloud.google.com
+
+Qloo AI
+
+AI-powered taste and recommendation engine.
+
+https://www.qloo.com
+
+Dynamic Yield
+
+AI personalizes streaming experiences.
+
+https://www.dynamicyield.com
+
+Bloomreach AI
+
+AI-driven user engagement and recommendations.
+
+https://www.bloomreach.com
+
+7. AI Music Discovery & Analytics
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Chartmetric
+
+AI-powered music industry analytics.
+
+https://chartmetric.com
+
+Soundcharts
+
+AI tracks music performance and airplay.
+
+https://soundcharts.com
+
+Viberate Analytics
+
+AI music analytics platform.
+
+https://www.viberate.com
+
+Musiio
+
+AI tags and classifies music automatically.
+
+https://musiio.com
+
+Cyanite AI
+
+AI analyzes music mood and genre.
+
+https://cyanite.ai
+
+Spotify for Artists Insights
+
+AI-powered audience analytics.
+
+https://artists.spotify.com
+
+8. AI Lyrics, Writing & Content Creation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI generates lyrics, scripts, and music ideas.
+
+https://chatgpt.com
+
+Claude
+
+AI assists with songwriting and editing.
+
+https://claude.ai
+
+Google Gemini
+
+AI creates music-related content.
+
+https://gemini.google.com
+
+Jasper AI
+
+AI marketing and music content creation.
+
+https://www.jasper.ai
+
+Copy.ai
+
+AI generates promotional copy for artists.
+
+https://www.copy.ai
+
+Writesonic
+
+AI creates blogs and music marketing content.
+
+https://writesonic.com
+
+9. AI Marketing & Social Media for Music
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Hootsuite OwlyWriter AI
+
+AI creates social media campaigns.
+
+https://www.hootsuite.com
+
+Buffer AI Assistant
+
+AI generates promotional posts.
+
+https://buffer.com
+
+Predis.ai
+
+AI creates music marketing creatives.
+
+https://predis.ai
+
+Flick AI
+
+AI generates hashtags and captions.
+
+https://flick.social
+
+Canva Magic Studio
+
+AI designs album covers and promotions.
+
+https://www.canva.com
+
+Lately AI
+
+AI converts music content into social posts.
+
+https://www.lately.ai
+
+10. AI Machine Learning & Audio Development
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source AI framework for audio applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Deep learning framework for music AI.
+
+https://pytorch.org
+
+Hugging Face
+
+AI models for speech, music, and NLP.
+
+https://huggingface.co
+
+LangChain
+
+Framework for AI-powered music applications.
+
+https://www.langchain.com
+
+LlamaIndex
+
+Framework for Retrieval-Augmented Generation (RAG).
+
+https://www.llamaindex.ai
+
+MLflow
+
+AI model lifecycle management.
+
+https://mlflow.org
+
+Dataiku
+
+Enterprise AI analytics for media and music.
+
+https://www.dataiku.com
+
+Weights & Biases
+
+AI experiment tracking and collaboration.
+
+https://wandb.ai
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

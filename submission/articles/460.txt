@@ -1,0 +1,577 @@
+Complete List of Textiles & Apparel AI Tools & AI Software
+
+1. AI Fashion Design & Product Development
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+CLO 3D
+
+AI-powered 3D garment design and virtual prototyping.
+
+https://www.clo3d.com
+
+Browzwear VStitcher
+
+AI-enabled digital fashion design and simulation.
+
+https://www.browzwear.com
+
+Style3D
+
+AI platform for 3D apparel design and sampling.
+
+https://www.style3d.com
+
+Adobe Firefly
+
+AI generates fashion concepts and textile patterns.
+
+https://www.adobe.com/products/firefly.html
+
+Autodesk Fusion
+
+AI-assisted product and apparel design.
+
+https://www.autodesk.com/products/fusion-360
+
+Lectra Kubix Link
+
+AI supports apparel product development and collaboration.
+
+https://www.lectra.com
+
+Gerber AccuMark
+
+AI-powered pattern design and grading.
+
+https://www.gerbertechnology.com
+
+Tukatech TUKAcad
+
+AI-assisted garment pattern making and design.
+
+https://tukatech.com
+
+2. AI Textile Manufacturing & Production
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Siemens Opcenter
+
+AI-powered textile manufacturing execution system (MES).
+
+https://www.siemens.com/opcenter
+
+ABB Ability
+
+AI automates textile production processes.
+
+https://new.abb.com/ability
+
+Rockwell FactoryTalk
+
+AI monitors textile manufacturing operations.
+
+https://www.rockwellautomation.com
+
+Schneider Electric EcoStruxure
+
+AI optimizes textile factory performance.
+
+https://www.se.com
+
+Honeywell Forge
+
+AI improves production efficiency and quality.
+
+https://www.honeywell.com
+
+Emerson DeltaV
+
+AI automates industrial textile production.
+
+https://www.emerson.com
+
+Siemens SIMATIC
+
+AI-powered industrial automation platform.
+
+https://www.siemens.com
+
+Mitsubishi ICONICS
+
+AI supports smart textile manufacturing.
+
+https://iconics.com
+
+3. AI Quality Inspection & Fabric Defect Detection
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+LandingLens
+
+AI visual inspection for textile defects.
+
+https://landing.ai
+
+Cognex VisionPro
+
+AI-powered machine vision quality inspection.
+
+https://www.cognex.com
+
+MVTec HALCON
+
+AI image processing for textile inspection.
+
+https://www.mvtec.com
+
+Instrumental AI
+
+AI detects garment and fabric defects.
+
+https://instrumental.com
+
+Keyence Vision Systems
+
+AI-based automated fabric inspection.
+
+https://www.keyence.com
+
+Robovision
+
+AI computer vision for textile manufacturing.
+
+https://robovision.ai
+
+Zebra Aurora Vision
+
+AI-powered industrial image analysis.
+
+https://www.zebra.com
+
+Shelton Vision
+
+AI fabric inspection system for textile mills.
+
+https://www.sheltonvision.com
+
+4. AI Predictive Maintenance & Equipment Monitoring
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+IBM Maximo Application Suite
+
+AI predicts textile equipment failures.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance platform.
+
+https://senseye.io
+
+Aspen Mtell
+
+AI forecasts machinery breakdowns.
+
+https://www.aspentech.com
+
+AVEVA Predictive Analytics
+
+AI monitors textile equipment health.
+
+https://www.aveva.com
+
+GE Vernova APM
+
+AI optimizes industrial asset performance.
+
+https://www.gevernova.com
+
+SparkCognition
+
+AI detects equipment anomalies automatically.
+
+https://sparkcognition.com
+
+ABB Ability Asset Performance Management
+
+AI improves machine reliability.
+
+https://new.abb.com
+
+PTC ThingWorx Asset Advisor
+
+AI-powered equipment monitoring solution.
+
+https://www.ptc.com
+
+5. AI Supply Chain & Inventory Management
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Blue Yonder
+
+AI optimizes textile supply chains.
+
+https://blueyonder.com
+
+Kinaxis Maestro
+
+AI-powered apparel production planning.
+
+https://www.kinaxis.com
+
+o9 Solutions
+
+AI forecasts demand and inventory.
+
+https://o9solutions.com
+
+SAP Integrated Business Planning
+
+AI-driven textile supply chain planning.
+
+https://www.sap.com
+
+Oracle Fusion Cloud SCM
+
+AI-powered logistics and inventory management.
+
+https://www.oracle.com
+
+Infor Nexus
+
+AI supports global apparel supply chains.
+
+https://www.infor.com
+
+E2open
+
+AI improves supply chain visibility.
+
+https://www.e2open.com
+
+Logility
+
+AI-powered demand forecasting platform.
+
+https://www.logility.com
+
+6. AI Retail, Merchandising & Fashion Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Vue.ai
+
+AI automates fashion merchandising and personalization.
+
+https://vue.ai
+
+Lily AI
+
+AI improves fashion product discovery and search.
+
+https://www.lily.ai
+
+Syte
+
+AI-powered visual search for fashion retailers.
+
+https://www.syte.ai
+
+Edited
+
+AI analyzes fashion trends and pricing.
+
+https://edited.com
+
+Centric PLM AI
+
+AI supports fashion lifecycle management.
+
+https://www.centricsoftware.com
+
+Heuritech
+
+AI predicts fashion trends using image analysis.
+
+https://heuritech.com
+
+Fashable
+
+AI generates apparel designs and concepts.
+
+https://fashable.ai
+
+True Fit
+
+AI-powered apparel size and fit recommendations.
+
+https://www.truefit.com
+
+7. AI Sustainability & Compliance
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Worldly
+
+AI measures apparel sustainability performance.
+
+https://worldly.io
+
+Higg Index
+
+AI-supported sustainability assessment platform.
+
+https://howtohigg.org
+
+SpheraCloud
+
+AI manages ESG and regulatory compliance.
+
+https://sphera.com
+
+Enablon
+
+AI-powered environmental and safety management.
+
+https://www.enablon.com
+
+EcoOnline
+
+AI supports workplace safety and compliance.
+
+https://www.ecoonline.com
+
+Intelex
+
+AI automates sustainability reporting.
+
+https://www.intelex.com
+
+8. AI Business Intelligence & Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered textile manufacturing dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven apparel analytics platform.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered textile business analytics.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven operational insights.
+
+https://www.thoughtspot.com
+
+DataRobot
+
+AI platform for predictive analytics.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for textile production data.
+
+https://www.knime.com
+
+SAS Viya
+
+AI-powered manufacturing analytics.
+
+https://www.sas.com
+
+Alteryx AI Platform
+
+AI automates apparel analytics workflows.
+
+https://www.alteryx.com
+
+9. AI Research & Productivity
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for textile research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for technical writing and reports.
+
+https://claude.ai
+
+Google Gemini
+
+AI assistant for fashion and textile research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for reports, spreadsheets, and presentations.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered textile research engine.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing textile documents.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review for textile research.
+
+https://elicit.com
+
+SciSpace
+
+AI explains textile engineering papers.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI discovers scientific publications.
+
+https://www.researchrabbit.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source deep learning framework for textile AI.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for apparel applications.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for textile analytics.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for textile forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for textile applications.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for textile model development.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for apparel analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered analytics platform for textile datasets.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for textile intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

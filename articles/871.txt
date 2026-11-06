@@ -1,0 +1,47 @@
+Recommendation System Architecture
+
+System Architecture
+
+The following figure shows the underlying basic data layer. This layer contains user profile data, item data, behavior data, and comment data. The user profile data may be users’ heights and weights, items they purchased, their purchase preferences, or their educational background. The item data is the prices, colors, and origins of items. The behavior data refers to the interaction between users and items. For example, when a user watches a video, the user may add alike to the video, add the video to favorites, or pay for the video. These actions are all the user’s behavior data. The comment data may involve third-party data, and may not be available for every item on every platform. However, the user data, the item data, and the behavior data are essential. With the three types of data ready, we can move on to the data processing and storage layer. In this layer, we can perform data processing, such as identifying user features, material features, and event features. Going forward is modeling based on these features. The entire recommendation process contains two important modules: matching and ranking. Multiple algorithms can run in parallel in the matching module.
+
+Matching is followed by ranking. Many ranking algorithms are also available. Next, you need to develop a new policy. You must filter and deduplicate the recommendation results, perform A/B tests on the results, and try the operational strategies before you push the recommendations online. For example, if you bought a Xiaomi phone shortly after you saw the recommendation for Xiaomi phones yesterday, it is definitely inappropriate for me to recommend Xiaomi phones again today. The top layer is the recommendation service, which can recommend an advertisement, a product, or a user. For example, a social networking app can recommend users to let them follow each other. When you have such a recommendation architecture, some cloud services will be needed to make the architecture meet the four basic requirements on an enterprise-level recommender system. The most common practice is to build these modules based on cloud services and cloud ecosystems
+
+Deliverables
+
+Restful API’s at production level
+
+Recommendations Module API at production level
+
+User personalization module API at production level
+
+User’s DNA API at production level
+
+User’s characterization API at production level
+
+All other required AI/ML API at production level required by the systems
+
+Method
+
+Problem statements and business logics understanding
+
+Preparations of data sources and Meta Data
+
+Data cleaning and integrations
+
+Hypothesis design
+
+Variable selections and model developments
+
+Model training
+
+Model testing
+
+Model validations
+
+Iterations
+
+Model deployment
+
+Maintenance
+
+Self-learning model development

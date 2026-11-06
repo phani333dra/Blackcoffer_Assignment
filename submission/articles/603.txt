@@ -1,0 +1,41 @@
+Fitting Piecewise Growth Models in R
+
+This is a simple walkthrough on how to specify a piecewise linear growth model in R using the lme4 package. Just as a quick outline, I will start with a simple linear growth pattern, then extend the logic to look at piecewise growth.
+
+Plain old linear growth
+
+Here is an example just simulating linear growth. We will assume that everyone follows the same linear pattern over time, with some random variability around both the intercept and slope parameters.
+
+Step 1: Simulate data
+
+For this example, I’m simulating 100 participants with 6 timepoints each. The intercept is 10, while the slope is -2. The intercept and slope will also be positively correlated. This indicates that participants who start higher (i.e., a higher intercept) tend to have more positive change, compared to those who start lower (i.e., a lower intercept).
+
+Step 2: Plot the data
+
+You can see that I simulated the dataset to be in long format. I also started Time at 0, so the intercept would be interpreted as the mean of the first measure. Using spaghetti plots, we can visualize what the simulated data look like.
+
+We see that the intercept is around 10, with a decreasing slope around 2. This should not be a surprise, given those are the parameters we simulated.
+
+Step 3: Build the model
+
+For this example, we are going to use lme4 to create a mixed-effects model. Here we have observations nested within individual. In this case, time will be a level-1 predictor. We will also allow both intercept and time to vary systematically around our intercept and slope estimates (and this variation between intercept and slope also has a covariance).
+
+In this output, we are first presented with random effects. This tells us that the intercept has a variance of around 4 and the slope for Time has a variance of around 2. Again, this is similar to what we simulated. Next are the fixed effects, and we capture the original parameters quite accurately.
+
+Piecewise linear growth
+
+Now, here is an example simulating two growth patterns.
+
+Step 1: Simulate data
+
+In this case, I’m still simulating 100 participants with 6 timepoints. However, this time I will assume no growth for the first 3 time points, followed by a decline in the next 3 time points. The intercept will still be 10, and the slope for the second piece will still be -2. To make things a little easier, no correlation between intercept and either slope will be simulated.
+
+Step 2: Plot the data
+
+This time, I have two time variables: Time1 and Time2. As you can imagine, Time1 represents the first growth pattern, while Time2 represents the second. The intercept is the score when both time variables are 0, which is the third datapoint for each person.
+
+Step 3: Build the model
+
+Model building for this model seems like it should be complex, but it really is just as simple as including the second time variable as both a fixed and random effect. From the output, we see the variance components for each random effect. These are interpreted the same: they tell us how variable our sample is with regard to each component. The fixed-effects are about 10 for our intercept, around 0 for the first slope, and -2 for the second slope. Just as was simulated, this model tells us the data seem to be relatively stable throughout the baseline, then declining after baseline. Including additional predictors/interactions with time follow logically from the above example.
+
+Reference: http://dpmartin42.github.io/posts/Piecewise-growth

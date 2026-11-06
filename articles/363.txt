@@ -1,0 +1,117 @@
+Communication with Twilio-Flex
+
+Client Background
+
+Client: HearRo
+
+Industry Type: Telecommunications
+
+Specialities: Blockchain identity, Sovrin, Evernym, Twilio, and CRM
+
+Organization Background : People struggle to get good customer service over the phone – the process is time-consuming, impersonal, and aggravating. Companies also struggle with how to connect with their customers in a highly personalized yet efficient way. Hierro is a new two-sided conversation platform that creates trusted connections using secure digital identities. It gives everyone an effortless way to interact over unique, private connections that you control.
+
+Challenges for Communication with Twilio-Flex
+
+The client was struggling with a solution to get good customer service over the phone which is generally a time-consuming process, impersonal, and aggravating. Including a solution for organizations, where organizations also suffer from connecting with their customers in a highly personalized and efficient way.
+
+Solution for Communication with Twilio-Flex
+
+HearRo partnered with Blackcoffer to design, and implement a new two-sided conversation platform that creates trusted connections using secure digital identities including an effortless way to interact over unique, private connections that customers and organizations can control.
+
+Design & Implementations for Twilio-Flex
+
+The repository https://github.com/vijayst/twilio-chat-with-flex is built with a dummy demo server. This is not an exact API but used as a reference solution.
+
+On the server end # port 4000, generate token and create channel are two functionalities.
+
+The token is generated and then a channel(Chat-Message) is created.
+
+On the client end # port 3000, a front-end layer(chat window) is created and any message that is posted here goes to the server and then reaches the Twilio chat client.
+
+A token is created at Twilio which is necessary to create a channel… Both the server and client, we have Index.Js and create-channel.Js though only one channel is created.
+
+Server
+
+At the server end, Index.Js calls the generate token and creates a token. Using this token and FlexFlowId, then a channel is created using the create channel by logging into “https://preview.twilio.com/Flex/FlexFlows“. There are several validations while creating a channel like whether it is a web channel, the identity is valid and if it is a registered web channel. If everything is validated, the web channel is opened using the “https://preview.twilio.com/Flex/WebChannels”. After opening the web channel, it opens up on the server page.
+
+Client
+
+At the client end, Index.Js calls the App Component which in turn opens up the chat window, which is an HTML page client. There are several functions like handle submit event handler handleMessageChange and handleKeyPress to handle the input messages. The same token and flexid (from the server) are invoked here to create the same channel created by the server. Basically, the messages pass from the client (to server) to Twilio and backward. CreateChannel, SetChannel, and set Messages are called in the client to pass the messages to the server.
+
+Code wise explanation
+
+Server/Index.js
+
+Server/Createchannel.js
+
+Server/GenerateaccessToken.js
+
+Client/App.js
+
+Client/createChannel.js
+
+These are the top five scripts to be analyzed.
+
+Server/Index.js
+
+A post asynchronous method is used to fetch the token and a post asynchronous method is used to create the channel. Both these are called from Index.js script.
+
+Server/GenerateaccessToken.js
+
+The is posted with an environmental variable SID token and the response is stored in JSON and fetched back from Twilio. The import Axios module is critical here.
+
+Server/createChannel.js
+
+Using the token created in the above script we log into ‘https://preview.twilio.com/Flex/FlexFlows’ with the credentials SID and Token, a validation is done if it is a web channel. FlexSid is fetched from this process after validating it. Using this FlexSID, identity, and FlexChannel login and Token we create the web channel, and chat_channel_sid is stored as a response in JSON.
+
+Client/App.js for Communication with Twilio-Flex
+
+A chat window is created at the client end with a message and message input window.
+
+The following functions are invoked in case of corresponding events from the message window on the Left of the expression.
+
+onChange={handleMessageChange}
+
+onKeyPress={handleKeyPress}
+
+submit: function handle submit.
+
+After submitting the Message window is restored to an empty box. When the enter key is pressed, the message is captured.
+
+useEffect and state Hooks are used to handle the states and coordinate with the effect.
+
+Three different states where null,’ ‘ and []are handled as below.
+
+useState
+
+const [channel, setChannel] = useState(null); pls note setChannel in case of null.
+
+const [message, setMessage] = useState(”); setMessage in case of single message.
+
+let [messages, setMessages] = useState([]); multiple messages in an array.
+
+Function message is used to classify the author by its sent or received by means of a ternary operation.
+
+return message.author === sender? ‘message message–sent’: ‘message message–received’;
+
+useEffect
+
+Messages are stored in an array which is sliced and a new message is un-shifted, i.e. moved back to position1
+
+messages = messages.slice();
+
+messages.unshift({ body: message.body, author: message.author });
+
+setMessages(messages);
+
+Client/createChannel.js
+
+Twilio client is imported. The server is called. Using the client display name, the client is created from the server by the client. create a function with the response. token in the server-side script(JSON format)
+
+The server is called by identity and display name. Chat client is created by chatclient.getSid for which response.data is passed. In fact, it is the same channel created in the server which is called in the client.
+
+Original Solution for Twilio-Flex
+
+On top of this is the originally built solution with Dynamo-DB/GraphQL.In the Original-usable solution, the client is blended with a telecom product and the server is stored in a lambda function. These Lambda functions are invoked only when needed and are stateless.Index.js is present only in the client and create-channel/generate token is in the lambda function(server) only.
+
+Please note that only when the user presses the “Talk to agent ” button after the User had a chat with BOT this functionality will start working.

@@ -1,0 +1,45 @@
+Data Harmonization, ETL, Data Cleansing, & Classifications
+
+In this “what we do” chapter, we explain one of the most important solutions for your business and various data-related challenges. We are giving step by step details of data harmonization, and not only that, what are the critical components of data harmonization and how it can be archived to solve your business problem and how it can be deployed at the production level.
+
+You have multiple regions, platforms, campaigns, and creative and each piece of the marketing puzzle produces its own trove of data. You want to understand your marketing performance across these lines to make smarter decisions, but in its original systems, this data is siloed.
+
+Even if you bring the data together through straightforward API connections, without unifying your data types or and getting your naming conventions standardized, your data will still be sitting in disparate buckets. Side-by-side reporting is no more useful than analysis in the original tools themselves.
+
+In order to understand the customer journey which is inherently seamless, you need to be able to see outliers, trends, and the cause and effect across data sets. This means you need to bring all your data together in one platform, and link up fields where they are similar like “campaign name” or “country”.
+
+For a true view of your customers, budgets, and campaigns, you need to harmonize your data.
+
+Data Harmonization
+
+Data harmonization is the process of bringing together your data of varying file formats, naming conventions, and columns, and transforming it into one cohesive data set.
+
+Marketing data is inherently siloed for example, Google AdWords and Salesforce aren’t necessarily using the same technology or even terminology to run their platforms. On top of this, marketing is a team sport with many team members and partners running your campaigns, website, and CRM in concert. At scale, it’s pretty common that not everyone uses the same terminology in their systems to describe your regions, products, and campaigns. Blackcoffer’s approach consists of hosting a centralized “out-of-the-box” data model where any new fields can be mapped and organized guided by machine learning that understands your marketing data (often this step happens automatically). This harmonization turns all of your disparate data into the “apple to apples” format you need for analysis.
+
+Extract, Transform, Load (ETL)
+
+Extract, transform and load is three database operations responsible for actually moving your data into a common database. Extraction reads the data in the original database, transformation changes the format so it’s ready for querying and analysis, while loading writes the data to your destination database. Traditionally, this can be the most issue-prone part of data integration, because an error in one step causes inaccurate or missing data throughout. And each system comes with its own set of unique types of problems it can have. That’s why the right technology is so important in the ETL process, so you can focus less on micromanaging the movement of data and have more time to spend on analysis and decision making.
+
+Data centralization
+
+Data centralization is the process of getting your marketing data in one centralized location. ETL is used to get the data all in one place. But, there are many marketing dashboard tools that can centralize data via APIs. To harmonize your data, your platform will need to have a data model that blends your data together.
+
+Data cleansing
+
+Data cleansing is the act of correcting or moving inaccurate, broken, or erroneous data from your dataset. Think of this as giving your data a makeover. If you’ve ever corrected misspelled or mashed together field names in a spreadsheet, congrats! You’ve cleansed data.
+
+Data normalization
+
+Data normalization and harmonization can be used interchangeably. Both imply making the fundamental aspects of your data all the same.
+
+Classifications
+
+Classifications are the field names in your data, or in the simplest terms, they’re the titles at the top of our columns in a table. From a business perspective, these are what help you segment your data, filter it and drill in or zoom out (e.g., from a global view of a campaign down to a specific city). The naming conventions used to describe your data can (surprisingly) vary greatly across your marketing tools and teams– even when referring to the same concepts.
+
+To harmonize your data, you first need to centralize it in a data model by using an ETL process.
+
+Why Getting it Right is Critical
+
+If your data is not harmonized, you’re restricted to looking at your sources of data separately and that’s counterintuitive to the reality of modern marketing. Marketing campaigns span channels, devices, and personas. The platforms where customer data is collected are wide-ranging, changing, and certain tools get replaced every day. DataIntel was built to solve the modern marketer’s dilemma, with a marketing-friendly data integrations (ETL), a centralized data model and machine learning-powered harmonization to make this process as easy as possible.
+
+Data harmonization used to be an exhaustive, time-consuming process of data wrangling and custom coding. But it should be a seamless part of the analytics process, so marketers can focus on finding the insights that drive their business forward and acting on them.

@@ -1,0 +1,517 @@
+Complete List of Cybersecurity Engineering AI Tools & AI Software
+
+1. AI Threat Detection & Security Analytics
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Security Copilot
+
+AI assistant for threat detection, incident response, and security analysis.
+
+https://www.microsoft.com/security/business/ai-machine-learning/microsoft-security-copilot
+
+CrowdStrike Charlotte AI
+
+AI-powered cybersecurity assistant for threat investigation.
+
+https://www.crowdstrike.com
+
+Darktrace
+
+Self-learning AI platform for real-time cyber threat detection.
+
+https://www.darktrace.com
+
+Vectra AI
+
+AI-driven network detection and response (NDR) platform.
+
+https://www.vectra.ai
+
+SentinelOne Singularity AI
+
+AI-powered endpoint detection and autonomous response.
+
+https://www.sentinelone.com
+
+Rapid7 InsightIDR
+
+AI-enhanced SIEM and threat detection platform.
+
+https://www.rapid7.com
+
+Exabeam
+
+AI-based security analytics and user behavior monitoring.
+
+https://www.exabeam.com
+
+IBM QRadar Suite
+
+AI-powered SIEM and threat intelligence platform.
+
+https://www.ibm.com/qradar
+
+Splunk AI
+
+AI-driven security monitoring and log analytics.
+
+https://www.splunk.com
+
+Securonix
+
+AI-powered threat detection and security analytics platform.
+
+https://www.securonix.com
+
+2. AI Endpoint Detection & Response (EDR)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+CrowdStrike Falcon
+
+AI-powered endpoint protection and threat hunting.
+
+https://www.crowdstrike.com
+
+SentinelOne
+
+Autonomous AI platform for endpoint security.
+
+https://www.sentinelone.com
+
+Microsoft Defender XDR
+
+AI-driven endpoint detection and response solution.
+
+https://www.microsoft.com/security
+
+VMware Carbon Black
+
+AI-powered endpoint protection platform.
+
+https://www.vmware.com/products/carbon-black.html
+
+Sophos Intercept X
+
+AI-based malware and ransomware protection.
+
+https://www.sophos.com
+
+Trellix Endpoint Security
+
+AI-powered endpoint threat detection.
+
+https://www.trellix.com
+
+Palo Alto Cortex XDR
+
+AI-driven extended detection and response platform.
+
+https://www.paloaltonetworks.com/cortex
+
+3. AI Security Information & Event Management (SIEM)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Microsoft Sentinel
+
+AI-powered cloud-native SIEM solution.
+
+https://azure.microsoft.com/products/microsoft-sentinel
+
+IBM QRadar
+
+AI-enhanced SIEM for threat detection and response.
+
+https://www.ibm.com/qradar
+
+Splunk Enterprise Security
+
+AI-powered security monitoring and analytics.
+
+https://www.splunk.com
+
+Google Security Operations
+
+AI-based cloud security operations platform.
+
+https://cloud.google.com/security
+
+Elastic Security
+
+AI-powered SIEM and endpoint security platform.
+
+https://www.elastic.co/security
+
+LogRhythm Axon
+
+AI-driven security operations platform.
+
+https://logrhythm.com
+
+Securonix SIEM
+
+AI-based user behavior analytics and threat detection.
+
+https://www.securonix.com
+
+4. AI Vulnerability Assessment & Penetration Testing
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+PentestGPT
+
+AI assistant for penetration testing and ethical hacking.
+
+https://github.com/GreyDGL/PentestGPT
+
+Horizon3.ai NodeZero
+
+AI-powered autonomous penetration testing platform.
+
+https://www.horizon3.ai
+
+Astra Pentest
+
+AI-assisted vulnerability assessment platform.
+
+https://www.getastra.com
+
+Detectify
+
+AI-powered web vulnerability scanning.
+
+https://detectify.com
+
+Intruder
+
+AI-driven cloud vulnerability scanner.
+
+https://www.intruder.io
+
+Tenable AI
+
+AI-enhanced vulnerability management platform.
+
+https://www.tenable.com
+
+Qualys VMDR
+
+AI-powered vulnerability detection and remediation.
+
+https://www.qualys.com
+
+5. AI Malware Analysis
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+VirusTotal AI
+
+AI-assisted malware detection and file analysis.
+
+https://www.virustotal.com
+
+Intezer Analyze
+
+AI-powered malware classification platform.
+
+https://intezer.com
+
+ANY.RUN
+
+Interactive AI-assisted malware sandbox.
+
+https://any.run
+
+Hybrid Analysis
+
+AI-powered malware analysis platform.
+
+https://www.hybrid-analysis.com
+
+Joe Sandbox
+
+AI-assisted malware behavior analysis.
+
+https://www.joesecurity.org
+
+Cuckoo Sandbox
+
+Open-source automated malware analysis platform.
+
+https://cuckoosandbox.org
+
+6. AI Identity & Access Management (IAM)
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Okta AI
+
+AI-powered identity and access management platform.
+
+https://www.okta.com
+
+Microsoft Entra ID
+
+AI-enhanced identity protection and access control.
+
+https://www.microsoft.com/security/business/microsoft-entra
+
+CyberArk
+
+AI-powered privileged access management solution.
+
+https://www.cyberark.com
+
+SailPoint AI
+
+AI-driven identity governance platform.
+
+https://www.sailpoint.com
+
+Ping Identity
+
+AI-powered authentication and identity security.
+
+https://www.pingidentity.com
+
+7. AI Cloud Security
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Wiz
+
+AI-powered cloud security posture management platform.
+
+https://www.wiz.io
+
+Lacework
+
+AI-driven cloud threat detection platform.
+
+https://www.lacework.com
+
+Orca Security
+
+Agentless AI cloud security platform.
+
+https://orca.security
+
+Prisma Cloud
+
+AI-powered cloud-native application protection.
+
+https://www.paloaltonetworks.com/prisma/cloud
+
+Microsoft Defender for Cloud
+
+AI-powered cloud workload protection platform.
+
+https://azure.microsoft.com/products/defender-for-cloud
+
+8. AI Digital Forensics & Incident Response
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+Magnet Axiom
+
+AI-assisted digital forensics investigation platform.
+
+https://www.magnetforensics.com
+
+Cellebrite Inspector
+
+AI-powered digital evidence analysis tool.
+
+https://cellebrite.com
+
+Velociraptor
+
+AI-assisted endpoint monitoring and digital forensics.
+
+https://docs.velociraptor.app
+
+Autopsy
+
+Open-source AI-supported digital forensic platform.
+
+https://www.autopsy.com
+
+Volatility Framework
+
+AI-assisted memory forensics and malware analysis.
+
+https://www.volatilityfoundation.org
+
+9. AI Security Research Assistants
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assistant for cybersecurity research and documentation.
+
+https://chatgpt.com
+
+Claude
+
+AI assistant for security analysis and technical writing.
+
+https://claude.ai
+
+Google Gemini
+
+Multimodal AI assistant for cybersecurity research.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI assistant for coding, scripting, and security documentation.
+
+https://copilot.microsoft.com
+
+Perplexity AI
+
+AI-powered research engine for cybersecurity topics.
+
+https://www.perplexity.ai
+
+NotebookLM
+
+AI notebook for summarizing security research papers.
+
+https://notebooklm.google.com
+
+Elicit
+
+AI literature review assistant for cybersecurity research.
+
+https://elicit.com
+
+SciSpace
+
+AI platform for understanding security publications.
+
+https://typeset.io
+
+Consensus
+
+AI-powered academic search engine.
+
+https://consensus.app
+
+ResearchRabbit
+
+AI tool for discovering cybersecurity research papers.
+
+https://www.researchrabbit.ai
+
+10. AI & Machine Learning Platforms
+
+AI Tool
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Deep learning framework for AI-powered cybersecurity applications.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework widely used for cyber threat detection.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for security analytics and anomaly detection.
+
+https://scikit-learn.org
+
+H2O.ai
+
+Automated machine learning platform for cybersecurity analytics.
+
+https://h2o.ai
+
+DataRobot
+
+Enterprise AutoML platform for predictive security models.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+Visual AI workflow platform for cybersecurity analytics.
+
+https://www.knime.com
+
+RapidMiner
+
+AI-powered predictive analytics platform.
+
+https://altair.com/rapidminer
+
+Google Vertex AI
+
+Cloud AI platform for cybersecurity model development.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI platform for developing security-focused ML models.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS platform for training and deploying cybersecurity AI models.
+
+https://aws.amazon.com/sagemaker
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/

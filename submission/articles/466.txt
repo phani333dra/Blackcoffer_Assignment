@@ -1,0 +1,505 @@
+Complete List of Warehousing & Supply Chain AI Tools & AI Software
+
+1. AI Warehouse Management Systems (WMS)
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Manhattan Active WM
+
+AI-powered warehouse management platform.
+
+https://www.manh.com
+
+SAP Extended Warehouse Management (EWM)
+
+AI optimizes warehouse operations.
+
+https://www.sap.com
+
+Oracle Warehouse Management Cloud
+
+AI automates warehouse processes.
+
+https://www.oracle.com
+
+Blue Yonder Warehouse Management
+
+AI improves warehouse productivity.
+
+https://blueyonder.com
+
+Körber Warehouse Management
+
+AI-powered warehouse optimization.
+
+https://www.koerber-supplychain.com
+
+Softeon WMS
+
+AI-driven warehouse management solution.
+
+https://www.softeon.com
+
+Tecsys Elite WMS
+
+AI supports inventory and warehouse automation.
+
+https://www.tecsys.com
+
+Infor WMS
+
+AI-powered warehouse operations management.
+
+https://www.infor.com
+
+2. AI Supply Chain Planning
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Blue Yonder Supply Chain
+
+AI predicts demand and inventory needs.
+
+https://blueyonder.com
+
+Kinaxis Maestro
+
+AI-powered supply chain orchestration.
+
+https://www.kinaxis.com
+
+o9 Solutions
+
+AI enhances planning and forecasting.
+
+https://o9solutions.com
+
+Logility
+
+AI-driven demand and inventory planning.
+
+https://www.logility.com
+
+E2open
+
+AI improves end-to-end supply chain visibility.
+
+https://www.e2open.com
+
+Coupa Supply Chain Design
+
+AI optimizes logistics networks.
+
+https://www.coupa.com
+
+3. AI Inventory Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Netstock
+
+AI forecasts inventory demand.
+
+https://www.netstock.com
+
+Slimstock
+
+AI optimizes inventory planning.
+
+https://www.slimstock.com
+
+Fishbowl Inventory
+
+AI-powered inventory management.
+
+https://www.fishbowlinventory.com
+
+Zoho Inventory
+
+AI automates inventory tracking.
+
+https://www.zoho.com/inventory
+
+Unleashed Software
+
+AI improves stock control and forecasting.
+
+https://www.unleashedsoftware.com
+
+Cin7
+
+AI manages inventory across multiple channels.
+
+https://www.cin7.com
+
+4. AI Transportation & Logistics Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Oracle Transportation Management
+
+AI optimizes freight and transportation.
+
+https://www.oracle.com/scm/logistics/transportation-management
+
+SAP Transportation Management
+
+AI automates transportation planning.
+
+https://www.sap.com
+
+MercuryGate TMS
+
+AI improves routing and freight visibility.
+
+https://mercurygate.com
+
+Descartes TMS
+
+AI-powered transportation management.
+
+https://www.descartes.com
+
+Trimble TMS
+
+AI optimizes fleet operations.
+
+https://transportation.trimble.com
+
+Samsara
+
+AI-powered fleet management and tracking.
+
+https://www.samsara.com
+
+5. AI Shipment Tracking & Visibility
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+project44
+
+AI provides real-time shipment visibility.
+
+https://www.project44.com
+
+FourKites
+
+AI tracks shipments across the supply chain.
+
+https://www.fourkites.com
+
+Shippeo
+
+AI predicts shipment arrival times.
+
+https://www.shippeo.com
+
+Everstream Analytics
+
+AI predicts supply chain risks.
+
+https://www.everstream.ai
+
+Overhaul
+
+AI monitors cargo security and logistics.
+
+https://www.over-haul.com
+
+IntelliTrans
+
+AI-powered freight tracking platform.
+
+https://www.intellitrans.com
+
+6. AI Warehouse Automation & Robotics
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+AutoStore
+
+AI-powered automated storage and retrieval.
+
+https://www.autostoresystem.com
+
+GreyOrange
+
+AI warehouse robots for fulfillment.
+
+https://www.greyorange.com
+
+Locus Robotics
+
+AI autonomous warehouse robots.
+
+https://locusrobotics.com
+
+Geek+
+
+AI-powered warehouse robotics.
+
+https://www.geekplus.com
+
+Fetch Robotics
+
+AI mobile robots for warehouse automation.
+
+https://fetchrobotics.com
+
+Swisslog SynQ
+
+AI manages warehouse automation systems.
+
+https://www.swisslog.com
+
+7. AI Predictive Maintenance & Asset Management
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+IBM Maximo
+
+AI predicts warehouse equipment maintenance.
+
+https://www.ibm.com/maximo
+
+Siemens Senseye
+
+AI-powered predictive maintenance.
+
+https://senseye.io
+
+AVEVA Predictive Analytics
+
+AI detects equipment failures early.
+
+https://www.aveva.com
+
+Aspen Mtell
+
+AI forecasts machinery failures.
+
+https://www.aspentech.com
+
+GE Vernova APM
+
+AI optimizes warehouse assets.
+
+https://www.gevernova.com
+
+Uptake
+
+AI predicts industrial equipment maintenance.
+
+https://www.uptake.com
+
+8. AI Supply Chain Analytics & Business Intelligence
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+Microsoft Power BI Copilot
+
+AI-powered supply chain dashboards.
+
+https://powerbi.microsoft.com
+
+Tableau Pulse
+
+AI-driven warehouse analytics.
+
+https://www.tableau.com
+
+Qlik Sense
+
+AI-powered supply chain intelligence.
+
+https://www.qlik.com
+
+ThoughtSpot
+
+AI search-driven logistics insights.
+
+https://www.thoughtspot.com
+
+SAS Viya
+
+AI-powered supply chain analytics.
+
+https://www.sas.com
+
+DataRobot
+
+AI predicts inventory demand.
+
+https://www.datarobot.com
+
+KNIME Analytics Platform
+
+AI workflows for supply chain analysis.
+
+https://www.knime.com
+
+Alteryx AI Platform
+
+AI automates warehouse reporting.
+
+https://www.alteryx.com
+
+9. AI Productivity & Process Automation
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+ChatGPT
+
+AI assists with warehouse documentation and planning.
+
+https://chatgpt.com
+
+Claude
+
+AI generates reports and operational documents.
+
+https://claude.ai
+
+Google Gemini
+
+AI supports logistics research and planning.
+
+https://gemini.google.com
+
+Microsoft Copilot
+
+AI automates warehouse workflows.
+
+https://copilot.microsoft.com
+
+UiPath AI Center
+
+AI automates supply chain processes.
+
+https://www.uipath.com
+
+Automation Anywhere
+
+AI-powered warehouse automation.
+
+https://www.automationanywhere.com
+
+ABBYY Vantage
+
+AI extracts logistics document data.
+
+https://www.abbyy.com
+
+Rossum
+
+AI automates invoice and shipment document processing.
+
+https://rossum.ai
+
+10. AI Machine Learning Platforms
+
+AI Tool / Software
+
+Brief Description
+
+Official Website
+
+TensorFlow
+
+Open-source AI framework for supply chain analytics.
+
+https://www.tensorflow.org
+
+PyTorch
+
+Machine learning framework for warehouse AI.
+
+https://pytorch.org
+
+Scikit-learn
+
+Machine learning library for logistics prediction.
+
+https://scikit-learn.org
+
+H2O.ai
+
+AutoML platform for inventory forecasting.
+
+https://h2o.ai
+
+Google Vertex AI
+
+Cloud AI platform for supply chain solutions.
+
+https://cloud.google.com/vertex-ai
+
+Azure Machine Learning
+
+AI model development platform.
+
+https://azure.microsoft.com/products/machine-learning
+
+Amazon SageMaker
+
+AWS AI platform for warehouse analytics.
+
+https://aws.amazon.com/sagemaker
+
+Databricks AI
+
+AI-powered supply chain analytics platform.
+
+https://www.databricks.com
+
+Dataiku
+
+Enterprise AI platform for logistics intelligence.
+
+https://www.dataiku.com
+
+Domino Data Lab
+
+MLOps platform for AI deployment.
+
+https://www.dominodatalab.com
+
+Are you looking for a team? Post your project here: https://workcroft.com/
+
+Are you looking for projects? Find projects here: https://workcroft.com/
